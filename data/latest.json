@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "date": "2026-10-30",
- "generatedAt": "2026-10-30T02:20:28.348601+00:00",
+ "date": "2026-11-02",
+ "generatedAt": "2026-11-02T15:01:58.532141+00:00",
  "timezone": "Asia/Kolkata",
  "windowHours": 48,
  "primaryWindowHours": 24,
@@ -9,19 +9,22 @@
  "localLimit": 1,
  "stories": [
   {
-   "id": "927698c982f0f5113cd1",
-   "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-   "deck": "Mistral has opened the weights of its largest model yet, pitching local control as an advantage for cyber defence and other sensitive work.",
+   "id": "4b0fc44d3a36b11e5ad6",
+   "title": "Hackers hit shop freezers in seven European countries, spoiling food worth millions",
+   "deck": "A suspected cyber-attack set supermarket refrigeration units to defrost overnight, a month after a similar attack in France.",
    "summary": [
-    "Mistral has released the weights for Mistral Large 4, a trillion-parameter model nicknamed “Le Chonk”, through Hugging Face while also offering it through the company’s API. The open-weight release means organisations can run the model on their own infrastructure or inside controlled environments, a potentially important distinction for security teams that do not want sensitive telemetry or incident data leaving their networks. Mistral is positioning that control as a practical advantage over closed models in cybersecurity, where defenders may need to tune systems for internal tools and rapidly changing threats.",
-    "The company says Large 4 can perform agentic coding and security tasks efficiently, claiming results comparable with GLM-5.3 while using 47% fewer tokens per task and a leading score among open models on an agentic coding index. Those are vendor claims, not an independent guarantee of real-world performance. Releasing capable weights also creates a familiar dual-use tension: defenders can inspect, customise and deploy the model, while malicious actors may try the same capabilities. For buyers, the notable development is therefore less a single benchmark than the option to combine frontier-scale software with on-premises governance, audit and specialised tooling."
+    "Dozens of supermarkets across seven European countries woke on Monday to refrigerators and freezers that had been quietly switched into defrost mode. Around 40 Delhaize stores in Belgium and Luxembourg were affected, along with a smaller number of shops in Sweden, Ireland, the Netherlands, Estonia and Finland. Local media reported that food worth millions of euros had to be thrown away.",
+    "Sabcobel, the Belgian firm that manufactures some of the units and runs Delhaize's systems, called it a cyber-attack. Its chief executive, Stephan Moelans, said staff had worked through the night to disconnect affected units from the network. He said the method appeared to match last month's attack on hundreds of French supermarkets. In some shops, freezer temperatures reportedly climbed as high as 50C. One Delhaize branch in Hoeilaart told a Belgian news site it had lost about €100,000 of produce.",
+    "The spread of the damage varied by chain. Carrefour said 15 of its Belgian stores were hit but stayed open. Colruyt, which franchises Spar shops, reported five affected. In Sweden, several ICA and seven of 800 Coop stores were hit. In Ireland, 13 SuperValu stores were affected, though owner Musgrave said only a specific refrigerator model was involved. Danfoss, a Danish manufacturer, told Dutch radio that at least 17 Dutch businesses were hit, mostly butchers and small neighbourhood shops.",
+    "TechCrunch reports that security researchers have tied the French incidents to internet-connected Danfoss controllers that no longer received security updates, and that the security firm Claroty warned in August that such units could be hacked remotely. Moelans said the fix needs physical changes to the units, not only software updates, and that many customers moved to a secure connection after the French attack.",
+    "Nobody has been identified as responsible. Belgium's and Sweden's national cyber-security agencies said they were monitoring the situation, and the UK's National Cyber Security Centre said it was working with partners. No incidents have been reported in the UK."
    ],
-   "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+   "url": "https://www.bbc.com/news/articles/cq1kd1nee80eo",
    "section": "technology",
    "scope": "technology",
-   "source": "TechCrunch",
-   "sourceGroup": "techcrunch",
-   "publishedAt": "2026-10-29T17:00:00+00:00",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-02T11:21:30+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -29,26 +32,33 @@
    "summaryType": "ai-article",
    "coverage": [
     {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.com/news/articles/cq1kd1nee80eo"
+    },
+    {
      "source": "TechCrunch",
      "group": "techcrunch",
-     "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+     "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/"
     }
    ]
   },
   {
-   "id": "01ac0793a1c05adf4e01",
-   "title": "Fintechs to lay out a code for technology vendors amid rising cyberthreats and security risks",
-   "deck": "India’s fintech industry body is drafting standards for the outside technology firms on which banks and lenders increasingly depend.",
+   "id": "b0bd3ad58ac6ce35032a",
+   "title": "Binance customers pull $3.6bn as exchange reopens after record hack",
+   "deck": "Withdrawals resumed in phases on Sunday while Binance says it has covered about 95% of the $6.3bn stolen.",
    "summary": [
-    "The RBI-recognised Unified Fintech Forum is developing a code for technology service providers and regulatory-technology vendors used across India’s financial sector. The proposed framework is expected to cover governance, cybersecurity preparedness, operational resilience and accountability. Banks and fintech companies now outsource a wide range of functions—from customer onboarding and KYC checks to underwriting, loan-management systems and collections—so a weakness at one vendor can expose several regulated institutions at once.",
-    "The forum’s approach could create a practical accreditation layer even if it is not a formal licence. Vendors that register, document controls and comply with the code may receive preference from banks and fintech buyers, while weaker providers would face more scrutiny. That would give regulated firms a common baseline for due diligence rather than forcing each to assess every supplier from scratch. The ultimate responsibility, however, remains with the bank or fintech using the service: outsourcing a process does not outsource regulatory accountability. The draft is significant because recent attacks have shown that third parties can be the shortest route into otherwise well-defended financial systems. Details of enforcement, audits and consequences for non-compliance will determine whether the code becomes more than a voluntary checklist."
+    "Binance, the world's largest cryptocurrency exchange, reopened withdrawals on Sunday and saw a rush for the exit. Between 06:00 and 15:30 GMT it processed $4.649bn of withdrawals against $1.01bn of deposits, a net outflow of about $3.64bn. The firm said that was just over 2% of the $171bn it holds for customers, that the initial spike had eased, and that flows were \"stabilising as expected\".",
+    "The reopening follows what is believed to be the largest hack in history. About $6.3bn of digital assets were taken from Binance's global exchange; its US-facing platform says it was not affected. The FBI said on Saturday that a North Korean group known as TraderTraitor, also called the Lazarus Group, was responsible, and published wallet addresses linked to it, asking industry partners to block transactions involving them. The same group was blamed for the $1.5bn Bybit theft in 2025.",
+    "Binance says it has replaced around 95% of the stolen assets using its corporate treasury, a futures insurance fund and emergency reserves, and that the rest are harder to buy at scale. It has promised that losses \"will not be passed on to users\". Early checks suggest the breach may have begun with a compromised laptop belonging to an engineer, the company said, and a fuller incident report will follow.",
+    "Recovery looks difficult. Alec Zebrick of the analytics firm Chainalysis, which is helping Binance and governments, said the attackers are laundering the money \"quite actively\" across thousands of addresses. TechCrunch reports the FBI believes the funds are being converted mainly into Ethereum. Binance says withdrawals for more than two dozen major coins are open, but status varies by network: Bitcoin withdrawals were still listed as partially suspended on Sunday morning. Users should expect delays."
    ],
-   "url": "https://economictimes.indiatimes.com/industry/banking/finance/fintechs-to-lay-out-a-code-for-technology-vendors-amid-rising-cyberthreats-and-security-risks/articleshow/135329528.cms",
+   "url": "https://www.bbc.com/news/articles/cwj34gdmnly4o",
    "section": "business",
    "scope": "business",
-   "source": "Economic Times",
-   "sourceGroup": "times-group",
-   "publishedAt": "2026-10-29T19:39:03+00:00",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-02T00:26:30+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -56,55 +66,35 @@
    "summaryType": "ai-article",
    "coverage": [
     {
-     "source": "Economic Times",
-     "group": "times-group",
-     "url": "https://economictimes.indiatimes.com/industry/banking/finance/fintechs-to-lay-out-a-code-for-technology-vendors-amid-rising-cyberthreats-and-security-risks/articleshow/135329528.cms"
-    }
-   ]
-  },
-  {
-   "id": "bcc00425ffe43ea980f8",
-   "title": "OnePlus Ace 7 Pro and Ace 7 Launched With 9,000mAh Battery, 200-Megapixel Rear Camera: Price, Specifications",
-   "deck": "OnePlus has launched two high-end Ace phones in China, but there is no confirmed Indian sale or discount to act on yet.",
-   "summary": [
-    "OnePlus has introduced the Ace 7 and Ace 7 Pro in China, with sales due to begin on November 3 through Oppo’s Chinese store. The Ace 7 starts at CNY 4,399 for 12GB of memory and 256GB of storage, while the Pro starts at CNY 4,799. The top Pro configuration, with 16GB and 1TB, is listed at CNY 7,299. Both phones pair a 9,000mAh battery with 100W wired charging and a 6.78-inch display capable of a 185Hz refresh rate.",
-    "The Pro model uses the newer Snapdragon 8 Elite generation and leads with a 200-megapixel main camera; exact chip and camera combinations vary by model, so the shared headline specifications should not be read as identical hardware. These are launch prices rather than verified discounts, and the phones are currently China-market products. OnePlus has not confirmed Indian availability, local warranty terms or rupee pricing. Importing would introduce tax, network-band and service risks, so there is no sensible India “deal” to recommend today. The useful signal is the specification trend: very large silicon-carbon batteries and gaming-focused high-refresh displays are moving into more flagship-tier phones without increasing charging times proportionately."
-   ],
-   "url": "https://www.gadgets360.com/mobiles/news/oneplus-ace-7-pro-price-launch-sale-date-specifications-features-12254174",
-   "section": "deals",
-   "scope": "deals",
-   "source": "Gadgets 360",
-   "sourceGroup": "ndtv",
-   "publishedAt": "2026-10-29T12:15:35+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.com/news/articles/cwj34gdmnly4o"
+    },
     {
-     "source": "Gadgets 360",
-     "group": "ndtv",
-     "url": "https://www.gadgets360.com/mobiles/news/oneplus-ace-7-pro-price-launch-sale-date-specifications-features-12254174"
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
     }
    ]
   },
   {
-   "id": "79cec0107600d9d54854",
-   "title": "Meta quietly launches an AI fashion app called Style Sketch",
-   "deck": "Meta is testing a standalone wardrobe assistant that turns Instagram posts and phone photos into a virtual closet.",
+   "id": "344dcf79744aa216bc08",
+   "title": "OpenAI reportedly cuts its fundraising target to $20bn as investors turn cautious",
+   "deck": "Reports say the AI company has secured about $11bn so far, well short of earlier ambitions.",
    "summary": [
-    "Meta has quietly released Style Sketch, an AI fashion app that connects to Instagram to identify clothing from photographs already shared there. Users can also add garments by taking a picture, recording a short video or uploading from the camera roll. The app then proposes combinations from the resulting virtual closet, can visualise them on a generated model intended to resemble the user’s body shape and skin tone, and suggests particular items to complete an outfit.",
-    "Style Sketch also offers trip-planning and weather-aware packing ideas, moving it beyond a simple image generator toward a personal inventory tool. It is available on iOS and Android in Indonesia, Singapore and Thailand; Meta has not announced a broader launch, and did not comment on its plans. The experiment fits a crowded category that includes wardrobe app Alta and image-based discovery features in Google Photos. Meta’s advantage is access—subject to user permission—to years of clothing photos already stored on Instagram, reducing the work of cataloguing a wardrobe. The harder questions will be whether recommendations remain useful after the novelty fades, how accurately the app represents different bodies, and what data boundaries Meta applies when personal images are analysed outside the main social network."
+    "OpenAI's latest funding round is reportedly falling short of what the company first hoped for. According to TechCrunch, which is relaying reports from the Financial Times and the Wall Street Journal, the company has lowered its target to $20bn. OpenAI has not confirmed the figures, and TechCrunch said it had asked the company for comment.",
+    "The target has moved a long way in a few weeks. In late September the company was reported to be seeking $30bn at a $1.4 trillion valuation. By late October the reported valuation had slipped to $1.25 trillion, with an initial public offering said to be planned. The Financial Times now says the first close will be smaller than the $20bn goal.",
+    "The Wall Street Journal reported that OpenAI has secured roughly $11bn so far, less than half of the original $30bn, and that some large investors responded with a \"tepid\" reception. The Financial Times says investors from the United Arab Emirates are leading the round, and that a later offering to wealthy individuals could lift the total to $20bn.",
+    "TechCrunch ties the softer demand partly to timing. Wall Street has grown wary of heavy spending on AI infrastructure, which has contributed to a sell-off in technology shares, and Anthropic's planned public listing may also face difficulties. For readers, the main point is that the reported numbers come from secondary accounts of private negotiations and could change before any round closes."
    ],
-   "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
    "section": "technology",
    "scope": "technology",
    "source": "TechCrunch",
    "sourceGroup": "techcrunch",
-   "publishedAt": "2026-10-29T19:14:36+00:00",
+   "publishedAt": "2026-10-31T16:12:55+00:00",
    "timestampType": "published",
-   "older": false,
+   "older": true,
    "updated": false,
    "kind": "news",
    "summaryType": "ai-article",
@@ -112,26 +102,29 @@
     {
      "source": "TechCrunch",
      "group": "techcrunch",
-     "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
+     "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
     }
    ]
   },
   {
-   "id": "06fa0e4540548db09e4e",
-   "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-   "deck": "Dream is training a construction-specific world model on American building records, with a16z leading its $17 million seed round.",
+   "id": "89c6cb6d297171130673",
+   "title": "Apple's new chief says the company won't \"ship AI for AI's sake\"",
+   "deck": "John Ternus defended Apple's measured pace on artificial intelligence in an interview with Wired.",
    "summary": [
-    "Former Palantir executives Andy Elder and Arjun Mathur have launched Dream, a construction-technology startup backed by a $17 million seed round led by Andreessen Horowitz, with SV Angel, XYZ Venture Capital and Zigg Capital also participating. The company says it has trained a “world model” on permit archives covering more than 100 million square feet of US buildings. Rather than merely drawing floor plans, the system is intended to reason about structure, building codes, materials, loads, plumbing and HVAC together.",
-    "Dream’s initial pitch is that a developer can move from a concept to a coordinated whole-building design and cost estimate much faster than in today’s fragmented workflow. The startup says it is working on ten projects in Texas and California. That is promising evidence of use, but not yet independent proof that instant designs survive engineering review, local permitting and construction without costly revisions. Buildings are safety-critical and each jurisdiction has different codes, so licensed architects and engineers will still need to validate outputs. The more immediate opportunity may be helping teams compare early options, catch coordination problems and estimate costs before committing to detailed design. Dream’s Palantir heritage also points to a data-integration approach: joining disconnected drawings, rules and project records may matter as much as the underlying generative model."
+    "Apple's chief executive, John Ternus, has pushed back on the idea that the company is behind in artificial intelligence. In an interview with Wired's Steven Levy, reported by TechCrunch, he said \"everyone has an opinion\" about Apple's position, but \"I really like where we're at.\"",
+    "The context matters. Apple has often been described as lagging in AI over the past couple of years, and it delayed a more powerful version of Siri that finally launched this summer, on 3 August. Ternus, a longtime Apple executive, took over as chief executive at the start of September.",
+    "He insisted that Apple will use AI heavily in new products. \"We don't want to ship AI for AI's sake,\" he said. \"When we're doing it right, people won't have to think about whether it was AI that made this happen or more traditional software. What matters is, did we build something that they really love?\"",
+    "Asked whether AI agents could change Apple's ecosystem more sharply, perhaps by making apps unnecessary, Ternus conceded that this \"could make life really easy, I suppose\". He added that creating products \"is a deeply human and personal thing, something that we love to do.\"",
+    "These are the executive's own statements, not independent assessments of Apple's AI progress. They suggest the company intends to keep AI in the background rather than market it as a headline feature."
    ],
-   "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+   "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
    "section": "technology",
    "scope": "technology",
    "source": "TechCrunch",
    "sourceGroup": "techcrunch",
-   "publishedAt": "2026-10-29T16:21:00+00:00",
+   "publishedAt": "2026-10-31T21:41:00+00:00",
    "timestampType": "published",
-   "older": false,
+   "older": true,
    "updated": false,
    "kind": "news",
    "summaryType": "ai-article",
@@ -139,267 +132,26 @@
     {
      "source": "TechCrunch",
      "group": "techcrunch",
-     "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
+     "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
     }
    ]
   },
   {
-   "id": "a888836bd8b4c3e89287",
-   "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-   "deck": "A University of Kentucky administrator received a Humanist accommodation limiting AI use, an unusual test of workplace belief protections.",
+   "id": "c945bd400d85d28985c9",
+   "title": "Shah and the opposition trade charges over India's voter-roll revision",
+   "deck": "A mass Delhi rally demanded the election chief's resignation; the home minister answered with claims about \"infiltrators\" that the reporting does not independently verify.",
    "summary": [
-    "David Durman, an administrator at the University of Kentucky, has received a workplace accommodation allowing him to avoid using generative AI when it conflicts with his sincerely held Humanist beliefs. Durman, who is nontheistic, argued that reliance on the technology can undermine human agency, critical thought, creativity and livelihoods, and raised environmental concerns. The American Humanist Association assisted him and describes the matter as the first publicly known Humanist accommodation of this kind.",
-    "The agreement is narrower than a general right to reject workplace technology. The university considered the request individually, and Durman must still complete the essential duties of his job. He sought the accommodation before AI use had become mandatory, and the arrangement can be revisited if his role or the tools change. Under US employment law, religious protections can include non-theistic moral and ethical systems, but every case turns on the person’s belief, job requirements and whether accommodation creates undue hardship. The result therefore should not be treated as a universal precedent or legal advice. Its broader significance is managerial: as organisations push AI into routine workflows, they may face objections grounded not only in privacy and accuracy but also in conscience. Clear task-level policies and genuine alternatives could prevent those disputes from becoming all-or-nothing battles."
+    "India's dispute over the Special Intensive Revision (SIR) of electoral rolls sharpened this weekend. On Sunday, tens of thousands of supporters of the opposition INDIA bloc gathered at Ramlila Maidan in Delhi, chanting \"Save the vote, save the country\". Congress leaders Sonia Gandhi, Mallikarjun Kharge and Rahul Gandhi were joined by Mamata Banerjee, Akhilesh Yadav, Mehbooba Mufti and others. Kharge said the campaign would continue until Chief Election Commissioner Gyanesh Kumar resigns.",
+    "The BBC reports that more than 130 million names have been removed from draft rolls. The Election Commission says the exercise removes duplicates and people who have died, moved or are ineligible, and that wrongly excluded voters can seek restoration. The opposition says eligible voters are being deleted to help the BJP. The BJP and the Commission deny that. JP Nadda called the rally a \"calculated conspiracy to plunge the nation into anarchy\".",
+    "On Monday at a Hyderabad rally, Home Minister Amit Shah, according to the Indian Express, said the rally aimed to protect \"infiltrators\" and claimed three crore deleted entries were Bangladeshi infiltrators who \"never existed\". He called Rahul Gandhi's figure of 13 crore deletions a lie, saying 6.15 crore people had moved, 2.8 to 3 crore had died and one crore were duplicates. He challenged Gandhi to a special parliamentary session on SIR, infiltrators and EVMs.",
+    "These are political claims. The reports do not independently confirm the \"infiltrator\" figures, and the numbers offered by each side do not reconcile. The Indian Express reported in September that Kumar made key decisions over objections from two fellow commissioners, which the Commission said did not affect its functioning."
    ],
-   "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-   "section": "technology",
-   "scope": "technology",
-   "source": "TechCrunch",
-   "sourceGroup": "techcrunch",
-   "publishedAt": "2026-10-30T01:20:48+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "TechCrunch",
-     "group": "techcrunch",
-     "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
-    }
-   ]
-  },
-  {
-   "id": "b35042356bf7a80acb00",
-   "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-   "deck": "Reddit will test a more logged-in product as search referrals weaken, balancing data protection against the openness that helped it grow.",
-   "summary": [
-    "Reddit says it will increasingly steer visitors toward a logged-in experience after a sharp change in search referrals. Global daily active unique users were 130.3 million in the third quarter, roughly flat sequentially, while US users slipped from 53.2 million to 50.7 million and were 2% lower than a year earlier. Search-driven visits fell by more than one million a week in October, and Reddit warned that daily users could decline by a low-double-digit percentage next quarter if the pattern persists.",
-    "The business itself remains strong: quarterly revenue rose 53% to $895 million, net income increased 74% to $283 million, and advertising produced $847 million. US average revenue per daily user climbed 53% to $13.82. Requiring more accounts could improve ad targeting, retention and protections against automated scraping, while strengthening Reddit’s bargaining position in data-licensing deals with AI companies. The company plans initial tests outside the US in the fourth quarter and says anonymous or incognito browsing will remain possible; it has not set a global deadline. The risk is strategic: public, searchable discussions made Reddit unusually useful both to people and to search engines. Adding friction could deepen engagement among members but reduce discovery by casual readers, especially while AI-generated search answers already divert clicks from publishers and forums."
-   ],
-   "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-   "section": "technology",
-   "scope": "technology",
-   "source": "TechCrunch",
-   "sourceGroup": "techcrunch",
-   "publishedAt": "2026-10-29T20:08:31+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "TechCrunch",
-     "group": "techcrunch",
-     "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
-    }
-   ]
-  },
-  {
-   "id": "f3117e1d89a120caf342",
-   "title": "Rivian expands joint venture with VW to include AI assistant",
-   "deck": "Rivian and Volkswagen are extending their $5.8 billion software partnership to include components of Rivian’s in-car AI assistant.",
-   "summary": [
-    "Rivian will license elements of its in-vehicle AI assistant to Volkswagen under an expansion of their joint venture, whose original purpose was to develop common electrical and software architecture. The companies did not disclose commercial terms, which models will use the system or when it will arrive. Volkswagen’s compact ID. EVERY1 has been mentioned as a possible early beneficiary, but that remains unconfirmed.",
-    "Rivian introduced the assistant for the R1S and R1T in May and expanded it with the R2 in October. Its agent framework interprets a request and routes it to the relevant vehicle function, with the possibility of using specialised third-party agents later. This is different from simply placing a general chatbot on the dashboard: a useful automotive assistant needs reliable access to navigation, charging, climate and vehicle-status systems, and must fail safely. The $5.8 billion Rivian–VW venture, announced in 2024, already shares the less visible architecture that makes those functions possible. Rivian says its vertically integrated design reduced the number of electronic control units in its vehicles from 17 to seven. If VW adopts the assistant, the deal would turn Rivian’s software from a feature of its own comparatively small fleet into a platform component that could reach mass-market cars—provided the partners solve localisation, privacy and safety validation."
-   ],
-   "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-   "section": "technology",
-   "scope": "technology",
-   "source": "TechCrunch",
-   "sourceGroup": "techcrunch",
-   "publishedAt": "2026-10-29T20:05:47+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "TechCrunch",
-     "group": "techcrunch",
-     "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/"
-    }
-   ]
-  },
-  {
-   "id": "5229178591e013ae66fa",
-   "title": "OpenAI-backed Thrive Holdings acquires ADT",
-   "deck": "Thrive’s AI-focused holding company is buying US security provider ADT in a $15.3 billion enterprise-value transaction.",
-   "summary": [
-    "Thrive Holdings has agreed to acquire ADT for $10 a share, valuing the home-security company’s equity at about $7.6 billion and the transaction at roughly $15.3 billion including debt. Thrive Holdings was spun out of Thrive Capital and is backed by and partnered with OpenAI. It already owns more than 75 businesses and says it uses OpenAI models and forward-deployed engineers to modernise their operations.",
-    "ADT gives the group a large installed base in monitored security and smart-home services, but the announcement does not yet specify new AI products, pricing changes or a rollout timetable. That distinction matters: an AI affiliation alone does not establish that cameras or alarms will gain useful features, and any analysis of household sensor data raises substantial privacy and false-alert risks. ADT is expected to continue existing partnerships with Apple and Google rather than replace them immediately. The transaction illustrates the growing “buy and transform” model for deploying AI: instead of selling software to an incumbent, an investor acquires the operating company and embeds technical teams throughout it. The potential upside is faster integration across customer support, installation and monitoring. The risks include leverage, execution and the temptation to automate safety-sensitive decisions before accuracy and human escalation are proven."
-   ],
-   "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-   "section": "technology",
-   "scope": "technology",
-   "source": "TechCrunch",
-   "sourceGroup": "techcrunch",
-   "publishedAt": "2026-10-29T19:56:19+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "TechCrunch",
-     "group": "techcrunch",
-     "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
-    }
-   ]
-  },
-  {
-   "id": "9bd384d0e4ef0c07f9b6",
-   "title": "India, Volkswagen clash in court over record $1.2 billion tax dispute",
-   "deck": "Volkswagen is challenging India’s $1.2 billion customs demand, arguing that officials reached too far back and misclassified component imports.",
-   "summary": [
-    "Volkswagen and the Indian government have clashed in court over a customs case that could cost the carmaker about $1.2 billion. Authorities allege that Volkswagen’s Indian operation imported vehicles as separate component shipments and paid duties of roughly 5% to 15%, when the packages should have been treated as nearly complete unassembled vehicles subject to rates of about 30% to 35%. Volkswagen disputes both the characterisation and the process.",
-    "The company argues that the demand reaches years beyond the normal five-year lookback and that it had disclosed its import arrangements. The government says information was not provided in time and has alleged misconduct; those claims remain contested and have not been finally decided. The case is important beyond the tax bill. Volkswagen holds only about 2% of India’s passenger-vehicle market and has been discussing a possible investment by JSW in its local business, so a large unresolved liability complicates strategic decisions. It also tests how India applies customs rules to global manufacturing systems in which components arrive from multiple suppliers at different times. The next hearing was scheduled for Tuesday. Until the court rules, neither the government’s demand nor Volkswagen’s limitation defence should be treated as settled, and investors should distinguish the headline exposure from any amount ultimately payable."
-   ],
-   "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/india-volkswagen-clash-in-court-over-record-1-2-billion-tax-dispute/articleshow/135326272.cms",
-   "section": "business",
-   "scope": "business",
-   "source": "Economic Times",
-   "sourceGroup": "times-group",
-   "publishedAt": "2026-10-29T18:01:32+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "Economic Times",
-     "group": "times-group",
-     "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/india-volkswagen-clash-in-court-over-record-1-2-billion-tax-dispute/articleshow/135326272.cms"
-    }
-   ]
-  },
-  {
-   "id": "5d83879efa4167cd6a51",
-   "title": "36 trains cancelled, 30 diverted as Cyclone Arnab disrupts services on Howrah-Chennai route",
-   "deck": "Heavy rain from Cyclone Arnab forced widespread rail changes on the Howrah–Chennai corridor on Thursday; travellers should recheck current status.",
-   "summary": [
-    "Rail services on the Howrah–Chennai route were heavily disrupted on Thursday after Cyclone Arnab brought extreme rain to southern Odisha. The Bahuda river rose above danger level near two bridges in Ganjam district after the area received about 550mm of rain. Railways cancelled 36 trains, diverted 30 and regulated or rescheduled eight while engineers inspected the affected section around Ichchapuram and Jhadupudi.",
-    "The changes affected long-distance and regional services, including the Bhubaneswar–Visakhapatnam Vande Bharat and several trains using the east-coast trunk line. Railway officials said services would be restored only after water levels receded and the track and bridges were judged safe. Odisha authorities were coordinating short-distance road transport where possible. This briefing records Thursday’s disruption, not a live promise about Friday operations: cyclone conditions and restoration decisions can change quickly. Anyone travelling should use the train number in the official Indian Railways enquiry system or contact the operator before leaving, rather than relying on the original cancellation list. The episode also shows why a single flooded segment has national consequences. The Howrah–Chennai corridor carries passenger and freight traffic across eastern India, so diversions can propagate delays far beyond the district directly hit by the storm."
-   ],
-   "url": "https://economictimes.indiatimes.com/industry/transportation/railways/36-trains-cancelled-30-diverted-as-cyclone-arnab-disrupts-services-on-howrah-chennai-route/articleshow/135324311.cms",
-   "section": "business",
-   "scope": "business",
-   "source": "Economic Times",
-   "sourceGroup": "times-group",
-   "publishedAt": "2026-10-29T17:08:04+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "Economic Times",
-     "group": "times-group",
-     "url": "https://economictimes.indiatimes.com/industry/transportation/railways/36-trains-cancelled-30-diverted-as-cyclone-arnab-disrupts-services-on-howrah-chennai-route/articleshow/135324311.cms"
-    }
-   ]
-  },
-  {
-   "id": "530fb705e5efc5bd31a5",
-   "title": "IDBI Bank employees' forum opposes majority stake sale to Fairfax, seeks parliamentary review",
-   "deck": "An IDBI Bank employee group wants Parliament to review the proposed Fairfax takeover, citing valuation, jobs and public-interest concerns.",
-   "summary": [
-    "The IDBI Bank employees’ forum has asked the government to suspend and subject to parliamentary review the planned sale of a 60.72% stake to Fairfax Financial Holdings. The government approved the transaction on October 14 at about ₹81 a share, valuing the stake near ₹53,000 crore, or $5.5 billion. The sale combines the Centre’s 30.48% holding and 30.24% held by Life Insurance Corporation, and is intended to close by the end of the financial year, subject to regulatory approvals.",
-    "The forum is seeking disclosure of the valuation work, the proposed ownership structure and Fairfax’s regulatory record. It points to an independent fair-value figure of ₹75.99 a share but argues that price alone does not answer questions about employment, reservation policies and financial inclusion. IDBI has 19,108 employees, including about 9,500 from Scheduled Caste, Scheduled Tribe and Other Backward Class categories, according to the group. These are objections from employees, not findings that the process is improper. The government has long presented privatisation as a way to raise capital and reduce its role in commercial banking, while critics recall earlier assurances about retaining control. The useful next markers are Reserve Bank approval, the final shareholder documentation and any binding protections for staff and branch access—not the competing political claims on their own."
-   ],
-   "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/idbi-bank-employees-forum-opposes-majority-stake-sale-to-fairfax-seeks-parliamentary-review/articleshow/135319447.cms",
-   "section": "business",
-   "scope": "business",
-   "source": "Economic Times",
-   "sourceGroup": "times-group",
-   "publishedAt": "2026-10-29T14:24:52+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "Economic Times",
-     "group": "times-group",
-     "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/idbi-bank-employees-forum-opposes-majority-stake-sale-to-fairfax-seeks-parliamentary-review/articleshow/135319447.cms"
-    }
-   ]
-  },
-  {
-   "id": "324ba127baeaae85ce69",
-   "title": "Godrej Consumer bets on new categories amid commodity inflation",
-   "deck": "Godrej Consumer is entering adjacent household and beauty categories while higher input costs put pressure on established products.",
-   "summary": [
-    "Godrej Consumer Products is expanding into new categories with Zap stain remover, Rizz liquid dishwash and Hair Lab, a no-mix shampoo-format premium hair colour. Rizz is initially being rolled out in selected western and southern markets, while the new launches give the company additional routes to growth as commodity inflation raises production costs and prompts price increases in older categories.",
-    "The latest quarter shows why the strategy matters. Standalone home-care revenue rose 19% to ₹1,329 crore and personal care grew 8% to ₹1,303 crore. Indonesia advanced 20%, while Africa, the US and the Middle East together grew 40%. Consolidated revenue increased 19% to ₹4,413.09 crore, profit after tax rose 13.8% to ₹522.92 crore and EBITDA gained 12% to ₹820 crore. Revenue is growing faster than operating profit, consistent with input-cost and mix pressure. The new products also move Godrej into competitive shelves already occupied by specialist brands and larger consumer-goods rivals, so distribution and repeat purchase will matter more than launch buzz. Hair colour may offer premium margins; dishwash and stain remover can add household frequency. Investors should watch whether the launches expand the market or merely require heavier advertising and discounts to take share."
-   ],
-   "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/godrej-consumer-expands-into-new-categories-with-innovative-products-amid-rising-commodity-prices/articleshow/135313692.cms",
-   "section": "business",
-   "scope": "business",
-   "source": "Economic Times",
-   "sourceGroup": "times-group",
-   "publishedAt": "2026-10-29T12:50:30+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "Economic Times",
-     "group": "times-group",
-     "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/godrej-consumer-expands-into-new-categories-with-innovative-products-amid-rising-commodity-prices/articleshow/135313692.cms"
-    }
-   ]
-  },
-  {
-   "id": "863c3bb8c8245960e4ce",
-   "title": "Samsung W27 Launched With 8-Inch Foldable Display, Premium Two-Tone Design: Price, Specifications",
-   "deck": "Samsung’s luxury W27 foldable is on sale only in China; its high price and absent Indian warranty make it a product note, not a deal.",
-   "summary": [
-    "Samsung has launched the W27 in China, a premium two-tone foldable based on the Galaxy Z Fold 8 Ultra. It costs CNY 18,999 with 16GB of memory and 512GB of storage, or CNY 21,999 for 16GB and 1TB, with sales scheduled for November 13. Hardware includes an 8-inch inner display, a 6.5-inch cover screen, refresh rates up to 120Hz and Qualcomm’s Snapdragon 8 Elite Gen 5 platform.",
-    "The camera system is led by a 200-megapixel sensor alongside 50-megapixel and 10-megapixel cameras. A 5,000mAh battery supports 45W wired and 20W wireless charging, and the device weighs 215g. The W line is designed as a China-market luxury variant, so decorative materials and bundled services are part of the positioning as much as raw specifications. These are official launch prices, not verified discounts, and Samsung has not announced an Indian W27 release, rupee price or local warranty. Importing such an expensive foldable would expose a buyer to tax, radio-band and repair complications. Indian shoppers interested in the form factor should compare officially supported Galaxy Fold models rather than treating currency conversion as a bargain. The W27 is mainly a preview of how Samsung is packaging its newest foldable hardware at the very top of the market."
-   ],
-   "url": "https://www.gadgets360.com/mobiles/news/samsung-w27-price-launch-sale-date-specifications-features-12253584",
-   "section": "deals",
-   "scope": "deals",
-   "source": "Gadgets 360",
-   "sourceGroup": "ndtv",
-   "publishedAt": "2026-10-29T10:40:36+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "Gadgets 360",
-     "group": "ndtv",
-     "url": "https://www.gadgets360.com/mobiles/news/samsung-w27-price-launch-sale-date-specifications-features-12253584"
-    }
-   ]
-  },
-  {
-   "id": "7c7eb157253485fa446e",
-   "title": "Election Commission extends final-roll and claims deadlines in six SIR states",
-   "deck": "After a Supreme Court nudge, election officials have given voters more time to challenge exclusions and seek corrections in six states.",
-   "summary": [
-    "The Election Commission has revised the Special Intensive Revision timetable in Delhi, Maharashtra, Haryana, Andhra Pradesh, Telangana and Nagaland. Delhi voters now have until November 25 to file claims and objections; those submissions are to be disposed of by December 15, with the final roll published on December 22. Delhi’s earlier filing deadline was October 30 and the final roll had been due on December 4.",
-    "For the other five states, final publication has been moved to November 30. The change came a day after the Supreme Court asked the Commission to consider more time for voters to challenge the draft lists. The scale in Delhi explains the urgency: 47.56 lakh electors were excluded from the draft roll published on August 31, while 2,75,856 Form 6 applications seeking inclusion had been received by October 28. Form 7 covers deletion requests and Form 8 corrections or changes. An extension does not resolve the underlying disputes over the revision, but it gives affected voters a wider procedural window. Anyone missing from a draft roll should use official election portals or local electoral officers rather than assuming the final list will correct itself. The key accountability test is whether claims are processed transparently and before the new publication dates."
-   ],
-   "url": "https://indianexpress.com/article/india/day-after-supreme-court-nudge-deadline-extended-for-final-sir-rolls-filing-claims-in-6-states-10942634/",
+   "url": "https://indianexpress.com/article/india/amit-shah-sir-remarks-infiltrators-voter-rolls-india-bloc-rally-congress-rahul-gandhi-10947654/",
    "section": "world",
    "scope": "india",
-   "source": "The Indian Express",
+   "source": "Indian Express",
    "sourceGroup": "indian-express",
-   "publishedAt": "2026-10-30T05:08:00+05:30",
+   "publishedAt": "2026-11-02T14:12:50+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -407,26 +159,150 @@
    "summaryType": "ai-article",
    "coverage": [
     {
-     "source": "The Indian Express",
+     "source": "Indian Express",
      "group": "indian-express",
-     "url": "https://indianexpress.com/article/india/day-after-supreme-court-nudge-deadline-extended-for-final-sir-rolls-filing-claims-in-6-states-10942634/"
+     "url": "https://indianexpress.com/article/india/amit-shah-sir-remarks-infiltrators-voter-rolls-india-bloc-rally-congress-rahul-gandhi-10947654/"
+    },
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.com/news/articles/c60qk92dvlwgo"
     }
    ]
   },
   {
-   "id": "8b1d66e51bb1e5c361ff",
-   "title": "JD Vance letter opens a narrow channel for US–Iran diplomacy",
-   "deck": "A personal message from the US vice-president has revived talks, but the sides remain far apart on uranium, sanctions and guarantees.",
+   "id": "fef0e6f59f48039b2cc5",
+   "title": "Cyclone Murasu nears Andhra coast as Odisha and Tamil Nadu move teams",
+   "deck": "Landfall is expected between Nellore and Narasapur around midnight, the second eastern-coast cyclone in a week.",
    "summary": [
-    "A personal letter from US Vice-President JD Vance to Iranian security official Mohsen Rezaei has opened a narrow diplomatic route as Washington and Tehran try to avoid another round of conflict after the US midterm elections. The US is seeking early, specific steps to remove or neutralise Iran’s highly enriched uranium, linked to sanctions relief and reopening the Strait of Hormuz within seven days.",
-    "Iran objects to making irreversible nuclear concessions in exchange for measures it believes Washington could reverse, and remains wary of restoring UN inspections after an earlier agreement collapsed. Tehran has offered to blend down its uranium stockpile and says progress requires agreement on seven conditions, including sanctions relief and an end to fighting on all fronts, including Lebanon. China has been discussed as a possible guarantor. Vance’s direct involvement indicates that diplomacy is still active, but Iran questions whether he can ensure US implementation. The stakes are high: reported US planning includes targets previously considered off limits, while Iran has prepared possible retaliation against Gulf infrastructure. Senator Chris Murphy has publicly warned against escalation. None of the proposals amounts to a deal, and the report relies on diplomatic positioning that may change. The practical signal is that both sides are still testing terms before military options close the channel."
+    "Less than a week after Cyclone Arnab, a second storm is bearing down on India's eastern coast. According to the India Meteorological Department, severe cyclonic storm Murasu was moving at 14 km/h and sat about 110 km from Nellore on Monday. It is expected to cross the south Andhra Pradesh coast between Nellore and Narasapur, south of Ongole, between about 11:30 pm Monday and 4 am Tuesday, with winds of 100 to 110 km/h and gusts up to 120 km/h.",
+    "Extremely heavy rain is likely at one or two places in Bapatla, Prakasam, Nellore, Chittoor and Tirupati districts. Officials told Chief Minister Chandrababu Naidu that Palnadu could see about 30 cm, Prakasam 24 cm and Markapuram 19 cm. Naidu told officials to prevent loss of life and property, use the rain to fill tanks and reservoirs, and finish post-cyclone restoration within 48 hours. Schools have closed in parts of Andhra Pradesh and Odisha.",
+    "Odisha has put southern districts on high alert. Disaster Management Minister Suresh Pujari said evacuations from low-lying areas had begun in Ganjam, Gajapati and Kandhamal, and that more than 300 rescue teams from the NDRF, ODRAF and fire service were pre-positioned. Tamil Nadu is sending 500 electricity workers in 25 teams after Naidu asked Chief Minister C Joseph Vijay for help with damaged power poles. Three NDRF teams of 90 personnel have been deployed from Arakkonam.",
+    "West Bengal has no warning but may see light rain on 3 and 4 November. The figures above are forecasts and official statements from Monday afternoon and may change as the storm moves."
    ],
-   "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
+   "url": "https://indianexpress.com/article/india/cyclone-murasu-andhra-pradesh-landfall-odisha-rescue-teams-10947454/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-02T12:01:18+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/cyclone-murasu-andhra-pradesh-landfall-odisha-rescue-teams-10947454/"
+    }
+   ]
+  },
+  {
+   "id": "adcddf30aed56ae3271d",
+   "title": "India signs ₹53,866 crore deals for eight Navy-designed corvettes",
+   "deck": "Garden Reach and Goa Shipyard will build the ships, in a project the defence ministry calls a milestone for indigenous warship design.",
+   "summary": [
+    "The Ministry of Defence on Monday signed contracts worth ₹53,866.50 crore for eight next-generation corvettes for the Indian Navy. Defence Secretary Rajesh Kumar Singh was present for the signing in New Delhi. The Cabinet Committee on Security had cleared the project days earlier.",
+    "Garden Reach Shipbuilders and Engineers Limited will build five of the ships and Goa Shipyard Limited the remaining three. The ministry says it is the first project in which ships designed by the Indian Navy itself will be built by defence public-sector companies chosen through a competitive process. The corvettes will complement the Navy's four existing Kamorta-class corvettes.",
+    "According to the ministry, the vessels will carry advanced missiles, weapons and sensors for operations in the air, on the surface and below it. It lists their roles as anti-submarine warfare, maritime surveillance and reconnaissance, search-and-attack missions, coastal and littoral defence, and protecting trade routes.",
+    "Defence Minister Rajnath Singh said on X that construction would generate roughly 72 lakh person-days of work in shipyards and 460 lakh person-days in supplier industries and small firms over ten years. The ministry says the order will strengthen cooperation between public shipyards, private yards and industrial partners.",
+    "The Defence Acquisition Council first approved the need for the project in June 2022 at an estimated cost of about ₹36,000 crore. The final contract value is therefore well above that early estimate. These are the ministry's own claims about capability and employment, and they have not been independently assessed."
+   ],
+   "url": "https://indianexpress.com/article/india/next-generation-corvettes-for-navy-contracts-signed-10947129/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-02T08:18:48+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/next-generation-corvettes-for-navy-contracts-signed-10947129/"
+    }
+   ]
+  },
+  {
+   "id": "cce86925b0f5c8182b04",
+   "title": "New rules let the Centre direct airfares in \"extraordinary\" situations",
+   "deck": "The aviation rules also require airlines to file tariffs and show a full fare breakdown, but stop short of a price cap.",
+   "summary": [
+    "The government can now issue written directions to airlines on fares when it judges that the public interest requires it. The power sits in new rules under the Bharatiya Vayuyan Adhiniyam, 2024, which were notified on the e-Gazette on 31 October. The Hindu describes the framework as one of enhanced monitoring and transparency rather than a fare cap.",
+    "The rules require airlines to submit tariffs to the Director General of Civil Aviation in the form, manner and intervals the regulator specifies, and to publish them on their websites or other platforms the DGCA names. Fares shown on booking sites and tickets must state the total payable, with a breakdown of base fare, taxes, fees, cancellation charges and refund conditions.",
+    "Intervention is not new. The Centre imposed fare bands during the Covid-19 pandemic and after IndiGo's operational breakdown last December, when nearly 5,000 flights were cancelled. It has also informally urged restraint during the Kumbh Mela, after the Pahalgam attacks and during natural disasters such as the Kerala floods. Airlines were already expected to file fare data under a 2010 circular.",
+    "The official position remains that airfares are market-driven, following the repeal of the Air Corporations Act in March 1994. The Hindu notes a public-interest petition by activist S. Laxminarayan seeking binding norms against arbitrary fares and add-on charges at festival times and in emergencies. The new rules do not define \"extraordinary situations\", so how often the power is used will depend on future decisions."
+   ],
+   "url": "https://www.thehindu.com/news/national/article71657063.ece",
+   "section": "business",
+   "scope": "india",
+   "source": "The Hindu",
+   "sourceGroup": "the-hindu",
+   "publishedAt": "2026-11-02T14:37:07+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/national/article71657063.ece"
+    }
+   ]
+  },
+  {
+   "id": "a42b3ec15bdc9394798d",
+   "title": "Delhi air turns \"very poor\" at AQI 324; Stage-II GRAP invoked across NCR",
+   "deck": "The pollution regulator tightened curbs after air quality worsened sharply in two days.",
+   "summary": [
+    "Delhi's air has deteriorated quickly. The Hindu reports that the city's air quality index rose from 117, in the \"moderate\" band, on 31 October to 261 (\"poor\") on 1 November and then to 324 on Monday, which falls in the \"very poor\" category of 301 to 400. The Central Pollution Control Board labels 401 to 500 \"severe\".",
+    "In response, the Commission for Air Quality Management's sub-committee on the Graded Response Action Plan invoked Stage-II across the National Capital Region on Monday. It cited unfavourable weather and forecasts from the India Meteorological Department and the Indian Institute of Tropical Meteorology. The commission ordered every agency in the region to implement Stage-II actions \"with immediate effect in right earnest\", in addition to the Stage-I measures already in force.",
+    "Stage-II tells NCR state governments to raise parking fees to discourage private vehicle use. The Delhi government and neighbouring states must stagger office timings for public bodies and municipal agencies in Delhi, Gurugram, Faridabad, Ghaziabad and Gautam Buddha Nagar. Existing measures such as mechanical road sweeping and water sprinkling must be applied more strictly.",
+    "Weather figures from Monday show a maximum of 29.5C at Safdarjung, one degree below normal, and a minimum of 16.4C, 1.1 degrees above normal. No rain was recorded at any station in the 24 hours to 5:30 pm. The reports do not say when conditions are expected to improve."
+   ],
+   "url": "https://www.thehindu.com/news/national/article71657232.ece",
+   "section": "world",
+   "scope": "india",
+   "source": "The Hindu",
+   "sourceGroup": "the-hindu",
+   "publishedAt": "2026-11-02T13:58:05+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/national/article71657232.ece"
+    }
+   ]
+  },
+  {
+   "id": "4ae250c6740ac8542fce",
+   "title": "Ukrainian and Russian alert apps hacked to send fake nuclear warnings",
+   "deck": "Both countries say their emergency apps were compromised on Sunday night; officials say there was no real threat.",
+   "summary": [
+    "Ukraine and Russia both said on Sunday night that their emergency alert apps had been hacked and used to send false warnings, including of nuclear attack. Ukraine's Air Alert app, supported by the Ministry of Digital Transformation, pushed red-level air-raid warnings across the country shortly before 23:00 local time. Messages claimed a radiation threat in Kyiv, a chemical-attack risk and street fighting, one reading \"it's Oreshnik flying\", a reference to a Russian intermediate-range missile.",
+    "Ukrainian officials moved quickly to reassure the public. \"There is no radiation threat! Stay calm,\" the app's Telegram channel said. All-clear messages followed around 23:53. The ministry said the app had \"apparently been compromised\" and was temporarily disabled. Oleksandr Merezhko, who chairs parliament's foreign affairs committee, said the attack caused no panic, partly because the message was in Russian, which aroused suspicion, and because Kyiv residents are used to constant alerts.",
+    "Hours later, Russia's emergencies ministry said its own app had suffered \"a massive cyberattack\" that sent fake information to the public. It said the incident could not affect the national alert system, which uses sirens, loudspeakers, texts, television and radio. Ukrainian media, citing the partisan group Atesh, reported that the Russian-side messages falsely warned of nuclear strikes. The BBC could not independently verify who carried out either attack.",
+    "Herbert Lin of Stanford University said it was likely the first such hack of an official Ukrainian information app and \"I suspect it won't be the last\". The alerts came minutes before a local ceasefire in the Kherson region, meant to let civilians leave Oleshky, expired at 23:00."
+   ],
+   "url": "https://www.bbc.com/news/articles/c51kdy1ew7zvo",
    "section": "world",
    "scope": "world",
-   "source": "The Guardian",
-   "sourceGroup": "guardian",
-   "publishedAt": "2026-10-29T15:32:00-04:00",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-01T22:28:04+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -434,26 +310,144 @@
    "summaryType": "ai-article",
    "coverage": [
     {
-     "source": "The Guardian",
-     "group": "guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran"
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.com/news/articles/c51kdy1ew7zvo"
     }
    ]
   },
   {
-   "id": "c0516897274186553d47",
-   "title": "Ill Kimi Antonelli misses Mexico Grand Prix media day",
-   "deck": "Mercedes expects its championship leader back on Friday after a viral illness kept him from Thursday’s media activities.",
+   "id": "6b259537dede05f77af6",
+   "title": "Cost-of-living protests turn violent in German cities as unrest spreads across Europe",
+   "deck": "Shops were looted in Frankfurt and police were injured in Berlin after largely peaceful youth marches on Saturday.",
    "summary": [
-    "Kimi Antonelli missed Thursday’s Formula One media programme at the Mexico Grand Prix because he was recovering from a viral illness. Mercedes said the 20-year-old was feeling under the weather and that the FIA had excused him from the day’s obligations. The team expected him to return on Friday, so the absence was not presented as a withdrawal from the race weekend.",
-    "Antonelli arrives in Mexico on the verge of a first world title. A ninth-place finish on Sunday would be sufficient, as would any result in which neither George Russell nor Lewis Hamilton wins. Clinching would make the Italian the youngest F1 champion, beating Sebastian Vettel’s 2010 age record by more than three years. Cadillac’s Valtteri Bottas also skipped media day after feeling unwell; his team called the rest precautionary and said it did not then affect participation in the rest of the weekend. Both situations require fresh medical and team updates before practice, and Thursday’s expectations should not be read as confirmation that either driver is cleared. For Mercedes, the immediate priority is recovery rather than media preparation: altitude, heat and the demands of qualifying make Mexico a poor place to race below full fitness, even with a large championship cushion."
+    "Protests over the cost of living turned violent in several German cities on Saturday night. Rioters looted shops in central Frankfurt, and clashes were reported in Berlin, Cologne and Hamburg. Police used water cannon against people who threw fireworks, stones and bottles at emergency workers. Earlier in the day, thousands had joined mostly peaceful marches organised by the campaign group Gen Z regelt, which objects to school underfunding, high living costs, spending cuts and military service.",
+    "In Frankfurt, police reported \"violent riots\", smashed windows and petrol bombs thrown at emergency services. A gun shop was damaged and two weapons recovered. Hesse's interior minister, Roman Poseck, said around 100 \"clearly identified left-wing extremists\" had infiltrated the protest. In Berlin, 27 officers were injured and up to 56 people briefly detained. Broadcaster NDR reported 120 arrests in Hamburg. Authorities counted as many as 18,000 protesters in three cities, about half the organisers' estimate.",
+    "Gen Z regelt spokesperson Lina Friedrich said the demonstrators wanted \"peace and freedom, rather than war and coercion\". Interior Minister Alexander Dobrindt called for harsh punishment of rioters and said police had prevented \"violence like that seen in Paris\".",
+    "The unrest follows youth-led protests elsewhere. In France, more than 320,000 people marched on Saturday in a third weekend of mostly peaceful demonstrations, and the interior ministry reported over 770 arrests. A police officer was hurt by a petrol bomb, prompting an attempted-murder inquiry. Protests also took place in Italy and Portugal, where housing costs are central."
    ],
-   "url": "https://www.autosport.com/f1/news/unwell-kimi-antonelli-skips-f1-mexico-gp-media-day/10869370/",
+   "url": "https://www.bbc.com/news/articles/cqj34gnd3n30o",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-01T01:59:57+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.com/news/articles/cqj34gnd3n30o"
+    }
+   ]
+  },
+  {
+   "id": "5866a70c846aed699978",
+   "title": "Ebola has killed more than 5,000 in DR Congo, the country's worst outbreak",
+   "deck": "Government data show over 10,300 confirmed cases across eight provinces, with attacks on health workers complicating the response.",
+   "summary": [
+    "More than 5,000 people have died in an Ebola outbreak in the Democratic Republic of Congo, according to government data cited by the BBC. Over 10,300 cases have been confirmed across eight of the country's 26 provinces, and the case fatality rate stands at 48.6%. The outbreak began in May and became the country's deadliest in history in August. The epicentre remains Ituri province in the north-east.",
+    "The United Nations says it is the 17th outbreak in the country and the second largest ever. It is driven by the Bundibugyo species. The previous worst outbreak in Congo killed 2,299 people between 2018 and 2020. The deadliest on record was in West Africa from 2014 to 2016, with more than 11,325 deaths, according to the World Health Organization. The UN warns that the current outbreak is \"taking lives at a much faster rate\".",
+    "Cases have crossed borders. Uganda reported 20 cases and two deaths early on, with none since August. Kenya has nine confirmed cases and two deaths. Nigeria identified two suspected cases on Saturday; earlier in October a woman confirmed with the disease there was flown to Switzerland for treatment. The European Centre for Disease Prevention and Control rates the risk to people in Europe as \"very low\".",
+    "Violence is hampering the response. Radio Okapi reported that a nurse was killed and a health worker seriously injured this week when local youths accused them of contaminating water. Last month a politician was beaten to death after promoting prevention measures. The WHO's Africa office has called for more control measures, access to affected areas and community outreach."
+   ],
+   "url": "https://www.bbc.com/news/articles/cj5ynryyep2yo",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-31T14:48:49+00:00",
+   "timestampType": "published",
+   "older": true,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.com/news/articles/cj5ynryyep2yo"
+    }
+   ]
+  },
+  {
+   "id": "34212437e5d46b91521b",
+   "title": "Nine killed as small jet crashes onto a Florida road near Palm Beach",
+   "deck": "The Learjet went down in heavy weather on Sunday; no one on the ground was hurt, and the NTSB is investigating.",
+   "summary": [
+    "Nine people died on Sunday when a Learjet 60 crashed onto a busy road in Palm Beach County, Florida, about nine miles from President Donald Trump's Mar-a-Lago resort. The crash, at around 12:50 pm local time, happened on Military Trail, a six-lane road lined with businesses and restaurants. Nobody on the ground was hurt, officials said, though Palm Beach County Fire Rescue declared a mass-casualty incident.",
+    "The Federal Aviation Administration said the aircraft had left Austin, Texas, for the Bahamas. Flight analysis suggested it was plunging steeply before impact. Air traffic control audio, as described by the BBC, included reports of \"moderate turbulence\" and the crew \"managing the ice\". A crew member later declared an emergency, saying the aircraft was in an overspeed condition and descending at 20,000 feet a minute. The last remark, about 35 seconds after the first mayday, was \"we're out of time\".",
+    "Thunderstorms had been reported in the area. The cause has not been determined. The FAA is sending a team to assist the National Transportation Safety Board, which leads the investigation. Transportation Secretary Sean Duffy called it a \"horrific tragedy\".",
+    "Governor Ron DeSantis and local officials said about 600 residents of a nearby trailer park were being evacuated. Damage to infrastructure, including water lines, means the road will stay closed for at least 30 days. Trump had left a nearby airport on Air Force One about an hour before the crash."
+   ],
+   "url": "https://www.bbc.com/news/articles/cm369yy7lw73o",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-01T21:21:46+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.com/news/articles/cm369yy7lw73o"
+    }
+   ]
+  },
+  {
+   "id": "958cab4d2b1699db08fe",
+   "title": "Judge throws out Trump's libel suit against the Wall Street Journal",
+   "deck": "A federal judge ruled the Epstein birthday-letter case could not meet the \"actual malice\" standard and dismissed it with prejudice.",
+   "summary": [
+    "A US federal judge has dismissed President Donald Trump's defamation lawsuit against the Wall Street Journal and its parent company Dow Jones. Judge Darrin Gayles ruled \"with prejudice\", meaning the case cannot be filed again. In a 20-page ruling he wrote that the suit was \"grasping at straws\" to \"manufacture flaws\" in the paper's reporting, and that it ran counter to the First Amendment.",
+    "The case concerned a story about a 2003 birthday letter to Jeffrey Epstein that appeared to carry Trump's signature. According to the BBC, the letter contained suggestive language and a drawing of the outline of a woman's body. Trump said last year that he did not write or sign it, called it fake, and sued Dow Jones and Rupert Murdoch, first seeking $20bn and later $10bn. These are his claims. The court did not rule on whether the letter is genuine.",
+    "Gayles found that Trump's lawyers had not shown the defendants published defamatory statements with \"actual malice\", which the law requires of public figures. He rejected the argument that the paper should have disregarded its investigation because Trump denied writing the letter. That reasoning, he wrote, \"is not what the actual malice standard requires and runs afoul of the First Amendment\". If it were the law, journalists could be blocked from publishing whenever a public figure denied an accusation.",
+    "The judge also noted the paper's \"thoughtful and detailed investigation\". The BBC does not say whether Trump will appeal."
+   ],
+   "url": "https://www.bbc.com/news/articles/cwr5yj2lj9myo",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-01T00:41:24+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.com/news/articles/cwr5yj2lj9myo"
+    }
+   ]
+  },
+  {
+   "id": "b729a51ce9847a1589a8",
+   "title": "Antonelli becomes Formula 1's youngest world champion in Mexico",
+   "deck": "The Mercedes driver clinched the title with third place at 20 years and 68 days old, as Verstappen won the race.",
+   "summary": [
+    "Kimi Antonelli has won the Formula 1 world championship, finishing third in the Mexico City Grand Prix to seal the title at 20 years and 68 days old. That makes him the youngest champion in the sport's history, beating Sebastian Vettel's record by three years and 66 days. He is also the first Italian champion since Alberto Ascari in 1953. \"Thank you so much. We did it. We did it,\" he said.",
+    "Red Bull's Max Verstappen won the race, ahead of Ferrari's Lewis Hamilton, with Antonelli third. Charles Leclerc was fourth for Ferrari, followed by Lando Norris, George Russell, Oscar Piastri, Franco Colapinto, Liam Lawson and Pierre Gasly. A red flag, after Valtteri Bottas's Cadillac crashed on lap 45 when its front suspension failed under braking, led to a 25-lap sprint to the finish.",
+    "Other incidents shaped the order. Russell received a 10-second penalty for tipping Red Bull's Isack Hadjar into a spin on the first lap, and Leclerc a five-second penalty for his own first-lap incident. Arvid Lindblad crashed his Racing Bulls after a collision with Piastri with 12 laps to go. BBC Sport notes that Antonelli was still a teenager until late August.",
+    "He leads the standings by 43 points after five races, according to the report. The next round is the Sao Paulo Grand Prix at Interlagos from 6 to 8 November."
+   ],
+   "url": "https://www.bbc.com/sport/formula1/articles/cv62y1e6wly6o",
    "section": "formula-one",
    "scope": "formula-one",
-   "source": "Autosport",
-   "sourceGroup": "motorsport-network",
-   "publishedAt": "2026-10-29T17:07:00+00:00",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-01T23:20:54+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -461,26 +455,28 @@
    "summaryType": "ai-article",
    "coverage": [
     {
-     "source": "Autosport",
-     "group": "motorsport-network",
-     "url": "https://www.autosport.com/f1/news/unwell-kimi-antonelli-skips-f1-mexico-gp-media-day/10869370/"
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.com/sport/formula1/articles/cv62y1e6wly6o"
     }
    ]
   },
   {
-   "id": "d9d29d60eb5c94bf3e65",
-   "title": "India beat China 5–2 to lead the Asian Champions Trophy table",
-   "deck": "Harmanpreet Singh and Sukhjeet Singh scored twice each as India turned a level first half into a comfortable second win.",
+   "id": "1249ece1791186eb5ee1",
+   "title": "Hamilton says Ferrari need \"serious talks\" after Leclerc clash cost them a win",
+   "deck": "Lewis Hamilton said the team lost a possible one-two in Mexico because its drivers fought each other.",
    "summary": [
-    "India defeated China 5–2 at the Olympian Surjit Singh Hockey Stadium, following Tuesday’s 13–0 win over Bangladesh and moving to the top of the six-team Asian Champions Trophy standings. Sukhjeet Singh opened the scoring late in the first quarter with an excellent control and lob after Jugraj Singh found him in space. China equalised four minutes before half-time, but captain Harmanpreet Singh restored the lead from a penalty corner only a minute later.",
-    "Harmanpreet struck again just after the break, Sukhjeet completed a brace and Jugraj also scored. Three of India’s five goals came from penalty corners, although China scored both of its goals from set plays as well. Coach Craig Fulton welcomed the four-quarter consistency and strength of the penalty-corner units, but noted that India’s early circle entries produced too few clean chances. He also credited China’s shape, work rate and goalkeeping; the opening goal had come against the run of play after a frustrating start. China had narrowly lost 5–4 to Asian Games silver medallists Malaysia in its first match, so the score did not reflect a passive opponent. India faces Japan on Friday. The larger test is whether the hosts can keep converting territorial dominance against stronger defences rather than relying on a late surge."
+    "Lewis Hamilton says Ferrari must have \"some serious talks behind closed doors\" after a first-lap fight with team-mate Charles Leclerc cost the team victory in Mexico City. Hamilton took his first pole position for Ferrari but finished second to Max Verstappen, with Leclerc fourth after a penalty. During the red-flag period Hamilton said over the radio: \"We've got big problems. Big, big problems.\"",
+    "Hamilton's account is that the two Ferraris were running first and second into Turn Four when Leclerc pushed him wide, and that the team \"could have easily had a one-two\" with its pace. He called Leclerc's move \"unnecessary\" and said \"we don't have rules of engagement\", adding that \"something needs to change for sure\". Of Leclerc, who is 28, he said: \"I think it's a mentality thing. It's like do or die, either I win or none of us do, and it shouldn't be that.\"",
+    "Leclerc, who cut a chicane on the first lap, said he would speak with Hamilton. He argued that with a Red Bull second he felt it was worth keeping the position, and added that he could also be unhappy about how far he was pushed off track out of Turn One, \"but it is racing\". Team principal Frederic Vasseur said he was frustrated, mainly for the 2,000 people working on the project, and that the team would discuss it that night.",
+    "Verstappen said Ferrari \"made it a little bit difficult for themselves fighting each other\". BBC Sport calls it the latest and arguably most serious of several tensions between the drivers this season, including incidents at the Italian Grand Prix and a tyre dispute in Singapore. All of this is the drivers' own account."
    ],
-   "url": "https://indianexpress.com/article/sports/hockey/asian-champions-trophy-india-thrash-china-5-2-10942585/",
-   "section": "sport",
-   "scope": "sport",
-   "source": "The Indian Express",
-   "sourceGroup": "indian-express",
-   "publishedAt": "2026-10-29T23:35:00+05:30",
+   "url": "https://www.bbc.com/sport/formula1/articles/cmwy7dl879gzo",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-02T00:28:28+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -488,36 +484,9 @@
    "summaryType": "ai-article",
    "coverage": [
     {
-     "source": "The Indian Express",
-     "group": "indian-express",
-     "url": "https://indianexpress.com/article/sports/hockey/asian-champions-trophy-india-thrash-china-5-2-10942585/"
-    }
-   ]
-  },
-  {
-   "id": "49afb46f3feb008ab69c",
-   "title": "Manisha Bhanwala reaches wrestling world final at 59kg",
-   "deck": "The Haryana wrestler can become India’s first women’s world champion when she faces US Pan-American champion Abigail Nette.",
-   "summary": [
-    "Manisha Bhanwala pinned Kazakhstan’s Altyn Shagayeva in the 59kg semi-final at the World Wrestling Championships in Astana, becoming the third Indian woman to reach a title bout at this edition. The result also guaranteed India a fourth medal after Tanu Sharma’s bronze at 72kg. In Friday’s final, the 29-year-old from Jind will meet reigning Pan-American champion Abigail Elizabeth Nette of the United States, with a chance to become India’s first women’s wrestling world champion.",
-    "Bhanwala moved up from 57kg after finishing without a medal at the Aichi–Nagoya Asian Games, where she lost 3–0 to Japanese great Akari Fujinami. Coach Mandeep Singh said their short turnaround focused on endurance, early scoring and maintaining positions through the last minute. In Astana, Bhanwala first beat Canada’s Laurence Beauregard by fall, then defeated Mongolia’s Bolortuya Khurelkhuu 6–0 in the quarter-final. Elsewhere, Asian Games champion Sujeet Kalkal lost his 65kg quarter-final to Tajikistan’s Abdulmazhid Kudiev on last-score criteria after a 3–3 finish. Vicky Hooda entered 97kg repechage when Japan’s Arash Yoshida reached the final and is due to face Iran’s Hassan Yazdani. Bhanwala’s medal colour remains undecided; the breakthrough is reaching the final, not yet winning the title."
-   ],
-   "url": "https://indianexpress.com/article/sports/manisha-bhanwala-one-win-away-india-first-women-world-champion-10942593/",
-   "section": "sport",
-   "scope": "sport",
-   "source": "The Indian Express",
-   "sourceGroup": "indian-express",
-   "publishedAt": "2026-10-29T23:46:00+05:30",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "The Indian Express",
-     "group": "indian-express",
-     "url": "https://indianexpress.com/article/sports/manisha-bhanwala-one-win-away-india-first-women-world-champion-10942593/"
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.com/sport/formula1/articles/cmwy7dl879gzo"
     }
    ]
   }
@@ -526,8 +495,8 @@
   {
    "name": "Indian Express",
    "section": "world",
-   "status": "unavailable",
-   "count": 0
+   "status": "ok",
+   "count": 1
   },
   {
    "name": "NDTV",
@@ -538,8 +507,8 @@
   {
    "name": "The Hindu",
    "section": "world",
-   "status": "unavailable",
-   "count": 0
+   "status": "ok",
+   "count": 1
   },
   {
    "name": "Times of India",
@@ -550,8 +519,8 @@
   {
    "name": "BBC News",
    "section": "world",
-   "status": "unavailable",
-   "count": 0
+   "status": "ok",
+   "count": 1
   },
   {
    "name": "The Guardian",
@@ -563,7 +532,7 @@
    "name": "TechCrunch",
    "section": "technology",
    "status": "ok",
-   "count": 20
+   "count": 1
   },
   {
    "name": "The Verge",
@@ -574,8 +543,8 @@
   {
    "name": "BBC News",
    "section": "technology",
-   "status": "unavailable",
-   "count": 0
+   "status": "ok",
+   "count": 1
   },
   {
    "name": "Indian Express",
@@ -586,20 +555,20 @@
   {
    "name": "BBC News",
    "section": "business",
-   "status": "unavailable",
-   "count": 0
+   "status": "ok",
+   "count": 1
   },
   {
    "name": "Economic Times",
    "section": "business",
-   "status": "ok",
-   "count": 50
+   "status": "unavailable",
+   "count": 0
   },
   {
    "name": "BBC Sport",
    "section": "formula-one",
-   "status": "unavailable",
-   "count": 0
+   "status": "ok",
+   "count": 1
   },
   {
    "name": "Autosport",
@@ -622,8 +591,8 @@
   {
    "name": "Gadgets 360",
    "section": "deals",
-   "status": "ok",
-   "count": 10
+   "status": "unavailable",
+   "count": 0
   },
   {
    "name": "Indian Express",
