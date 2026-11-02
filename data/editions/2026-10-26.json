@@ -1,0 +1,687 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-10-26",
+ "generatedAt": "2026-10-26T02:03:22.772490+00:00",
+ "timezone": "Asia/Kolkata",
+ "windowHours": 48,
+ "primaryWindowHours": 24,
+ "summaryMode": "original-articles",
+ "localLimit": 1,
+ "stories": [
+  {
+   "id": "01c663ba9353d1014329",
+   "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+   "deck": "A 2000 critique of Silicon Valley’s anti-regulation culture has found a new audience in the AI era.",
+   "summary": [
+    "Paulina Borsook’s Cyberselfish is returning to print 26 years after it examined the anti-regulation culture of Silicon Valley. Borsook describes the book as a travelogue through “techno-libertarianism”: a cluster of beliefs that celebrates personal freedom and market power while downplaying the government research, infrastructure and environmental rules that helped the industry grow. The original text is being republished unchanged, with new introductions explaining how it resurfaced.",
+    "Interest revived as used copies became scarce and writers including Nerd Reich author Gil Durán argued that Borsook had identified forces now visible in tech leaders’ political alliances. Her argument is cultural rather than a claim that every engineer votes alike. She distinguishes socially conservative “Gilders” from countercultural “Ravers”, saying both can share hostility to regulation and faith in technological elites. She traces a harder financial culture to the Netscape IPO and the later influx of growth capital, which rewarded rapid expansion and resistance to local constraints.",
+    "Borsook sees the AI boom as a continuation: enormous investment, claims of exceptional genius and insistence that ordinary oversight would obstruct progress. That is her interpretation, not an empirical verdict on every AI company. She is pessimistic about reform inside hyperscalers but hopes younger technologists can build smaller, socially useful businesses. The book’s return matters because it offers a period document, written before today’s dominant platforms, against which claims that Silicon Valley changed suddenly can be tested."
+   ],
+   "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-25T20:20:08+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/"
+    }
+   ]
+  },
+  {
+   "id": "ab1f7cff37722d46d5fd",
+   "title": "Google’s AI search changes upended online publishing",
+   "deck": "AI answers keep users on Google while the publishers supplying those answers lose visits and leverage.",
+   "summary": [
+    "Google’s shift from ranked links to AI answers has broken a bargain with online publishers. For years, websites allowed Google to index their work because search placement brought readers, advertising revenue and subscriptions. AI Overviews and AI Mode increasingly answer a query on Google’s page, reducing the need to visit the underlying source even when publishers supplied the facts.",
+    "Industry data points to a real traffic shock. Similarweb figures cited by the Wall Street Journal showed the New York Times’ share of visits from search falling from 44% to 35.5% over three years. Digital Content Next members reported Google-search declines of 1% to 25% between May and June 2025. DMG Media told the UK competition regulator that click-through rates could fall by as much as 89% when an AI answer appeared. Pew research likewise found people less likely to open external links after seeing an overview. Google says overall click volume is relatively stable and that traffic is shifting toward forums, videos and first-person content.",
+    "Publishers are responding with newsletters, subscriptions, social distribution and legal challenges. Google now lets sites opt out of AI answers without disappearing from ordinary search in some markets, has made source links more visible and is testing payments for content. Around 400 publishers have joined a News AI licensing pilot. None of those steps resolves the conflict: search becomes more useful by summarising reporting, while the organisations paying to produce that reporting receive fewer visits."
+   ],
+   "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-10-25T12:00:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
+    }
+   ]
+  },
+  {
+   "id": "5d27c6d041c319f5b315",
+   "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+   "deck": "Power, water and local-benefit fights have turned AI infrastructure into a US election issue.",
+   "summary": [
+    "Data centres have become a US midterm issue as AI infrastructure expands into communities that see costs more clearly than benefits. The United States has about 4,767 of the world’s roughly 12,250 operating or planned sites and an even larger lead in computing capacity. New AI campuses can cover enormous areas and house hundreds of thousands of specialised chips, pushing construction from urban utility corridors into rural districts with cheaper land.",
+    "Residents and campaigners worry about electricity, water, noise and air pollution. Global data centres already consume more power than France, and rapid growth can strain local grids or raise questions about who pays for new generation and transmission. Cooling can require substantial water. xAI’s expanding Colossus campus, for example, plans to use methane turbines; the company says they will meet air-quality standards, while activists expect additional pollution. Sixteen US states have considered bans or temporary restrictions on new facilities.",
+    "Supporters argue that computing capacity is essential for national security, investment and the AI economy. Data centres create construction work, tax revenue and some permanent jobs, though Brookings research says employment benefits are smaller than industry advocates often suggest and vary by facility type. Technology companies are expected to spend about $765 billion on AI infrastructure in 2026, potentially exceeding $1 trillion next year. The policy challenge is not simply whether to build, but how to require transparent power, water, emissions and local-benefit plans before communities approve the next wave."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+   "section": "technology",
+   "scope": "technology",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-25T23:44:34+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "ca7e0cd00ff5d4c4fef9",
+   "title": "‘Wars now target economies’: PM Modi warns of ‘cyber terrorists’, calls for stronger banking security",
+   "deck": "The Prime Minister opened new RBI facilities and linked financial inclusion to a larger cyber attack surface.",
+   "summary": [
+    "Prime Minister Narendra Modi opened the Reserve Bank of India’s new data centre and Cybersecurity Training Institute in Bhubaneswar by arguing that modern conflict increasingly targets economies and financial systems. He said India must protect banks from “cyber terrorists” as digital access expands. The ₹169 crore facilities are intended to strengthen resilience, training and the security of systems providing round-the-clock banking.",
+    "Modi linked cyber defence to the government’s financial-inclusion programme. He said small entrepreneurs, artisans, street vendors and informal workers have gained access to formal banking during the past decade, and that cards and digital services are no longer limited to affluent customers. His comparison with the pre-2014 period was a political claim made in a government speech, not an independent assessment of every change in banking access.",
+    "The substantive policy point is that inclusion increases the size of the attack surface. More accounts, mobile transactions and always-on services create more targets for fraud, ransomware and disruption. A central training institute can improve common standards and incident response, but security also depends on banks updating legacy systems, authenticating customers safely, sharing threat intelligence and compensating victims fairly when controls fail. Modi framed the next decade as a move from expanding access to making banking more efficient and reliable. He also presented Odisha as a future centre for industries ranging from mining to semiconductors, though the speech did not announce detailed new projects beyond the RBI facilities."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/wars-now-target-economies-pm-modi-warns-of-cyber-terrorists-calls-for-stronger-banking-security/articleshow/135192008.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-25T13:22:18+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/wars-now-target-economies-pm-modi-warns-of-cyber-terrorists-calls-for-stronger-banking-security/articleshow/135192008.cms"
+    }
+   ]
+  },
+  {
+   "id": "6bce376b18b171bc8691",
+   "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+   "deck": "Bank, gambling and marketplace taxes raise only part of the money Britain’s chancellor may need.",
+   "summary": [
+    "Britain’s government enters Wednesday’s Budget with less room to absorb shocks. Economists estimate its fiscal “headroom”—the buffer against self-imposed borrowing rules—may have fallen from about £24 billion to roughly £11 billion as interest costs rose. Labour has promised not to raise the headline rates of income tax, VAT or National Insurance, while facing pressure to fund defence and cost-of-living support. Capital-gains and expanded mansion taxes are reportedly off the table.",
+    "Four alternatives illustrate the trade-offs. Raising the bank corporation-tax surcharge from 3% to 5.5% could produce £1–£2 billion annually, but banks may pass some cost to borrowers, savers or shareholders. Doubling tax on electronic gambling machines to 40% is estimated to raise £275–£460 million and could reduce harmful play, while threatening betting-shop revenue. Making large marketplaces collect VAT owed by sellers might recover around £1 billion and stop compliant businesses being undercut, though some prices could rise.",
+    "The largest theoretical savings lie in working-age welfare, whose annual cost is forecast to increase from £68 billion to £81 billion by 2031. Opposition parties claim tens of billions could be cut, but independent analysts question those figures. Effective reform may require upfront spending on health and employment support, delaying savings, while blunt eligibility reductions risk pushing disabled and low-income people into poverty. Even the three clearer tax measures together generate only about £3.5 billion, leaving the chancellor with a much larger political and fiscal balancing act."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+   "section": "business",
+   "scope": "business",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-25T06:00:15+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "cd2c728a833cfe19aa75",
+   "title": "On FM table: Slashing capital gains tax rate, dollar-based taxation for foreign investors",
+   "deck": "Budget discussions include a lower LTCG rate and dollar-based gain calculations for overseas equity investors.",
+   "summary": [
+    "India’s government is discussing equity-tax changes before the 2027–28 Budget, including a reduction in the 12.5% long-term capital-gains rate and a different calculation for foreign investors. One proposal would tax foreign portfolio investors on gains measured in dollars rather than rupees, preventing currency depreciation from creating a taxable rupee profit when the investor has little or no gain in home-currency terms. Officials told the Indian Express that options remain under discussion; no decision has been announced.",
+    "The debate reflects two years of weak equity returns, modest wage growth and unusually broad retail exposure. CDSL demat accounts rose from 21.2 million in March 2020 to 193.4 million in September 2026. Retail ownership of NSE-listed companies increased after the pandemic but had fallen from its 2024 peak by March 2026. Foreign investors can choose markets with lower valuations, stronger AI exposure or no comparable capital-gains levy, while domestic mutual-fund inflows no longer appear certain to offset every overseas exit.",
+    "Existing law grants foreign-currency conversion relief to some non-residents selling unlisted shares or debentures, but excludes FPIs in listed equities. Earlier this year, India removed withholding and capital-gains taxes on foreign holdings of government bonds. SBI’s chief economic adviser has proposed abolishing long-term equity gains tax for investors who hold for two or three years. A lower rate could improve sentiment and inflows, but it would also reduce revenue and favour asset owners unless paired with a clear estimate of the investment response."
+   ],
+   "url": "https://indianexpress.com/article/business/nirmala-sitharaman-budget-2027-capital-gains-tax-india-cut-foreign-portfolio-investors-10936600/",
+   "section": "business",
+   "scope": "business",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-10-26T00:25:21+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/business/nirmala-sitharaman-budget-2027-capital-gains-tax-india-cut-foreign-portfolio-investors-10936600/"
+    }
+   ]
+  },
+  {
+   "id": "4fb0b6aa4688db957ab7",
+   "title": "Raj Thackeray deletes Modi-Adani documentary post after Mumbai Police chief’s request, vows to continue fight",
+   "deck": "The MNS chief removed one disputed video at the police commissioner’s request but kept his wider campaign alive.",
+   "summary": [
+    "Maharashtra Navnirman Sena leader Raj Thackeray says he removed a documentary about Prime Minister Narendra Modi and industrialist Gautam Adani from social media after a request from Mumbai’s police commissioner. Thackeray said he complied out of respect for the police but would continue campaigning against corporate concentration. He claimed the video had already attracted 4.8 million views on X, alongside circulation on other platforms; that audience figure comes from Thackeray rather than an independent audit.",
+    "The documentary, made by Sabeer Bhatia, alleges a longstanding Modi–Adani relationship and questions the concentration of industrial assets. Mumbai Police previously issued notices to 24 X accounts over what authorities described as false and disparaging claims. The report does not establish the documentary’s allegations, identify a court order requiring removal or include responses from Modi, Adani or the police commissioner to Thackeray’s version of the request.",
+    "Thackeray insists his criticism targets preferential policy rather than a particular businessman. He argues that government should encourage several industrial groups to expand and compete, and says material from his January presentation on the Adani Group remains online. He also alleges that central and state authorities are enabling transfers of Maharashtra forest land to selected companies, including land at Bhimashankar for Torrent Group. Those claims require separate documentary verification. The immediate news is therefore about political speech and police intervention: a prominent politician withdrew one post voluntarily by his account, while preserving the wider campaign and republishing related material."
+   ],
+   "url": "https://www.thehindu.com/news/national/raj-thackeray-deletes-pm-modi-adani-documentary-from-social-media-after-mumbai-police-chiefs-request/article71622785.ece",
+   "section": "world",
+   "scope": "india",
+   "source": "The Hindu",
+   "sourceGroup": "the-hindu",
+   "publishedAt": "2026-10-25T21:02:27+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/national/raj-thackeray-deletes-pm-modi-adani-documentary-from-social-media-after-mumbai-police-chiefs-request/article71622785.ece"
+    }
+   ]
+  },
+  {
+   "id": "0ba4c27c6ff3f7c37103",
+   "title": "BJP To Launch Nationwide Protests Against Mallikarjun Kharge Over Remarks On PM Modi",
+   "deck": "The BJP is escalating a dispute over remarks about the Prime Minister’s late father into state-level demonstrations.",
+   "summary": [
+    "The Bharatiya Janata Party has called demonstrations at its state headquarters across India on Monday over remarks by Congress president Mallikarjun Kharge concerning Prime Minister Narendra Modi’s late father. The BJP describes the comments, made in Patna, as insulting and outside acceptable political debate. It has asked state units to organise peaceful but firm protests and is demanding an unconditional apology.",
+    "The report is based on a BJP statement and a syndicated news dispatch. It does not reproduce Kharge’s exact words or their surrounding context, and Congress had not issued a response when it was published. That makes it possible to report the planned protests and the BJP’s objection, but not to independently judge the disputed language from this source alone.",
+    "BJP spokespeople argue that criticism should remain focused on governance and policy rather than relatives of public figures, especially people who have died. The party’s decision to coordinate events nationwide turns a single speech into a broader political confrontation and ensures television and social-media attention at state level. The scale of actual participation and any Congress clarification will determine whether the row lasts beyond Monday. Until the original remarks and a response are available, claims that they constitute a deliberate attack on Modi’s family should remain attributed to the BJP. The episode also shows how parties use disputes over tone and personal respect to mobilise supporters even when no policy issue or legislative decision is immediately involved."
+   ],
+   "url": "https://www.ndtv.com/india-news/bjp-to-launch-nationwide-protests-against-mallikarjun-kharge-over-remarks-on-pm-modi-12234707",
+   "section": "world",
+   "scope": "india",
+   "source": "NDTV",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-10-25T17:53:27+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/bjp-to-launch-nationwide-protests-against-mallikarjun-kharge-over-remarks-on-pm-modi-12234707"
+    }
+   ]
+  },
+  {
+   "id": "238ada1b49ce3db1db1a",
+   "title": "‘India will hammer drug cartels’: Amit Shah hails Operation Trident that unearthed hawala network",
+   "deck": "Authorities report 18 arrests, 1,424 frozen accounts and a ₹100 crore hawala trail across three states.",
+   "summary": [
+    "Indian authorities say coordinated raids across Assam, Mizoram and Manipur have disrupted the finances and logistics of a cross-border narcotics network. Home Minister Amit Shah said Operation Trident, conducted on 23 October, produced 18 arrests, the freezing of 1,424 bank accounts, attachment of property worth ₹17.82 crore and evidence of about ₹100 crore in hawala transactions. Teams also seized ₹12 lakh in cash and 500 detonators, according to the government statement.",
+    "The Narcotics Control Bureau led 38 multi-agency teams searching 38 locations, including Aizawl, Champhai, Zokhawthar near the Myanmar border, Churachandpur in Manipur and Assam’s Cachar transit corridor. Officials say the operation followed joint financial analysis and intelligence work by the NCB, Mizoram Police and Enforcement Directorate, allowing searches and account action to occur simultaneously.",
+    "The alleged network is said to have routed methamphetamine and heroin through Myanmar, Mizoram, Manipur, Assam and Tripura toward mainland India and Bangladesh. Authorities identify Myanmar-based Thangcintuang, also known as Chintuang or Tluanga, as the cartel leader; he was arrested in May. These descriptions and transaction values are official allegations, and arrests or frozen accounts are not convictions. Investigators will still have to establish ownership, money trails and individual criminal responsibility in court. Shah presented the raids as part of a government goal to eliminate drug networks by the end of 2029. The result can be measured only after prosecutions, asset-forfeiture proceedings and evidence of whether trafficking routes remain disrupted."
+   ],
+   "url": "https://indianexpress.com/article/india/amit-shah-operation-trident-narcotics-cartel-raids-10936646/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-10-26T00:45:54+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/amit-shah-operation-trident-narcotics-cartel-raids-10936646/"
+    }
+   ]
+  },
+  {
+   "id": "4549c3a7b8185a1198e4",
+   "title": "Deeply divided Israel braces for pivotal election",
+   "deck": "Security, democratic institutions and coalition arithmetic collide in Israel’s first election since 7 October.",
+   "summary": [
+    "Israel votes Tuesday in its first election since the 7 October 2023 attacks, after three years of war and domestic conflict. Final polls put Prime Minister Benjamin Netanyahu’s coalition and the main opposition bloc close to even. About half a million people can vote for the first time, while 70,000 Israelis are reportedly returning from abroad. Coalition building means the largest party may not form a majority.",
+    "Former military chief Gadi Eisenkot and his centrist Yashar party have challenged Netanyahu’s Likud at the top of several polls. Eisenkot promises a state inquiry into the October attacks and enforcement of court rulings requiring ultra-Orthodox men to serve in the military. He frames the contest around democratic institutions and the character of the state. Netanyahu’s “No Surrender” campaign argues that only his right-wing coalition can protect Israel and points to military campaigns in Gaza, Lebanon and Iran.",
+    "The electorate has also polarised beyond those two figures. Some younger and border-area voters have moved toward far-right parties after the Hamas attacks, while many survivors and opposition demonstrators blame the government for the security failure and resist changes to judicial power. Arab parties may hold the balance, although most Jewish opposition parties reject relying on them. Differences over Palestinians remain narrower than international observers might expect: leading opposition figures support continued Israeli security control, and none has clearly embraced full Palestinian statehood. A deadlock is therefore plausible even if voters reject the current coalition."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-25T22:11:13+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "f2420c6958addf21c466",
+   "title": "Russell scrambling for answers after \"not being quick enough\" at US GP",
+   "deck": "Antonelli won in the same upgraded Mercedes that left Russell eighth and searching for an explanation.",
+   "summary": [
+    "George Russell has no clear explanation for his lack of pace at the United States Grand Prix, where Mercedes team-mate Kimi Antonelli won from pole and approached the world title. Russell started sixth and finished eighth after a five-second penalty for leaving the track and retaining an advantage while defending from Oscar Piastri on lap one. Without it he probably gained only one place.",
+    "Russell’s greater concern was performance. He said the first stint was poor, followed by about six competitive laps on hard tyres before he became trapped behind Piastri. The upgraded W17 appears to have a narrow set-up window: Antonelli has learned to exploit it, while Russell has now gone three races without a podium. In Malaysia, Russell was on course for third before a power-unit failure; he then finished ninth in Singapore and struggled again in Austin.",
+    "The result leaves Antonelli 123 points ahead of Russell with 125 available over the final five rounds. Russell is only one point ahead of Lewis Hamilton and six ahead of Max Verstappen in the fight for second, while Mercedes leads Ferrari by 133 points in the constructors’ standings. Russell says the team championship matters more than finishing “best of the rest”, but the contrast inside the same garage is technically important. Engineers must determine whether driving style, tyre preparation, set-up choices or the upgrade’s operating window produced such different outcomes before Mexico City."
+   ],
+   "url": "https://www.autosport.com/f1/news/russell-scrambling-for-answers-after-not-being-quick-enough-at-us-gp/10868425/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-10-25T23:44:47+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/russell-scrambling-for-answers-after-not-being-quick-enough-at-us-gp/10868425/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    }
+   ]
+  },
+  {
+   "id": "b98f95a6281d4b3f3a2b",
+   "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+   "deck": "Mbappé’s late winner cut Barcelona’s lead to three points and extended Mourinho’s unbeaten Clásico sequence.",
+   "summary": [
+    "Real Madrid’s 2–1 victory at Barcelona has compressed the La Liga title race and extended José Mourinho’s unusual run in El Clásico. Kylian Mbappé scored twice, including a late winner at Camp Nou, ending Barcelona’s nine-match unbeaten domestic sequence. A defeat would have left Madrid nine points behind; instead Mourinho’s side is now within three points of the leaders after five consecutive wins in all competitions.",
+    "Mourinho has gone six Clásicos without defeat across his two spells at Madrid—four wins and two draws—matching runs previously achieved by Miguel Muñoz and Vicente del Bosque. He returned this summer, 13 years after leaving his first Madrid tenure. The latest win was only Real’s second in eight meetings with Barcelona, making the timing more important than the historical statistic.",
+    "The manager praised his players’ calmness and midfield balance, while warning against treating one result as the title itself. Barcelona coach Hansi Flick said his team lacked freshness after a demanding schedule but offered no excuse, arguing that small details decided the match. Mourinho’s central point was that Madrid went to Camp Nou to improve its championship position rather than win a standalone spectacle. That distinction now shapes the table: Barcelona remains ahead, but no longer has room for a comfortable stumble. Madrid has momentum, Mbappé is decisive in the largest fixture, and a title race that could have opened to nine points has instead become a three-point contest."
+   ],
+   "url": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss",
+   "section": "sport",
+   "scope": "sport",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-26T00:07:16+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "49f9e00b5aef1adbb541",
+   "title": "Better late than never: Hockey returns to its cradle with Asian Champions Trophy",
+   "deck": "Punjab’s first senior home appearances for many Indian players reconnect today’s team with hockey history.",
+   "summary": [
+    "Elite international hockey returns to Punjab this week as Jalandhar and Mohali host the men’s Asian Champions Trophy. India, China, Japan, South Korea, Malaysia and Bangladesh will compete; Pakistan has withdrawn amid strained bilateral relations. For many current Indian players from Punjab, including members with two Olympic bronze medals, it will be their first senior international appearance in their home state.",
+    "The setting carries unusual history. Villages such as Sansarpur produced generations of internationals, and retired Olympian Balbir Singh Kular remembers young players cycling to Police Lines in Jalandhar to watch India face the Netherlands in 1967. More than half of today’s Indian squad is from Punjab, echoing earlier eras. The trophy has toured the state for nine days with former captains and Olympic medallists, while local posters welcome the competition in Punjabi.",
+    "Veterans recall how home crowds shaped their ambitions. Harcharan Singh, who scored the winner in India’s 1975 World Cup final, remembers packed India–Pakistan matches and hospitality shared across an intense rivalry. Former goalkeeper Baljit Singh Dadhwal links the 2009 Punjab Gold Cup to the development of players who later reached the national team. Current trainees are waiting to watch captain Harmanpreet Singh’s drag-flicks at the Olympian Surjit Singh Stadium. The tournament’s value is therefore more than medals: placing the national side in its historic nursery can turn distant Olympic success into a visible pathway for the next generation."
+   ],
+   "url": "https://indianexpress.com/article/sports/hockey/hockey-returns-to-its-cradle-with-asian-champions-trophy-10936547/",
+   "section": "sport",
+   "scope": "sport",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-10-25T18:11:47+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/sports/hockey/hockey-returns-to-its-cradle-with-asian-champions-trophy-10936547/"
+    }
+   ]
+  },
+  {
+   "id": "79ffda0a470cc0fd1c29",
+   "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+   "deck": "An Apollo economist sees no aggregate margin or productivity gain beyond the seven largest tech names.",
+   "summary": [
+    "Apollo Global Management chief economist Torsten Slok argues that artificial intelligence has not yet improved the financial results of large US companies outside the technology sector. His note isolates an “S&P 493”—the S&P 500 without Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia and Tesla—and finds broadly flat profit margins and revenue per employee. On that measure, heavy AI spending has produced no visible aggregate payoff so far.",
+    "Slok doubts that cheaper machine intelligence automatically becomes revenue or margin growth. Businesses depend on judgment, accountability, trust, culture and unwritten rules, areas where AI output still requires human interpretation. Other studies have similarly struggled to detect broad productivity gains, even as companies report extensive experimentation and vendors record strong sales.",
+    "The conclusion should be read as a macroeconomic warning, not proof that every non-tech deployment has failed. Aggregate margins can hide successful projects inside individual firms, and benefits may appear as avoided costs, faster service or future capability before they show up in revenue per worker. Adoption also takes time: organisations must redesign processes, improve data and decide who is responsible when automated decisions go wrong. Conversely, the absence of clear gains matters because current valuations and capital spending assume large benefits. The next phase of the AI cycle will be judged less by pilots and licences than by whether companies can identify specific workflows where output improves enough to cover integration, oversight, security and model costs."
+   ],
+   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-25T16:57:32+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+    }
+   ]
+  },
+  {
+   "id": "f0c80d5858e06e7593e6",
+   "title": "The hottest AI wearables and gadgets you should know about",
+   "deck": "Always-listening pendants and pocket assistants promise memory and convenience at a substantial privacy cost.",
+   "summary": [
+    "AI hardware is spreading across pendants, rings and pocket computers, but most products serve three functions: recording conversations, creating reminders or acting as a companion. Amazon-owned Bee records audio to build transcripts and notes, with clip, wrist and phone-backed designs. Limitless and Plaud target meetings and lectures, turning recordings into searchable summaries. Friend and Nirva focus on mood, reflection and emotional support.",
+    "Other devices try to replace small phone tasks. Omi answers questions and remembers conversational context; Rabbit’s R1 offers a touchscreen, camera and tools for ordering or controlling services after a difficult launch; Meta has announced a pocket assistant with an on-screen avatar. Sandbar’s Stream ring takes a more privacy-conscious interaction design: its microphone is off until the wearer presses a touch surface to record a note.",
+    "Reported hardware prices range from about $50 for the original Bee to $299 for Stream, often with monthly subscriptions for transcription or unlimited features. These are publisher-reported prices and launch plans, not verified deals; availability and final cost should be checked directly before purchase. The more important distinction is privacy. Always-listening wearables can capture colleagues, family members and strangers, creating consent, storage and breach risks. A mute button helps only if users remember it. Buyers should examine whether audio is processed locally or in the cloud, how long recordings are retained, whether data trains models, and how bystanders are notified. Convenience is real, but so is the burden of carrying a microphone."
+   ],
+   "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-25T14:10:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
+    }
+   ]
+  },
+  {
+   "id": "5c724d00693be390f59f",
+   "title": "The best apps for tracking your reading and discovering new books",
+   "deck": "Five Goodreads alternatives compete through clubs, statistics, progress-based discussion and mood discovery.",
+   "summary": [
+    "Newer reading apps are trying to compete with Goodreads by specialising in community, data or mood-based discovery. Fable combines book tracking, reviews, goals and virtual clubs, making it suited to readers who stay motivated through group discussion. Pagebound also emphasises conversation but organises forums by progress through each book, reducing the risk that late-plot comments spoil earlier chapters.",
+    "StoryGraph is the strongest fit for readers who want statistics and precise recommendations. It tracks pace, mood, themes and genres, supports challenges and builds charts around reading habits rather than relying only on popularity. Bookshelf adds AI-generated summaries, quotes and thematic analysis to conventional shelves and goals. Margins approaches discovery through atmosphere—searches such as “1920s Paris”—and includes a reading timer that can block distracting social apps.",
+    "All five offer free access, while Fable, Bookshelf, Pagebound and StoryGraph advertise optional monthly subscriptions for advanced goals, analytics or profile features. The reported prices range from roughly $5 to $10 a month, but users should confirm current regional pricing in the relevant app store. The useful choice depends on the habit one wants to reinforce: Fable for clubs, Pagebound for asynchronous discussion, StoryGraph for data, Bookshelf for recall, and Margins for aesthetic or mood-led browsing. Before importing a large library, readers should also check export options and privacy practices so years of annotations and reading history are not trapped inside one platform."
+   ],
+   "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-26T01:10:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/"
+    }
+   ]
+  },
+  {
+   "id": "28d9af70d6cc841d98a6",
+   "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+   "deck": "The most repairable foldable yet still has a complex hinge and an unconfirmed pressure-point problem.",
+   "summary": [
+    "iFixit’s teardown of Apple’s foldable iPhone Duo offers two explanations for its nearly invisible crease and a clue to reported screen and hinge failures. The inner display uses a matte nano-texture layer that scatters reflections, making the fold less obvious in bright light. Under magnification, iFixit found oval subpixels at varying angles, a pattern it believes reduces artefacts along the centre line.",
+    "The removable surface layer is comparatively easy to replace without changing the OLED panel, but repairing the flexible display itself remains expensive and difficult. iFixit gave the Duo 5 out of 10 for repairability—low in absolute terms, yet its best score for a foldable phone. In dust testing, particles entered the USB-C port, speaker grilles and hinge, creating a rough feel, although less reached the interior than in the Samsung Z Fold8 or Google Pixel 11 Pro Fold.",
+    "The failure theory remains unconfirmed. iFixit suspects one part of the complex hinge may not always descend correctly. An accordion cable crosses the same area close to the battery edge, potentially concentrating pressure and producing the audible crack and damaged screens some owners have described. Apple had not responded to the report when the article was published. A teardown can identify plausible mechanical stress but cannot establish failure rates or prove a universal defect. Owners should avoid drawing conclusions from isolated incidents, keep the hinge free of grit and use Apple’s documented service process if resistance or cracking develops."
+   ],
+   "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-10-25T21:40:27+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge"
+    }
+   ]
+  },
+  {
+   "id": "14b5b2892590b3b5ff36",
+   "title": "Insurance commission: IRDAI extends time for feedback to October 31",
+   "deck": "Policyholders and industry groups now have until 31 October to comment on commission reform.",
+   "summary": [
+    "India’s insurance regulator has extended the public-comment period on proposed changes to insurance distribution commissions from 25 October to 31 October. IRDAI says it has already received more than 650 submissions on the consultation paper issued on 23 September and wants additional time for insurers, distributors and members of the public to provide evidence-backed feedback.",
+    "The regulator has not chosen a final model. Chairman Ajay Seth says the goal is a more efficient commission system that improves policyholder value without abruptly damaging existing businesses or livelihoods. Large insurers, smaller companies, new entrants, banks, agents and brokers face different economics, especially for low-premium policies where distribution costs consume a larger share of the price. Some respondents want a longer transition.",
+    "Insurance brokers warn that the proposed structure could cut distribution revenue by 60%–70% and cause job losses. That is an industry estimate, not a regulator finding. IRDAI argues that reform might also create new services and opportunities depending on design. The core policy question is who benefits from each rupee of commission: a lower payment can reduce sales incentives and access, but a high payment can raise premiums, encourage unsuitable selling or reduce the value returned to customers. IRDAI has specifically asked respondents to support proposals with business and economic reasoning and explain the policyholder benefit. Interested parties have five extra days to submit comments before the regulator begins deciding the final framework."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/banking/finance/insure/insurance-commission-irdai-extends-time-for-feedback-to-october-31/articleshow/135197218.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-25T19:19:24+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/banking/finance/insure/insurance-commission-irdai-extends-time-for-feedback-to-october-31/articleshow/135197218.cms"
+    }
+   ]
+  },
+  {
+   "id": "c9968cc42e2e1eabf078",
+   "title": "AI narrative needs to change for India: K Balasubramanian, CEO, Citibank India",
+   "deck": "Citi’s India chief links weak foreign inflows to scarce AI exposure, valuations and capital-gains tax.",
+   "summary": [
+    "Citibank India chief K. Balasubramanian says foreign investors see India as a counter-trade to the global AI boom. US equities offer strong growth and visible AI leaders, while Taiwan and South Korea attract capital through technology exposure. India’s market has delivered less exceptional returns relative to its valuation, so overseas investors have little reason to add risk until earnings, pricing or the global AI narrative changes.",
+    "He identifies long-term capital-gains tax as another deterrent and expects trade agreements with Britain and the European Union to create new investment and banking corridors. Citi is working with multinationals considering Indian capital raising, while more than a dozen companies are preparing IPOs. Balasubramanian argues that valuations near 20–21 times forward earnings can be justified if companies deliver mid-to-high-teen growth. Domestic retail demand also enters IPOs indirectly through mutual funds.",
+    "After selling its consumer business, Citi India concentrated on institutional banking. From March 2023 to March 2026, institutional revenue rose 76%, net income 56%, loans 78% and deposits 48%, according to the bank. FY2026 profit reached ₹7,261 crore and institutional client assets have crossed ₹1 lakh crore. The bank expects roughly 20% loan growth but says it will not chase expensive deposits. GIFT City assets have expanded from about $300–400 million in March to $2.5 billion. These figures show momentum in Citi’s chosen franchise, while the AI comments explain why strong Indian economic growth has not automatically restored foreign portfolio inflows."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ai-narrative-needs-to-change-for-india-k-balasubramanian-ceo-citibank-india/articleshow/135197104.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-25T19:10:24+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ai-narrative-needs-to-change-for-india-k-balasubramanian-ceo-citibank-india/articleshow/135197104.cms"
+    }
+   ]
+  },
+  {
+   "id": "6f99925ce94d25fc652d",
+   "title": "Antonelli delivers 'the race of a champion who isn't the champion yet'",
+   "deck": "A dominant Austin win leaves the 20-year-old two points from becoming Formula One’s youngest champion.",
+   "summary": [
+    "Kimi Antonelli won the United States Grand Prix from pole with a controlled one-stop drive, moving within two points of the Formula One world championship. Charles Leclerc finished second after late passes on Lando Norris and Max Verstappen, with Verstappen third and Lewis Hamilton fourth. George Russell’s eighth place kept the title mathematically alive, but Antonelli now leads him by 123 points with 125 remaining.",
+    "In Mexico City next weekend, Antonelli is guaranteed the championship by finishing ninth or better. If Hamilton wins, tenth is enough. The only path to delay him requires either Russell or Hamilton to win while Antonelli scores too little. At 20, he is set to become the youngest world champion, beating Sebastian Vettel’s record by more than three years, and the first Italian champion since Alberto Ascari in 1953.",
+    "Mercedes team principal Toto Wolff called Austin Antonelli’s best performance because he handled his first title opportunity without tightening up. The car’s Malaysia upgrade has a narrow operating window and initially appeared slower; in Austin, Antonelli’s aggressive style matched it while Russell struggled. Antonelli believes his recovery from 19th to win at Monza was more spectacular, but calls this race cleaner in execution. He has now won nine times this season. The championship is not formally decided, yet the remaining mathematics reflects the broader reality: rivals can postpone the celebration, but only an extraordinary collapse across the final rounds could change the outcome."
+   ],
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/c6wyvnlx0erxo?at_medium=RSS&at_campaign=rss",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-26T01:24:51+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/c6wyvnlx0erxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/cmpwgnekx1e0o?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "name": "Indian Express",
+   "section": "world",
+   "status": "ok",
+   "count": 43
+  },
+  {
+   "name": "NDTV",
+   "section": "world",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "The Hindu",
+   "section": "world",
+   "status": "ok",
+   "count": 60
+  },
+  {
+   "name": "Times of India",
+   "section": "world",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "BBC News",
+   "section": "world",
+   "status": "ok",
+   "count": 26
+  },
+  {
+   "name": "The Guardian",
+   "section": "world",
+   "status": "ok",
+   "count": 35
+  },
+  {
+   "name": "TechCrunch",
+   "section": "technology",
+   "status": "ok",
+   "count": 16
+  },
+  {
+   "name": "The Verge",
+   "section": "technology",
+   "status": "ok",
+   "count": 10
+  },
+  {
+   "name": "BBC News",
+   "section": "technology",
+   "status": "ok",
+   "count": 1
+  },
+  {
+   "name": "Indian Express",
+   "section": "business",
+   "status": "ok",
+   "count": 4
+  },
+  {
+   "name": "BBC News",
+   "section": "business",
+   "status": "ok",
+   "count": 12
+  },
+  {
+   "name": "Economic Times",
+   "section": "business",
+   "status": "ok",
+   "count": 50
+  },
+  {
+   "name": "BBC Sport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 7
+  },
+  {
+   "name": "Autosport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 14
+  },
+  {
+   "name": "BBC Sport",
+   "section": "sport",
+   "status": "ok",
+   "count": 55
+  },
+  {
+   "name": "Indian Express",
+   "section": "sport",
+   "status": "ok",
+   "count": 35
+  },
+  {
+   "name": "Gadgets 360",
+   "section": "deals",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Indian Express",
+   "section": "local",
+   "status": "ok",
+   "count": 0
+  }
+ ]
+}

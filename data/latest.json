@@ -1,0 +1,635 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-10-30",
+ "generatedAt": "2026-10-30T02:20:28.348601+00:00",
+ "timezone": "Asia/Kolkata",
+ "windowHours": 48,
+ "primaryWindowHours": 24,
+ "summaryMode": "original-articles",
+ "localLimit": 1,
+ "stories": [
+  {
+   "id": "927698c982f0f5113cd1",
+   "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+   "deck": "Mistral has opened the weights of its largest model yet, pitching local control as an advantage for cyber defence and other sensitive work.",
+   "summary": [
+    "Mistral has released the weights for Mistral Large 4, a trillion-parameter model nicknamed “Le Chonk”, through Hugging Face while also offering it through the company’s API. The open-weight release means organisations can run the model on their own infrastructure or inside controlled environments, a potentially important distinction for security teams that do not want sensitive telemetry or incident data leaving their networks. Mistral is positioning that control as a practical advantage over closed models in cybersecurity, where defenders may need to tune systems for internal tools and rapidly changing threats.",
+    "The company says Large 4 can perform agentic coding and security tasks efficiently, claiming results comparable with GLM-5.3 while using 47% fewer tokens per task and a leading score among open models on an agentic coding index. Those are vendor claims, not an independent guarantee of real-world performance. Releasing capable weights also creates a familiar dual-use tension: defenders can inspect, customise and deploy the model, while malicious actors may try the same capabilities. For buyers, the notable development is therefore less a single benchmark than the option to combine frontier-scale software with on-premises governance, audit and specialised tooling."
+   ],
+   "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-29T17:00:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+    }
+   ]
+  },
+  {
+   "id": "01ac0793a1c05adf4e01",
+   "title": "Fintechs to lay out a code for technology vendors amid rising cyberthreats and security risks",
+   "deck": "India’s fintech industry body is drafting standards for the outside technology firms on which banks and lenders increasingly depend.",
+   "summary": [
+    "The RBI-recognised Unified Fintech Forum is developing a code for technology service providers and regulatory-technology vendors used across India’s financial sector. The proposed framework is expected to cover governance, cybersecurity preparedness, operational resilience and accountability. Banks and fintech companies now outsource a wide range of functions—from customer onboarding and KYC checks to underwriting, loan-management systems and collections—so a weakness at one vendor can expose several regulated institutions at once.",
+    "The forum’s approach could create a practical accreditation layer even if it is not a formal licence. Vendors that register, document controls and comply with the code may receive preference from banks and fintech buyers, while weaker providers would face more scrutiny. That would give regulated firms a common baseline for due diligence rather than forcing each to assess every supplier from scratch. The ultimate responsibility, however, remains with the bank or fintech using the service: outsourcing a process does not outsource regulatory accountability. The draft is significant because recent attacks have shown that third parties can be the shortest route into otherwise well-defended financial systems. Details of enforcement, audits and consequences for non-compliance will determine whether the code becomes more than a voluntary checklist."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/banking/finance/fintechs-to-lay-out-a-code-for-technology-vendors-amid-rising-cyberthreats-and-security-risks/articleshow/135329528.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-29T19:39:03+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/banking/finance/fintechs-to-lay-out-a-code-for-technology-vendors-amid-rising-cyberthreats-and-security-risks/articleshow/135329528.cms"
+    }
+   ]
+  },
+  {
+   "id": "bcc00425ffe43ea980f8",
+   "title": "OnePlus Ace 7 Pro and Ace 7 Launched With 9,000mAh Battery, 200-Megapixel Rear Camera: Price, Specifications",
+   "deck": "OnePlus has launched two high-end Ace phones in China, but there is no confirmed Indian sale or discount to act on yet.",
+   "summary": [
+    "OnePlus has introduced the Ace 7 and Ace 7 Pro in China, with sales due to begin on November 3 through Oppo’s Chinese store. The Ace 7 starts at CNY 4,399 for 12GB of memory and 256GB of storage, while the Pro starts at CNY 4,799. The top Pro configuration, with 16GB and 1TB, is listed at CNY 7,299. Both phones pair a 9,000mAh battery with 100W wired charging and a 6.78-inch display capable of a 185Hz refresh rate.",
+    "The Pro model uses the newer Snapdragon 8 Elite generation and leads with a 200-megapixel main camera; exact chip and camera combinations vary by model, so the shared headline specifications should not be read as identical hardware. These are launch prices rather than verified discounts, and the phones are currently China-market products. OnePlus has not confirmed Indian availability, local warranty terms or rupee pricing. Importing would introduce tax, network-band and service risks, so there is no sensible India “deal” to recommend today. The useful signal is the specification trend: very large silicon-carbon batteries and gaming-focused high-refresh displays are moving into more flagship-tier phones without increasing charging times proportionately."
+   ],
+   "url": "https://www.gadgets360.com/mobiles/news/oneplus-ace-7-pro-price-launch-sale-date-specifications-features-12254174",
+   "section": "deals",
+   "scope": "deals",
+   "source": "Gadgets 360",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-10-29T12:15:35+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Gadgets 360",
+     "group": "ndtv",
+     "url": "https://www.gadgets360.com/mobiles/news/oneplus-ace-7-pro-price-launch-sale-date-specifications-features-12254174"
+    }
+   ]
+  },
+  {
+   "id": "79cec0107600d9d54854",
+   "title": "Meta quietly launches an AI fashion app called Style Sketch",
+   "deck": "Meta is testing a standalone wardrobe assistant that turns Instagram posts and phone photos into a virtual closet.",
+   "summary": [
+    "Meta has quietly released Style Sketch, an AI fashion app that connects to Instagram to identify clothing from photographs already shared there. Users can also add garments by taking a picture, recording a short video or uploading from the camera roll. The app then proposes combinations from the resulting virtual closet, can visualise them on a generated model intended to resemble the user’s body shape and skin tone, and suggests particular items to complete an outfit.",
+    "Style Sketch also offers trip-planning and weather-aware packing ideas, moving it beyond a simple image generator toward a personal inventory tool. It is available on iOS and Android in Indonesia, Singapore and Thailand; Meta has not announced a broader launch, and did not comment on its plans. The experiment fits a crowded category that includes wardrobe app Alta and image-based discovery features in Google Photos. Meta’s advantage is access—subject to user permission—to years of clothing photos already stored on Instagram, reducing the work of cataloguing a wardrobe. The harder questions will be whether recommendations remain useful after the novelty fades, how accurately the app represents different bodies, and what data boundaries Meta applies when personal images are analysed outside the main social network."
+   ],
+   "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-29T19:14:36+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
+    }
+   ]
+  },
+  {
+   "id": "06fa0e4540548db09e4e",
+   "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+   "deck": "Dream is training a construction-specific world model on American building records, with a16z leading its $17 million seed round.",
+   "summary": [
+    "Former Palantir executives Andy Elder and Arjun Mathur have launched Dream, a construction-technology startup backed by a $17 million seed round led by Andreessen Horowitz, with SV Angel, XYZ Venture Capital and Zigg Capital also participating. The company says it has trained a “world model” on permit archives covering more than 100 million square feet of US buildings. Rather than merely drawing floor plans, the system is intended to reason about structure, building codes, materials, loads, plumbing and HVAC together.",
+    "Dream’s initial pitch is that a developer can move from a concept to a coordinated whole-building design and cost estimate much faster than in today’s fragmented workflow. The startup says it is working on ten projects in Texas and California. That is promising evidence of use, but not yet independent proof that instant designs survive engineering review, local permitting and construction without costly revisions. Buildings are safety-critical and each jurisdiction has different codes, so licensed architects and engineers will still need to validate outputs. The more immediate opportunity may be helping teams compare early options, catch coordination problems and estimate costs before committing to detailed design. Dream’s Palantir heritage also points to a data-integration approach: joining disconnected drawings, rules and project records may matter as much as the underlying generative model."
+   ],
+   "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-29T16:21:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
+    }
+   ]
+  },
+  {
+   "id": "a888836bd8b4c3e89287",
+   "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+   "deck": "A University of Kentucky administrator received a Humanist accommodation limiting AI use, an unusual test of workplace belief protections.",
+   "summary": [
+    "David Durman, an administrator at the University of Kentucky, has received a workplace accommodation allowing him to avoid using generative AI when it conflicts with his sincerely held Humanist beliefs. Durman, who is nontheistic, argued that reliance on the technology can undermine human agency, critical thought, creativity and livelihoods, and raised environmental concerns. The American Humanist Association assisted him and describes the matter as the first publicly known Humanist accommodation of this kind.",
+    "The agreement is narrower than a general right to reject workplace technology. The university considered the request individually, and Durman must still complete the essential duties of his job. He sought the accommodation before AI use had become mandatory, and the arrangement can be revisited if his role or the tools change. Under US employment law, religious protections can include non-theistic moral and ethical systems, but every case turns on the person’s belief, job requirements and whether accommodation creates undue hardship. The result therefore should not be treated as a universal precedent or legal advice. Its broader significance is managerial: as organisations push AI into routine workflows, they may face objections grounded not only in privacy and accuracy but also in conscience. Clear task-level policies and genuine alternatives could prevent those disputes from becoming all-or-nothing battles."
+   ],
+   "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-30T01:20:48+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
+    }
+   ]
+  },
+  {
+   "id": "b35042356bf7a80acb00",
+   "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+   "deck": "Reddit will test a more logged-in product as search referrals weaken, balancing data protection against the openness that helped it grow.",
+   "summary": [
+    "Reddit says it will increasingly steer visitors toward a logged-in experience after a sharp change in search referrals. Global daily active unique users were 130.3 million in the third quarter, roughly flat sequentially, while US users slipped from 53.2 million to 50.7 million and were 2% lower than a year earlier. Search-driven visits fell by more than one million a week in October, and Reddit warned that daily users could decline by a low-double-digit percentage next quarter if the pattern persists.",
+    "The business itself remains strong: quarterly revenue rose 53% to $895 million, net income increased 74% to $283 million, and advertising produced $847 million. US average revenue per daily user climbed 53% to $13.82. Requiring more accounts could improve ad targeting, retention and protections against automated scraping, while strengthening Reddit’s bargaining position in data-licensing deals with AI companies. The company plans initial tests outside the US in the fourth quarter and says anonymous or incognito browsing will remain possible; it has not set a global deadline. The risk is strategic: public, searchable discussions made Reddit unusually useful both to people and to search engines. Adding friction could deepen engagement among members but reduce discovery by casual readers, especially while AI-generated search answers already divert clicks from publishers and forums."
+   ],
+   "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-29T20:08:31+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
+    }
+   ]
+  },
+  {
+   "id": "f3117e1d89a120caf342",
+   "title": "Rivian expands joint venture with VW to include AI assistant",
+   "deck": "Rivian and Volkswagen are extending their $5.8 billion software partnership to include components of Rivian’s in-car AI assistant.",
+   "summary": [
+    "Rivian will license elements of its in-vehicle AI assistant to Volkswagen under an expansion of their joint venture, whose original purpose was to develop common electrical and software architecture. The companies did not disclose commercial terms, which models will use the system or when it will arrive. Volkswagen’s compact ID. EVERY1 has been mentioned as a possible early beneficiary, but that remains unconfirmed.",
+    "Rivian introduced the assistant for the R1S and R1T in May and expanded it with the R2 in October. Its agent framework interprets a request and routes it to the relevant vehicle function, with the possibility of using specialised third-party agents later. This is different from simply placing a general chatbot on the dashboard: a useful automotive assistant needs reliable access to navigation, charging, climate and vehicle-status systems, and must fail safely. The $5.8 billion Rivian–VW venture, announced in 2024, already shares the less visible architecture that makes those functions possible. Rivian says its vertically integrated design reduced the number of electronic control units in its vehicles from 17 to seven. If VW adopts the assistant, the deal would turn Rivian’s software from a feature of its own comparatively small fleet into a platform component that could reach mass-market cars—provided the partners solve localisation, privacy and safety validation."
+   ],
+   "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-29T20:05:47+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/"
+    }
+   ]
+  },
+  {
+   "id": "5229178591e013ae66fa",
+   "title": "OpenAI-backed Thrive Holdings acquires ADT",
+   "deck": "Thrive’s AI-focused holding company is buying US security provider ADT in a $15.3 billion enterprise-value transaction.",
+   "summary": [
+    "Thrive Holdings has agreed to acquire ADT for $10 a share, valuing the home-security company’s equity at about $7.6 billion and the transaction at roughly $15.3 billion including debt. Thrive Holdings was spun out of Thrive Capital and is backed by and partnered with OpenAI. It already owns more than 75 businesses and says it uses OpenAI models and forward-deployed engineers to modernise their operations.",
+    "ADT gives the group a large installed base in monitored security and smart-home services, but the announcement does not yet specify new AI products, pricing changes or a rollout timetable. That distinction matters: an AI affiliation alone does not establish that cameras or alarms will gain useful features, and any analysis of household sensor data raises substantial privacy and false-alert risks. ADT is expected to continue existing partnerships with Apple and Google rather than replace them immediately. The transaction illustrates the growing “buy and transform” model for deploying AI: instead of selling software to an incumbent, an investor acquires the operating company and embeds technical teams throughout it. The potential upside is faster integration across customer support, installation and monitoring. The risks include leverage, execution and the temptation to automate safety-sensitive decisions before accuracy and human escalation are proven."
+   ],
+   "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-29T19:56:19+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+    }
+   ]
+  },
+  {
+   "id": "9bd384d0e4ef0c07f9b6",
+   "title": "India, Volkswagen clash in court over record $1.2 billion tax dispute",
+   "deck": "Volkswagen is challenging India’s $1.2 billion customs demand, arguing that officials reached too far back and misclassified component imports.",
+   "summary": [
+    "Volkswagen and the Indian government have clashed in court over a customs case that could cost the carmaker about $1.2 billion. Authorities allege that Volkswagen’s Indian operation imported vehicles as separate component shipments and paid duties of roughly 5% to 15%, when the packages should have been treated as nearly complete unassembled vehicles subject to rates of about 30% to 35%. Volkswagen disputes both the characterisation and the process.",
+    "The company argues that the demand reaches years beyond the normal five-year lookback and that it had disclosed its import arrangements. The government says information was not provided in time and has alleged misconduct; those claims remain contested and have not been finally decided. The case is important beyond the tax bill. Volkswagen holds only about 2% of India’s passenger-vehicle market and has been discussing a possible investment by JSW in its local business, so a large unresolved liability complicates strategic decisions. It also tests how India applies customs rules to global manufacturing systems in which components arrive from multiple suppliers at different times. The next hearing was scheduled for Tuesday. Until the court rules, neither the government’s demand nor Volkswagen’s limitation defence should be treated as settled, and investors should distinguish the headline exposure from any amount ultimately payable."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/india-volkswagen-clash-in-court-over-record-1-2-billion-tax-dispute/articleshow/135326272.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-29T18:01:32+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/india-volkswagen-clash-in-court-over-record-1-2-billion-tax-dispute/articleshow/135326272.cms"
+    }
+   ]
+  },
+  {
+   "id": "5d83879efa4167cd6a51",
+   "title": "36 trains cancelled, 30 diverted as Cyclone Arnab disrupts services on Howrah-Chennai route",
+   "deck": "Heavy rain from Cyclone Arnab forced widespread rail changes on the Howrah–Chennai corridor on Thursday; travellers should recheck current status.",
+   "summary": [
+    "Rail services on the Howrah–Chennai route were heavily disrupted on Thursday after Cyclone Arnab brought extreme rain to southern Odisha. The Bahuda river rose above danger level near two bridges in Ganjam district after the area received about 550mm of rain. Railways cancelled 36 trains, diverted 30 and regulated or rescheduled eight while engineers inspected the affected section around Ichchapuram and Jhadupudi.",
+    "The changes affected long-distance and regional services, including the Bhubaneswar–Visakhapatnam Vande Bharat and several trains using the east-coast trunk line. Railway officials said services would be restored only after water levels receded and the track and bridges were judged safe. Odisha authorities were coordinating short-distance road transport where possible. This briefing records Thursday’s disruption, not a live promise about Friday operations: cyclone conditions and restoration decisions can change quickly. Anyone travelling should use the train number in the official Indian Railways enquiry system or contact the operator before leaving, rather than relying on the original cancellation list. The episode also shows why a single flooded segment has national consequences. The Howrah–Chennai corridor carries passenger and freight traffic across eastern India, so diversions can propagate delays far beyond the district directly hit by the storm."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/transportation/railways/36-trains-cancelled-30-diverted-as-cyclone-arnab-disrupts-services-on-howrah-chennai-route/articleshow/135324311.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-29T17:08:04+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/transportation/railways/36-trains-cancelled-30-diverted-as-cyclone-arnab-disrupts-services-on-howrah-chennai-route/articleshow/135324311.cms"
+    }
+   ]
+  },
+  {
+   "id": "530fb705e5efc5bd31a5",
+   "title": "IDBI Bank employees' forum opposes majority stake sale to Fairfax, seeks parliamentary review",
+   "deck": "An IDBI Bank employee group wants Parliament to review the proposed Fairfax takeover, citing valuation, jobs and public-interest concerns.",
+   "summary": [
+    "The IDBI Bank employees’ forum has asked the government to suspend and subject to parliamentary review the planned sale of a 60.72% stake to Fairfax Financial Holdings. The government approved the transaction on October 14 at about ₹81 a share, valuing the stake near ₹53,000 crore, or $5.5 billion. The sale combines the Centre’s 30.48% holding and 30.24% held by Life Insurance Corporation, and is intended to close by the end of the financial year, subject to regulatory approvals.",
+    "The forum is seeking disclosure of the valuation work, the proposed ownership structure and Fairfax’s regulatory record. It points to an independent fair-value figure of ₹75.99 a share but argues that price alone does not answer questions about employment, reservation policies and financial inclusion. IDBI has 19,108 employees, including about 9,500 from Scheduled Caste, Scheduled Tribe and Other Backward Class categories, according to the group. These are objections from employees, not findings that the process is improper. The government has long presented privatisation as a way to raise capital and reduce its role in commercial banking, while critics recall earlier assurances about retaining control. The useful next markers are Reserve Bank approval, the final shareholder documentation and any binding protections for staff and branch access—not the competing political claims on their own."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/idbi-bank-employees-forum-opposes-majority-stake-sale-to-fairfax-seeks-parliamentary-review/articleshow/135319447.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-29T14:24:52+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/idbi-bank-employees-forum-opposes-majority-stake-sale-to-fairfax-seeks-parliamentary-review/articleshow/135319447.cms"
+    }
+   ]
+  },
+  {
+   "id": "324ba127baeaae85ce69",
+   "title": "Godrej Consumer bets on new categories amid commodity inflation",
+   "deck": "Godrej Consumer is entering adjacent household and beauty categories while higher input costs put pressure on established products.",
+   "summary": [
+    "Godrej Consumer Products is expanding into new categories with Zap stain remover, Rizz liquid dishwash and Hair Lab, a no-mix shampoo-format premium hair colour. Rizz is initially being rolled out in selected western and southern markets, while the new launches give the company additional routes to growth as commodity inflation raises production costs and prompts price increases in older categories.",
+    "The latest quarter shows why the strategy matters. Standalone home-care revenue rose 19% to ₹1,329 crore and personal care grew 8% to ₹1,303 crore. Indonesia advanced 20%, while Africa, the US and the Middle East together grew 40%. Consolidated revenue increased 19% to ₹4,413.09 crore, profit after tax rose 13.8% to ₹522.92 crore and EBITDA gained 12% to ₹820 crore. Revenue is growing faster than operating profit, consistent with input-cost and mix pressure. The new products also move Godrej into competitive shelves already occupied by specialist brands and larger consumer-goods rivals, so distribution and repeat purchase will matter more than launch buzz. Hair colour may offer premium margins; dishwash and stain remover can add household frequency. Investors should watch whether the launches expand the market or merely require heavier advertising and discounts to take share."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/godrej-consumer-expands-into-new-categories-with-innovative-products-amid-rising-commodity-prices/articleshow/135313692.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-29T12:50:30+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/godrej-consumer-expands-into-new-categories-with-innovative-products-amid-rising-commodity-prices/articleshow/135313692.cms"
+    }
+   ]
+  },
+  {
+   "id": "863c3bb8c8245960e4ce",
+   "title": "Samsung W27 Launched With 8-Inch Foldable Display, Premium Two-Tone Design: Price, Specifications",
+   "deck": "Samsung’s luxury W27 foldable is on sale only in China; its high price and absent Indian warranty make it a product note, not a deal.",
+   "summary": [
+    "Samsung has launched the W27 in China, a premium two-tone foldable based on the Galaxy Z Fold 8 Ultra. It costs CNY 18,999 with 16GB of memory and 512GB of storage, or CNY 21,999 for 16GB and 1TB, with sales scheduled for November 13. Hardware includes an 8-inch inner display, a 6.5-inch cover screen, refresh rates up to 120Hz and Qualcomm’s Snapdragon 8 Elite Gen 5 platform.",
+    "The camera system is led by a 200-megapixel sensor alongside 50-megapixel and 10-megapixel cameras. A 5,000mAh battery supports 45W wired and 20W wireless charging, and the device weighs 215g. The W line is designed as a China-market luxury variant, so decorative materials and bundled services are part of the positioning as much as raw specifications. These are official launch prices, not verified discounts, and Samsung has not announced an Indian W27 release, rupee price or local warranty. Importing such an expensive foldable would expose a buyer to tax, radio-band and repair complications. Indian shoppers interested in the form factor should compare officially supported Galaxy Fold models rather than treating currency conversion as a bargain. The W27 is mainly a preview of how Samsung is packaging its newest foldable hardware at the very top of the market."
+   ],
+   "url": "https://www.gadgets360.com/mobiles/news/samsung-w27-price-launch-sale-date-specifications-features-12253584",
+   "section": "deals",
+   "scope": "deals",
+   "source": "Gadgets 360",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-10-29T10:40:36+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Gadgets 360",
+     "group": "ndtv",
+     "url": "https://www.gadgets360.com/mobiles/news/samsung-w27-price-launch-sale-date-specifications-features-12253584"
+    }
+   ]
+  },
+  {
+   "id": "7c7eb157253485fa446e",
+   "title": "Election Commission extends final-roll and claims deadlines in six SIR states",
+   "deck": "After a Supreme Court nudge, election officials have given voters more time to challenge exclusions and seek corrections in six states.",
+   "summary": [
+    "The Election Commission has revised the Special Intensive Revision timetable in Delhi, Maharashtra, Haryana, Andhra Pradesh, Telangana and Nagaland. Delhi voters now have until November 25 to file claims and objections; those submissions are to be disposed of by December 15, with the final roll published on December 22. Delhi’s earlier filing deadline was October 30 and the final roll had been due on December 4.",
+    "For the other five states, final publication has been moved to November 30. The change came a day after the Supreme Court asked the Commission to consider more time for voters to challenge the draft lists. The scale in Delhi explains the urgency: 47.56 lakh electors were excluded from the draft roll published on August 31, while 2,75,856 Form 6 applications seeking inclusion had been received by October 28. Form 7 covers deletion requests and Form 8 corrections or changes. An extension does not resolve the underlying disputes over the revision, but it gives affected voters a wider procedural window. Anyone missing from a draft roll should use official election portals or local electoral officers rather than assuming the final list will correct itself. The key accountability test is whether claims are processed transparently and before the new publication dates."
+   ],
+   "url": "https://indianexpress.com/article/india/day-after-supreme-court-nudge-deadline-extended-for-final-sir-rolls-filing-claims-in-6-states-10942634/",
+   "section": "world",
+   "scope": "india",
+   "source": "The Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-10-30T05:08:00+05:30",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/day-after-supreme-court-nudge-deadline-extended-for-final-sir-rolls-filing-claims-in-6-states-10942634/"
+    }
+   ]
+  },
+  {
+   "id": "8b1d66e51bb1e5c361ff",
+   "title": "JD Vance letter opens a narrow channel for US–Iran diplomacy",
+   "deck": "A personal message from the US vice-president has revived talks, but the sides remain far apart on uranium, sanctions and guarantees.",
+   "summary": [
+    "A personal letter from US Vice-President JD Vance to Iranian security official Mohsen Rezaei has opened a narrow diplomatic route as Washington and Tehran try to avoid another round of conflict after the US midterm elections. The US is seeking early, specific steps to remove or neutralise Iran’s highly enriched uranium, linked to sanctions relief and reopening the Strait of Hormuz within seven days.",
+    "Iran objects to making irreversible nuclear concessions in exchange for measures it believes Washington could reverse, and remains wary of restoring UN inspections after an earlier agreement collapsed. Tehran has offered to blend down its uranium stockpile and says progress requires agreement on seven conditions, including sanctions relief and an end to fighting on all fronts, including Lebanon. China has been discussed as a possible guarantor. Vance’s direct involvement indicates that diplomacy is still active, but Iran questions whether he can ensure US implementation. The stakes are high: reported US planning includes targets previously considered off limits, while Iran has prepared possible retaliation against Gulf infrastructure. Senator Chris Murphy has publicly warned against escalation. None of the proposals amounts to a deal, and the report relies on diplomatic positioning that may change. The practical signal is that both sides are still testing terms before military options close the channel."
+   ],
+   "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
+   "section": "world",
+   "scope": "world",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-10-29T15:32:00-04:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran"
+    }
+   ]
+  },
+  {
+   "id": "c0516897274186553d47",
+   "title": "Ill Kimi Antonelli misses Mexico Grand Prix media day",
+   "deck": "Mercedes expects its championship leader back on Friday after a viral illness kept him from Thursday’s media activities.",
+   "summary": [
+    "Kimi Antonelli missed Thursday’s Formula One media programme at the Mexico Grand Prix because he was recovering from a viral illness. Mercedes said the 20-year-old was feeling under the weather and that the FIA had excused him from the day’s obligations. The team expected him to return on Friday, so the absence was not presented as a withdrawal from the race weekend.",
+    "Antonelli arrives in Mexico on the verge of a first world title. A ninth-place finish on Sunday would be sufficient, as would any result in which neither George Russell nor Lewis Hamilton wins. Clinching would make the Italian the youngest F1 champion, beating Sebastian Vettel’s 2010 age record by more than three years. Cadillac’s Valtteri Bottas also skipped media day after feeling unwell; his team called the rest precautionary and said it did not then affect participation in the rest of the weekend. Both situations require fresh medical and team updates before practice, and Thursday’s expectations should not be read as confirmation that either driver is cleared. For Mercedes, the immediate priority is recovery rather than media preparation: altitude, heat and the demands of qualifying make Mexico a poor place to race below full fitness, even with a large championship cushion."
+   ],
+   "url": "https://www.autosport.com/f1/news/unwell-kimi-antonelli-skips-f1-mexico-gp-media-day/10869370/",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-10-29T17:07:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/unwell-kimi-antonelli-skips-f1-mexico-gp-media-day/10869370/"
+    }
+   ]
+  },
+  {
+   "id": "d9d29d60eb5c94bf3e65",
+   "title": "India beat China 5–2 to lead the Asian Champions Trophy table",
+   "deck": "Harmanpreet Singh and Sukhjeet Singh scored twice each as India turned a level first half into a comfortable second win.",
+   "summary": [
+    "India defeated China 5–2 at the Olympian Surjit Singh Hockey Stadium, following Tuesday’s 13–0 win over Bangladesh and moving to the top of the six-team Asian Champions Trophy standings. Sukhjeet Singh opened the scoring late in the first quarter with an excellent control and lob after Jugraj Singh found him in space. China equalised four minutes before half-time, but captain Harmanpreet Singh restored the lead from a penalty corner only a minute later.",
+    "Harmanpreet struck again just after the break, Sukhjeet completed a brace and Jugraj also scored. Three of India’s five goals came from penalty corners, although China scored both of its goals from set plays as well. Coach Craig Fulton welcomed the four-quarter consistency and strength of the penalty-corner units, but noted that India’s early circle entries produced too few clean chances. He also credited China’s shape, work rate and goalkeeping; the opening goal had come against the run of play after a frustrating start. China had narrowly lost 5–4 to Asian Games silver medallists Malaysia in its first match, so the score did not reflect a passive opponent. India faces Japan on Friday. The larger test is whether the hosts can keep converting territorial dominance against stronger defences rather than relying on a late surge."
+   ],
+   "url": "https://indianexpress.com/article/sports/hockey/asian-champions-trophy-india-thrash-china-5-2-10942585/",
+   "section": "sport",
+   "scope": "sport",
+   "source": "The Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-10-29T23:35:00+05:30",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/sports/hockey/asian-champions-trophy-india-thrash-china-5-2-10942585/"
+    }
+   ]
+  },
+  {
+   "id": "49afb46f3feb008ab69c",
+   "title": "Manisha Bhanwala reaches wrestling world final at 59kg",
+   "deck": "The Haryana wrestler can become India’s first women’s world champion when she faces US Pan-American champion Abigail Nette.",
+   "summary": [
+    "Manisha Bhanwala pinned Kazakhstan’s Altyn Shagayeva in the 59kg semi-final at the World Wrestling Championships in Astana, becoming the third Indian woman to reach a title bout at this edition. The result also guaranteed India a fourth medal after Tanu Sharma’s bronze at 72kg. In Friday’s final, the 29-year-old from Jind will meet reigning Pan-American champion Abigail Elizabeth Nette of the United States, with a chance to become India’s first women’s wrestling world champion.",
+    "Bhanwala moved up from 57kg after finishing without a medal at the Aichi–Nagoya Asian Games, where she lost 3–0 to Japanese great Akari Fujinami. Coach Mandeep Singh said their short turnaround focused on endurance, early scoring and maintaining positions through the last minute. In Astana, Bhanwala first beat Canada’s Laurence Beauregard by fall, then defeated Mongolia’s Bolortuya Khurelkhuu 6–0 in the quarter-final. Elsewhere, Asian Games champion Sujeet Kalkal lost his 65kg quarter-final to Tajikistan’s Abdulmazhid Kudiev on last-score criteria after a 3–3 finish. Vicky Hooda entered 97kg repechage when Japan’s Arash Yoshida reached the final and is due to face Iran’s Hassan Yazdani. Bhanwala’s medal colour remains undecided; the breakthrough is reaching the final, not yet winning the title."
+   ],
+   "url": "https://indianexpress.com/article/sports/manisha-bhanwala-one-win-away-india-first-women-world-champion-10942593/",
+   "section": "sport",
+   "scope": "sport",
+   "source": "The Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-10-29T23:46:00+05:30",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/sports/manisha-bhanwala-one-win-away-india-first-women-world-champion-10942593/"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "name": "Indian Express",
+   "section": "world",
+   "status": "unavailable",
+   "count": 0
+  },
+  {
+   "name": "NDTV",
+   "section": "world",
+   "status": "unavailable",
+   "count": 0
+  },
+  {
+   "name": "The Hindu",
+   "section": "world",
+   "status": "unavailable",
+   "count": 0
+  },
+  {
+   "name": "Times of India",
+   "section": "world",
+   "status": "unavailable",
+   "count": 0
+  },
+  {
+   "name": "BBC News",
+   "section": "world",
+   "status": "unavailable",
+   "count": 0
+  },
+  {
+   "name": "The Guardian",
+   "section": "world",
+   "status": "unavailable",
+   "count": 0
+  },
+  {
+   "name": "TechCrunch",
+   "section": "technology",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "The Verge",
+   "section": "technology",
+   "status": "unavailable",
+   "count": 0
+  },
+  {
+   "name": "BBC News",
+   "section": "technology",
+   "status": "unavailable",
+   "count": 0
+  },
+  {
+   "name": "Indian Express",
+   "section": "business",
+   "status": "unavailable",
+   "count": 0
+  },
+  {
+   "name": "BBC News",
+   "section": "business",
+   "status": "unavailable",
+   "count": 0
+  },
+  {
+   "name": "Economic Times",
+   "section": "business",
+   "status": "ok",
+   "count": 50
+  },
+  {
+   "name": "BBC Sport",
+   "section": "formula-one",
+   "status": "unavailable",
+   "count": 0
+  },
+  {
+   "name": "Autosport",
+   "section": "formula-one",
+   "status": "unavailable",
+   "count": 0
+  },
+  {
+   "name": "BBC Sport",
+   "section": "sport",
+   "status": "unavailable",
+   "count": 0
+  },
+  {
+   "name": "Indian Express",
+   "section": "sport",
+   "status": "unavailable",
+   "count": 0
+  },
+  {
+   "name": "Gadgets 360",
+   "section": "deals",
+   "status": "ok",
+   "count": 10
+  },
+  {
+   "name": "Indian Express",
+   "section": "local",
+   "status": "unavailable",
+   "count": 0
+  }
+ ]
+}

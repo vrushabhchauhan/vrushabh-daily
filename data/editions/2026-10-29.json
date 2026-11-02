@@ -1,0 +1,721 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-10-29",
+ "generatedAt": "2026-10-29T01:57:23.297479+00:00",
+ "timezone": "Asia/Kolkata",
+ "windowHours": 48,
+ "primaryWindowHours": 24,
+ "summaryMode": "original-articles",
+ "localLimit": 1,
+ "stories": [
+  {
+   "id": "7b5653451a244c2d34ef",
+   "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+   "deck": "Google says Gemini 4 Carbon advances long-running software and cyber-defence tasks, but access is initially restricted to selected security partners.",
+   "summary": [
+    "Google has introduced Gemini 4 Carbon, a frontier model aimed at coding, agentic engineering and cybersecurity. The company says it leads the Artificial Analysis Intelligence Index v5.0 and two security benchmarks: SEC-bench Pro, which tests discovery of real software flaws, and ExploitGym, which evaluates turning vulnerabilities into exploits. Benchmark leadership is useful evidence, but it is not the same as safe performance across a customer’s codebase, and Google’s claims still need independent, task-specific testing.",
+    "Carbon is initially available only to selected cyber-defence companies and will later expand through Google’s Fairwind programme. Google says internal teams have run it for days through dead ends on complex jobs, with better resistance to prompt injection and fewer unsupported claims than the Argon model released earlier in October. That combination is important because a security agent needs persistence without silently taking unsafe shortcuts. Introductory pricing is $2 per million input tokens and $10 per million output tokens, matching Argon. The controlled rollout also reflects the dual-use risk: the same ability to locate and operationalise flaws can help defenders or attackers, so permissions, sandboxing, audit logs and human approval remain as important as raw benchmark scores."
+   ],
+   "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-10-28T20:03:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+    }
+   ]
+  },
+  {
+   "id": "bb1f2f07f5994d40a024",
+   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+   "deck": "Anthropic is giving enterprise customers reports and pooled budgets to connect rapidly growing Claude usage with cost, output quality and workflow failures.",
+   "summary": [
+    "Anthropic has launched reporting tools that combine internal usage analytics with employee surveys to show managers what a team produced, what it cost and where AI-assisted workflows broke down over a chosen period. Reports will recommend improvements, while pooled group budgets are intended to control token spending across teams. Anthropic says the underlying data will not be used for model training by default. The release follows investor figures showing Claude Code helped the company reach an operating profit in the second quarter and unusually strong expansion within existing customers.",
+    "The need is practical. Jellyfish analysed 276,000 software-tool users and found Anthropic models generated nearly a third of proposed code changes, while spending on agentic coding tools grew tenfold this year to about 2% of engineering cost. That is still a small share, but its speed can outrun a CFO’s budget. Most large companies also have not demonstrated broad productivity gains from AI. Anthropic’s reports resemble a lighter form of embedded consulting: they may reveal adoption, cost and bottlenecks, but customers should measure accepted code, defects, cycle time and business outcomes—not token consumption alone. Workflow customisation and staff training also create switching costs, which helps explain why enterprise incumbency can matter as much as small model-quality differences."
+   ],
+   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-28T19:19:58+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
+    }
+   ]
+  },
+  {
+   "id": "96beee5d491f93afb06e",
+   "title": "Microsoft profits soar days after announcing thousands of layoffs",
+   "deck": "Microsoft’s quarterly profit exceeded $36.6 billion as cloud revenue accelerated, sharpening the contrast with a voluntary-exit offer covering about 60,000 workers.",
+   "summary": [
+    "Microsoft reported more than $36.6 billion in profit for the three months through September on revenue of $92.3 billion, up 19% from a year earlier. Microsoft Cloud revenue grew 30%, and shares rose about 2.9% after hours. Chief executive Satya Nadella said AI adoption was producing real-world impact, while the company also warned that its substantial infrastructure investment creates financial risk. Major technology groups are expected to spend more than $700 billion this year on AI chips and data centres, making investors unusually sensitive to evidence that usage can support that bill.",
+    "The results arrived days after Microsoft offered voluntary exits to eligible staff in Canada, India, the UK and US—about 60,000 people, or more than a quarter of its workforce. A buyout offer is not the same as 60,000 confirmed departures, and Microsoft describes it as adapting to changing needs while providing financial and career support. Still, record earnings and workforce reduction can coexist when management redirects spending toward compute and priority products. The central question is whether cloud and AI revenue keep growing fast enough to fund capacity without weakening the people and services customers rely on. Alphabet’s simultaneous profit decline and share fall showed how differently markets can react when heavy AI investment is not matched by expected near-term results."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+   "section": "technology",
+   "scope": "technology",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-29T01:27:40+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "612ce8619b889e310037",
+   "title": "Hyundai Motor India's Q2 profit falls 24% as commodity costs blunt tax-cut boost to demand",
+   "deck": "Hyundai Motor India crossed ₹20,000 crore in quarterly revenue for the first time, yet higher material costs drove a 24% profit decline.",
+   "summary": [
+    "Hyundai Motor India reported September-quarter revenue of ₹20,696 crore, up from ₹17,461 crore a year earlier, as demand remained strong after earlier GST reductions. Profit after tax nevertheless fell about 24%, from ₹1,572 crore to ₹1,196 crore. Expenses climbed 24% to ₹19,302 crore, with copper, steel and other inputs becoming more expensive amid commodity volatility and the West Asian conflict. Higher sales therefore failed to translate into higher earnings.",
+    "The company says product mix, operating leverage and cost controls improved its EBITDA margin sequentially, but the comparison shows how quickly raw materials can absorb a volume-led benefit. Hyundai expects stronger second-half momentum from the Bayon and plans a dedicated mass-market electric vehicle in the fourth quarter of FY27. It is also expanding capacity and localisation, which could reduce some exposure over time. The outlook remains mixed: vehicle demand is resilient, but year-on-year comparisons will become harder because last year’s tax cuts boosted sales, and input inflation is affecting rivals such as Maruti Suzuki too. Investors should watch whether pricing and localisation protect margins without eroding demand, rather than reading the revenue milestone alone as evidence of improved profitability."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-indias-q2-profit-falls-24-as-commodity-costs-blunt-tax-cut-boost-to-demand/articleshow/135260405.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-28T09:59:23+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-indias-q2-profit-falls-24-as-commodity-costs-blunt-tax-cut-boost-to-demand/articleshow/135260405.cms"
+    }
+   ]
+  },
+  {
+   "id": "74f0a89ba6cd8f80d6e5",
+   "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+   "deck": "Britain’s first Budget under John Healey offers modest cost-of-living relief funded partly by banks while postponing larger welfare and defence decisions.",
+   "summary": [
+    "UK Chancellor John Healey announced a one-off £100 energy payment for households in English council-tax bands A–D, with Wales matching it and Scotland planning an equivalent. Gas standing charges are to be removed in 2027 or soon after, although the cost will shift into unit prices and heavy users may pay more. The 5p fuel-duty cut continues to July, minimum wages rise 3.9% in April, and pensioners living only on the state pension will be protected from a tax bill. A bank-profit surcharge rises from 3% to 6% between January and April 2028.",
+    "High-street business-rate relief expands by raising the threshold from £12,000 to £18,000, excluding vape shops and adult gaming centres. Cash ISA limits will stay at £20,000, but tax on savings and rental income rises to 24% for basic-rate taxpayers from April 2027. Income-tax thresholds remain frozen. The Office for Budget Responsibility cut next year’s growth forecast to 1% and expects households to be little better off than before Covid even a decade later; debt-interest spending is £14 billion above plan. Defence funding and major welfare reforms wait for next year. The package therefore redistributes at the edges rather than resolving the UK’s weak growth, high energy costs and fiscal constraint."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+   "section": "business",
+   "scope": "business",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-28T18:45:09+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "6bee66c68344ebc9fe31",
+   "title": "Akal Takht Jathedar Flags Punjab's Drug Menace At UK Parliament",
+   "deck": "The Akal Takht’s Jathedar has urged Punjab to pair stronger action against drug supply with compassionate, evidence-based recovery and rehabilitation.",
+   "summary": [
+    "Giani Kuldip Singh Gargajj, Jathedar of Sri Akal Takht Sahib, used the Sikh Recovery Network’s tenth-anniversary event at the UK Parliament to call for a structured addiction programme in Punjab. He invited the UK-based network to visit the state, work with people in recovery and adapt its model locally. His argument was that enforcement and treatment must operate together: reducing drug availability can prevent new addiction, while people already dependent need support, compassion and help returning to family and work rather than blame alone.",
+    "Gargajj said Punjab has de-addiction centres but questioned their results, particularly approaches that rely heavily on substitute medication without addressing psychological, social and employment needs. The event heard from people who had rebuilt their lives and included a tribute to anti-drug activist Bhai Parminder Singh, killed in Mansa while campaigning; Gargajj prayed for justice in the case. UK MPs and Lord Kuldip Singh Sahota attended. The proposed collaboration is still an invitation, not an implemented programme. Any Punjab model will need clinical standards, trained counsellors, relapse support, family involvement, outcome measurement and protection for community workers, alongside policing that disrupts supply without deterring patients from seeking care."
+   ],
+   "url": "https://www.ndtv.com/india-news/akal-takht-jathedar-flags-punjabs-drug-menace-at-uk-parliament-12250898",
+   "section": "world",
+   "scope": "india",
+   "source": "NDTV",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-10-28T18:59:48+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/akal-takht-jathedar-flags-punjabs-drug-menace-at-uk-parliament-12250898"
+    }
+   ]
+  },
+  {
+   "id": "0a0d9d55ddba5ec3db52",
+   "title": "Poland pivots towards India as ‘strategic partnership’ with China develops cracks",
+   "deck": "Poland is deepening trade, defence and innovation links with India as disappointment with China and security concerns reshape its Asian strategy.",
+   "summary": [
+    "Polish Prime Minister Donald Tusk’s India visit—the first by a Polish leader in 16 years—builds on Narendra Modi’s 2024 Warsaw trip and the elevation of ties to a strategic partnership. The two countries want bilateral trade to rise from roughly $6 billion to $10 billion, with defence, research and an expected India–EU trade agreement offering new routes. Poland’s Łukasiewicz–ITECH research network has placed India with Taiwan and South Korea in an Asian programme intended to produce concrete innovation partnerships and reduce dependence on China for critical minerals and technologies.",
+    "The pivot follows a failed earlier expectation that Chinese investment and the Belt and Road Initiative would narrow Poland’s trade deficit. Former ambassador Adam Burakowski estimates bilateral China trade near $60 billion, of which about $58 billion is Chinese exports to Poland. Russia’s 2022 invasion of Ukraine further hardened views because Poland sees Beijing as enabling Moscow. Warsaw has also restricted Chinese vehicles at military sites, while the EU considers limits on high-risk suppliers. India is not a simple replacement: Poland will still trade heavily with China and must evaluate suppliers on cost, security and resilience. The opportunity is to convert political enthusiasm into investment, market access, joint development and diversified supply chains."
+   ],
+   "url": "https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece",
+   "section": "world",
+   "scope": "india",
+   "source": "The Hindu",
+   "sourceGroup": "the-hindu",
+   "publishedAt": "2026-10-29T01:49:39+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece"
+    }
+   ]
+  },
+  {
+   "id": "a1ae85867200e97643d0",
+   "title": "Yet to test legality of logical discrepancy in SIR: Supreme Court",
+   "deck": "India’s Supreme Court says its earlier approval of electoral-roll revision did not decide whether ‘logical discrepancy’ is a lawful reason to reopen voter entries.",
+   "summary": [
+    "The Supreme Court has clarified that its judgment upholding the Special Intensive Revision in Bihar did not examine the Election Commission’s later use of “logical discrepancy” to issue notices or exclude names. The criterion was first used in West Bengal and has become central to challenges over Delhi’s draft rolls. Petitioners say large numbers of voters were removed on that basis. The bench asked how the commission could treat entries in the 2003 roll as a baseline and simultaneously reopen those same entries as potentially ineligible.",
+    "In May, the court found that the ECI had power to conduct SIR, that its purpose was legitimate and proportionate, and that the process did not conflict with election law. That decision addressed removal of dead, shifted or duplicate voters and recognised procedural safeguards; it did not automatically validate every later filter. The bench had previously suggested extra checks to prevent mechanical notices and now says it will examine logical discrepancy separately. Opposition parties, including a petition led by Rahul Gandhi and the INDIA bloc, allege arbitrary exclusion. The next legal question is therefore narrower but consequential: what objective evidence can trigger review of an existing voter, and what notice, hearing and correction rights are required before the roll changes."
+   ],
+   "url": "https://timesofindia.indiatimes.com/india/yet-to-test-legality-of-logical-discrepancy-in-sir-supreme-court/articleshow/135283243.cms",
+   "section": "world",
+   "scope": "india",
+   "source": "Times of India",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-28T22:46:50+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/yet-to-test-legality-of-logical-discrepancy-in-sir-supreme-court/articleshow/135283243.cms"
+    }
+   ]
+  },
+  {
+   "id": "bb3b78e1ea629e03414d",
+   "title": "Israel's election deadlock is a sign of the country's deep divisions",
+   "deck": "Israel’s election produced record participation but no governing majority, leaving coalition talks to bridge—or expose—deep religious, ethnic and security divisions.",
+   "summary": [
+    "Neither Benjamin Netanyahu’s bloc nor the opposition won a Knesset majority. Likud remains the largest party despite significant losses, while parties representing Arab citizens made large gains to roughly 15% of the vote and the far right won about 10%. President Isaac Herzog will open consultations and has urged leaders to avoid another election. Israel’s proportional system always requires coalition building, but this result offers no obvious combination that can command parliament without major compromises.",
+    "The possible deals cut across the campaign’s defining fractures: judicial reform, responsibility for the 7 October attacks, the Gaza war and hostages, ultra-Orthodox exemptions from military service, and the role of Arab parties. Netanyahu could abandon religious allies and seek opposition right-wing partners; the opposition could work with Arab parties to remove him; or repeated talks could fail. Each option asks leaders to reverse commitments or cooperate with groups their voters distrust. The account is political analysis rather than a final seat-by-seat coalition forecast, and formal results and negotiations will determine the path. Still, record Jewish and Arab turnout shows participation is strong even as the shared basis for governing has become harder to identify."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-28T20:53:02+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "3e598d4957cf0064bb4a",
+   "title": "FIA announces new partnership to help drive future F1 regulations",
+   "deck": "The FIA will use Amazon cloud and AI tools for aerodynamic simulation, regulation development and licensing, extending digital systems from Formula One to grassroots motorsport.",
+   "summary": [
+    "The FIA has named Amazon Web Services its official AI and cloud-computing partner. The governing body already runs aerodynamic simulations on AWS high-performance computing, allowing engineers to model airflow and evaluate potential rules without manufacturing every physical part. It now plans to use a broader AI toolset while developing future technical regulations. Faster simulation could let regulators test more vehicle concepts and unintended consequences, though any AI-assisted recommendation still requires transparent engineering validation and human rulemaking.",
+    "The partnership also expands a digital licensing platform first trialled in Canada and Sri Lanka. More national sporting authorities will use it to administer licences and help drivers, officials and volunteers register for events. FIA president Mohammed Ben Sulayem links the work to a goal of doubling global motorsport participation. AWS has separately worked with Formula One management since 2018, processing telemetry for broadcast strategy predictions, but the new arrangement concerns the governing body’s own operations. The practical benefits will be measured by regulatory quality, simulation reproducibility, service reliability and whether smaller member clubs actually face less administrative burden—not simply by the presence of AI in the development process."
+   ],
+   "url": "https://www.autosport.com/f1/news/fia-announces-new-partnership-to-help-drive-future-f1-regulations/10868916/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-10-28T08:00:03+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/fia-announces-new-partnership-to-help-drive-future-f1-regulations/10868916/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    }
+   ]
+  },
+  {
+   "id": "3c13fae042a5edc74e47",
+   "title": "Perez signs multi-year extension with Cadillac",
+   "deck": "Sergio Pérez has extended his Cadillac contract through 2029, giving the new Formula One team continuity despite a point-less debut season.",
+   "summary": [
+    "Cadillac has signed Sergio Pérez to a multi-year extension that keeps him with the American Formula One project until 2029. The Mexican turns 36 as he reaches his 300th Grand Prix at Mexico City this weekend. He joined Cadillac before its 2026 debut alongside Valtteri Bottas and says building a team from scratch requires patience and sustained work. Neither driver has scored a point, and Pérez sits last in the standings, with three 14th-place finishes his best results.",
+    "The deal reflects a long-term development choice rather than a reward for current results. Pérez has six Grand Prix victories, finished third in the 2022 championship and second to Red Bull team-mate Max Verstappen in 2023, but Red Bull released him after 2024 when it concluded he could no longer provide the needed support. Cadillac values that experience while establishing operations, car development and future engine plans. The extension offers stability through the next regulatory cycle, but it also commits a seat as Pérez approaches 39. Success will be judged by whether his feedback accelerates the team toward points and whether his race execution remains strong enough as the car improves."
+   ],
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/cqde852ww04ko?at_medium=RSS&at_campaign=rss",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-28T16:10:07+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/cqde852ww04ko?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "f439fcad4a4c9fad302a",
+   "title": "Kajal falls short at World Championships, but her Sonepat academy has its laddoos",
+   "deck": "Eighteen-year-old Kajal Dhochak narrowly lost her heavyweight final in Astana but became India’s first woman in the category to win a World Championship medal.",
+   "summary": [
+    "Kajal Dhochak lost 8–6 to Ukraine’s two-time European champion Anastasiya Alpyeyeva in the World Championship final after a late comeback fell short. She trailed 2–0, levelled by the end of the first period and moved ahead on criteria at 4–4 after answering a double-leg attack with her own takedown. With 20 seconds left, Alpyeyeva attacked Kajal’s exposed legs and added ground points for an 8–4 advantage. Kajal scored once more in the final 13 seconds but ran out of time.",
+    "At her Sonepat academy, coach Kuldeep Malik and young wrestlers watched a web stream after struggling to find a television broadcast. Malik identified Kajal’s upright stance as the opening Alpyeyeva exploited and said she must become harder to attack after conceding in par terre. The room had prepared laddoos for a medal and distributed them despite the defeat because the achievement was historic: Kajal is the first Indian woman heavyweight to medal at the senior worlds. The final showed both her ability to respond under pressure and the small positional errors that separate silver from gold, giving the academy a concrete development plan rather than a reason to treat the result as failure."
+   ],
+   "url": "https://indianexpress.com/article/sports/kajal-world-wrestling-championships-sonepat-academy-celebrations-10941102/",
+   "section": "sport",
+   "scope": "sport",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-10-28T18:10:28+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/sports/kajal-world-wrestling-championships-sonepat-academy-celebrations-10941102/"
+    }
+   ]
+  },
+  {
+   "id": "f8972c2e067cb1765ca8",
+   "title": "'I earned my spot' - Lewis can be England hero after controversial selection",
+   "deck": "Mikey Lewis’s speed could help rescue England’s Rugby League World Cup campaign, but qualification requires both a big win and a favourable result elsewhere.",
+   "summary": [
+    "England must beat Papua New Guinea on Friday, hope Tonga defeat Samoa on Sunday and erase a 68-point difference to reach the World Cup semi-finals. The situation follows a 30–12 opening loss to Tonga and an 82–0 recovery against France. Hull KR half-back Mikey Lewis came off the bench for the final 20 minutes against France and scored twice, and England again expects his running threat to add points late in the match.",
+    "Lewis’s selection was controversial because coach Brian McDermott chose him over 2025 Man of Steel Jake Connor after an inconsistent and ill-disciplined club season. Lewis produced 17 tries and 14 assists in 20 Super League games, but received four yellow cards and a four-match ban for a late tackle and headbutt. He says he has sought outside help with his temperament and believes he earned the England place. His international ability is established—he was man of the match on debut against Tonga in 2023—but Friday tests whether energy can be separated from indiscipline. Even an excellent performance may not be enough because England cannot control Samoa’s result; its task is to maximise the margin and keep the scenario alive."
+   ],
+   "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c5djv7e49lwmo?at_medium=RSS&at_campaign=rss",
+   "section": "sport",
+   "scope": "sport",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-28T11:06:27+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c5djv7e49lwmo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "b1edb0253ced62d5352d",
+   "title": "Lava Diwali Sale Offers Announced on Smartphones and Feature Phones in India",
+   "deck": "Lava has published festive prices across phones and retailers, but bank eligibility and live stock still need checking at checkout.",
+   "summary": [
+    "Lava’s Diwali offers list the Virat V1 at ₹9,499, Virat V1 5G from ₹12,499, Virat V1 Pro at ₹14,999 and Virat Curve 5G at ₹21,999 on Flipkart. Amazon listings include the Bold N4 Lite at ₹7,549, Bold N2 Lite at ₹8,199, Bold N2 at ₹8,599, Bold N2 5G from ₹12,249, Bold N4 Pro 5G at ₹14,249 and Agni 4 at ₹28,249. Offline stores advertise the Shark 2 Pro 5G for ₹16,699 and Aura Curve for ₹23,999.",
+    "Feature-phone prices on Amazon from 30 October to 2 November are ₹899 for Hero Shakti 2026, ₹1,199 for A2 Smart and ₹1,699 for Gem Power+. The report says eligible purchases may receive bank offers or EMI options but does not establish the applicable cards, caps, minimum spends or current inventory. These should therefore be treated as advertised festive prices rather than universally verified final deals. Before buying, compare the exact RAM and storage variant with its recent street price, check seller and warranty, and confirm the effective checkout total. A bank discount is valuable only if the card and payment route qualify, and a low headline price should not outweigh software support, camera, battery and service needs."
+   ],
+   "url": "https://www.gadgets360.com/mobiles/news/lava-diwali-sale-offers-announced-on-smartphones-and-feature-phones-in-india-12249228",
+   "section": "deals",
+   "scope": "deals",
+   "source": "Gadgets 360",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-10-28T14:22:16+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Gadgets 360",
+     "group": "ndtv",
+     "url": "https://www.gadgets360.com/mobiles/news/lava-diwali-sale-offers-announced-on-smartphones-and-feature-phones-in-india-12249228"
+    }
+   ]
+  },
+  {
+   "id": "03709af47a955b6bf43d",
+   "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+   "deck": "Cloud-security startup Upwind chose a $400 million financing over a reported Datadog acquisition, accepting a demanding valuation in exchange for independence.",
+   "summary": [
+    "Upwind has raised a $400 million Series C led by Bessemer Venture Partners at a $3.8 billion valuation, only nine months after a $250 million round valued it at $1.5 billion. The four-year-old company monitors active cloud workloads and responds to attacks and vulnerabilities in real time. Existing investors Greylock and Craft also participated. A person cited by TechCrunch says Datadog tried to acquire Upwind but offered no premium above the venture valuation, prompting the startup to remain independent; neither company had commented at publication.",
+    "People familiar with the company say annualised recurring revenue is rising by $20–30 million each quarter and may reach about $90 million by year-end. The valuation would therefore exceed 40 times forecast ARR, a high bar even in a strong cybersecurity market. Upwind is betting that AI-driven threats will make runtime protection a major enterprise software category and that continued growth will justify more than Datadog offered. Founder Amiram Shachar previously sold Spot.io to NetApp for $450 million. Independence preserves upside and control, but few security firms have reached public markets recently, so a later sale remains plausible. Customers and investors should watch verified retention, margins and security outcomes rather than treating fundraising or acquisition interest as proof of durable product advantage."
+   ],
+   "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-28T23:15:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/"
+    }
+   ]
+  },
+  {
+   "id": "3b64f2126ca310fc1aab",
+   "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+   "deck": "Instagram chief Adam Mosseri expects public anger over AI to intensify and admits the platform is still struggling to rank, label and contain synthetic content.",
+   "summary": [
+    "Instagram head Adam Mosseri says anxiety and anger about AI will grow over the next several years, especially among creative workers who fear training without consent, job displacement, unsafe systems and being left behind. He told the Colin and Samir podcast that Instagram does not deliberately rank AI creators differently, but acknowledged it may not distinguish high-quality synthetic work from low-quality “slop” reliably. The platform began labelling AI accounts and later tightened rules on AI-generated profiles, yet celebrity deepfakes and other misleading posts continue to circulate.",
+    "Mosseri says banning AI content outright is impractical and that Instagram is beginning to require AI accounts to identify themselves. Account labels can clarify who—or what—is publishing, but they do not solve individual unlabeled images, edited video, impersonation or recommender incentives that reward engagement. His comments are notable because they recognise a social problem rather than presenting resistance as simple unfamiliarity. A credible response will require provenance signals, enforcement against deceptive identity, appeals for mistakes and ranking systems that do not amplify cheap synthetic volume. Creators will also judge Meta by how it handles training rights and monetisation, not only by labels. The admission that negativity will worsen is therefore a forecast of unresolved governance pressure as much as a cultural observation."
+   ],
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-10-28T23:05:39+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
+    }
+   ]
+  },
+  {
+   "id": "14bd5a3a69122b7bb700",
+   "title": "Google expands AI Search ads globally as core ad growth slows",
+   "deck": "Google is extending advertising inside AI-powered Search internationally as traditional search-ad growth slows and investors demand returns from expensive AI infrastructure.",
+   "summary": [
+    "Alphabet reported third-quarter revenue of $127.6 billion, up 25%, but Google Search advertising growth slowed to 12% from 17% in the second quarter and 19% in the first. Alphabet shares fell 8% after the results. Google is responding by expanding ads in AI Mode and AI Overviews to international markets, alongside multi-turn formats in the US. Chief business officer Philipp Schindler says sponsored product listings in AI Mode have click-through rates comparable with organic listings, based on early results.",
+    "AI changes the available advertising surface. Chief executive Sundar Pichai says AI Mode queries average three times the length of ordinary searches, one in five uses voice, images or documents, and visual searches exceed 50 billion a month. Longer conversations can reveal stronger commercial intent, but inserting sponsored recommendations into generated answers also makes clear labelling and relevance critical. Google Services revenue rose 11% to $96.3 billion, while Cloud revenue more than doubled to $30.7 billion; the Gemini app reached one billion monthly users. Advertisers should measure incremental conversions rather than novelty, and users should be able to distinguish paid placement from the system’s synthesis. The expansion is ultimately a test of whether Google can monetise AI without weakening trust in the answer itself."
+   ],
+   "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-28T21:48:37+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
+    }
+   ]
+  },
+  {
+   "id": "d611f9c14e05bc4e37d2",
+   "title": "HUL sales rise 15% to hit 14-quarter high, but inflation clouds demand outlook",
+   "deck": "Hindustan Unilever delivered its strongest underlying sales growth in 14 quarters but says further measured price increases may be needed as commodity inflation squeezes margins.",
+   "summary": [
+    "HUL’s September-quarter turnover rose 15% to ₹18,071 crore, underlying volume grew 7% and underlying sales increased at the fastest pace in 14 quarters. The company raised average prices about 7.5%, yet volumes still improved across urban and rural markets. EBITDA rose 8% to ₹4,089 crore, while margin fell 140 basis points to 22.6%. Reported net profit was ₹2,796 crore and was flat partly because the prior year included a ₹273 crore tax gain; a separate company presentation put adjusted quarterly profit at ₹2,844 crore, up 6%.",
+    "Chief executive Priya Nair says HUL will use calibrated price rises to recover absolute input-cost increases rather than shock consumers. Edible oils, tea, sugar, packaging and petrochemical-linked materials remain expensive amid the West Asian conflict. Home care led growth with sales up 22%, but its margin fell from 19% to 16%; beauty grew strongly, while mass-market tea remained pressured. Rural demand improved sequentially, though weak monsoon pockets could hurt farm output and wages. HUL still targets a medium-term EBITDA margin of 22–24%, relying on procurement, supply-chain savings and premium products. The key test is how long brands can sustain volume as repeated price increases reach more price-sensitive categories."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/hul-sales-rise-15-to-hit-14-quarter-high-but-inflation-clouds-demand-outlook/articleshow/135278464.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-29T00:00:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/hul-sales-rise-15-to-hit-14-quarter-high-but-inflation-clouds-demand-outlook/articleshow/135278464.cms"
+    },
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/business/hindustan-unilever-price-hike-input-costs-q2-results-10940847/"
+    }
+   ]
+  },
+  {
+   "id": "c2a810040e20d4b3341b",
+   "title": "AI-powered cyberattacks siphon ₹300 crore from small NBFCs in two months",
+   "deck": "Authorities are investigating an estimated ₹300 crore stolen from mostly smaller Indian NBFCs in a wave of attacks that combines weak systems, automated tooling and targeted fraud.",
+   "summary": [
+    "About 150 complaints or FIRs have been filed after fraudsters allegedly siphoned roughly ₹300 crore from non-bank lenders over two months, according to officials cited by The Economic Times. Smaller NBFCs with turnover around ₹1,000 crore or less appear particularly exposed; one Delhi lender reportedly lost ₹7.5 crore and then another ₹7.25 crore days later. Investigators say attackers observe payment processes, whitelisted identities and code weaknesses for 10–12 days before striking, and incomplete fixes have allowed repeat attacks.",
+    "Officials attribute some investigated incidents to toolkits called CyberStrike and Artex used alongside open AI models. Those attributions are preliminary and should not be generalised to every case. CERT-In says parallel agents can shorten the time from entry to damage from days to hours, while security firms warn that stolen lender and loan details can power convincing Hindi or Tamil phishing calls. The techniques still exploit familiar weaknesses: unpatched software, fragile payment flows, poor monitoring, cloned apps and mule accounts. NBFCs need immediate containment, independent forensics, patched and segmented systems, stronger approval controls and customer warnings. AI increases speed and accessibility, but blaming the model layer alone would obscure the governance and security gaps that made theft possible."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/banking/finance/ai-powered-cyberattacks-siphon-300-crore-from-small-nbfcs-in-two-months/articleshow/135278215.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-29T00:00:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/banking/finance/ai-powered-cyberattacks-siphon-300-crore-from-small-nbfcs-in-two-months/articleshow/135278215.cms"
+    }
+   ]
+  },
+  {
+   "id": "d4eb1828c14440a2d8e5",
+   "title": "Non-profit group leaks data of more than 40,000 homeland security workers",
+   "deck": "A leak naming more than 41,000 US homeland-security personnel exposes organisational and undercover details while the claimed path into the data remains disputed.",
+   "summary": [
+    "Distributed Denial of Secrets published records containing names, phone numbers and email addresses for more than 41,000 US Department of Homeland Security employees and contractors. More than 21,000 appear linked to Customs and Border Protection and about 6,600 to Immigration and Customs Enforcement. Job titles, email groups and assignments reveal parts of internal organisation, including surveillance, computer-forensics, special-operation and undercover work. Reuters matched some entries to external records and directly confirmed details with several employees, but could not authenticate the entire trove; DHS had not commented.",
+    "An entity calling itself Department of Peace claims it obtained the data through DHS’s Okta sign-on environment. Okta says its systems are secure and it has no evidence of compromise, so the precise intrusion route is unverified. The publisher argues that searchable records enable accountability for agencies that investigate critics and conceal officers’ identities. Publication nevertheless creates safety, harassment and operational risks for workers, including people whose roles are not public. It is the third major US government-personnel disclosure reported in a month, following claimed FBI theft and a defence breach lawsuit. DHS now needs to establish the source, notify affected staff, protect exposed operations and explain how identity and directory data were governed."
+   ],
+   "url": "https://www.theguardian.com/us-news/2026/oct/28/homeland-security-data-leak",
+   "section": "world",
+   "scope": "world",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-10-29T01:25:35+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/us-news/2026/oct/28/homeland-security-data-leak"
+    }
+   ]
+  },
+  {
+   "id": "f40d0133044b38769c49",
+   "title": "F1 publishes first Social Impact Report; key student scholarship renewed",
+   "deck": "Formula One’s first sport-wide social-impact report says more than 500,000 young people joined education and access programmes, while its engineering scholarship receives three more years of funding.",
+   "summary": [
+    "Formula One has combined the 2025 contributions of F1, the FIA, all ten teams and 24 promoters into its first Social Impact Report. It says programmes reached more than 500,000 young people in 71 countries, including 29,000 schools in STEM Racing, 700 schools in a British Council programme, 2,500 participants at race events and more than 1,000 skills and talent opportunities. The reporting follows recommendations from the Hamilton Commission, created by Lewis Hamilton and the Royal Academy of Engineering to address barriers in motorsport.",
+    "F1 also renewed its engineering scholarship for three academic years with more than £2.4 million. Ten new students a year from 2026–27 through 2028–29 will receive tuition and living costs at Strathclyde, Imperial, Cambridge, Oxford or Italy’s MUNER; 48 students have already been supported. The figures show scale but not, by themselves, durable change. Future reports should track completion, employment, demographic reach and whether participants enter and remain in motorsport or adjacent engineering. Publishing a common baseline is useful because it allows teams and promoters to be compared over time, while scholarship funding directly removes financial barriers for a smaller group."
+   ],
+   "url": "https://www.autosport.com/f1/news/f1-publishes-first-social-impact-report-key-student-scholarship-renewed/10869116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-10-28T15:26:42+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/f1-publishes-first-social-impact-report-key-student-scholarship-renewed/10869116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    }
+   ]
+  },
+  {
+   "id": "3ae50b4a920510d73085",
+   "title": "iQOO Neo 12 Launched With 9,000mAh Battery, 185Hz Super AMOLED Display: Price, Specifications",
+   "deck": "The iQOO Neo 12 combines a 9,000mAh battery and 185Hz display, but it is a China launch with no confirmed Indian price or availability.",
+   "summary": [
+    "iQOO has launched the Neo 12 in China from CNY 4,399 for 12GB RAM and 256GB storage, rising to CNY 6,499 for 16GB and 1TB. Converted figures of roughly ₹63,000–₹93,000 do not include Indian taxes or establish a future local price. The phone is sold through Vivo’s Chinese online store in three colours; an India launch has not been confirmed, so this is product news rather than a current Indian deal.",
+    "The hardware centres on a 6.83-inch 2K Super AMOLED panel with a 185Hz refresh rate, a Snapdragon 8 Elite Gen 5 processor, LPDDR5X Ultra memory and UFS 4.1 storage. Cooling combines an active fan with an 8,200 sq mm vapour chamber. A 9,000mAh battery supports 100W wired charging. Cameras comprise a 50MP stabilised main sensor, 8MP ultrawide and 16MP selfie camera, with video up to 8K/30fps. Other features include Wi-Fi 7, an ultrasonic fingerprint reader and Android 17-based OriginOS 7. The specifications are strong for gaming, but buyers should wait for independent tests of sustained performance, fan noise, battery endurance and thermal behaviour—and for a supported regional model with warranty."
+   ],
+   "url": "https://www.gadgets360.com/mobiles/news/iqoo-neo-12-price-launch-sale-date-specifications-features-12248820",
+   "section": "deals",
+   "scope": "deals",
+   "source": "Gadgets 360",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-10-28T12:17:27+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Gadgets 360",
+     "group": "ndtv",
+     "url": "https://www.gadgets360.com/mobiles/news/iqoo-neo-12-price-launch-sale-date-specifications-features-12248820"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "name": "Indian Express",
+   "section": "world",
+   "status": "ok",
+   "count": 88
+  },
+  {
+   "name": "NDTV",
+   "section": "world",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "The Hindu",
+   "section": "world",
+   "status": "ok",
+   "count": 60
+  },
+  {
+   "name": "Times of India",
+   "section": "world",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "BBC News",
+   "section": "world",
+   "status": "ok",
+   "count": 26
+  },
+  {
+   "name": "The Guardian",
+   "section": "world",
+   "status": "ok",
+   "count": 35
+  },
+  {
+   "name": "TechCrunch",
+   "section": "technology",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "The Verge",
+   "section": "technology",
+   "status": "ok",
+   "count": 10
+  },
+  {
+   "name": "BBC News",
+   "section": "technology",
+   "status": "ok",
+   "count": 6
+  },
+  {
+   "name": "Indian Express",
+   "section": "business",
+   "status": "ok",
+   "count": 13
+  },
+  {
+   "name": "BBC News",
+   "section": "business",
+   "status": "ok",
+   "count": 34
+  },
+  {
+   "name": "Economic Times",
+   "section": "business",
+   "status": "ok",
+   "count": 50
+  },
+  {
+   "name": "BBC Sport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 2
+  },
+  {
+   "name": "Autosport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 6
+  },
+  {
+   "name": "BBC Sport",
+   "section": "sport",
+   "status": "ok",
+   "count": 40
+  },
+  {
+   "name": "Indian Express",
+   "section": "sport",
+   "status": "ok",
+   "count": 46
+  },
+  {
+   "name": "Gadgets 360",
+   "section": "deals",
+   "status": "ok",
+   "count": 7
+  },
+  {
+   "name": "Indian Express",
+   "section": "local",
+   "status": "ok",
+   "count": 0
+  }
+ ]
+}

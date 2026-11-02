@@ -1,0 +1,663 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-10-25",
+ "generatedAt": "2026-10-25T01:57:28.096642+00:00",
+ "timezone": "Asia/Kolkata",
+ "windowHours": 48,
+ "primaryWindowHours": 24,
+ "summaryMode": "original-articles",
+ "localLimit": 1,
+ "stories": [
+  {
+   "id": "8988f05b23400e8d3fbd",
+   "title": "Will AI expose the rickety infrastructure of the internet?",
+   "deck": "The PHP emergency shows how AI compresses the time between finding a flaw and exploiting it.",
+   "summary": [
+    "This week’s emergency patching of PHP exposed a broader weakness in the internet: much of the web depends on old, widely shared software that small teams and volunteer maintainers struggle to secure. The newly disclosed “PHP2Shell” flaws were serious enough that administrators were told to update immediately or take vulnerable services offline. PHP sits behind WordPress, Drupal and millions of other sites, so even a narrow defect can become a problem at global scale.",
+    "AI changes the tempo of that problem. Human researchers found these vulnerabilities, while AI tools helped demonstrate how they might be exploited. The same capabilities can help defenders audit decades-old code, but they can also shorten the time attackers need to turn a disclosure into working attacks. Reports of suspicious activity began around the disclosure window, intensifying the race between patching and exploitation. Large cloud companies can run honeypots, monitor traffic and respond quickly; a local business, public body or forgotten community site may not even know it uses an affected component.",
+    "The episode also raises questions about responsible disclosure. A universal component cannot be fixed through quiet calls to a handful of customers, yet a public warning gives attackers the same information as defenders. Early leaks and overstated claims added confusion. The lasting issue is therefore not that open source itself is unsafe, but that critical shared infrastructure needs sustained maintenance, clearer inventories and better coordinated disclosure as AI makes vulnerability discovery faster and cheaper."
+   ],
+   "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-24T20:15:33+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": true,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
+    }
+   ]
+  },
+  {
+   "id": "e802392f2f096dfec92d",
+   "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+   "deck": "Fielded’s Lindsay Powell pairs high-end recording tools with cyberpunk films, scam stories and a rejection of AI.",
+   "summary": [
+    "Lindsay Powell’s project Fielded has spent years refusing a fixed musical category. It began in experimental noise, moved toward R&B and has continued to mix synth-pop, underground hip-hop, neo-soul and industrial textures. The latest album, Some Kind of Animal, places organ-led slow songs beside a neo-soul interpretation of Nine Inch Nails’ “Closer” and the industrial funk of “Heaven”, featuring Pink Siifu. Powell says the title track is the work she is currently proudest of.",
+    "In a short technology-and-culture questionnaire, Powell names the Universal Audio Apollo Twin as her most important recording tool. The interface and its studio plug-ins let her capture vocals, guitars and synthesisers quickly with a polished sound. Her browser inspiration is considerably rougher: the Japanese cyberpunk film 964 Pinocchio, whose intense visual and sonic world she keeps close while working.",
+    "Powell’s attitude to current technology is deliberately contradictory. She depends on digital production equipment but wishes the AI trend would disappear, describing it as a plague rather than a creative aid. Away from music, she is fascinated by scammers and recently bought Alissa Bennett’s essay collection Taxidermist’s Handbook, which studies criminals and deception. Her favourite life advice is patience: careers do not move on identical schedules, and setbacks can be treated as lessons rather than proof of failure. The profile is less a product review than a compact portrait of an artist assembling new work from unlikely collisions."
+   ],
+   "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-10-24T15:00:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview"
+    }
+   ]
+  },
+  {
+   "id": "311f55c4bc2f48c3a607",
+   "title": "The Indian workers filming their work to train AI",
+   "deck": "Workers are recording skilled hand movements for physical AI, creating income and questions about consent and automation.",
+   "summary": [
+    "Indian barbers, garment workers, potters and home workers are being paid to film everyday tasks. The footage is sold to technology companies developing “physical AI”—systems intended to control robots in real environments. A Bengaluru barber described wearing a head camera for hours while keeping his hands in frame and the lighting consistent. Clients’ faces are blurred, but some buyers ask for multi-camera rigs capturing more of the worker and surroundings.",
+    "The data fills a gap that internet text and video archives cannot. Robots need examples of finger movement, grip, force and body position: holding a plastic bottle without crushing it is different from gripping a steel cup. Collection companies recruit across industries and countries, filter thousands of hours, label useful sequences and convert them into formats that robotics laboratories can train on. Pay varies. One company quoted $5–$10 for eight to ten hours of recording, while a domestic worker said she earned $2–$3 an hour.",
+    "Consent, privacy and future job loss remain unresolved. Operators say they remove names and identifying details, yet wider camera coverage demands more intrusive recording. Workers gain income today while possibly helping automate parts of their own jobs tomorrow. Researchers argue India should not remain only a supplier of cheap raw footage; value lies in cleaning, validating and setting standards for embodied-AI data. The industry may create flexible work, but its long-term bargain depends on transparent consent, fairer pay and who ultimately owns the training pipeline."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+   "section": "technology",
+   "scope": "technology",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-23T08:04:17+00:00",
+   "timestampType": "published",
+   "older": true,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "c975dbf5641282a077a2",
+   "title": "DP World PGTI, Essar Foundation launch Shri Shashi Ruia Memorial Golf Championship",
+   "deck": "A five-year partnership will bring a ₹2 crore annual professional golf event to Mumbai from January 2027.",
+   "summary": [
+    "The Professional Golf Tour of India and Essar Foundation are creating an annual Shri Shashi Ruia Memorial Golf Championship under a five-year partnership running through 2031. The first tournament is scheduled for 12–15 January 2027 at Mumbai’s Willingdon Sports Club, with a Pro-Am on 10 January and a ₹2 crore professional prize fund. The organisers say the field will include established Indian players and emerging domestic talent; names will be announced closer to the event.",
+    "The championship commemorates Shashi Ruia, the late co-founder of Essar Group, whose businesses grew across energy, infrastructure, metals, mining, technology and retail. His son, Essar chief executive Prashant Ruia, described golf as a personal passion through which his father built relationships. The foundation is presenting the event both as a memorial and as a long-term investment in India’s professional tour.",
+    "PGTI president Kapil Dev said bringing a significant tour event to Mumbai could widen the audience for professional golf and give Indian players greater visibility. Tour chief executive Amandeep Johl argued that the prize purse and the location in India’s financial capital should raise the competitive level. Willingdon Sports Club, founded in 1917, has operated its South Mumbai golf course since 1933. The announcement establishes funding, venue and dates, but not yet the participating field, broadcast arrangements or spectator-access details. Its real impact will depend on whether the five-year commitment develops a durable tournament rather than a one-off corporate showcase."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/dp-world-pgti-essar-foundation-launch-shri-shashi-ruia-memorial-golf-championship/articleshow/135165256.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-24T07:44:39+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/dp-world-pgti-essar-foundation-launch-shri-shashi-ruia-memorial-golf-championship/articleshow/135165256.cms"
+    }
+   ]
+  },
+  {
+   "id": "adb26b9868550e8830f6",
+   "title": "Rosebank: Life on the oil field at the centre of a political storm",
+   "deck": "Jobs, energy security and climate commitments collide as Britain considers the giant field west of Shetland.",
+   "summary": [
+    "The Rosebank oil and gas field west of Shetland is awaiting a fresh UK government production decision after a court ruled its earlier approval unlawful. The field’s floating production vessel is already stationed roughly 80 miles north-west of Shetland, with 122 people working in harsh North Atlantic conditions. Rosebank is estimated to contain 300–500 million barrels and could operate for around 25 years if consent is granted. Government sources expect a decision before Christmas.",
+    "Workers and owner Adura, a joint venture between Shell and Norway’s Equinor, argue that approval would preserve skilled offshore jobs, generate tax revenue and deliver gas through Shetland to the St Fergus terminal. At peak output, the company says that gas could match the heating needs of 500,000 British homes. Oil would be transferred to tankers and probably refined in continental Europe. Adura also sees Rosebank as a gateway to additional west-of-Shetland developments.",
+    "Campaigners say the project would lock in high emissions while doing little to reduce consumer prices because oil is sold internationally. In 2025, Scotland’s Court of Session found that previous approvals for Rosebank and the smaller Jackdaw field failed to account for emissions created when their fuels are ultimately burned. Developers could continue preparatory work but not production while new environmental assessments were considered. Jackdaw has now received consent, increasing expectations around Rosebank. The decision pits near-term jobs and domestic supply against Britain’s climate commitments and the longer decline of North Sea output."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+   "section": "business",
+   "scope": "business",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-24T23:15:18+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "505fd38113d99080b467",
+   "title": "After the Supreme Court order, Railways extends travel insurance scheme for counter tickets",
+   "deck": "Reserved-ticket passengers at railway counters can opt into the 45-paise cover from 27 October.",
+   "summary": [
+    "Indian Railways has extended optional travel insurance to passengers buying reserved tickets at station counters. The change follows a Supreme Court direction issued on 6 October and is due to be implemented by zonal railways from 27 October. Until now, the low-cost cover was offered only with online reservations, even though passengers in remote areas and people less comfortable with digital booking still depend on Passenger Reservation System counters.",
+    "The premium will be 45 paise per ticket, matching the e-ticket scheme, but it must be paid digitally along with the fare. Counter staff must record each passenger’s mobile number and required details so the insurer can issue policy information by phone. Staff are being instructed to explain that cover is optional and to record the traveller’s choice rather than add it automatically.",
+    "The existing IRCTC terms will apply: eligible travellers must be Indian citizens with confirmed, partly confirmed or RAC reserved tickets, and the option must be selected at booking. Cover ranges from ₹2 lakh to ₹10 lakh depending on death, disability, hospitalisation or transport of mortal remains after a rail accident or specified untoward incident. Insurance claims remain between the passenger and insurer; statutory railway compensation is separate. Important gaps remain. Unreserved and general-class travellers are outside the scheme, as are children below five travelling without a booked seat or berth. Children aged five to eleven can be covered when they have a ticket, with or without a berth."
+   ],
+   "url": "https://indianexpress.com/article/business/railways-travel-insurance-counter-tickets-extension-10935156/",
+   "section": "business",
+   "scope": "business",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-10-24T11:26:35+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/business/railways-travel-insurance-counter-tickets-extension-10935156/"
+    }
+   ]
+  },
+  {
+   "id": "8968c634d7f4e4d00258",
+   "title": "ED moves Supreme Court against HC order to quash case against portal, founder",
+   "deck": "The agency asks the Supreme Court to revive its money-laundering investigation after a High Court quashing order.",
+   "summary": [
+    "India’s Enforcement Directorate has appealed to the Supreme Court against a Delhi High Court decision that quashed its money-laundering case against NewsClick and founder-editor Prabir Purkayastha. The agency argues that the High Court ended the 2020 Enforcement Case Information Report without adequately examining the allegations or answering prosecution submissions. These claims are the ED’s grounds of appeal; the Supreme Court has not yet ruled on their merits.",
+    "The agency also points to the time taken to deliver the judgment. The decision was pronounced on 29 May, five months and 26 days after it was reserved. The ED says that exceeded Supreme Court guidance encouraging judgments within three months and may explain why arguments were overlooked. Delay alone, however, does not establish that the High Court’s legal conclusion was wrong.",
+    "On the underlying transactions, the ED alleges that the company received about ₹9.6 crore in foreign direct investment shortly after converting from an LLP into a company in January 2018. It questions why shares with a ₹10 face value were issued at a price of ₹11,510 when the business had limited assets and rising losses, including an alleged ₹6.61 crore loss in 2018–19. Those figures are presented by investigators as evidence of an implausible valuation; they remain contested allegations rather than findings of guilt. The appeal asks the Supreme Court to restore the investigation or reconsider the High Court’s reasoning."
+   ],
+   "url": "https://timesofindia.indiatimes.com/india/ed-moves-supreme-court-against-hc-order-to-quash-case-against-portal-founder/articleshow/135177481.cms",
+   "section": "world",
+   "scope": "india",
+   "source": "Times of India",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-24T20:23:13+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/ed-moves-supreme-court-against-hc-order-to-quash-case-against-portal-founder/articleshow/135177481.cms"
+    }
+   ]
+  },
+  {
+   "id": "fc5647aa20e966102871",
+   "title": "INDIA bloc to hold ‘public impeachment proceeding’ of CEC Gyanesh Kumar, says K.C. Venugopal",
+   "deck": "The opposition’s Delhi event is political theatre, not the constitutional process for removing a CEC.",
+   "summary": [
+    "The INDIA opposition bloc plans what it calls a “public impeachment proceeding” against Chief Election Commissioner Gyanesh Kumar in Delhi on 30 October, Congress general secretary K.C. Venugopal announced. Congress president Mallikarjun Kharge has asked allied parties to attend in strength, and the event is intended to lead into a “Dilli Chalo” march and rally at Ramlila Maidan on 1 November. Organisers say the campaign concerns alleged “vote theft” and their demand for Kumar’s removal.",
+    "The terminology is political rather than constitutional. Article 61 uses impeachment for removal of the President. Under Article 324(5), the Chief Election Commissioner can be removed in the same manner and on the same grounds as a Supreme Court judge. A public meeting organised by opposition parties cannot itself remove the CEC, compel a legal proceeding or substitute for the parliamentary process. Its function is to present allegations, mobilise supporters and apply public pressure.",
+    "Venugopal’s announcement follows weeks of opposition marches and criticism of the Election Commission. The report says the alliance expects a very large turnout on 1 November, but that is an organiser’s projection, not an independently verified attendance figure. It also does not include a response from Kumar, the Commission or the government to the proposed event. Any new evidence raised at the “proceeding” will need separate scrutiny. For now, the development is best understood as an escalation in opposition campaigning, not a formal constitutional action already under way."
+   ],
+   "url": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-amid-protest/article71621030.ece",
+   "section": "world",
+   "scope": "india",
+   "source": "The Hindu",
+   "sourceGroup": "the-hindu",
+   "publishedAt": "2026-10-25T01:03:51+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-amid-protest/article71621030.ece"
+    }
+   ]
+  },
+  {
+   "id": "b0c9b4ac76d0109d91e4",
+   "title": "India Issues Fresh Advisory For Umrah Pilgrims In Saudi Arabia",
+   "deck": "Indian missions are helping stranded pilgrims with visas, essentials and alternative travel after flight disruption.",
+   "summary": [
+    "India’s consulate in Jeddah has issued fresh guidance for nationals affected by flight disruption in Saudi Arabia, with particular concern for Umrah pilgrims whose visas, accommodation or return plans may be running out. The disruption follows drone and missile attacks by Yemen’s Houthis on civilian and critical infrastructure. Indian officials say round-the-clock control rooms in Jeddah and Makkah are coordinating with Saudi ministries, airlines, tour operators, community groups and volunteers.",
+    "Affected pilgrims can seek food, essential medicines and other immediate support where available. For accommodation or service problems during an extended stay, the consulate advises contacting the Saudi Ministry of Hajj and Umrah’s Pilgrim Care Centre on 1966 and obtaining a case reference number. Travellers should also remain in touch with their Umrah operator, airline or booking agent for cancellation, rebooking and refund options.",
+    "The consulate is trying to connect Indian tour operators with airlines that are still flying to India, but alternative seats depend on availability, fares and carrier requirements. That means the mission can facilitate contacts but cannot guarantee a particular flight or price. Visa-validity issues are being discussed with Saudi authorities. Anyone currently affected should preserve booking records, note the reference number for every complaint and rely on direct updates from the airline and Indian mission rather than social-media rumours. The advisory is assistance guidance, not an announcement that normal schedules have resumed."
+   ],
+   "url": "https://www.ndtv.com/india-news/india-issues-fresh-advisory-for-umrah-pilgrims-in-saudi-arabia-12231410",
+   "section": "world",
+   "scope": "india",
+   "source": "NDTV",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-10-24T19:12:08+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/india-issues-fresh-advisory-for-umrah-pilgrims-in-saudi-arabia-12231410"
+    },
+    {
+     "source": "Consulate General of India, Jeddah · advisory",
+     "url": "https://cgijeddah.gov.in/docs/advisory-13-10-2026.pdf"
+    }
+   ]
+  },
+  {
+   "id": "5dfae4862abdfa023ee8",
+   "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
+   "deck": "Brazil’s runoff opens after huge rival rallies and an exceptionally tight first-round result.",
+   "summary": [
+    "More than one million supporters of Brazilian president Luiz Inácio Lula da Silva gathered on Rio’s Copacabana beach on Saturday, according to the city government, before Sunday’s runoff. A second rally followed in São Paulo. Lula is attempting a comeback after right-wing senator Flávio Bolsonaro led the 4 October first round by 47% to 45%. Polls suggested a much closer result than claims heard at the rally.",
+    "The campaign has become a struggle over security, democracy and the legacy of former president Jair Bolsonaro, Flávio’s father. Lula’s supporters accuse the Bolsonaro movement of authoritarianism and blame the former administration for its pandemic response. Jair Bolsonaro is serving a 27-year sentence for plotting a coup after losing the 2022 election. Supporters of his son argue that tougher policing, looser gun rules and closer alignment with the United States are necessary responses to violent crime.",
+    "Flávio Bolsonaro remains a slight favourite in some analysis, having built his campaign around law and order. Lula appears to have gained momentum after allegations about his opponent, including a magazine report concerning a 2020 boat party; those allegations remain disputed campaign reporting, not facts established in court. Both sides held large final rallies, including Bolsonaro supporters in Belo Horizonte, capital of the crucial state of Minas Gerais. Nearly 159 million Brazilians are eligible to vote. No first-round runner-up has won a presidential runoff since Brazil returned to democracy, making Lula’s effort historically difficult but still competitive."
+   ],
+   "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+   "section": "world",
+   "scope": "world",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-10-24T21:10:23+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro"
+    }
+   ]
+  },
+  {
+   "id": "316722255b77363bda2e",
+   "title": "Briton Palmowski wins F1 Academy title",
+   "deck": "The 20-year-old Campos driver secured the all-female series before its final two races.",
+   "summary": [
+    "Britain’s Alisha Palmowski has won the 2026 F1 Academy championship after finishing second in Saturday’s reverse-grid race at the Circuit of the Americas. The result gave the 20-year-old enough points to secure the title before Sunday’s feature race and the November finale in Las Vegas. She becomes the youngest champion of the all-female development series and the second British winner after Abbi Pulling in 2024.",
+    "Palmowski races for Campos and belongs to Red Bull’s driver academy. Her season has combined speed with consistency: five victories in the first eleven races and only one finish outside the points, during the reverse-grid event at Zandvoort. Austrian rival Emma Felbermayr was the only driver who could mathematically catch her before the Austin race, but fourth place ended that possibility. Denmark’s Alba Larsen took her first series win in Saturday’s race, while 17-year-old French driver Lisa Billard completed the podium.",
+    "After the finish, Palmowski dedicated the championship to her ill grandmother and thanked her parents for the time and financial sacrifices behind a racing career that began when she was eight or nine. The title is an important development milestone rather than a direct promotion to Formula One. F1 Academy is designed to give female drivers track time, visibility and a path into higher categories. Palmowski’s next challenge will be turning the championship into a competitive seat further up the single-seater ladder."
+   ],
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/cvj6jwzp2y4go?at_medium=RSS&at_campaign=rss",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-25T01:18:37+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/cvj6jwzp2y4go?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "b8ba83e06828b778134b",
+   "title": "Watch: Suryakumar Yadav, Shardul Thakur playing baseball at MLBx Mumbai event",
+   "deck": "Indian cricketers joined MLB veterans in Mumbai’s fast three-on-three baseball format.",
+   "summary": [
+    "Indian cricketers tried a compressed form of baseball at the MLBx event in Mumbai on Saturday, with Suryakumar Yadav and Shardul Thakur supplying the loudest moments. Videos from the Mumbai Football Arena showed Yadav hitting a home run for the New York Yankees-branded team and Thakur striking three for the Chicago Cubs side. The Yankees team, led by former Major League Baseball player Nick Swisher, won the four-team event.",
+    "MLBx is a mixed three-on-three competition designed to make baseball shorter and faster, inviting comparison with cricket’s T20 format. Indian participants included Yadav, Thakur, Jitesh Sharma, Kashvee Gautam, Deepak Chahar and Radha Yadav. They were paired with retired MLB players and athletes from the Athletes Unlimited Softball League. Swisher is a 2009 World Series winner and former All-Star; Adrián González, who represented the Los Angeles Dodgers-branded team, is a five-time All-Star and four-time Gold Glove winner.",
+    "The format tests how quickly players adapt because there is little time to settle into a game. Cricket’s batting mechanics transfer only partly: the bat, stance, strike zone and fielding rules are different, even if the hand-eye coordination looks familiar. For MLB India, the spectacle was primarily an audience-building exercise, using nationally recognised cricketers and famous US franchise colours to make an unfamiliar sport accessible. It was an exhibition rather than a formal international contest, but the packed venue suggested curiosity about baseball when presented through familiar Indian sporting personalities."
+   ],
+   "url": "https://indianexpress.com/article/sports/watch-suryakumar-yadav-shardul-thakur-playing-baseball-at-mlbx-mumbai-event-10935497/",
+   "section": "sport",
+   "scope": "sport",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-10-24T17:34:59+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/sports/watch-suryakumar-yadav-shardul-thakur-playing-baseball-at-mlbx-mumbai-event-10935497/"
+    }
+   ]
+  },
+  {
+   "id": "988202d2feb5743dae62",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "deck": "From AI pins to stand-alone apps, weak economics and unclear purpose have buried well-funded products.",
+   "summary": [
+    "The growing list of abandoned AI products shows that strong funding and technical novelty do not guarantee a durable business. S&P Global Market Intelligence estimates that about 42% of corporate AI initiatives are eventually dropped. Common causes include high operating costs, weak demand, difficult scaling and larger platforms absorbing a specialist product’s main features. Relay, an AI workflow-automation rival to Zapier, shut in August after major platforms built similar tools directly into their suites.",
+    "Consumer hardware produced some of the clearest failures. Humane raised $230 million for its AI Pin, but poor performance and a warning about battery-fire risk undermined the product; the business closed in 2025 and HP bought most assets for $116 million. Rabbit sold large numbers of its R1 early, yet reviewers found it unfinished and unreliable. It continues to update the device and is now exploring a portable coding product rather than abandoning hardware entirely.",
+    "Large companies have also retreated. OpenAI folded several standalone experiences into ChatGPT and reversed a confusing “super app” interface redesign. Microsoft delayed Recall after privacy concerns about its searchable screenshot history. Apple repeatedly postponed its improved Siri before beginning a limited rollout. Smaller services such as Huxe, Yupp and Figgs disappeared when costs or product-market fit failed, while Character.ai entered bankruptcy amid legal and operational pressure. The pattern is not that AI lacks demand; it is that distribution, trust, unit economics and a defendable purpose matter as much as model capability."
+   ],
+   "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-24T19:00:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+    }
+   ]
+  },
+  {
+   "id": "833d5d33c61d3b3b5d16",
+   "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+   "deck": "A forced-choice API test found opposite partisan patterns shaped by model behaviour and search sources.",
+   "summary": [
+    "A study of nearly 500 US midterm races found sharply different candidate recommendations from two AI models when researchers forced them to name one choice. Accessed through developer APIs, xAI’s Grok 4.7 selected the Republican candidate in 92% of responses, while OpenAI’s GPT-6.1 Sol chose the Democrat in 97%. The models agreed in fewer than one in ten races. These results do not describe ordinary consumer behaviour: ChatGPT and Grok’s public apps generally refuse a direct “who should I vote for?” request.",
+    "Researchers at Convovo used an intentionally coercive prompt, then examined how the systems searched and reasoned. Grok frequently consulted conservative voter guides, Turning Point Action and X alongside nonpartisan sites. GPT relied more on Wikipedia, the Associated Press, Axios and Reddit. Their issue emphasis also differed: GPT searched healthcare and abortion more often, while Grok prioritised immigration, taxes, crime and energy.",
+    "When internet search was disabled for a 30-race sample, GPT’s Democratic preference largely remained, whereas Grok usually refused to choose. That suggests—without proving—that GPT’s pattern may be more embedded in model behaviour while Grok’s may depend more on search sources and hidden instructions. OpenAI said its consumer product is designed to be objective and that a forced-choice API test does not reflect normal use; xAI had not commented. The study demonstrates a risk, not an election forecast: bias can enter through model training, system prompts, retrieval sources and the framing of the user’s question."
+   ],
+   "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-24T15:00:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+    }
+   ]
+  },
+  {
+   "id": "f75803cafe6ee4fcd06d",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "deck": "Messaging-based agents promise less app-switching, but permissions and external actions deserve close scrutiny.",
+   "summary": [
+    "A crowded category of AI assistants is moving from dedicated apps into text messaging. Services such as Ask Proxy, Caddy, Folk, Martin and Rene use SMS, iMessage, WhatsApp, Telegram or RCS for reminders, research and calendar work. More autonomous products can send emails, place calls, make reservations, shop or operate a browser. Users can delegate from a familiar conversation instead of learning another dashboard.",
+    "The market is splitting by use case. Fambot, Ohai, Ollie and Orbits organise school messages, chores, meals and family calendars. Miso focuses on travel and loyalty preferences. Stanley turns voice notes and activity into posts, while Town and Comma handle professional tasks. Some products act proactively, surfacing briefings or unfinished work; others, such as Maverick, emphasise asking permission before acting. Prices range from free betas to roughly $20–$30 a month, with higher tiers based on messages, integrations or background tasks.",
+    "Convenience increases the security stakes. An assistant connected to email, calendars, files, group chats and payment tools can see unusually sensitive context and may be able to act externally. Vendors respond in different ways: Ollie advertises SOC 2 compliance, Underdog runs locally on the user’s device, and Folk operates a private cloud computer. The comparison is therefore less about which chatbot writes best and more about permissions, confirmation rules, data retention, failure recovery and cost. Before choosing one, users should test a narrow task and review exactly what the agent can read, send, buy or change."
+   ],
+   "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-24T14:00:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    }
+   ]
+  },
+  {
+   "id": "36111d6bc6b4991f37ea",
+   "title": "Blue Planet III is keeping the rough edges in the age of AI",
+   "deck": "The BBC nature series is leaving plankton, rough water and human traces visible to reinforce authenticity.",
+   "summary": [
+    "Blue Planet III is deliberately keeping some visual imperfections that earlier nature documentaries might have removed. Executive producer Elizabeth White says footage may now retain suspended plankton, rough water, boats or buoys that once would have caused a shot to be reframed or cut. The choice is partly an answer to generative AI: audiences increasingly associate images that are perfectly clean, polished and seamless with synthetic production.",
+    "The BBC series is using those “rough edges” as evidence that viewers are seeing a real ocean rather than a manufactured spectacle. That does not mean abandoning careful cinematography or editing. It means allowing environmental context—the murk, human presence and difficult conditions—to remain visible when it helps establish authenticity. The approach reflects a wider challenge for documentary makers: high production quality once strengthened credibility, but hyper-real AI imagery can now imitate the visual language of expensive natural-history filmmaking.",
+    "The animals themselves remain the attraction. Reported sequences include dolphins blocking escape routes with sea sponges while hunting, fish communicating across species and about 200,000 crabs forming feeding lines. White argues that genuine marine behaviour is stranger and more inventive than AI could imagine. The editorial decision also quietly acknowledges that nature is not pristine: human infrastructure and changing water conditions are part of the modern ocean. Blue Planet III’s answer to synthetic media is therefore not an on-screen label alone, but a more transparent visual style that lets reality look complicated."
+   ],
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-10-24T21:29:12+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
+    }
+   ]
+  },
+  {
+   "id": "d9bdfbdca9f59db2fffa",
+   "title": "Delhi-Varanasi Vande Bharat Sleeper likely to launch on October 31, offering faster overnight travel between the two cities; check operating days, arrival and departure times, stops, timetable and other details",
+   "deck": "A fast overnight route is expected on 31 October, but its timetable and stops remain provisional.",
+   "summary": [
+    "A Vande Bharat Sleeper service between Varanasi and New Delhi is expected to be inaugurated on 31 October, creating a faster overnight connection between the cities. The reported provisional plan has the Varanasi departure at 8:50 p.m., stops at Prayagraj and Kanpur, and arrival in New Delhi at 5:55 a.m. The return would leave New Delhi at 9:40 p.m., call at Prayagraj and reach Varanasi at 6:45 a.m. Service is expected six days a week, with no train on Saturdays.",
+    "These timings, train numbers and halts had not been officially confirmed by Indian Railways when the report was published. Travellers should therefore wait for the route to appear in an official railway or IRCTC booking system before arranging connections. The anticipated inauguration by Uttar Pradesh chief minister Yogi Adityanath and railways minister Ashwini Vaishnaw is also described as likely rather than final.",
+    "Vande Bharat Sleeper fares are calculated by distance and class. A March parliamentary reply put AC three-tier at ₹2.40 per passenger-kilometre before GST, implying about ₹2,400 for a 1,000-kilometre journey; higher classes can reach ₹3.80 per kilometre. The service does not offer RAC tickets under the stated fare policy. If the provisional schedule holds, the train would cover the corridor overnight without consuming a working day. Final fares, booking date, operating days and stoppages remain the details that matter most before passengers treat the proposed timetable as confirmed."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/transportation/railways/delhi-varanasi-vande-bharat-sleeper-likely-to-launch-on-october-31-offering-faster-overnight-travel-between-the-two-cities-check-operating-days-arrival-and-departure-times-stops-timetable-and-other-details/articleshow/135171477.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-24T13:47:23+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/transportation/railways/delhi-varanasi-vande-bharat-sleeper-likely-to-launch-on-october-31-offering-faster-overnight-travel-between-the-two-cities-check-operating-days-arrival-and-departure-times-stops-timetable-and-other-details/articleshow/135171477.cms"
+    }
+   ]
+  },
+  {
+   "id": "dd9a85966452e5977c06",
+   "title": "Akasa Air extends suspension of flights to Jeddah, Riyadh amid evolving security situation in Saudi Arabia",
+   "deck": "Jeddah flights remain suspended through 10 November and Riyadh through 30 November.",
+   "summary": [
+    "Akasa Air has extended its suspension of flights to and from Jeddah through 10 November and Riyadh through 30 November because of the security situation in Saudi Arabia. The airline announced the dates after reviewing attacks on civilian and energy infrastructure and says it is monitoring conditions. Passengers should check their exact flight rather than assume that every Saudi route or carrier is operating under the same timetable.",
+    "Affected Akasa customers may request a full refund to the original payment method, which the airline says should be credited within seven days, or reschedule without an additional fee. Travellers who booked through an agent or other partner need to contact that seller directly. Keeping the booking reference, payment receipt and written cancellation notice will make follow-up easier if a refund is delayed.",
+    "The wider disruption has stranded Umrah pilgrims and other Indian nationals. India’s external affairs ministry said about 3,000 stranded pilgrims had returned during the previous week and more than 10,000 others had travelled home on flights that remained available. Indian missions are operating 24-hour control rooms and coordinating with airlines, tour operators and community volunteers. The security backdrop is serious: India said one national was killed and two injured in the 21 October attack at Dammam’s King Fahd International Airport, while another Indian was injured at the Shaybah oil field. Travellers should follow official mission and airline updates as dates can change quickly."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/akasa-air-extends-suspension-of-flights-to-jeddah-riyadh-amid-evolving-security-situation-in-saudi-arabia/articleshow/135160280.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-24T02:40:50+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/akasa-air-extends-suspension-of-flights-to-jeddah-riyadh-amid-evolving-security-situation-in-saudi-arabia/articleshow/135160280.cms"
+    }
+   ]
+  },
+  {
+   "id": "2a2043200a842207bc86",
+   "title": "Antonelli stands on brink of history in Austin",
+   "deck": "The Mercedes driver starts first in Austin with a narrow path to becoming F1’s youngest champion.",
+   "summary": [
+    "Kimi Antonelli starts the United States Grand Prix from pole with a remote chance to secure the Formula One championship in Austin. The Mercedes driver beat Max Verstappen by 0.179 seconds, with Red Bull’s Isack Hadjar third and Ferrari’s Charles Leclerc and Lewis Hamilton fourth and fifth. George Russell starts sixth. Gusting wind worsened during Q3, making the first runs especially important.",
+    "Antonelli becomes champion on Sunday if he wins while Russell finishes ninth or lower and Hamilton is no higher than fifth. That combination is possible but unlikely, particularly with both rivals starting inside the top six. His 102-point advantage over Russell and 111 over Hamilton means the title is close even if it is not clinched in Texas. At 20 years and 61 days, victory under the required conditions would make him the youngest F1 champion by more than three years and the first Italian champion since Alberto Ascari in 1953.",
+    "The pole indicates Mercedes is beginning to understand an extensive upgrade introduced in Malaysia. The package increased performance but initially made the car difficult to set up; a revised front wing and balance improvements helped in Austin. Antonelli has eight wins from 17 races after a difficult rookie year in 2025. Verstappen’s Friday long-run pace suggests the race is not settled, while Ferrari believes strategy and a strong start could keep it in contention. The title may arrive this weekend, but the contest remains open."
+   ],
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo?at_medium=RSS&at_campaign=rss",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-25T00:40:56+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/antonelli-pole-shows-mercedes-is-seeing-results-of-car-upgrades/10868072/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "name": "Indian Express",
+   "section": "world",
+   "status": "ok",
+   "count": 51
+  },
+  {
+   "name": "NDTV",
+   "section": "world",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "The Hindu",
+   "section": "world",
+   "status": "ok",
+   "count": 60
+  },
+  {
+   "name": "Times of India",
+   "section": "world",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "BBC News",
+   "section": "world",
+   "status": "ok",
+   "count": 31
+  },
+  {
+   "name": "The Guardian",
+   "section": "world",
+   "status": "ok",
+   "count": 35
+  },
+  {
+   "name": "TechCrunch",
+   "section": "technology",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "The Verge",
+   "section": "technology",
+   "status": "ok",
+   "count": 10
+  },
+  {
+   "name": "BBC News",
+   "section": "technology",
+   "status": "ok",
+   "count": 4
+  },
+  {
+   "name": "Indian Express",
+   "section": "business",
+   "status": "ok",
+   "count": 7
+  },
+  {
+   "name": "BBC News",
+   "section": "business",
+   "status": "ok",
+   "count": 17
+  },
+  {
+   "name": "Economic Times",
+   "section": "business",
+   "status": "ok",
+   "count": 50
+  },
+  {
+   "name": "BBC Sport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 5
+  },
+  {
+   "name": "Autosport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 15
+  },
+  {
+   "name": "BBC Sport",
+   "section": "sport",
+   "status": "ok",
+   "count": 57
+  },
+  {
+   "name": "Indian Express",
+   "section": "sport",
+   "status": "ok",
+   "count": 41
+  },
+  {
+   "name": "Gadgets 360",
+   "section": "deals",
+   "status": "ok",
+   "count": 3
+  },
+  {
+   "name": "Indian Express",
+   "section": "local",
+   "status": "ok",
+   "count": 0
+  }
+ ]
+}

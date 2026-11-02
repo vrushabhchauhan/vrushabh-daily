@@ -1,0 +1,654 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-10-27",
+ "generatedAt": "2026-10-27T02:06:46.205134+00:00",
+ "timezone": "Asia/Kolkata",
+ "windowHours": 48,
+ "primaryWindowHours": 24,
+ "summaryMode": "original-articles",
+ "localLimit": 1,
+ "stories": [
+  {
+   "id": "b555ce2afa55383d5d6c",
+   "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+   "deck": "OpenAI has released three claimed advances in mathematics, theoretical computer science and physics, while asking outside academics to help verify and explain them.",
+   "summary": [
+    "OpenAI says its models have produced three major scientific results: a proof of the local-smoothing conjecture for waves in every dimension of at least two, a deterministic algorithm that would refute the Exponential Time Hypothesis, and an existence proof for certain four-dimensional quantum field theories. The mathematics materials and the computer-science write-up, including a Lean proof, have been released for scrutiny; the physics work has not yet been published in full. These are claims awaiting extensive expert checking, not settled discoveries simply because the company announced them.",
+    "The computer-science claim is especially consequential. ETH, proposed in 1999, is a widely used assumption about how hard satisfiability problems are. Russell Impagliazzo and Ramamohan Paturi, who helped formulate it, and MIT’s Ryan Williams will lead a working group to inspect the result. For the physics claim, Nobel laureate David Gross is to lead a group that includes Michael Douglas, Arthur Jaffe, Igor Klebanov and Nikita Nekrasov. OpenAI describes these academics as shepherds who can guide verification and interpretation rather than merely endorse model output.",
+    "That arrangement has already prompted debate about privileged access, borrowed reputation and credit. OpenAI’s own AGMAI mathematics panel recommended against giving selected researchers early access, favouring public repositories, formal proofs, disclosure of problem selection and funding for independent verification. The computer-science group has invited discussion on conflicts, credit for checking and explaining results, and how students should preserve the judgment needed to challenge machine-generated work. The real test is therefore twofold: whether the proofs survive scrutiny, and whether a credible scholarly process can be built around AI-generated claims."
+   ],
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-10-26T23:34:58+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
+    }
+   ]
+  },
+  {
+   "id": "c6bba90d60fe38836854",
+   "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+   "deck": "OpenAI’s dots assistant repackages coding-agent capabilities as a persistent helper, raising familiar questions about permissions, privacy and how agents interact with the wider web.",
+   "summary": [
+    "OpenAI’s dots is an always-on assistant inside the ChatGPT desktop and mobile apps for Pro-tier subscribers and above, with plans starting at $100 a month. Connected to calendars, email, a computer and other tools, it is designed to keep a single continuing conversation and act without waiting for a fresh prompt. Enterprise product leader Alexander Embiricos says much of the underlying capability existed in Codex; the product challenge was making it feel intuitive to people who do not want to manage a coding agent.",
+    "TechCrunch’s testing found useful signs of anticipation, such as noticing calendar conflicts and deadlines, but also poor timing. Embiricos recalled an early warning arriving only three minutes before a meeting. He also cited an engineer whose dot noticed and analysed an outage before the engineer did. The product performs periodic “proactive research”, reviewing what it knows, what the user has shared and what it could do next. That usefulness depends on broad access to personal and workplace data.",
+    "OpenAI says dots inherits ChatGPT privacy controls: users can disable model training and choose which resources the assistant can access. Embiricos acknowledged that permissions need to become more granular; the current product will not accept read-only cloud-drive access. Scale is unresolved. Agents may strain shops and payment networks, while businesses may refuse to deal with them. OpenAI is discussing integrations with payment processors, but giving an assistant spending authority would raise the trust stakes well beyond inbox access."
+   ],
+   "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-27T02:00:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
+    }
+   ]
+  },
+  {
+   "id": "d72536dbf1468d61b6aa",
+   "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+   "deck": "Apple says a small number of its first foldable iPhones have inner-display faults and is offering replacements, though the scale of the problem is not yet known.",
+   "summary": [
+    "Apple says it will replace iPhone Duo units affected by an inner-display problem that appeared within days of the foldable phone going on sale. Owners have posted images showing lines on the display, cracks along the centre crease and, in some cases, reports of a crunching sound when opening the device. The company says only a small number of handsets are affected and has told customers to contact Apple for a replacement, but it has not disclosed a unit count or failure rate.",
+    "The £1,999 starting price in the UK, rising to £3,199 for the highest specification, makes the launch particularly sensitive. The Duo is Apple’s first foldable and its largest iPhone redesign in years, opening from a wider phone into a small-tablet format built around a 7.6-inch inner display and central hinge. One New York customer publicly thanked an Apple store after receiving a new handset, suggesting the replacement process is already operating.",
+    "Photographs circulating online do not establish the full extent of the fault, and the BBC notes that some images may have been AI-generated. Foldable displays are mechanically demanding: Samsung’s first Galaxy Fold launch in 2019 was disrupted after reviewers encountered broken screens. Apple’s response limits the immediate customer risk, but the episode leaves two unanswered questions—whether failures remain genuinely rare as sales expand, and whether the hinge-and-screen design can withstand ordinary long-term use."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+   "section": "technology",
+   "scope": "technology",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-27T01:48:04+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "f22965af8458678ed576",
+   "title": "Healey to shield low-income pensioners from income tax in the Budget",
+   "deck": "Britain’s chancellor is expected to create a tax allowance preventing the full state pension from generating small income-tax bills for low-income retirees.",
+   "summary": [
+    "UK Chancellor John Healey is expected to use Wednesday’s Budget to protect low-income pensioners from paying income tax solely because of the state pension. The full flat-rate payment is forecast to rise 3.9% to £13,036.40 a year in April, above the £12,570 personal allowance. Without a change, some recipients could face a small liability and the administrative burden of dealing with the tax system.",
+    "The government had already promised not to tax people whose only income is the state pension. Healey is expected to fulfil that pledge through a new allowance for low-income pensioners, although the Treasury has not yet confirmed the detailed eligibility rules or how many people will benefit. The Budget was still being finalised ahead of Wednesday’s speech, and officials signalled that it would contain fewer large tax-and-spending measures than some recent fiscal events.",
+    "Opposition parties are using the run-up to present alternatives. Conservatives want cuts to green levies, regulation and welfare to reduce energy bills; Reform UK has proposed 60 measures including approval of the Rosebank oil field. Liberal Democrats are pressing for a growth and defence partnership with the EU, including single-market participation, while the Greens want energy support funded by ending a tax relief for data centres. Those are party positions, not adopted policy; the pension allowance is the concrete measure expected from the government."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+   "section": "business",
+   "scope": "business",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-26T10:28:12+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "ee39b6954e494cc6d991",
+   "title": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates",
+   "deck": "Microsoft has offered voluntary exits to about 60,000 employees in four countries as it keeps investing heavily in AI infrastructure.",
+   "summary": [
+    "Microsoft is offering voluntary buyouts to roughly 60,000 employees—about 27% of its global workforce—in Canada, India, the UK and the US. Chief people officer Amy Coleman described the programme as new for the company and said Microsoft would learn from it while helping staff focus on priority work, build skills or move internally. The company employed about 223,000 full-time workers at the end of June and is due to report quarterly results on Wednesday.",
+    "The offer follows earlier workforce reductions. Microsoft planned US buyouts for about 8,750 people in May and announced 4,800 job cuts in July, including many positions in Xbox. A voluntary programme does not reveal how many people will leave, and the company has not presented a direct one-for-one link between a departing employee and AI spending. The scale nevertheless shows how aggressively large technology groups are reshaping costs while committing capital to compute.",
+    "Industry investment in AI data centres is expected to exceed $700 billion this year, increasing demand for processors, memory, equipment and electricity. Microsoft has embedded Copilot across Windows and other products and continues to expand its AI capacity. Its shares reached a record high this month and rose about 1% on Monday. The key numbers to watch are acceptance of the offer, any subsequent compulsory reductions, and whether revenue growth and productivity gains justify the infrastructure outlay without hollowing out teams needed to deliver products."
+   ],
+   "url": "https://indianexpress.com/article/business/microsoft-offers-a-quarter-of-its-global-workforce-voluntary-buyouts-as-ai-spending-accelerates-10938019/",
+   "section": "business",
+   "scope": "business",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-10-26T18:19:38+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/business/microsoft-offers-a-quarter-of-its-global-workforce-voluntary-buyouts-as-ai-spending-accelerates-10938019/"
+    }
+   ]
+  },
+  {
+   "id": "e9930b1c749177e4eb7c",
+   "title": "Acted ‘unanimously’ on electoral roll revision orders: Election Commission tells Supreme Court",
+   "deck": "India’s Election Commission has told the Supreme Court that electoral-roll revision orders were unanimous, while defending disputed digital procedures as lawful and voter-friendly.",
+   "summary": [
+    "The Election Commission of India has filed an affidavit in the Supreme Court defending its Special Intensive Revision of electoral rolls and saying the three-member commission unanimously approved the relevant orders. The filing responds to a petition by activist Rakesh Kumar Singh and to reporting that election commissioners Sukhbir Singh Sandhu and Vivek Joshi had questioned aspects of the process, including access for Electoral Registration Officers and the presentation of material linked to Form 6.",
+    "The ECI says internal observations and questions are part of deliberation and should not be mistaken for final institutional decisions. It confirmed that Sandhu and Joshi wrote to the cabinet secretary about an internal work-allocation order and a senior official’s conduct, but said that order was never implemented after their joint direction. On digital access, the commission says ECINet is only a tool: additions, deletions and changes still require an ERO’s order, and the technical team must let those statutory officers exercise their judgment.",
+    "The commission also rejects the claim that it unlawfully amended Form 6, which only the central government can change. It says an additional declaration—not the statutory form—was altered to introduce “mapping” to 2002–03 electoral-roll records. Applicants linked to those records may avoid filing further documents during revision. The ECI concedes the online display could have made the declaration look like an amendment. The court must now assess whether that explanation and the claimed safeguards answer the petitioners’ concerns."
+   ],
+   "url": "https://indianexpress.com/article/india/eci-supreme-court-affidavit-special-intensive-revision-sir-gyanesh-kumar-sukhbir-singh-sandhu-vivek-joshi-form-6-indian-express-report-10937935/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-10-26T16:18:42+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/eci-supreme-court-affidavit-special-intensive-revision-sir-gyanesh-kumar-sukhbir-singh-sandhu-vivek-joshi-form-6-indian-express-report-10937935/"
+    }
+   ]
+  },
+  {
+   "id": "a6fa002d6b84b4b8c6fc",
+   "title": "Lula wins fourth term in dramatic Brazil election comeback",
+   "deck": "Luiz Inácio Lula da Silva has won an unprecedented fourth Brazilian presidential term, but faces a defeated rival who rejects the result and a hostile Congress.",
+   "summary": [
+    "Brazilian President Luiz Inácio Lula da Silva won re-election with 51.79% of the vote, becoming the country’s first four-time elected president and overturning a first-round deficit. Right-wing challenger Flávio Bolsonaro, son of former president Jair Bolsonaro, has refused to concede and called for the result to be annulled. Brazil’s electoral-court president, Kássio Nunes Marques—a Jair Bolsonaro appointee—confirmed Lula’s victory and said a nationwide two-hour extension of voting did not alter the outcome.",
+    "Both campaigns had asked for extra voting time: Lula’s cited bus shortages in São Paulo and Bahia, while Bolsonaro’s cited heavy rain in southern areas and São Paulo. Lula ultimately led by about 4.4 million votes after his campaign concentrated on turnout; abstention fell by the largest amount between presidential rounds since 1989. Flávio Bolsonaro had led the 4 October first round by 47% to 45%. Police have since told him to surrender his passports, according to a video he posted.",
+    "Markets reacted sharply, with São Paulo shares falling enough to trigger a brief suspension before partly recovering, while rate futures rose as investors examined Lula’s fiscal plans. Most foreign leaders congratulated Lula. US President Donald Trump instead alleged, without evidence, that the election looked rigged. Lula’s term begins on 5 January and runs to 2030. He must govern a polarised country and a Congress rich in Bolsonaro allies while managing a difficult relationship with Washington."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-26T21:02:47+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "4d975dee6f86853d1621",
+   "title": "Why being \"very adaptive\" gave Norris the edge over Piastri at US GP",
+   "deck": "McLaren let Lando Norris past Oscar Piastri in Austin because Norris adapted better to the variable grip and the team wanted a chance to attack the cars ahead.",
+   "summary": [
+    "McLaren instructed Oscar Piastri to let Lando Norris through on lap eight of the United States Grand Prix after Piastri lost almost a second per lap to leader Kimi Antonelli over the opening seven laps. Team principal Andrea Stella said the move had been discussed before the race: Norris had looked faster all weekend, and if Piastri could not stay with the cars ahead, Norris would receive an opportunity to attack. After the swap, Norris opened a four-second gap in seven laps.",
+    "Stella framed the performance difference around driver strengths. Piastri excels at building pace from stable references, while Austin’s changing grip and sliding car rewarded Norris’s ability to adapt from lap to lap. The decision also demonstrated McLaren’s renewed emphasis on team interests after its drivers collided in Singapore. The team wants both cars back at the front before managing their internal competition for wins and championships.",
+    "McLaren tried a one-stop strategy using hard tyres while Ferrari and Max Verstappen ran two stops. Norris held second until lap 46, then lost places to Verstappen, Charles Leclerc and Lewis Hamilton, but still finished fifth after undercutting Isack Hadjar and George Russell. Piastri finished seventh. Stella said the strategy needed a safety-car opportunity that never came, yet considered the tyre choice and execution reasonable. McLaren’s upgrades improved the car, but qualifying remains a weakness, and the team has now gone four rounds without a podium."
+   ],
+   "url": "https://www.autosport.com/f1/news/why-being-very-adaptive-gave-norris-edge-over-piastri-at-us-gp/10868691/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-10-26T17:20:16+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/why-being-very-adaptive-gave-norris-edge-over-piastri-at-us-gp/10868691/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    }
+   ]
+  },
+  {
+   "id": "073f80b5ca26e600d8d4",
+   "title": "Kane prematurely announced as Ballon d'Or winner - but he wasn't only one",
+   "deck": "A batch of accidentally published nominee profiles briefly muddied the Ballon d’Or reveal before Harry Kane was officially confirmed as the men’s winner.",
+   "summary": [
+    "Harry Kane became the first Englishman since 2001 to win the men’s Ballon d’Or, but the announcement was preceded by an unusual false start. At 17:15 GMT, the award’s official website published a page headlined “Harry Kane wins the 2026 Ballon d’Or”. The page circulated quickly, apparently spoiling a result chosen by journalists at the end of September—until users found similar winner profiles for other contenders.",
+    "Prepared articles also named Barcelona’s Lamine Yamal and Real Madrid’s Kylian Mbappé, as well as women’s nominees Alexia Putellas and Ewa Pajor. Organisers said profiles had been written for all nominees and were inadvertently put online, so they should not be read as a result or ranking. The Kane and Mbappé pages were removed within about 25 minutes. Putellas was later officially confirmed as the women’s winner, while Kane ultimately did receive the men’s prize.",
+    "The incident was therefore a publishing error rather than evidence that the vote itself had leaked through one privileged page. It illustrates the risk of pre-writing multiple outcome stories for a live event: publication controls, not reporting, become the final point of failure. For Kane, the confusion lasted only a few hours before the real ceremony ended England’s 25-year wait for a men’s winner."
+   ],
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmly0g2y7q2zo?at_medium=RSS&at_campaign=rss",
+   "section": "sport",
+   "scope": "sport",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-26T23:35:27+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cmly0g2y7q2zo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "88110cc69b639e4d72df",
+   "title": "India vs New Zealand 3rd T20I Live Streaming: When, where to watch IND vs NZ match?",
+   "deck": "India can clinch its five-match T20I series against New Zealand today, with the third match beginning at 12:30 pm IST in Wellington.",
+   "summary": [
+    "India leads New Zealand 2–0 in the five-match T20I series and can secure the contest in the third game today at Hnry Stadium in Wellington. The toss is scheduled for noon IST and play for 12:30 pm IST. Sony Sports Network holds the Indian television broadcast, while SonyLIV carries the live stream on its app and website.",
+    "The visitors won both opening matches in Christchurch and have adapted quickly to New Zealand conditions. Sanju Samson has provided momentum at the top, with Tilak Varma and Naman Dhir contributing lower down the order. Shreyas Iyer captains an India squad that also includes Abhishek Sharma, Ishan Kishan, Axar Patel, Bhuvneshwar Kumar, Kuldeep Yadav, Arshdeep Singh and several pace and all-round options.",
+    "New Zealand must win to keep the series alive and will hope the move to Wellington changes the pattern. Mitchell Santner leads a group featuring Finn Allen, Tim Seifert, Devon Conway, Glenn Phillips, Daryl Mitchell, Kyle Jamieson, Lockie Ferguson and Matt Henry. For India, the practical prize is closing the series with two games to spare; for New Zealand, it is forcing the contest deeper and finding an answer to India’s balanced batting before the remaining fixtures."
+   ],
+   "url": "https://indianexpress.com/article/sports/cricket/india-vs-new-zealand-3rd-t20i-live-streaming-ind-vs-nz-telecast-10937444/",
+   "section": "sport",
+   "scope": "sport",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-10-26T16:49:56+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/sports/cricket/india-vs-new-zealand-3rd-t20i-live-streaming-ind-vs-nz-telecast-10937444/"
+    }
+   ]
+  },
+  {
+   "id": "226ba0449a107e77dec3",
+   "title": "Flipkart Big Bang Diwali Sale 2026 Date Announced; iPhone 17 and More Smartphones to Be Discounted",
+   "deck": "Flipkart says its Big Bang Diwali sale starts on 28 October, but most product prices remain teasers rather than verified bargains.",
+   "summary": [
+    "Flipkart has announced that its Big Bang Diwali Sale 2026 begins on 28 October, shortly after the Big Billion Days event ended. A dedicated sale page lists smartphones, laptops, televisions, appliances and wearables that are expected to receive discounts. The iPhone 17, Samsung Galaxy S25 FE, Motorola Edge 70 Pro and Nothing Phone (4a) are among the named phones, but the report does not provide final sale prices for those products.",
+    "The platform advertises an instant 10% discount on eligible SBI credit-card, debit-card and credit-card EMI transactions, credit of up to ₹2 lakh, no-cost EMI options and a ₹1,000 Flipkart Pay Later discount. It also promises hourly “Tick Tock” offers and time-limited evening windows. These are reported promotional terms; eligibility, caps, minimum spends, stock and the effective price after exchange bonuses can vary by account and product.",
+    "Treat the event as a watchlist, not a confirmed saving. Compare the checkout price with the same model’s recent price history and other retailers, and check whether the bank discount excludes certain cards or EMI tenures. Exchange values are not cash discounts unless the old device qualifies at the quoted amount. With the sale not yet open and product-level prices undisclosed, no specific handset can responsibly be described as a current bargain today."
+   ],
+   "url": "https://www.gadgets360.com/mobiles/news/flipkart-big-bang-diwali-sale-2026-date-announced-deals-discounts-teased-12236493",
+   "section": "deals",
+   "scope": "deals",
+   "source": "Gadgets 360",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-10-26T07:38:45+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Gadgets 360",
+     "group": "ndtv",
+     "url": "https://www.gadgets360.com/mobiles/news/flipkart-big-bang-diwali-sale-2026-date-announced-deals-discounts-teased-12236493"
+    }
+   ]
+  },
+  {
+   "id": "092e8ceea2bd79fc970f",
+   "title": "Anthropic is burning gas to feed the AI boom",
+   "deck": "Anthropic’s IPO filing describes electricity and gas supply as material constraints on its growth, while also acknowledging that climate change can raise cooling and operating costs.",
+   "summary": [
+    "Anthropic’s S-1 filing lays out how tightly the AI company’s expansion is tied to energy infrastructure. It leases computing capacity from hyperscalers and has announced a $50 billion data-centre expansion in Texas and New York. Some planned facilities depend on electricity generated by on-site gas turbines, according to the filing. Anthropic warns that intense competition for power, data-centre sites, gas and pipeline capacity could raise costs or force projects to be delayed or abandoned.",
+    "The disclosure arrives as US data-centre demand drives new fossil-fuel generation and grid investment. Developers facing long grid-connection queues and turbine backlogs have turned to on-site engines and simpler turbine designs, which can be less efficient and more polluting. The Verge cites a Texas study warning that data-centre growth could erode years of air-quality gains. Communities are also resisting projects over pollution and utility bills, creating regulatory and political risk alongside the physical supply constraint.",
+    "Anthropic identifies a feedback loop: the infrastructure that powers its models can add greenhouse emissions, while higher temperatures increase the electricity and water needed to cool servers. Regulators could impose standby charges or make developers bear more of the cost of new generation and transmission if ordinary customers are affected. The filing does not say gas is the only possible energy source, but it makes clear that reliable, affordable power is no longer a background expense. It is a core limit on model development, deployment and revenue growth."
+   ],
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-10-26T21:45:31+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk"
+    }
+   ]
+  },
+  {
+   "id": "c5ea2689c4b950f1e061",
+   "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+   "deck": "Two US fusion startups have accepted federal awards in exchange for nonvoting equity, turning conventional industrial support into a taxpayer investment with both upside and dilution.",
+   "summary": [
+    "Helion and Commonwealth Fusion Systems will receive $260 million under the US CHIPS and Science Act to develop advanced semiconductors used in their reactors. Helion’s award is $175 million and CFS’s is $85 million. Unlike traditional nondilutive grants, both deals give the federal government nonvoting shares. Helion says its stake is based on a $15.5 billion Series G valuation and works out to roughly 1%; CFS has not disclosed the valuation needed to calculate its stake.",
+    "The money is modest beside the companies’ private financing—about $3.2 billion committed to Helion and roughly $4 billion raised by CFS—but it signals that Washington views fusion as a strategic industry. Private investors have put more than $14 billion into fusion during the past decade, while the industry argues that far more public research infrastructure is needed to compete with state-backed programmes overseas. A trade group had asked for a one-time $10 billion federal infusion, including $5.4 billion for startups, but had not proposed equity as the mechanism.",
+    "The Trump administration has attached ownership to industrial support, including deals involving Intel and critical-minerals companies. Supporters say taxpayers should share the upside if public money helps a company succeed. Investors must weigh that against dilution and complications in future financing or a wind-down. Other fusion companies with federal partnerships have not surrendered equity, so this is not yet a universal template. Helion and CFS may nevertheless shape the terms on which capital-hungry fusion ventures obtain larger government backing."
+   ],
+   "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-26T18:59:52+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/"
+    }
+   ]
+  },
+  {
+   "id": "c8834c973f1bc77c213e",
+   "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+   "deck": "Bedrock Robotics has raised $600 million after moving autonomous excavators from pilots into paid work on live construction sites.",
+   "summary": [
+    "Bedrock Robotics has raised a $600 million Series C at a $4.1 billion valuation, bringing its funding since 2024 to nearly $1 billion. CapitalG and Emergence Capital co-led the round, with participation from Bessemer, Temasek, Nvidia and others. The two-year-old company builds a self-driving kit that can be retrofitted to worksite vehicles, with an initial emphasis on excavators rather than road-going cars or trucks.",
+    "The financing follows a meaningful commercial milestone: Bedrock-equipped excavators are now operating on active projects rather than only in tests. Deployments include a Nevada water-treatment facility, a Texas earthworks site and a 1.2 million-cubic-yard civil project with Zachry Construction. New partner Haydon plans to use the technology across advanced-manufacturing plants, water facilities, data centres and healthcare projects. The company says the new capital will fund more deployments and the field support needed to make the machines dependable parts of existing crews and workflows.",
+    "Bedrock’s founders bring experience from Waymo, Anki, Segment and Twilio; chief executive Boris Sofman previously led Waymo’s discontinued autonomous-trucking programme. The business case rests partly on a shortage of skilled operators. Bedrock says excavator mastery can take five years, while an industry association estimates more than 40% of US construction workers will retire within five years. The technical achievement is important, but customers will judge the system on utilisation, safety, maintenance and whether autonomy reliably fills labour gaps on messy, changing sites."
+   ],
+   "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-26T17:45:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
+    }
+   ]
+  },
+  {
+   "id": "c703d92e74636f36951a",
+   "title": "The RealReal won’t let AI agents hog designer clothing",
+   "deck": "The RealReal has tightened bot defences after an AI assistant repeatedly renewed cart holds, illustrating how persistent shopping agents can distort systems designed for humans.",
+   "summary": [
+    "Luxury-resale retailer The RealReal has changed its bot defences after The Verge showed that Meta’s Muse agent could repeatedly exploit its 20-minute cart reservation. By re-adding an item whenever the hold expired, the agent could keep a unique listing unavailable to other shoppers for hours. Chief technology officer Luke Friang said the specific case has been addressed and that agents will now find it much harder to log in, add products to carts and complete checkout.",
+    "The company still plans to let agents surface listings and direct users to product pages, so the response is a restriction rather than a blanket ban. That balance matters for a consignment marketplace where each item may be unique. A hold intended to give a person time to decide becomes unfair when software can renew it indefinitely at negligible effort. Meta did not immediately comment on the incident.",
+    "The episode is a small example of a broader commercial conflict. Meta says shopping is Muse’s most common use and that purchases average more than $200. Retailers want discovery and sales, but agents can separate them from customers, undermine advertising and overload assumptions built into queues, reservations and inventory. Amazon and others have blocked shopping agents for similar strategic reasons. As persistent assistants spread, businesses will need explicit machine-facing rules—limits on holds, identity, rate and authority—rather than relying on behaviour that was reasonable only when every shopper was human."
+   ],
+   "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-10-26T17:30:55+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal"
+    }
+   ]
+  },
+  {
+   "id": "b00a5ebd96a15962a493",
+   "title": "TRAI recommends light-touch regulatory framework for internet-based TV services",
+   "deck": "TRAI has proposed a national, infrastructure-light authorisation for apps that aggregate scheduled television channels over the internet.",
+   "summary": [
+    "India’s telecom regulator has recommended a light-touch framework for Application-based Linear Television Distribution, covering services that aggregate scheduled channels over public internet or other IP networks. TRAI proposes a distinct sub-category under broadcasting authorisations, with a ₹10,000 processing fee, a one-time ₹1 lakh entry fee and no recurring authorisation fee, bank guarantee or security deposit. The initial national authorisation would last 20 years and could be renewed in ten-year periods.",
+    "The application provider would be responsible for authorisation, compliance and consumer grievances. Platforms could carry only channels holding valid central-government permission, including registered internet-native linear channels, along with their own platform channels and optional on-demand material. Broadcaster apps carrying only their own group’s channels and live streams on social-media services would be excluded. TRAI also wants authorisation, channel registration and reporting handled through an online portal.",
+    "The recommendations extend beyond app operators. The information ministry would maintain a master repository of authorised ALTD apps, while television makers and operating-system providers would make only authorised apps available and file annual compliance reports. TRAI also proposes bringing viewing on these services into television-audience measurement and allowing anonymised periodic viewing data under the 2026 ratings policy. The ministry still has to convert recommendations into rules, so the proposal gives the market a direction rather than immediate operating law."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/trai-recommends-light-touch-regulatory-framework-for-internet-based-tv-services/articleshow/135208239.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-26T09:45:30+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/trai-recommends-light-touch-regulatory-framework-for-internet-based-tv-services/articleshow/135208239.cms"
+    }
+   ]
+  },
+  {
+   "id": "0874255ff3cbaa39d949",
+   "title": "Hyundai reveals ambitious plan at new Bayon launch; Creta to be part of big push as well",
+   "deck": "Hyundai expects the new Bayon and Creta to sell at least 250,000 units annually from 2027 as India’s mid-size utility-vehicle market becomes more crowded.",
+   "summary": [
+    "Hyundai Motor India is targeting combined annual sales of at least 250,000 Creta and Bayon SUVs from 2027. The newly launched Bayon starts at ₹9.99 lakh ex-showroom and sits between the sub-four-metre Venue and the Creta. Managing director Tarun Garg told PTI that the target is a starting point as Hyundai tries to defend its position in the 4-to-4.4-metre utility-vehicle segment, which sold about 900,000 units in the last financial year.",
+    "The strategy adds a second nameplate to a category where Hyundai had relied on the Creta since 2015. Creta sales fell more than 9% year on year to 89,727 units in the first half of FY27 even as the overall segment grew by more than 50%. Garg partly blamed limited diesel supply, with waits exceeding a month. The Bayon will use petrol and CNG powertrains only; Hyundai says market research favours petrol and that too many choices within one model could confuse buyers.",
+    "Production will be at Hyundai’s Chennai plant and should improve utilisation after Venue manufacturing moved to Pune. The company wants the Bayon to bring incremental customers rather than simply move existing buyers down from the Creta, but competition is intense: Maruti Suzuki and Tata already field multiple models in the category. Hyundai plans 26 India launches or major updates by 2030—20 combustion models and six electric—and its Korean parent has committed $15.5 billion of investment in the country by 2032."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-reveals-ambitious-plan-at-new-bayon-launch-creta-to-be-part-of-big-push-as-well/articleshow/135207257.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-26T08:50:56+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-reveals-ambitious-plan-at-new-bayon-launch-creta-to-be-part-of-big-push-as-well/articleshow/135207257.cms"
+    }
+   ]
+  },
+  {
+   "id": "8235ac7c15207d2eb31b",
+   "title": "‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims",
+   "deck": "A civil-liberties report says AI is spreading through UK immigration enforcement without enough transparency; the Home Office says humans remain responsible for decisions.",
+   "summary": [
+    "Open Rights Group says artificial intelligence is being used across the UK Home Office for tasks including age assessment, detecting possible sham marriages, examining migrants’ phones, border surveillance and summarising asylum interviews. Its report, assembled from official fragments, freedom-of-information requests and parliamentary questions, also points to the opaque Ipic system for prioritising immigration cases and to facial recognition, drones and satellites at borders.",
+    "The group argues that deployment has happened in near-total secrecy, with national-security exemptions limiting disclosure, and warns that systems can reproduce social bias when applied to people with little power. It calls for a public register of government AI, stronger information rights and bans on uses that threaten democratic or human rights. Labour MP Bell Ribeiro-Addy, the SNP’s Pete Wishart and Green MP Siân Berry support the report, giving the criticism cross-party backing.",
+    "The Home Office disputes the suggestion that AI decides asylum claims. It says trained caseworkers remain responsible and that tools only help them navigate interview records and country-policy information; tools cannot be used alone. The department says it monitors performance through established quality checks and has committed to publishing updated evaluations. Those assurances address formal responsibility but not the report’s central transparency question: outsiders still lack enough documentation to test accuracy, bias, appeal routes and how much automated recommendations influence a human decision in practice."
+   ],
+   "url": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
+   "section": "world",
+   "scope": "world",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-10-27T00:01:02+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report"
+    }
+   ]
+  },
+  {
+   "id": "93ea0f105814a9eee1ab",
+   "title": "The two recurring issues that hampered Verstappen and Red Bull again at the US GP",
+   "deck": "Max Verstappen extended his podium streak in Austin but said tyre choices, inconsistent power-unit behaviour, starts and radio failures kept Red Bull below its potential.",
+   "summary": [
+    "Max Verstappen took his tenth podium of the 2026 season and sixth in succession at the United States Grand Prix, but called the race frustrating. Red Bull’s soft-tyre assumptions, successful at the previous two events, did not hold in Austin. Verstappen said rivals on harder compounds found grip while his team reacted too slowly and used its tyre allocation in the wrong stint order. Team principal Laurent Mekies also acknowledged that a recent strength—keeping soft tyres in their operating window—became a weakness.",
+    "The car’s power-unit behaviour varied from corner to corner, prompting engine-braking advice over the radio and preventing Verstappen from establishing a rhythm. A slow pit stop added to the lost opportunity. Kimi Antonelli appeared to have superior outright pace, but Verstappen’s dissatisfaction was chiefly that Red Bull failed to reach its own expected level after showing enough speed in Q2 to suggest a pole challenge.",
+    "Two longer-running problems remained visible. Red Bull’s starts have been consistently weak, even though Verstappen did not lose a place this time. Radio communication also failed again on Austin’s bumpy surface. After problems with regular engineer Gianpiero Lambiase in Singapore, Verstappen struggled to hear stand-in engineer Tom Hart and joked that sign language might be cheaper. Reliability here means more than avoiding retirement: strategy, communication and predictable controls must work together if Red Bull is to convert the RB22’s pace into wins."
+   ],
+   "url": "https://www.autosport.com/f1/news/max-verstappen-pinpoints-two-recurring-red-bull-problems-we-should-use-sign-language/10868501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-10-26T06:57:41+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/max-verstappen-pinpoints-two-recurring-red-bull-problems-we-should-use-sign-language/10868501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "name": "Indian Express",
+   "section": "world",
+   "status": "ok",
+   "count": 51
+  },
+  {
+   "name": "NDTV",
+   "section": "world",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "The Hindu",
+   "section": "world",
+   "status": "ok",
+   "count": 60
+  },
+  {
+   "name": "Times of India",
+   "section": "world",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "BBC News",
+   "section": "world",
+   "status": "ok",
+   "count": 27
+  },
+  {
+   "name": "The Guardian",
+   "section": "world",
+   "status": "ok",
+   "count": 38
+  },
+  {
+   "name": "TechCrunch",
+   "section": "technology",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "The Verge",
+   "section": "technology",
+   "status": "ok",
+   "count": 10
+  },
+  {
+   "name": "BBC News",
+   "section": "technology",
+   "status": "ok",
+   "count": 4
+  },
+  {
+   "name": "Indian Express",
+   "section": "business",
+   "status": "ok",
+   "count": 12
+  },
+  {
+   "name": "BBC News",
+   "section": "business",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "Economic Times",
+   "section": "business",
+   "status": "ok",
+   "count": 50
+  },
+  {
+   "name": "BBC Sport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 5
+  },
+  {
+   "name": "Autosport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 9
+  },
+  {
+   "name": "BBC Sport",
+   "section": "sport",
+   "status": "ok",
+   "count": 54
+  },
+  {
+   "name": "Indian Express",
+   "section": "sport",
+   "status": "ok",
+   "count": 38
+  },
+  {
+   "name": "Gadgets 360",
+   "section": "deals",
+   "status": "ok",
+   "count": 6
+  },
+  {
+   "name": "Indian Express",
+   "section": "local",
+   "status": "ok",
+   "count": 0
+  }
+ ]
+}

@@ -1,0 +1,694 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-10-28",
+ "generatedAt": "2026-10-28T02:03:11.808980+00:00",
+ "timezone": "Asia/Kolkata",
+ "windowHours": 48,
+ "primaryWindowHours": 24,
+ "summaryMode": "original-articles",
+ "localLimit": 1,
+ "stories": [
+  {
+   "id": "3599912ae52eb69c5ccb",
+   "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+   "deck": "Apple’s latest update expands Siri’s memory and language reach, adds practical communication tools and carries an unusually large security payload.",
+   "summary": [
+    "Apple has released iOS and iPadOS 27.2 with beta Siri AI support in French, Japanese, Korean, Portuguese and Spanish. Siri can now recall details from earlier conversations and draw context from attached Messages photos, calendar attendees, voicemail, Safari history and reading lists. Users can exclude selected apps from that memory. Messages can suggest turning a conversation into a reminder or calendar event, while Shared Albums gain editable captions, comments and expiry reminders. FaceTime adds simultaneous front-and-rear Dual Capture, plus support for a third-party sign-language interpreter or live captioner.",
+    "The update also gives the foldable iPhone Duo Apple Pencil support in Notes and Preview, despite early screen-fault reports, and adds an Edge Light for video calls. Apple TV Multiview on iPhone can show as many as four simultaneous sports streams, including Formula One feeds in the US. More important than the feature list are over 160 security fixes. Apple backported many to iOS 26 and sent one fix as far back as iOS 18, saying the flaw may have been exploited in an extremely sophisticated attack against specific people—a phrase often associated with spyware or forensic tools. Apple says roughly 80% of iPhones remain on iOS 26, so users should install the newest update available for their device rather than waiting for the headline AI functions."
+   ],
+   "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-27T13:54:51+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/"
+    }
+   ]
+  },
+  {
+   "id": "578f4a1cc2a6a4ecc178",
+   "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+   "deck": "OpenAI’s claimed scientific breakthroughs may be substantial, but researchers say selective disclosure and handpicked reviewers are slowing the open scrutiny needed to establish that.",
+   "summary": [
+    "OpenAI has announced claimed advances in mathematics, computer science and physics, including a proof of the Kakeya conjecture in all dimensions, an algorithm that would refute the Exponential Time Hypothesis, and work on four-dimensional quantum field theories. Specialists interviewed by The Verge described the results as potentially huge, though verification will take time. Brown mathematician Brendan Hassett said the mathematics claim looked well supported but had not checked its Lean formalisation. The physics materials remain unreleased, and the claim does not solve the Yang–Mills mass-gap Millennium problem.",
+    "The disclosure process is now part of the controversy. OpenAI publicly released the mathematics output, formed a group to explain the computer-science result and gave a selected physics group control over when its material appears. Researchers welcomed outside expertise but objected to privileged access. OpenAI’s own AGMAI advisers warned that handpicking reviewers creates unequal access, borrows reputations and can delay checking; they urged immediate publication of natural-language and formal proofs. The computer-science claim says fixed-width satisfiability can be counted in sub-exponential time, challenging an assumption embedded in years of complexity research, but its organisers say it does not presently break known cryptographic systems. Until the full work is public and independently examined, these remain serious claims—not established discoveries."
+   ],
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-10-27T20:48:58+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
+    },
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
+    }
+   ]
+  },
+  {
+   "id": "e8db0942bd06c5b090a9",
+   "title": "'An annoying buzz': The search for stealthier drones",
+   "deck": "As delivery drones spread, their high-pitched noise is becoming a design and policy problem that decibel readings alone do not capture.",
+   "summary": [
+    "Drone delivery is moving from novelty to routine in parts of the US, with Amazon Prime Air expanding toward nearly 500 towns and cities and Walmart partner Wing operating its own network. Residents describe a sudden, intrusive buzz that remains audible indoors and is harder to ignore than steady road traffic. Acoustic researcher Antonio Torija Martinez says low-flying drones expose neighbourhoods with little previous aircraft noise, while annoyance depends on novelty, frequency and whether a resident benefits from the service. The US Federal Aviation Administration regulates commercial flight but says operators and local leaders carry primary responsibility for community concerns.",
+    "Engineers are attacking the source. London startup Greenjets encloses slower-spinning blades inside pods, uses vibration-damping materials and claims at least a two-thirds noise reduction; similar systems serve police, harbour security and wildlife protection. Sharrow Engineering uses loop-shaped, tipless propellers after identifying blade tips as a major noise source. Amazon says custom propellers on its newest drone cut perceived sound almost in half, while Wing varies routes to avoid repeatedly crossing one home. Each approach must preserve lift, range, payload, safety and cost. Quieter hardware and better route planning may reduce the nuisance, but residents who oppose constant overflights argue that expansion should pause until operators can show acceptable real-world sound, not merely laboratory improvements."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+   "section": "technology",
+   "scope": "technology",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-28T00:01:10+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "c0c1aa947a1aa1d44cba",
+   "title": "Regional rural banks to set up cybersecurity centres, develop threat intel",
+   "deck": "India’s 28 regional rural banks are being asked to build modern security operations, fraud detection and data systems after earlier ransomware disruption.",
+   "summary": [
+    "Regional rural banks plan to establish cybersecurity operations centres under the Utkarsh reform programme. The proposed capabilities include threat intelligence, centralised log management, security information and event management, vulnerability testing, incident detection and response, plus automated escalation. Enterprise fraud-risk systems are intended to improve early warnings, while sponsor banks will strengthen governance and oversight. The Financial Stability and Development Council has also reviewed the cyber readiness of these lenders as part of a wider financial-sector security strategy.",
+    "The upgrade addresses a demonstrated weakness. In 2024, ransomware hit technology providers serving some rural banks, leading the National Payments Corporation of India to isolate affected systems and temporarily disrupting customer access to payments. The programme also calls for enterprise data warehouses and data lakes to standardise regulatory reporting, analytics and performance management. Those investments can improve visibility, but centralising data also increases the impact of poor access controls. The practical test will be whether banks staff their centres with skilled teams, continuously test recovery, supervise vendors and act on alerts—not merely purchase dashboards. Officials also cite new AI-enabled threats, but familiar controls such as patching, segmentation, strong identity, tested backups and rapid incident reporting remain the foundation."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/regional-rural-banks-to-set-up-cybersecurity-centres-develop-threat-intel/articleshow/135243325.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-27T18:08:29+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/regional-rural-banks-to-set-up-cybersecurity-centres-develop-threat-intel/articleshow/135243325.cms"
+    }
+   ]
+  },
+  {
+   "id": "4af40f846f2fa08e5eaf",
+   "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+   "deck": "Britain’s first Budget under Chancellor John Healey is expected to combine household support with possible bank and platform tax changes as inflation remains above target.",
+   "summary": [
+    "John Healey is due to present the UK Budget around 12:30 pm on Wednesday, with the government promising households “breathing space” while leaving some tax rises possible. Expected measures include a 2.5% deposit scheme for eligible first-time buyers of new homes, backed by a loan worth 20% of the property; higher minimum wages; targeted energy-bill help; continued fuel-duty relief; and a new allowance shielding people whose only income is the state pension when the full rate rises above the £12,570 personal threshold.",
+    "Banks expect the chancellor may reverse part of a previous cut to their profit surcharge or increase the balance-sheet levy. Online marketplaces could be made responsible for collecting tax owed by traders, with revenue supporting lower business rates for high-street shops. The government also plans tariff removals on 100 food items and regulatory changes it says could save businesses £800 million, although the estimated household saving from food measures is only about 40p a week. These are pre-Budget expectations, not final policy. The Office for Budget Responsibility’s forecasts will determine how markets judge the package, particularly whether it meets fiscal rules as energy shocks, 3.1% inflation and slower prospective growth pressure households and government borrowing."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "section": "business",
+   "scope": "business",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-28T00:03:10+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "500bad436a06396fa636",
+   "title": "TVS family files caveats in Chennai courts as Mallika, Lakshmi seek settlement",
+   "deck": "Members of the TVS business family have filed protective court notices while Mallika Srinivasan and Lakshmi Venu continue to call for a negotiated economic settlement.",
+   "summary": [
+    "Venu Srinivasan, his wife Mallika Srinivasan and their children Lakshmi Venu and Sudarshan Venu filed multiple caveats in Chennai’s City Civil Court and Commercial Court on 12 and 13 October. The filings place Venu and Sudarshan on one side and Mallika and Lakshmi on the other in a dispute over division of family wealth. A caveat does not itself start a lawsuit or prove any claim; it asks the court not to issue an order affecting the filer without first hearing that person.",
+    "Mallika and Lakshmi say they still want an amicable resolution through transparent talks. Their stated issue is not management roles, which they say were compensated, but recognition of “rightful economic ownership” within the Venu Srinivasan family. They distinguish that question from the larger TVS family partition agreed in 2020 and from TAFE, the Amalgamations Group tractor maker chaired by Mallika. Lakshmi is TAFE vice-chair and executive director and managing director of Sundaram-Clayton; Sudarshan is chairman and managing director of TVS Motor. The simultaneous dialogue language and court precautions suggest negotiations remain possible, but each side is ensuring it can respond before any interim judicial action changes its position."
+   ],
+   "url": "https://indianexpress.com/article/business/tvs-family-caveats-chennai-court-mallika-lakshmi-10939490/",
+   "section": "business",
+   "scope": "business",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-10-27T16:51:39+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/business/tvs-family-caveats-chennai-court-mallika-lakshmi-10939490/"
+    }
+   ]
+  },
+  {
+   "id": "3705a6b0e9af55993543",
+   "title": "BRICS parliamentary forum expresses ‘deep concern’ about West Asian hostilities",
+   "deck": "BRICS parliamentary leaders used a New Delhi declaration to urge restraint in West Asia, back Palestinian statehood and oppose sanctions they consider unlawful.",
+   "summary": [
+    "The 12th BRICS Parliamentary Forum ended with a joint declaration expressing deep concern about escalating West Asian hostilities and calling on parties to avoid actions that worsen the conflict. Parliamentary leaders reaffirmed a negotiated two-state solution in which Israel and an independent, sovereign Palestinian state live side by side under international law and relevant UN resolutions. UAE parliamentarian Ali Rashid Al Nuaimi separately said Israel is a regional reality but the conflict demonstrates the need to restart talks toward Palestinian statehood.",
+    "The declaration criticised unilateral economic sanctions and other coercive measures viewed as contrary to the UN Charter, an indirect reference to US- and Israeli-led action against Iran. Iran’s delegation chief cancelled his visit amid growing Saudi-Houthi tensions, but other regional policymakers attended. The forum also condemned terrorism, specifically the 22 April 2025 Pahalgam attack, called for action against UN-designated terrorists and urged completion of a long-pending UN convention on international terrorism. The statement records common parliamentary positions rather than a binding diplomatic settlement. Its value will depend on whether member governments use those channels to reduce escalation despite their differing alliances and national policies."
+   ],
+   "url": "https://www.thehindu.com/news/national/brics-parliamentary-forum-expresses-deep-concern-about-west-asian-hostilities/article71632561.ece",
+   "section": "world",
+   "scope": "india",
+   "source": "The Hindu",
+   "sourceGroup": "the-hindu",
+   "publishedAt": "2026-10-27T20:05:58+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/national/brics-parliamentary-forum-expresses-deep-concern-about-west-asian-hostilities/article71632561.ece"
+    }
+   ]
+  },
+  {
+   "id": "bfdde06e03c56cbca82f",
+   "title": "Indians Travelling To UAE Advised To Take Adequate Medical Insurance",
+   "deck": "Indian missions in the UAE are warning visitors and residents to check health cover after medical emergencies left some families with unaffordable bills.",
+   "summary": [
+    "India’s Consulate General in Dubai has advised nationals travelling to the United Arab Emirates for tourism or visits to buy adequate medical insurance before departure. The policy should include cashless treatment and the cost of medical repatriation to India, not merely a small reimbursement limit. The embassy in Abu Dhabi and consulates in Dubai and the Northern Emirates say they have encountered several emergencies where inadequate cover produced bills beyond the patient or family’s ability to pay.",
+    "Indians living in the UAE on employment or dependent visas are also being asked to verify that their existing plan covers local treatment and repatriation. The advisory does not name one insurer or prescribe a fixed sum, because appropriate coverage depends on age, duration, health and planned activities. Travellers should read exclusions for pre-existing conditions, waiting periods, adventure sports and outpatient care; confirm the hospital network and cashless process; and keep policy and emergency numbers accessible. A cheap certificate that satisfies an entry requirement may still leave a large gap. Repatriation is especially important because stabilisation, an air ambulance and medical escort can cost far more than an ordinary return flight."
+   ],
+   "url": "https://www.ndtv.com/india-news/indians-travelling-to-uae-advised-to-take-adequate-medical-insurance-12245857",
+   "section": "world",
+   "scope": "india",
+   "source": "NDTV",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-10-27T23:50:37+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/indians-travelling-to-uae-advised-to-take-adequate-medical-insurance-12245857"
+    }
+   ]
+  },
+  {
+   "id": "96e4360efd9507de1eb8",
+   "title": "Our goal today is to develop new technologies for India, the world: PM at science conclave",
+   "deck": "At India’s emerging-technology conclave, Narendra Modi asked researchers and companies to turn broad ambitions into measurable prototypes, pilots and products within three years.",
+   "summary": [
+    "Prime Minister Narendra Modi opened ESTIC 2026 in New Delhi by urging researchers, industry leaders, startups and young scientists to set specific three-year goals tied to a developed India. He said emerging science should be judged not only by sophistication but by whether it improves health, agriculture, education, employment and disaster response. The conclave included Science Minister Jitendra Singh, principal scientific adviser Ajay Sood and Nobel laureates Joachim Frank, Richard Roberts and Kostya Novoselov.",
+    "Modi cited a 500 MW prototype fast-breeder reactor reaching first criticality as evidence of domestic nuclear capability, along with an Indian AI model and locally made chips being shipped abroad. He said the government had committed roughly ₹12,000 crore to help laboratory technologies reach markets and that the private sector had added a similar amount, for about ₹24,000 crore in one year. Those figures and milestones were presented by the prime minister and should be assessed against programme-level disbursement, commercial deployment and independently verified results. His central policy message was clearer: public events and funding should produce time-bound technology outcomes, not stop at declarations of intent."
+   ],
+   "url": "https://indianexpress.com/article/india/estic-2026-pm-modi-innovation-research-funding-10939503/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-10-27T17:03:39+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/estic-2026-pm-modi-innovation-research-funding-10939503/"
+    }
+   ]
+  },
+  {
+   "id": "cfc2ce1e5dc2ef103599",
+   "title": "Australia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year",
+   "deck": "Australian inflation has accelerated ahead of the Reserve Bank’s 3 November meeting, increasing the likelihood of another rate rise despite weaker employment conditions.",
+   "summary": [
+    "Australia’s headline consumer inflation reached 4.3% in the year to September, while the Reserve Bank’s preferred underlying measure was 3.6%. Both sit well above the 2.5% target. Deputy governor Andrew Hauser called the figures too high and warned of a risk—though not yet a realised one—that prolonged price rises could lift long-term expectations and make inflation harder to remove. Most economists now expect the central bank to raise its cash rate again on 3 November from 4.6%, already a 15-year high.",
+    "Housing was the largest contributor to annual inflation, rising 5.2% as builders passed on labour and material costs and electricity remained expensive. Transport costs rose 8.7%, driven largely by fuel prices linked to the conflict involving the US, Israel and Iran, while food increased 3.2%. The policy dilemma is that unemployment is also rising, so another hike would add mortgage pressure while demand is already softening. The RBA must judge whether energy shocks will fade or spread into wages and services. For households, the immediate risk is simultaneous pressure from rent or construction, fuel, groceries and higher loan repayments."
+   ],
+   "url": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release",
+   "section": "world",
+   "scope": "world",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-10-28T01:03:24+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release"
+    }
+   ]
+  },
+  {
+   "id": "3fc63d4b36badf72840e",
+   "title": "Mercedes has a Russell-sized problem and it is sharing responsibility",
+   "deck": "George Russell’s Austin slump has focused Mercedes on why its faster upgraded car gives him a much narrower usable window than title-leading team-mate Kimi Antonelli.",
+   "summary": [
+    "George Russell qualified more than four tenths behind Kimi Antonelli and finished eighth at the United States Grand Prix while his Mercedes team-mate took a ninth win of 2026. A first-lap five-second penalty trapped Russell behind Oscar Piastri, but team principal Toto Wolff said that did not explain the underlying lack of pace. Since Mercedes introduced its major Malaysia upgrade, Russell has generally qualified behind Antonelli; he described Austin as six good laps and 50 bad ones.",
+    "Mercedes believes the W17 is faster at its peak but has a narrow operating window. When setup, tyres or conditions move outside that zone, Russell appears to lose more performance than Antonelli. Wolff accepts shared responsibility and rejects the idea that Russell is inherently several tenths slower, pointing to his junior titles, years alongside Lewis Hamilton and strong 2025 season. Russell has already altered his driving substantially for the 2026 cars, making a quick cure across the final five races unlikely. Engineers now need to identify which balance traits prevent him from accessing the car’s speed and either create a distinct setup route or ensure the 2027 design serves both drivers."
+   ],
+   "url": "https://www.autosport.com/f1/news/mercedes-has-a-russell-sized-problem-and-it-is-sharing-responsibility/10868909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-10-27T16:57:28+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/mercedes-has-a-russell-sized-problem-and-it-is-sharing-responsibility/10868909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    }
+   ]
+  },
+  {
+   "id": "26fbde0197a9c5cdb3c2",
+   "title": "Simpler, cheaper hybrid V8s proposed for next F1 rules",
+   "deck": "The FIA is discussing smaller turbo-hybrid V8s for 2030 or 2031, seeking lighter cars, lower costs and stronger sound without abandoning sustainable fuel or electrification.",
+   "summary": [
+    "A proposal circulated to Formula One’s six power-unit manufacturers outlines a 2.0–2.3 litre turbo V8 with a less powerful hybrid system. Electrical recovery would fall from today’s 350 kW to 200 kW: 100 kW continuously available and another 100 kW for push-to-pass. Combustion would supply the rest of roughly 900 bhp. The plan retains fully sustainable fuel, uses a smaller low-boost turbo and aims to remove about 80 kg from the cars, responding to complaints that the 2026 rules are complex, heavy and overly dependent on energy management.",
+    "The FIA has moved away from an earlier naturally aspirated V10 or V8 idea because a turbo improves efficiency and road relevance. Manufacturers broadly accept the architecture but oppose a highly standardised engine from an outside supplier; Mercedes, Ferrari, Audi, Honda, Red Bull and future Cadillac want power units to remain a performance differentiator. Another route would adapt current 1.6-litre blocks by adding two cylinders. The draft also proposes halving the annual engine cost cap from $190 million, though workforce transition and simultaneous development programmes make that contentious. Talks are intended to produce a World Council proposal in December, so capacity, budget and the 2030-versus-2031 start date remain negotiable rather than final rules."
+   ],
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/cw4g186011rdo?at_medium=RSS&at_campaign=rss",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-27T15:17:53+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/cw4g186011rdo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "49e508b36b4a8644c71f",
+   "title": "'Biggest night in the club's history' for fearless Fleetwood",
+   "deck": "League Two Fleetwood eliminated Premier League champions Arsenal on penalties, reaching the League Cup quarter-finals for the first time in the club’s history.",
+   "summary": [
+    "Fleetwood Town produced one of the League Cup’s largest upsets by beating Arsenal in a shootout after a 1–1 draw. Eighty-three league places separated the teams. Aaron Loupalo-Bi put Fleetwood ahead after 21 minutes before Viktor Gyökeres equalised after the break. Arsenal’s Max Dowman was then sent off for kicking out following a challenge, and the League Two hosts resisted long enough to take the tie to penalties.",
+    "Goalkeeper Jay Lynch saved spot kicks from Ben White, Martin Ødegaard and Bruno Guimarães before Conor Haughey converted the winner, triggering a pitch celebration at Highbury. Manager Matt Lawlor called it the biggest night in the club’s history but quickly pointed toward Saturday’s league match with Bristol Rovers. The contrast is striking: Fleetwood sit 18th, had won only once in eight league games and conceded six goals across their previous two. Players hope the cup run can lift attendance and confidence after the club’s 2024 relegation. Fleetwood entered the English Football League only in 2012; it now reaches this competition’s last eight for the first time and wants another home draw rather than treating the achievement as the end of the run."
+   ],
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss",
+   "section": "sport",
+   "scope": "sport",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-10-28T00:39:30+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "595186f7a704d46557a9",
+   "title": "India A one wicket short as Heaphy’s 90 saves New Zealand A",
+   "deck": "Curtis Heaphy’s unbeaten 90 and fading light denied India A the final wicket required to win the first unofficial Test in Lincoln.",
+   "summary": [
+    "New Zealand A survived at 187 for nine after 65 overs while chasing 313, drawing the match when the umpires ruled the light unfit. Curtis Heaphy batted through for 90 from 187 balls and, with Jayden Lennox, negotiated the final nine and a half overs. India A had recovered dramatically from 113 in its first innings to make 516 in the second, setting up a final-day attack after New Zealand A’s 317.",
+    "Auqib Nabi gave India the ideal start with three for 28, using sharp inward movement to remove Rhys Mariu, Tim Robinson and Matthew Boyle. Heaphy rebuilt with Dean Foxcroft before Mukesh Choudhary’s short-ball plan produced Foxcroft’s wicket. Anshul Kamboj and Washington Sundar added breakthroughs, while substitute spinner Devdutt Padikkal took two wickets in three overs with KL Rahul holding both slip catches. Akash Deep bowled Simon Keene to leave the hosts nine down, but Heaphy resisted the short ball and protected the tail. India’s fielding and varied attack created enough chances to dominate; New Zealand’s achievement was concentrated in one disciplined innings and a final partnership that survived until conditions, rather than the target, ended the contest."
+   ],
+   "url": "https://indianexpress.com/article/sports/cricket/india-a-comeback-draw-against-new-zealand-padikkal-199-two-wickets-10938345/",
+   "section": "sport",
+   "scope": "sport",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-10-27T06:56:28+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/sports/cricket/india-a-comeback-draw-against-new-zealand-padikkal-199-two-wickets-10938345/"
+    }
+   ]
+  },
+  {
+   "id": "530fd475adaf62cd109e",
+   "title": "MacBook Pro (2026) Launched in India With 14-Inch OLED Display, Apple’s M6 Chip: Price, Specifications",
+   "deck": "Apple’s first OLED MacBook Pro starts at ₹2,39,900 in India; it is a new-product launch, not a verified discount.",
+   "summary": [
+    "Apple has opened Indian pre-orders for the 14-inch MacBook Pro with its M6 chip, with sales beginning 6 November. The base configuration costs ₹2,39,900 for 16GB unified memory and 1TB storage. Moving to 24GB costs ₹24,000 extra, 32GB adds ₹48,000, 2TB storage adds ₹60,000 and 4TB adds ₹1,80,000; a nano-texture screen is another ₹18,000. Those are list-price options from the launch report, not evidence of a sale or retailer saving.",
+    "The 14.2-inch OLED panel has a 3024×1964 resolution, 120Hz ProMotion and up to 1,600 nits peak brightness. The 2nm M6 combines a 12-core CPU with dual 16-core Neural Engines, and Apple claims major gains over the old M1 model in language-model response, ray-traced rendering, image work and Xcode builds; independent benchmarks are still needed. Connectivity includes Wi-Fi 7, Bluetooth 6, three Thunderbolt 4 ports, HDMI, SDXC, MagSafe and a headphone jack. Apple rates the 72.4Wh battery for up to 24 hours of video or 16 hours of web use. Buyers should compare the final configured price with outgoing M5 stock and wait for workload-specific testing rather than treating launch claims as a deal."
+   ],
+   "url": "https://www.gadgets360.com/laptops/news/macbook-pro-2026-price-in-india-launch-sale-date-specifications-features-12244162",
+   "section": "deals",
+   "scope": "deals",
+   "source": "Gadgets 360",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-10-27T14:06:20+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Gadgets 360",
+     "group": "ndtv",
+     "url": "https://www.gadgets360.com/laptops/news/macbook-pro-2026-price-in-india-launch-sale-date-specifications-features-12244162"
+    }
+   ]
+  },
+  {
+   "id": "9a3764356b202945ed7a",
+   "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+   "deck": "Bank of America’s warning is straightforward: never give an AI assistant your banking username or password, even if it promises to transact for you.",
+   "summary": [
+    "Bank of America has emailed customers to say they should not share banking credentials with any person, external service or AI-enabled agent. The warning reflects a growing mismatch between ambitious personal assistants and financial systems that were not designed for software acting through a human login. An agent could make an unwanted transfer or purchase, trigger fraud controls that lock the customer out, or expose credentials through a software flaw. A compromised agent would also give criminals direct access to the account.",
+    "The contractual risk matters as much as the technical one. Bank agreements generally make customers responsible for activity by anyone to whom they voluntarily disclosed their credentials, and Bank of America explicitly reminded users of that responsibility. Banks, payment networks and AI companies are exploring safer agentic payments, where a user can authorise a narrowly defined purchase or spending limit without surrendering a reusable password. Until such delegated access is formally supported, the safe boundary is firm: use a bank’s own app, approved integrations and one-time authorisations; do not paste a password, PIN or verification code into an assistant. Convenience is not evidence that the tool has permission from the bank or that losses will be reimbursed."
+   ],
+   "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-10-27T21:44:34+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
+    }
+   ]
+  },
+  {
+   "id": "991356d9e9385200ab3c",
+   "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+   "deck": "Firefox’s experimental Smart Window can fill forms from chosen tabs and monitor pages for changes, but its suggestions send source-page data to a Google model.",
+   "summary": [
+    "Mozilla is adding AI form filling to the Smart Window beta in Firefox. On a form with at least four text fields, a user can choose “Fill from sources”, inspect the open tabs Firefox proposes to use and remove any they do not want included. The browser then generates suggested entries from pages such as a portfolio or LinkedIn profile. It currently handles text fields; dropdowns and PDFs are planned. Mozilla says source-page data is shared with Google’s Gemini 3.1 Flash Lite to produce the suggestions, so users should review both the tabs selected and the generated text before submission.",
+    "A second feature watches webpages for a requested change. Typing /watch lets users describe a sale, job listing or other update, add pages and choose daily or weekly checks. Tasks run only while Firefox is open and can notify through the toolbar or desktop notifications. Firefox pauses a watch after 60 days without a match and ends it after 90. Both features are initially rolling out on desktop in the US and Canada, with other countries promised later. The design gives users more visible control than invisible background scraping, but it still creates privacy and accuracy trade-offs: sensitive source tabs should be deselected, and an AI-filled application should never be sent without line-by-line verification."
+   ],
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-10-27T16:14:18+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms"
+    }
+   ]
+  },
+  {
+   "id": "76a444d964151d2f3693",
+   "title": "Indira IVF in talks to acquire Sabine in nearly Rs 1,300 crore deal",
+   "deck": "Indira IVF is reportedly discussing a majority purchase of Kerala’s Sabine hospital chain as consolidation accelerates in fertility care.",
+   "summary": [
+    "EQT-backed Indira IVF is in talks to acquire 70–75% of Sabine Hospital and Research Centre in a transaction that could value the Kerala chain at ₹1,200–1,300 crore, according to people cited by The Economic Times. Current investor CX Partners bought about 54% in 2024 at a valuation near ₹835 crore and is being advised by O3 Capital. The parties did not respond before publication, so the valuation and stake remain reported negotiations rather than a completed deal.",
+    "Founded in 2010, Sabine operates two hospitals with 300 beds, including 60 neonatal intensive-care beds, and provides fertility treatment, deliveries, newborn care and gynaecological procedures. It performs more than 6,000 IVF cycles and 3,000 deliveries annually and is expected to generate ₹230–250 crore of FY27 revenue with ₹70–80 crore EBITDA. Indira IVF runs about 200 centres, is preparing a ₹3,500 crore IPO and has bought fertility businesses in Kolkata, Puducherry and Gujarat. Kerala is attracting national chains despite—or partly because of—its low fertility rate, with Nova IVF also expanding there. Any acquisition would still require final agreements and applicable approvals."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/banking/finance/indira-ivf-in-talks-to-acquire-sabine-in-nearly-rs-1300-crore-deal/articleshow/135245015.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-27T19:26:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/banking/finance/indira-ivf-in-talks-to-acquire-sabine-in-nearly-rs-1300-crore-deal/articleshow/135245015.cms"
+    }
+   ]
+  },
+  {
+   "id": "fb1da9adf8066dec59c9",
+   "title": "Hyderabad overtakes Delhi, Mumbai in office leasing as Wise, DE Shaw sign big deals",
+   "deck": "Two large global-company leases helped Hyderabad overtake Delhi and Mumbai in quarterly office take-up, leaving only Bengaluru ahead among India’s biggest markets.",
+   "summary": [
+    "Wise and DE Shaw have leased about 500,000 and 750,000 square feet of Hyderabad office space respectively, the second- and third-largest Indian deals of the September 2026 quarter. The transactions helped the city reach 4.21 million square feet of gross leasing, more than twice the previous quarter and 49.5% above a year earlier. Bengaluru remained first with 5.2 million square feet, including HSBC’s 1.2 million-square-foot lease, but Hyderabad moved ahead of Delhi and Mumbai.",
+    "Real-estate advisers attribute much of the demand to global capability centres, where multinationals place technology, finance and operational teams in India. The scale of recent land auctions is also being read as a signal of future supply and demand. One strong quarter does not by itself establish a permanent ranking: large individual leases can move city totals sharply, and signed space may be occupied in stages. Even so, the two deals reinforce Hyderabad’s appeal for firms seeking deep technical talent, newer campuses and potentially lower costs than more mature hubs. Future hiring, vacancy, rent growth and delivery of infrastructure will show whether this leasing surge translates into sustained office absorption."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/hyderabad-overtakes-delhi-mumbai-in-office-leasing-as-wise-de-shaw-sign-big-deals/articleshow/135244812.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-10-27T19:10:23+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/hyderabad-overtakes-delhi-mumbai-in-office-leasing-as-wise-de-shaw-sign-big-deals/articleshow/135244812.cms"
+    }
+   ]
+  },
+  {
+   "id": "a85581efeb426366fd98",
+   "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
+   "deck": "Researchers found that automated submissions made up three quarters of a UK vaping consultation, showing how generative tools can imitate public opposition at industrial scale.",
+   "summary": [
+    "The UK health department identified 90,835 automated responses among 118,756 submissions to its 2023 consultation on tobacco and vaping policy—about 76% of the total. Almost every bot response answered the same question and opposed the proposed ban on disposable vapes. Submissions were often duplicated and arrived rapidly from a small set of IP addresses. Officials excluded them, and the legislation, including the disposable-vape ban, later passed under the Labour government.",
+    "Research in Tobacco Control describes the episode as the first documented large-scale automated interference in a formal UK public-health consultation. The authors did not identify who organised it, so responsibility should not be inferred from the beneficiaries. Public consultations are vulnerable because raw response counts can be made to resemble a mass movement, while sophisticated generated text may evade duplicate checks. Stronger screening, rate analysis and disclosure can help, but aggressive barriers may also exclude real participants. The incident supports treating consultations as evidence-gathering exercises rather than plebiscites: departments should publish how submissions were authenticated, weigh the quality and representativeness of arguments, and preserve accessible ways for genuine individuals and small organisations to participate."
+   ],
+   "url": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
+   "section": "world",
+   "scope": "world",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-10-27T22:30:45+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban"
+    }
+   ]
+  },
+  {
+   "id": "80d2be6e04ce817cc72b",
+   "title": "The role Friday practice played in Hamilton failing to achieve a podium at the US GP",
+   "deck": "Lewis Hamilton says an understeering Ferrari setup chosen after misdirected Friday practice cost the seconds that separated him from an Austin podium.",
+   "summary": [
+    "Lewis Hamilton started fifth and finished outside the podium places at the United States Grand Prix after losing pace through the first two stints. He gained fourth at the start but averaged 0.277 seconds per lap slower than team-mate Charles Leclerc early on and 0.422 slower than Max Verstappen. Hamilton traced the deficit to Friday: the team pursued the wrong setup in FP1 and FP2, leaving him without a representative long run on the configuration that later worked. In the race, he repeatedly added front-wing angle—12 clicks in total—to reduce severe understeer.",
+    "Tyre allocation amplified the problem. Hamilton began on used softs while the cars ahead had new sets, then discovered the hard compound was better than Ferrari expected. He believes two hard sets would have been preferable to his two mediums. By the final stint the car turned properly and he was catching Verstappen by almost a second per lap, but a virtual safety car stopped the late chase. Hamilton was satisfied with his driving, pit stops and strategy execution once the balance improved; the lesson is that Ferrari must validate race trim earlier and avoid entering Sunday with a wing level and tyre plan that take two stints to correct."
+   ],
+   "url": "https://www.autosport.com/f1/news/the-role-friday-practice-played-in-hamilton-failing-to-achieve-podium-at-us-gp/10868872/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-10-27T15:00:02+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/the-role-friday-practice-played-in-hamilton-failing-to-achieve-podium-at-us-gp/10868872/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "name": "Indian Express",
+   "section": "world",
+   "status": "ok",
+   "count": 81
+  },
+  {
+   "name": "NDTV",
+   "section": "world",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "The Hindu",
+   "section": "world",
+   "status": "ok",
+   "count": 60
+  },
+  {
+   "name": "Times of India",
+   "section": "world",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "BBC News",
+   "section": "world",
+   "status": "ok",
+   "count": 27
+  },
+  {
+   "name": "The Guardian",
+   "section": "world",
+   "status": "ok",
+   "count": 39
+  },
+  {
+   "name": "TechCrunch",
+   "section": "technology",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "The Verge",
+   "section": "technology",
+   "status": "ok",
+   "count": 10
+  },
+  {
+   "name": "BBC News",
+   "section": "technology",
+   "status": "ok",
+   "count": 5
+  },
+  {
+   "name": "Indian Express",
+   "section": "business",
+   "status": "ok",
+   "count": 14
+  },
+  {
+   "name": "BBC News",
+   "section": "business",
+   "status": "ok",
+   "count": 22
+  },
+  {
+   "name": "Economic Times",
+   "section": "business",
+   "status": "ok",
+   "count": 49
+  },
+  {
+   "name": "BBC Sport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 4
+  },
+  {
+   "name": "Autosport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 6
+  },
+  {
+   "name": "BBC Sport",
+   "section": "sport",
+   "status": "ok",
+   "count": 48
+  },
+  {
+   "name": "Indian Express",
+   "section": "sport",
+   "status": "ok",
+   "count": 46
+  },
+  {
+   "name": "Gadgets 360",
+   "section": "deals",
+   "status": "ok",
+   "count": 9
+  },
+  {
+   "name": "Indian Express",
+   "section": "local",
+   "status": "ok",
+   "count": 0
+  }
+ ]
+}
