@@ -1,0 +1,736 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-11-03",
+ "generatedAt": "2026-11-03T02:13:02.877405+00:00",
+ "timezone": "Asia/Kolkata",
+ "windowHours": 48,
+ "primaryWindowHours": 24,
+ "summaryMode": "original-articles",
+ "localLimit": 1,
+ "stories": [
+  {
+   "id": "d9c7a4169daa71511aa7",
+   "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+   "deck": "Omen AI, a data center fluid-monitoring startup, is buying rival Aquatic Labs for $16 million in cash and stock.",
+   "summary": [
+    "Omen AI, a startup founded in 2024 to build real-time sensors for the fluids that cool data center chips, is acquiring competitor Aquatic Labs in a cash-and-stock deal valued at $16 million, TechCrunch reported on November 2. Omen raised a $31 million Series A in June.",
+    "Checking cooling fluid today typically means sending samples to a laboratory, taking several days. Omen's sensors detect elements in the water, while Aquatic Labs' sensor measures alkalinity. Aquatic Labs chief executive Allan Adams said putting both in one device gives a much richer picture of the fluid.",
+    "Adams will become chief science officer. The combined team plans to merge the two technologies into one sensor and expects to sell it by early next year. Omen founder Zach Laberge said the company's first sensors will watch over chips drawing 250 to 300 megawatts by the end of the year, and he hopes to reach the equivalent of 1 gigawatt by the end of 2027.",
+    "The business case rests on uptime. Operators often dump fluid rather than risk damaging costly equipment, which can halt operations. The Water Foundation says US data centers use 17 to 19 billion gallons of water a year, a figure it expects to triple in five years. Laberge said the recent wobble in investor enthusiasm for AI spending should not hurt Omen, because its customers' projects were financed a year ago. That is his view."
+   ],
+   "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-02T15:00:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"
+    }
+   ]
+  },
+  {
+   "id": "ab8f18d47c71f1f855c5",
+   "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+   "deck": "BMW plans to extend its partly automated driving help from highways to city streets, beginning in Germany in 2027.",
+   "summary": [
+    "BMW has announced that from 2027 it will offer a driver assistance feature that works on city streets as well as highways. The company says the rollout will begin in Germany, with other markets following later, and The Verge reports it will reach select models through software updates.",
+    "According to BMW, the system uses the car's built-in satellite navigation to help with steering, accelerating and braking. In towns, it can assist with lane changes, turns, giving way to other vehicles and driving through roundabouts. BMW describes the design as cooperative, meaning drivers can steer, brake or accelerate at any moment to adjust the car's path without switching the system off.",
+    "The feature is classed as Level 2, so the human driver remains responsible. Drivers must watch the road and be ready to take over at any time. On highways BMW will let them take their hands off the wheel, but on local roads they will have to keep their hands on it.",
+    "The Verge reports that BMW is joining other carmakers racing to match Tesla's Full Self-Driving system, and notes that Level 2 driver safety is facing growing scrutiny. It adds that BMW recently launched its Neue Klasse platform, whose assistance technology is partly powered by Qualcomm, and that hands-free highway driving is now common in many mainstream vehicles."
+   ],
+   "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-11-02T20:03:52+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027"
+    }
+   ]
+  },
+  {
+   "id": "0d772a5e0550e6d664a3",
+   "title": "Apple unsure when more foldable iPhones will be available after selling out",
+   "deck": "Apple's new chief executive says the company is working to widen availability of the $1,999 iPhone Duo, but its operations chief cannot say when supply will catch up.",
+   "summary": [
+    "Apple's first foldable phone, the iPhone Duo, sold out almost immediately after going on sale just over a week ago, and the company says it does not know when more will be on shelves. The phone costs $1,999, or £1,999 in the UK.",
+    "Speaking on Monday, new chief executive John Ternus, who replaced Tim Cook in September, said he was \"thrilled\" by early reaction. Chief operating officer Sabhi Kahn told financial analysts it was \"really hard to predict when supply and demand will be in balance.\" Last week Apple said it would replace phones affected by a problem that made a \"small number\" crack along the inner fold. Executives did not raise that issue on the call, and the report notes some buyers have seen their screens crack.",
+    "The latest quarter, which ended on 26 September, came before the Duo launched. Even so, iPhone sales rose 17% to $57bn, and Mac sales climbed 27% to a record $10.7bn. iPad and wearables sales fell by 10% and 7%.",
+    "Apple said supply limits affect most of its devices, partly because of a shortage of advanced processors, many of which are made by TSMC in Taiwan. Kahn said these limits are expected to last into next year, hitting iPads and Macs in particular. Ternus also pointed to \"unprecedented\" increases in memory costs, which the report links to booming demand from data centres serving AI services."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+   "section": "technology",
+   "scope": "technology",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-03T00:29:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "9ff666e7421f5314e201",
+   "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+   "deck": "Apple's finance chief hinted at new revenue from third-party AI apps on the earnings call but gave no details.",
+   "summary": [
+    "Apple suggested on its Monday earnings call that outside AI apps could become a source of income, though it did not say how. TechCrunch reports that the company's services business is at record levels but under pressure, with the App Store hit by regulation and a slump in mobile gaming.",
+    "Asked how AI might add to revenue over time, chief financial officer Kevan Parekh said AI gives customers a strong reason to upgrade their devices, and that Apple sees opportunities across third-party apps and partnerships as well as its own products. He did not explain what those third-party opportunities would involve.",
+    "TechCrunch points to a Reuters report that investors are wondering whether Apple could distribute third-party AI agents through the App Store and take a share of their revenue. That is investor speculation rather than anything Apple has confirmed.",
+    "The article says third-party estimates in August put Apple's US App Store commission revenue down 18 percent, with declines in Brazil and Japan after new rules there. Apple has also had to let apps point users to outside payment systems following a lawsuit by Epic Games.",
+    "Parekh said App Store performance in the September quarter matched the prior year, with a record number of paid subscriptions and double-digit growth for third-party apps, but gaming headwinds should continue. He guided for services growth of 8 to 9 percent in the December quarter. TechCrunch has asked Apple for comment."
+   ],
+   "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-03T01:49:52+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
+    }
+   ]
+  },
+  {
+   "id": "d38f7b5068359c020195",
+   "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+   "deck": "Y Combinator chief executive Garry Tan says he spends roughly $100,000 to $200,000 a year on AI tokens, while arguing that personal agents must become cheaper to go mainstream.",
+   "summary": [
+    "Garry Tan, the chief executive of startup accelerator Y Combinator, says his use of AI agents costs him about $100,000 to $200,000 a year in tokens, the units AI services charge for. He gave the figure in an episode of Walter Isaacson's podcast, The Builders, due out on Tuesday, according to TechCrunch.",
+    "Tan said he uses agents for a wide range of work and coding tasks, and has shared a set of 23 Claude Code skills, called gstack, on GitHub to help others see what agents can do. He also said his agent has read his email, Dropbox files and Apple Notes, including therapy notes going back 20 years.",
+    "He said people should not treat agents like traditional software, and that some are so focused on repeatability and safety that they give up the benefits of working with something humanlike. Y Combinator, he said, has an internal agent called Stray Light with a personality and a \"company brain\" holding context on every founder the firm has backed and everyone who has emailed or applied.",
+    "Tan believes personal agents can go mainstream only if costs fall, calling them \"too expensive right now\" and acknowledging his spending is a privilege. He also said that free agents run by large technology companies may not be the answer, and suggested people could instead have a personal AI that they control and program themselves."
+   ],
+   "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-03T00:35:52+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
+    }
+   ]
+  },
+  {
+   "id": "977334dcf0434eb1c0ae",
+   "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+   "deck": "A year-old startup that lets specialists retrain AI models from feedback has raised $45 million at a $300 million valuation.",
+   "summary": [
+    "Trajectory, a startup about a year old, has raised $45 million in a Series A round that values it at $300 million, TechCrunch reports. Sequoia led the round, with Nvidia, Bessemer Venture Partners and Bain Capital Ventures taking part.",
+    "The company is trying to automate the work of adapting AI models to specialist fields such as law and finance. Today, firms usually do this by fine-tuning general models, which often means hiring research teams or paying expensive consultants. Trajectory's platform lets a business start with an open-source model, connect it to its applications and gather feedback on performance. That feedback is then used to retrain the model so it improves over time, an approach known as continual learning. Co-founder Ronak Malde said specialists such as lawyers and doctors could do this largely themselves.",
+    "Harvey and Rogo already use the platform, and other customers include Decagon, Mercor and Nvidia. Trajectory is now opening the post-training platform to the public. Co-founder Michael Elabd argued that keeping humans in the loop makes it safer than fully autonomous self-improvement.",
+    "The company names Thinking Machines Lab, Applied Compute and Prime Intellect among its rivals. It has 18 employees, and its three founders have backgrounds at Google DeepMind and Apple. Malde sees the team as its main advantage."
+   ],
+   "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-02T23:13:53+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+    }
+   ]
+  },
+  {
+   "id": "5426dcc4966dc2198453",
+   "title": "Anthropic clamps down on Claude’s AI video game clones",
+   "deck": "Anthropic has told Claude Code not to recreate specific existing video games, saying cloning them infringes its usage policy.",
+   "summary": [
+    "Anthropic has changed the system prompt for Claude Code to stop the tool being used to recreate existing video games, The Verge reported, citing earlier coverage by Tom's Hardware. The change comes as retro gaming sees a surge of AI-made decompilations, recompilations and ports.",
+    "Last week a user on X posted a screenshot that allegedly showed the two new sentences. They tell the tool to build original games, genre games and games from the user's own designs and assets, but not a recreation of a specific existing game, even if described as original. The Verge could not confirm that exact wording.",
+    "Anthropic's Addy Osmani responded publicly without confirming the specific text. He said two sentences had been added to Claude Code's prompt on Opus 5.5 to steer it away from recreating someone else's game, because using Claude to infringe intellectual property is against Anthropic's usage policy. He said original games, genre games and games built from a user's own designs and assets are meant to keep working.",
+    "Osmani added that the company will keep adjusting to strike the right balance, and invited users whose own work Claude refuses to send it to him. The Verge said it had asked Anthropic whether other Claude system prompts have been or will be updated too."
+   ],
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-11-02T18:56:02+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
+    }
+   ]
+  },
+  {
+   "id": "b31a8038a137e6445ea8",
+   "title": "Irdai tightens ESOP norms, share transfer rules for insurers",
+   "deck": "India's insurance regulator has told insurers that employee stock option schemes cannot be used to build stakes past set limits without its approval.",
+   "summary": [
+    "The Insurance Regulatory and Development Authority of India (Irdai) has tightened rules, the Economic Times reports, on shares issued to employees of insurance companies through employee stock option plans. Senior executives and directors may not use such schemes to acquire holdings above the prescribed limits unless the regulator approves first.",
+    "In a circular issued on Monday, Irdai asked insurers to keep track of shares allotted directly to employees as well as those issued through ESOP trusts, so ownership ceilings are not breached.",
+    "The circular also restates when approval is needed for share transfers. An investor holding 5% or less needs prior permission if a transfer would take them above 5%. Someone already above 5% must seek approval if the deal would push them past 10%, 25%, 50% or 75%. Transfers of more than 5% of paid-up equity capital in a single financial year by one person, group or entities under common management also need clearance.",
+    "The requirement now explicitly covers listed insurers, which must set up systems to watch shareholding changes through stock exchanges and market intermediaries. Irdai said compliance is the insurer's duty.",
+    "Applications for approval will need fuller disclosure on the proposed investor's source of funds, financial strength, business experience and ability to meet future capital needs. For proposed mergers, insurers must submit extra documents, and an independent actuary must assess the effect on technical reserves, solvency, product pricing and the finances of the surviving insurer."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/banking/finance/insure/irdai-tightens-esop-norms-share-transfer-rules-for-insurers/articleshow/135473319.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-02T19:34:30+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/banking/finance/insure/irdai-tightens-esop-norms-share-transfer-rules-for-insurers/articleshow/135473319.cms"
+    }
+   ]
+  },
+  {
+   "id": "0dbb5921e605ec2538cd",
+   "title": "Finance Minister Nirmala Sitharaman open to investor concerns, weighs case for foreign capital",
+   "deck": "India's finance minister said she will weigh investor worries about capital gains tax and foreign outflows before the next Budget, while warning that tax cuts alone do not drive markets.",
+   "summary": [
+    "Indian Finance Minister Nirmala Sitharaman said on Monday that she recognises anxiety among retail equity investors over high stock valuations and the long-term capital gains tax, and that their concerns will be considered. She spoke at a Financial Express event in Mumbai, according to The Indian Express.",
+    "She cautioned that markets rest on strong fundamentals rather than tax concessions, noting that India drew heavy foreign portfolio inflows in 2023-24 under the same tax structure. She conceded conditions have since changed and pointed to net foreign outflows over recent quarters. Analysts, the report says, link the outflows partly to expensive valuations and weaker earnings growth, and some also cite the tax. Asked whether foreign money deserved special treatment, she asked what would then happen to domestic investors, and said the government would first listen to all stakeholders.",
+    "On the dispute between Tata Sons and Tata Trusts over the chairman's reappointment, she called it a delicate matter. She said she hoped it would be resolved without government involvement and described the group as a critical part of the economy. The next Tata Sons board meeting is scheduled for November 26.",
+    "She also criticised opposition protests, saying debate belongs in Parliament, and said private investment is starting to pick up. She credited recent GST reforms and strong October collections. Her tenth consecutive Budget is likely to be presented on February 1."
+   ],
+   "url": "https://indianexpress.com/article/business/nirmala-sitharaman-investor-concerns-over-ltcg-tax-fpi-outflows-union-budget-10947916/",
+   "section": "business",
+   "scope": "business",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-03T00:18:57+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/business/nirmala-sitharaman-investor-concerns-over-ltcg-tax-fpi-outflows-union-budget-10947916/"
+    }
+   ]
+  },
+  {
+   "id": "9b372ab34b1297557c76",
+   "title": "Airlines seek govt support to protect Mumbai Airport slots",
+   "deck": "Airlines at Mumbai airport are asking the aviation ministry to block a planned cut in their flight slots as international services shift to Navi Mumbai.",
+   "summary": [
+    "Airlines at Mumbai airport have again asked India's civil aviation ministry to step in over a plan to reduce capacity from next April. The operator, Mumbai International Airport Ltd, intends to move part of its international schedule to the new Navi Mumbai airport, about 50 km away. Adani Airport Holdings runs both airports, according to the Economic Times.",
+    "The operator plans to close Terminal 1 for redevelopment from April and move 265 of Terminal 2's 770 weekly international departure slots to Navi Mumbai. The report says this would cut Mumbai's annual passenger capacity by 5 million.",
+    "The Airline Operators Committee, which represents 46 of the 47 airlines at the airport, wrote to the aviation secretary on November 2. It said the operator announced the cut on October 28 as a unilateral decision without adequate justification or transparent disclosure of available capacity. The committee wants historical slots requested for summer 2027 approved before the November 5 deadline for the Slot Allocation List, and none cancelled or reallocated without due process.",
+    "Airlines are split on the move. IndiGo, Air India Express and Akasa Air have agreed to shift some international flights, while foreign carriers including Emirates and Air France-KLM have asked for time until October 2027, citing infrastructure and passenger demand concerns at the new airport. The report says ministry intervention last month and meetings on October 13 and 28 failed to settle the dispute."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/airlines-seek-govt-support-to-protect-mumbai-airport-slots-navi-mumbai-international/articleshow/135472543.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-02T19:08:29+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/airlines-seek-govt-support-to-protect-mumbai-airport-slots-navi-mumbai-international/articleshow/135472543.cms"
+    }
+   ]
+  },
+  {
+   "id": "9791f19abbf7dd8c4d71",
+   "title": "TVS-owned Norton unveils 450 cc urban bike to win a new generation of riders",
+   "deck": "TVS Motor's Norton brand has announced a 450 cc urban motorcycle for 2027 and said it is preparing to enter India and the United States.",
+   "summary": [
+    "Norton Motorcycles, the British brand owned by India's TVS Motor Company, has revealed a new 450 cc urban motorcycle that will go on sale in 2027. The company announced it in London on Monday and said the bike extends the brand into a new category. Its official name will be given before launch.",
+    "According to Norton, the bike uses a liquid-cooled 454 cc single-cylinder engine producing 45 Nm of torque, with the aim of responsive and accessible performance. It has an aluminium frame, which the company says should give agile, confident handling, and an 8-inch TFT touchscreen with connectivity features.",
+    "TVS Motor chairman Sudarshan Venu said Norton is defined by character, design and engineering rather than engine size or category, and that the new model applies the approach of the Manx R to a different segment. These are company statements rather than independent assessments.",
+    "The bike follows four motorcycles unveiled at EICMA 2025: the Manx, Manx R, Atlas and Atlas GT. Deliveries of the Manx R and Atlas have begun in European markets, with the other two to follow.",
+    "Norton has more than 50 retail locations in 10 markets and says it is preparing to enter India and the United States. TVS Motor bought Norton in April 2020, and the bikes are built in Solihull, England."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/auto/two-wheelers-three-wheelers/tvs-owned-norton-unveils-450-cc-urban-bike-to-win-a-new-generation-of-riders/articleshow/135469732.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-02T17:46:49+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/auto/two-wheelers-three-wheelers/tvs-owned-norton-unveils-450-cc-urban-bike-to-win-a-new-generation-of-riders/articleshow/135469732.cms"
+    }
+   ]
+  },
+  {
+   "id": "a6db34fb4d5b916c3f0a",
+   "title": "Activists raise concern over Supreme Court order on green firecrackers raises, traders lament stock availability",
+   "deck": "Environmental campaigners doubt Delhi can enforce the Supreme Court's two-day green firecracker window, while traders say they have almost no time to stock up.",
+   "summary": [
+    "The Supreme Court ruled on Monday, November 2, 2026, that green firecrackers may be used in Delhi-NCR on November 7 and 8 for Deepavali. The Hindu reports that the short notice has prompted worries about how the order can be put into practice.",
+    "Past restrictions have a poor record in the capital. The paper says the 2019 rule allowing only green crackers was openly ignored, as was a later Delhi government ban that covered even green crackers. Last year the court allowed a similar two-day window, yet the report says that was also flouted and air quality monitors in Delhi were overwhelmed by the pollution.",
+    "Environmental activist Bhavreen Kandhari said that without a blanket ban people will burst every kind of firecracker. She claimed that no green crackers are available in the market and questioned who could check on the ground what is being burned. She predicted the air will turn toxic again after the festival.",
+    "Traders, who welcomed the order, are also struggling. Rajiv Kumar Jain of the Delhi Fireworks Traders Association said permanent licences have been suspended and must be reinstated, and that sales are allowed only on November 4, 5 and 6, leaving about one day to get stock from manufacturers. He noted sales are not permitted on Chhoti or Badi Deepavali this year.",
+    "The report adds that the ban has been a political issue, with the BJP, now governing Delhi, having asked the court for permission."
+   ],
+   "url": "https://www.thehindu.com/news/cities/Delhi/activists-raise-concern-over-supreme-court-order-on-green-firecrackers-raises-traders-lament-stock-availability/article71658218.ece",
+   "section": "world",
+   "scope": "india",
+   "source": "The Hindu",
+   "sourceGroup": "the-hindu",
+   "publishedAt": "2026-11-03T01:26:55+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/cities/Delhi/activists-raise-concern-over-supreme-court-order-on-green-firecrackers-raises-traders-lament-stock-availability/article71658218.ece"
+    }
+   ]
+  },
+  {
+   "id": "8a5b43b45a6617b14c48",
+   "title": "'Don't Travel By Air': Supreme Court On Petition Against High Ticket Prices",
+   "deck": "India's Supreme Court turned down a request for an urgent hearing on a petition seeking limits on festive-season airfares, telling the petitioner not to travel by air.",
+   "summary": [
+    "A judge of India's Supreme Court has refused to bring forward a hearing on a public interest petition that asks for a cap on domestic airfares during the Diwali season. Justice Vikram Nath answered the request with the words \"Don't travel by air\" and asked for the next case to be called.",
+    "The petitioner claims fares have been pushed up by 700 per cent compared with normal levels. Their counsel argued that air travel is an essential service and that steep increases breach Article 14 of the Constitution, which guarantees equality. The petition asks the court to act against what it calls arbitrary and excessive pricing by private airlines during festivals, holidays and emergencies.",
+    "The case is already listed for 16 November. In October the central government told the court that administrative approval had been given to new rules under the Bharatiya Vayuyan Adhiniyam, 2024, to regulate fares, and the bench asked for them to be placed before it by that date. The report says the government has since notified rules letting it step in on ticket prices in extraordinary situations and in the public interest.",
+    "IndiGo chief executive Willie Walsh said fares could rise further because aviation fuel prices are at record highs. He said the airline is absorbing as much as it can and argued that lower taxes and airport charges would help."
+   ],
+   "url": "https://www.ndtv.com/india-news/supreme-court-on-petition-against-high-ticket-prices-dont-travel-by-air-12272603",
+   "section": "world",
+   "scope": "india",
+   "source": "NDTV",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-11-02T15:28:32+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/supreme-court-on-petition-against-high-ticket-prices-dont-travel-by-air-12272603"
+    }
+   ]
+  },
+  {
+   "id": "0a5973c98bcad4e15e9a",
+   "title": "Legal challenge to Australia's social media ban to start in High Court",
+   "deck": "Australia's High Court begins two days of hearings on challenges to the under-16 social media ban from a digital rights group and from Reddit.",
+   "summary": [
+    "Australia's highest court will start two days of hearings on Tuesday into the country's ban on social media for children under 16, the BBC reports. It is the first major legal test of a policy that began on 10 December last year.",
+    "The constitutional challenge was brought by the Digital Freedom Project, led by New South Wales parliamentarian John Ruddick. The group argues that the ban takes away children's right to free communication. Reddit has filed a separate case, which the court will hear together with the first. Reddit says the law has serious implications for privacy and political rights, and its communications chief, Adam Collins, said the company will keep complying while it contests the law. Two teenagers who first led the case, Noah Jones and Macy Neyland, have withdrawn as plaintiffs, though Jones is expected to attend.",
+    "Communications Minister Anika Wells said last year the government would not be intimidated by legal threats. Supporters say the ban shields children from harmful content, while critics call it too blunt and say the focus should be on improving online safety.",
+    "Ten platforms, including Facebook, Instagram, TikTok, YouTube, Reddit and Snapchat, must take reasonable steps to keep under-16s out, or risk fines of up to A$99m. No company has been fined so far, though the eSafety Commissioner is investigating alleged non-compliance by five of them. Many children have reportedly found it easy to get around the age checks."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-02T23:37:31+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "f05e49056408d04100f1",
+   "title": "Russell says F1 title loss 'tough to deal with'",
+   "deck": "After Mercedes team-mate Kimi Antonelli clinched the Formula 1 title, George Russell said his own season has been very hard to cope with.",
+   "summary": [
+    "George Russell has said the way his 2026 Formula 1 season fell apart while Mercedes team-mate Kimi Antonelli took the drivers' championship has been very hard to deal with and often left him confused, BBC Sport reported.",
+    "Russell began the year as favourite and won the opening race, but his form faded as Antonelli gained momentum. In an Instagram post he congratulated the Italian, saying he truly deserved the title. Russell wrote that it was the first season of his career with more bad days than good, and that 2026 was not meant to be his year. He promised to give everything to rediscover his best performance.",
+    "Antonelli has won nine races this season to Russell's three. At the Mexico City Grand Prix on Sunday, Russell started second but lost power off the line because of an energy deployment glitch. He then hit Red Bull's Isack Hadjar at Turn Six, causing a spin, and received a 10-second penalty. He finished sixth and dropped to fourth in the standings.",
+    "Mercedes team principal Toto Wolff said Russell was distraught after the race and was allowed to skip media duties, calling that understandable. Antonelli said Russell had suffered bad luck, is very quick and will bounce back, adding that Red Bull, Ferrari and McLaren should all be competitive next year."
+   ],
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/cmq8n95ppwd4o?at_medium=RSS&at_campaign=rss",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-02T21:16:11+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/cmq8n95ppwd4o?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "39f216b83d39f77c6b1d",
+   "title": "What was Antonelli’s best moment of his F1 title-winning campaign? Our writers have their say",
+   "deck": "Autosport's writers each pick the race that best showed how Kimi Antonelli became the youngest Formula 1 world champion.",
+   "summary": [
+    "Kimi Antonelli clinched his first Formula 1 title in Mexico with four rounds remaining, becoming the youngest champion in the sport's history. Autosport asked its writers to choose the single moment of his Mercedes season that stood out most. Their answers are opinion pieces rather than match reports.",
+    "Filip Cleeren chose Melbourne, where Antonelli recovered calmly from a heavy practice crash to finish second behind teammate George Russell. Ewan Gale picked Canada, where Antonelli fought Russell hard for the lead before Russell's car failed. Stuart Codling highlighted Monaco, where Antonelli took pole and his fifth straight win, with team boss Toto Wolff saying the pace surprised the team.",
+    "Ed Hardy named Belgium, arguing that Antonelli answered Russell's late momentum by winning from pole when the points gap had shrunk to 25. Ben Vinel went for Monza, where Antonelli won from 19th on the grid after a penalty, a feat the article says only John Watson has bettered.",
+    "Jake Boxall-Legge praised Baku for damage limitation after a qualifying crash, and Ronald Vording picked the United States Grand Prix as his most complete and mature performance, noting Antonelli credited his family and team for handling the pressure."
+   ],
+   "url": "https://www.autosport.com/f1/news/what-was-antonellis-best-moment-of-his-f1-title-winning-campaign-our-writers-have-their-say/10871078/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-11-02T15:59:08+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/what-was-antonellis-best-moment-of-his-f1-title-winning-campaign-our-writers-have-their-say/10871078/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    }
+   ]
+  },
+  {
+   "id": "4ec49e99f340eda09c41",
+   "title": "Hamilton slams Leclerc for \"do or die\" attitude after Mexico GP clash",
+   "deck": "Lewis Hamilton criticised Charles Leclerc's attitude after a first-lap tangle cost Ferrari a likely win in Mexico, which Max Verstappen took.",
+   "summary": [
+    "Lewis Hamilton has publicly criticised his Ferrari team-mate Charles Leclerc after the two clashed on the opening lap of the Mexico Grand Prix, Autosport reports. Ferrari lost what the report calls a straightforward victory.",
+    "Hamilton started on pole with Leclerc third. Leclerc moved up to second when George Russell lost momentum into Turn 1, then tried to pass Hamilton on the outside and ran over a kerb at Turn 2. At Turn 4 he tried again, and after space ran out he cut Turn 5 and took the lead. Hamilton was then passed by Max Verstappen. Leclerc received a five-second penalty, which handed first place to the Red Bull driver. Hamilton finished second, ahead of new world champion Kimi Antonelli, and Leclerc was fourth.",
+    "Hamilton described Leclerc's approach as a \"do or die\" mentality and said the team could easily have had a one-two. He said the two have no rules of engagement and that something must change, and he called for serious talks. Leclerc told Sky Sports that when there is a gap while fighting for a win, he will always go for it.",
+    "The comments above are Hamilton's own view of events. Ferrari remain on two wins this season and trail Mercedes by 126 points."
+   ],
+   "url": "https://www.autosport.com/f1/news/hamilton-slams-leclerc-for-do-or-die-attitude-after-mexico-gp-clash/10871033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-11-02T12:40:22+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/hamilton-slams-leclerc-for-do-or-die-attitude-after-mexico-gp-clash/10871033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    }
+   ]
+  },
+  {
+   "id": "0381321ec643b573fbd9",
+   "title": "Stokell in 'voluntary' ban after medication error",
+   "deck": "Ireland's Rebecca Stokell has begun a voluntary suspension after a drug test at the Women's T20 World Cup produced an adverse finding for a non-performance-enhancing substance.",
+   "summary": [
+    "Ireland cricketer Rebecca Stokell has started a voluntary suspension and says she accepts responsibility for failing to follow reporting rules on prescription medication. The 26-year-old describes the breach as inadvertent.",
+    "The International Cricket Council confirmed she was tested after Ireland lost to Sri Lanka at the 2026 Women's T20 World Cup in June, and that the test \"returned an adverse finding for a specified substance.\" The report states the substance was not performance-enhancing. An ICC investigation is still under way, and Stokell has stepped aside while she waits for its findings.",
+    "In her own statement, Stokell said she fully accepts her mistake and chose to suspend herself before any ruling. She said the matter was not related to performance, but added that she understands she is responsible for following anti-doping guidelines. She said she hopes to return to the Ireland team as soon as possible.",
+    "Graeme West, Cricket Ireland's director of high performance, said the governing body feels sorry for her and has given appropriate support. He described the case as a reminder to all international players that anti-doping rules protect both the sport and the athletes, and said players must meet the expected standards. He added that Cricket Ireland will keep educating players regularly on the subject.",
+    "Stokell made her international debut in 2017 and has played 109 times for Ireland across all formats."
+   ],
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/c6n9rngrplggo?at_medium=RSS&at_campaign=rss",
+   "section": "sport",
+   "scope": "sport",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-02T14:44:30+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/cricket/articles/c6n9rngrplggo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "58f14444314bf32e3a24",
+   "title": "India vs New Zealand ODI Series: Full schedule, squads, live streaming – all you need to know",
+   "deck": "India open a five-match one-day series in New Zealand on Wednesday with Rohit Sharma and Virat Kohli back and a split captaincy.",
+   "summary": [
+    "India begin the one-day leg of their New Zealand tour at Eden Park in Auckland on Wednesday, the first of five matches, the Indian Express reports. They arrive after winning the preceding T20 series 3-2.",
+    "Rohit Sharma and Virat Kohli return to the 50-over side. Shubman Gill will captain India in the first three games, and Shreyas Iyer takes over for the last two. Jasprit Bumrah is being rested and Prasidh Krishna is ruled out, which opens the way for Auqib Nabi in the first three matches. The report notes that India have won only four of 11 ODIs against New Zealand at Eden Park, including a seven-wicket defeat there in 2022.",
+    "The hosts have lost Rachin Ravindra and Mark Chapman to injury for the series, so Tim Seifert and Henry Nicholls have been recalled. Mitchell Santner leads a split squad, with the red-ball players leaving after the third game to prepare for the Test series that starts on 19 November.",
+    "The remaining fixtures are on 7 November in Wellington, 10 November in Hamilton, and 13 and 15 November in Mount Maunganui. All matches start at 7:30 am IST. In India, they will be shown on the Sony Sports Network and streamed on SonyLIV."
+   ],
+   "url": "https://indianexpress.com/article/sports/cricket/india-vs-new-zealand-odi-series-schedule-squads-live-streaming-10947455/",
+   "section": "sport",
+   "scope": "sport",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-02T16:10:44+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/sports/cricket/india-vs-new-zealand-odi-series-schedule-squads-live-streaming-10947455/"
+    }
+   ]
+  },
+  {
+   "id": "40acb5a0bb9db9df006e",
+   "title": "Pebble Qore Vox Launched in India as Firm’s Latest Screenless Fitness Tracker With AI Voice Recording Capabilities: Price, Features",
+   "deck": "Pebble has launched the Qore Vox, a screenless fitness band that can record and summarise voice notes, in India from Rs 5,799.",
+   "summary": [
+    "Pebble has launched the Qore Vox in India, adding a screenless fitness tracker with voice recording to a range that already includes the Qore and Qore 2, Gadgets 360 reported. It is on sale through the Pebble online store, Amazon and Flipkart in Stealth Black, Storm Blue and Summit Brown.",
+    "The listed price is Rs 9,999, but the company is currently selling it at an introductory Rs 5,799. The headline feature is voice capture: double-tapping a side button starts a recording of a meeting, lecture or reminder, which can later be transcribed and summarised in the Pebble Vox app. Summaries and transcripts can be shared by WhatsApp or email. The app supports English, seven Indian languages including Hindi, Marathi, Telugu, Kannada, Gujarati, Bengali and Punjabi, and 24 foreign languages.",
+    "The band stores up to 100 minutes of audio itself, so it can record when the phone is not nearby and sync later. Pebble says transcription and AI summaries are free with no subscription, and a blue light shows when recording is active.",
+    "For health, it offers more than 100 sports modes, GPS route tracking when paired with a phone, and sensors for heart rate, heart rate variability, sleep, blood oxygen and stress. It gives a recovery score and a daily AI health report. It weighs about 53 grams and is claimed to last up to 10 days on a charge."
+   ],
+   "url": "https://www.gadgets360.com/wearables/news/pebble-qore-vox-price-in-india-launch-specifications-features-12271849",
+   "section": "deals",
+   "scope": "deals",
+   "source": "Gadgets 360",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-11-02T12:58:04+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Gadgets 360",
+     "group": "ndtv",
+     "url": "https://www.gadgets360.com/wearables/news/pebble-qore-vox-price-in-india-launch-specifications-features-12271849"
+    }
+   ]
+  },
+  {
+   "id": "22ca80f6dd4b03d25b20",
+   "title": "Sony FX5 Cinema Line Camera Launched in India With Open Gate Recording, 5K Video Support: Price, Specifications",
+   "deck": "Sony has launched its FX5 Cinema Line camera in India with Open Gate recording and 5K video, starting at Rs 5,09,990.",
+   "summary": [
+    "Sony has launched the FX5 Cinema Line camera in India, Gadgets 360 reported. The body-only version costs Rs 5,09,990, while a bundle with the XLR handle unit is Rs 5,61,990. Optional extras include the DVF-EL1 OLED viewfinder at Rs 1,05,990, the XLR-H2 handle at Rs 1,33,990 and a timecode adapter cable at Rs 13,990. It is sold through Sony retail outlets and major electronics stores.",
+    "The camera uses a full-frame Exmor RS CMOS sensor with a BIONZ XR2 processor and a dedicated AI unit. Sony cites more than 15 stops of dynamic range in S-Log3 and three base ISO settings of 800, 4,000 and 12,800, along with Dual Gain Shooting to limit noise.",
+    "For video, it brings Open Gate recording, using the full 3:2 sensor area, to Sony's FX series. It records 5K at up to 60 frames per second, 4K at up to 120 and Full HD at up to 240, and supports internal 16-bit X-OCN RAW alongside XAVC HS and XAVC S.",
+    "Other listed features include autofocus with up to 759 phase-detection points that recognises people, animals and birds, and five-axis in-body stabilisation. It has a 3.5-inch touchscreen, Wi-Fi 6, Bluetooth 5.3, HDMI, two USB-C ports and a wired LAN port for remote operation and streaming. With the handle, it records four-channel audio, including 32-bit float. Sony claims up to 105 minutes of actual recording per battery."
+   ],
+   "url": "https://www.gadgets360.com/cameras/news/sony-fx5-cinema-line-camera-price-india-launch-availability-specifications-features-12272229",
+   "section": "deals",
+   "scope": "deals",
+   "source": "Gadgets 360",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-11-02T15:26:55+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Gadgets 360",
+     "group": "ndtv",
+     "url": "https://www.gadgets360.com/cameras/news/sony-fx5-cinema-line-camera-price-india-launch-availability-specifications-features-12272229"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "name": "Indian Express",
+   "section": "world",
+   "status": "ok",
+   "count": 74
+  },
+  {
+   "name": "NDTV",
+   "section": "world",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "The Hindu",
+   "section": "world",
+   "status": "ok",
+   "count": 60
+  },
+  {
+   "name": "Times of India",
+   "section": "world",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "BBC News",
+   "section": "world",
+   "status": "ok",
+   "count": 35
+  },
+  {
+   "name": "The Guardian",
+   "section": "world",
+   "status": "ok",
+   "count": 28
+  },
+  {
+   "name": "TechCrunch",
+   "section": "technology",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "The Verge",
+   "section": "technology",
+   "status": "ok",
+   "count": 10
+  },
+  {
+   "name": "BBC News",
+   "section": "technology",
+   "status": "ok",
+   "count": 4
+  },
+  {
+   "name": "Indian Express",
+   "section": "business",
+   "status": "ok",
+   "count": 11
+  },
+  {
+   "name": "BBC News",
+   "section": "business",
+   "status": "ok",
+   "count": 16
+  },
+  {
+   "name": "Economic Times",
+   "section": "business",
+   "status": "ok",
+   "count": 50
+  },
+  {
+   "name": "BBC Sport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 14
+  },
+  {
+   "name": "Autosport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 9
+  },
+  {
+   "name": "BBC Sport",
+   "section": "sport",
+   "status": "ok",
+   "count": 65
+  },
+  {
+   "name": "Indian Express",
+   "section": "sport",
+   "status": "ok",
+   "count": 43
+  },
+  {
+   "name": "Gadgets 360",
+   "section": "deals",
+   "status": "ok",
+   "count": 5
+  },
+  {
+   "name": "Indian Express",
+   "section": "local",
+   "status": "ok",
+   "count": 0
+  }
+ ]
+}
