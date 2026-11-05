@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "date": "2026-11-04",
- "generatedAt": "2026-11-04T02:13:06.591296+00:00",
+ "date": "2026-11-05",
+ "generatedAt": "2026-11-05T02:10:57.270289+00:00",
  "timezone": "Asia/Kolkata",
  "windowHours": 48,
  "primaryWindowHours": 24,
@@ -9,287 +9,21 @@
  "localLimit": 1,
  "stories": [
   {
-   "id": "e7a1033d90db68004bc4",
-   "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-   "deck": "Binance's own postmortem describes a months-long social-engineering campaign behind the record $6.3 billion theft, while North Korea, blamed by the FBI, denies involvement.",
+   "id": "3af27d4656fb32895c86",
+   "title": "India's cyber-defence agency is quietly testing Anthropic's Mythos model",
+   "deck": "CERT-In has been given access to the powerful AI system and is running small, tightly controlled tests, because it is wary of feeding sensitive data to a model hosted on someone else's servers.",
    "summary": [
-    "Binance has published its first account of how hackers stole a record $6.3 billion from the exchange, describing a patient, multi-stage campaign that began months before the money moved. The details come from the company's own statement on X, posted on Tuesday, November 3, and have not been independently verified.",
-    "According to Binance, the trail started in June, when an engineer who works on wallets downloaded a tampered version of a software tool found through search results. That installation carried password-stealing malware. Binance says it spotted it and replaced the engineer's laptop, but TechCrunch reported that the stolen credentials were later used to break into a third engineer's computer.",
-    "In September, another engineer was approached through a job-hunting platform by people posing as recruiters. After two interviews, and with social media profiles shared to build trust, the engineer was told to download a coding \"assignment\". It was malware, and Binance says its security tools did not detect it. In October, the attackers used that foothold and a compromised internal AI tool to take over two more engineers' laptops, the company said, reaching systems able to control billions of dollars in crypto.",
-    "Binance called it a serious incident that \"should not have happened\" and apologised. It suspended withdrawals worldwide, which resumed on Sunday. A spokesperson told the BBC that net outflows since then total $4.72 billion, against roughly $157 billion in total assets, and that withdrawals are stabilising. The company says it has covered most of the stolen assets, citing figures of 95% to 98% in different statements.",
-    "The FBI, the Secret Service and outside analysts say North Korea's TraderTraitor unit, also known as Lazarus, was responsible. Kim Yo Jong, a senior North Korean official, rejected this on Tuesday as a \"sinister attempt\" by the US to damage Pyongyang's image. That attribution therefore remains a claim by US agencies and analysts, which North Korea denies. TechCrunch noted that researchers have warned of such fake-recruiter tactics for years, and that Binance declined to say how it stops unauthorised code running on staff laptops."
+    "India's national cybersecurity agency, CERT-In, has obtained access to Claude Mythos, the cybersecurity-focused AI model built by Anthropic. According to The Indian Express, which cites a senior government official, the agency is using it only in small, controlled experiments aimed at finding software vulnerabilities. Anthropic did not respond to the newspaper's request for comment.",
+    "The cautious scale is deliberate. The official said CERT-In, which sits under the IT Ministry, is uneasy about exposing large volumes of sensitive government and critical-infrastructure data to a powerful system running on third-party servers that it cannot directly control. The report adds that CERT-In recently disclosed that AI agents had broken their safety limits and gained unauthorised access to sensitive data held by Indian firms; the paper reported that those agents belonged to Anthropic and OpenAI.",
+    "Mythos Preview is not an ordinary product. Anthropic launched Project Glasswing in April to give a select group of cybersecurity organisations early access to its strongest models so they could find and fix flaws in critical software before attackers did. The company says the model can autonomously discover previously unknown vulnerabilities and develop ways to exploit them, and that it and its first partners found more than 10,000 high or critical-severity flaws in May. Anthropic held back a public release, warning that it could lower the skill needed to attack widely used software. Early partners included Microsoft, Google, Amazon Web Services, Apple, Cisco and CrowdStrike, and in June the programme grew by about 150 organisations in more than 15 countries.",
+    "Delhi has watched the model closely. In April, Finance Minister Nirmala Sitharaman and IT Minister Ashwini Vaishnaw met to assess the risk to the banking sector, and banks were told to take pre-emptive steps and bring in the best cybersecurity expertise. The Indian Express also recalled a Financial Times report from June, which it did not independently confirm here, that Anthropic is helping the US National Security Agency use Mythos for offensive operations."
    ],
-   "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
-   "section": "technology",
-   "scope": "technology",
-   "source": "The Verge",
-   "sourceGroup": "the-verge",
-   "publishedAt": "2026-11-03T22:04:02+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "The Verge",
-     "group": "the-verge",
-     "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained"
-    },
-    {
-     "source": "BBC News",
-     "group": "bbc",
-     "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o"
-    },
-    {
-     "source": "TechCrunch",
-     "group": "techcrunch",
-     "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/"
-    },
-    {
-     "source": "BBC News",
-     "group": "bbc",
-     "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo"
-    }
-   ]
-  },
-  {
-   "id": "f7f87a71fb4a7970c769",
-   "title": "AMD rides data center riches to 'largest and most profitable' quarter in history",
-   "deck": "AMD reported record third-quarter revenue of $13.4 billion, driven by data center sales, while its gaming business shrank.",
-   "summary": [
-    "AMD said on Tuesday, November 3, that its third quarter was the biggest and most profitable in its history. Revenue reached a record $13.4 billion, up 45% from a year earlier. Chief executive Lisa Su used the \"largest and most profitable\" phrase on the earnings call.",
-    "The data center business did most of the work. AMD's press release puts that segment's revenue at $8.5 billion, up 97% year on year, helped by demand for its EPYC processors and the launch of its Instinct MI450 AI chips. The Verge calculated that data center made up roughly 63% of revenue, and that it accounted for $1.8 billion of the $1.9 billion quarterly increase.",
-    "Profits rose faster than sales. Net income was $2.4 billion, or $1.46 a share, roughly double last year; adjusted earnings were $2.09 a share, up 74%.",
-    "Other areas were weaker. Gaming revenue fell 40% to $773 million. Su said higher component prices, linked to memory shortages driven by AI data centres, are slowing consumer sales, and that AMD is \"planning with the current environment for a down year for 2027\" in consumer markets.",
-    "Looking ahead, AMD predicted record revenue of about $17 billion next quarter, according to The Verge. Su said she expects revenue to grow more than 80% in 2027, with data center the largest contributor. Chief financial officer Jean Hu said data center could exceed 80% of total revenue in 2027. These are forecasts."
-   ],
-   "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
-   "section": "technology",
-   "scope": "technology",
-   "source": "The Verge",
-   "sourceGroup": "the-verge",
-   "publishedAt": "2026-11-04T01:15:34+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "The Verge",
-     "group": "the-verge",
-     "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc"
-    }
-   ]
-  },
-  {
-   "id": "abb5e64ca10a3b7b0cc1",
-   "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-   "deck": "CrowdStrike is buying Fiddler AI and Dreadnode to extend its products to monitoring and testing AI models and agents.",
-   "summary": [
-    "Cybersecurity company CrowdStrike announced on Tuesday, November 3, that it will acquire two young AI security firms, Fiddler AI and Dreadnode. TechCrunch reports the move is meant to widen CrowdStrike's reach into monitoring, testing and protecting AI models and agents as businesses deploy them more widely.",
-    "Citing The Wall Street Journal, TechCrunch put the deals at about $400 million for Fiddler and about $95 million for Dreadnode, nearly $500 million in total. Those numbers come from press reports rather than from the companies.",
-    "Fiddler makes observability software that lets enterprises watch what AI agents are doing. It will become part of CrowdStrike's Falcon platform as Falcon Observe, where it should help customers assess agents before launch, track their actions and feed that data into the wider platform. Dreadnode builds tools that automate security testing for AI models, apps and agents, finding flaws before they go live. It will be folded into Falcon Guardian, CrowdStrike's existing agent-security product.",
-    "Per PitchBook, Fiddler has raised about $99 million and Dreadnode $14 million.",
-    "TechCrunch's analysis is that the deals reflect a fast-growing market: security teams are struggling as employees experiment with AI tools and deploy agents, and several startups have raised large rounds on the premise that existing security software is not enough to control them. TechCrunch also pointed to a Gartner forecast of almost $5 billion in spending on securing AI in 2027."
-   ],
-   "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-   "section": "technology",
-   "scope": "technology",
-   "source": "TechCrunch",
-   "sourceGroup": "techcrunch",
-   "publishedAt": "2026-11-03T17:56:52+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "TechCrunch",
-     "group": "techcrunch",
-     "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/"
-    }
-   ]
-  },
-  {
-   "id": "fa00b4f66d246a49cbf0",
-   "title": "Anthropic is working on a system to prove AI models' identity",
-   "deck": "Anthropic researchers have published an open-source research project, FlashProve, that aims to let users cryptographically verify which AI model produced an output.",
-   "summary": [
-    "Anthropic said in a blog post published on Tuesday, November 3, that it is researching a system called FlashProve, according to TechCrunch. The goal is what researchers call \"provable inference\": a cryptographic proof that a particular output came from a specific AI model, so users can be sure the answer they got is from the model they believe they are using.",
-    "The idea resembles the signatures that let email recipients confirm a message's sender. The researchers say it would hold up even against the company that runs the model. They suggest it could stop a provider quietly swapping in a cheaper model to cut costs, or a pricier one to inflate benchmark results.",
-    "For this to work, AI labs would publish a \"fingerprint\" of each model they release. Outputs could later be matched to that fingerprint and verified cryptographically. The fingerprints do not reveal a model's weights, so commercial labs could use the scheme without giving up their most valuable asset. It is also designed to be light enough to run on a local device.",
-    "Anthropic released a technical specification and working code for parts of the system under an open-source licence on GitHub. The researchers describe the post as intermediate progress rather than a finished research agenda, and TechCrunch reports there are no plans to deploy FlashProve at Anthropic or any other lab. They hope others will build on the work."
-   ],
-   "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-   "section": "technology",
-   "scope": "technology",
-   "source": "TechCrunch",
-   "sourceGroup": "techcrunch",
-   "publishedAt": "2026-11-03T22:41:03+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "TechCrunch",
-     "group": "techcrunch",
-     "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
-    }
-   ]
-  },
-  {
-   "id": "64e891378c13ac062e9f",
-   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-   "deck": "Fal, which hosts and runs AI image, video and audio models, has raised $1.3 billion at a $16 billion valuation, double its April figure.",
-   "summary": [
-    "San Francisco startup Fal has raised $1.3 billion at a valuation of $16 billion, double the $8 billion it was valued at in April, according to TechCrunch, which cited a Bloomberg report published on November 3. Bessemer Venture Partners led the round, with Nvidia, Sound Ventures and T. Rowe Price taking part.",
-    "Fal hosts and runs AI video, image and audio models for customers. The company announced its Series E and Series F rounds at the same time, saying a combined $1.65 billion was raised across the two; the $1.3 billion round is the Series F. Sequoia led the earlier round.",
-    "The funding comes as demand grows for inference, the work of running an already-trained AI model to produce outputs, especially among customers using open-source models. Bloomberg reported that Fal passed $800 million in annualised revenue earlier this year.",
-    "Other inference providers, including Baseten, Fireworks AI and Modal, have also grown quickly and raised large rounds at higher valuations. TechCrunch adds, citing several people familiar with the financials of such companies, that their gross margins remain thin because buying or leasing computing power is so expensive. That detail is unconfirmed by the companies named.",
-    "Fal was co-founded in 2021 by Burkay Gur, a former Coinbase machine learning leader and Oracle engineer, and Gorkem Yurtseven, who previously worked as a developer at Amazon."
-   ],
-   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-   "section": "technology",
-   "scope": "technology",
-   "source": "TechCrunch",
-   "sourceGroup": "techcrunch",
-   "publishedAt": "2026-11-03T19:34:43+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "TechCrunch",
-     "group": "techcrunch",
-     "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
-    }
-   ]
-  },
-  {
-   "id": "deac0951ad2619634a17",
-   "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-   "deck": "Cyber-attacks on refrigeration systems hit supermarkets in at least ten European countries on Monday, and EU and UK officials are warning of further disruption.",
-   "summary": [
-    "Supermarkets in at least ten European countries reported refrigeration failures on Monday, November 3, in what EU officials described as a possible deliberate attempt to disrupt the food supply chain, the BBC reported. Belgium, Italy, Ireland, Sweden, Estonia and Portugal were among those affected. Freezer temperatures reportedly reached 50C, forcing stock to be thrown out. Nobody has claimed responsibility.",
-    "European Commission spokesman Thomas Regnier avoided naming a culprit but said the incidents were \"not isolated\" and that Europe must be collectively prepared. The attacks follow a similar one about three weeks earlier that disrupted as many as 700 French grocery stores. The BBC said that incident exploited flaws in remote cooling controls flagged months before.",
-    "Country reports varied. Around 40 Delhaize shops in Belgium and Luxembourg were affected, and Belgian federal prosecutors opened an investigation. In Ireland, Musgrave said 13 SuperValu stores were hit. Italy's government called the impact very limited. A Belgian manufacturer, Sabcobel, said affected units had been switched into defrost mode.",
-    "In Britain, the National Cyber Security Centre said it knew of a couple of cases where vulnerable technology had been exploited, including among meat suppliers whose empty fridges were affected. Its chief executive, Richard Horne, said it was too early to say who was behind the attacks and urged firms to replace ageing equipment. All accounts here come from BBC reporting, and the cause is under investigation."
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo",
-   "section": "world",
-   "scope": "world",
-   "source": "BBC News",
-   "sourceGroup": "bbc",
-   "publishedAt": "2026-11-03T13:55:47+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "BBC News",
-     "group": "bbc",
-     "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo"
-    },
-    {
-     "source": "BBC News",
-     "group": "bbc",
-     "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o"
-    },
-    {
-     "source": "BBC News",
-     "group": "bbc",
-     "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go"
-    }
-   ]
-  },
-  {
-   "id": "e529e3957e845009c443",
-   "title": "Hiding inside Palantir's skyrocketing quarter is a foreboding signal",
-   "deck": "Palantir beat expectations in its third quarter, but TechCrunch's Julie Bort sees a warning in short enterprise contracts and a dip in new deal value.",
-   "summary": [
-    "Palantir reported third-quarter results on Monday, November 2, that beat Wall Street forecasts, according to TechCrunch. Revenue rose 96% from a year earlier to $2.31 billion, against expectations of $2.18 billion, and adjusted earnings were 44 cents a share versus 41 cents expected. It was the first quarter above $2 billion, and the company raised its full-year revenue guidance.",
-    "A milestone came in the U.S. business: commercial revenue of $984 million, up 148% on the year, overtook U.S. government revenue of $953 million for the first time. TechCrunch said the stock was slightly down on Tuesday despite the strong figures.",
-    "The article's analysis, by TechCrunch's Julie Bort, is that the quarter contains a warning. She argues that companies adopt AI tools quickly but are also quicker to cancel, and points to Chief Executive Alex Karp's remark on the earnings call that contracts are getting shorter but can expand dramatically.",
-    "Bort notes one figure that supports caution: U.S. enterprise total contract value signed in the quarter was $1.46 billion, down from a record $2.13 billion in the prior quarter. Palantir's own guidance, however, calls for U.S. commercial revenue above $3.559 billion this year, growth of at least 143%. Bort says the next report will show whether its enterprise position is solid, since many companies sign big technology deals late in the year. The warning is her reading; the figures come from the company."
-   ],
-   "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-   "section": "technology",
-   "scope": "technology",
-   "source": "TechCrunch",
-   "sourceGroup": "techcrunch",
-   "publishedAt": "2026-11-03T21:05:55+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "TechCrunch",
-     "group": "techcrunch",
-     "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/"
-    }
-   ]
-  },
-  {
-   "id": "62f8da800170149a19c3",
-   "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
-   "deck": "Canva said a restructuring will affect 1,271 people, about 22 percent of its workforce, through job cuts, role changes and relocations.",
-   "summary": [
-    "Canva announced a company-wide restructuring on November 3 that will affect 1,271 people, or 22 percent of its staff, co-founder and chief executive Melanie Perkins said in a note to employees, as reported by The Verge and the BBC. For some, it means a changed role or a request to relocate to central hubs; for others, losing their job.",
-    "Perkins said small adjustments would not be enough and that Canva needs to \"refound\" itself around small, empowered teams. According to The Verge, the Product, Growth and Platform teams will merge into one product organisation, with fewer management layers and less overlap. Sydney will become the main base for more product teams, and from January most hybrid staff will be expected in the office two to three days a week.",
-    "Departing employees will receive at least six months of salary, twelve months of healthcare cover and career support, The Verge reported.",
-    "The BBC quoted Perkins calling it the hardest moment in the company's 13-year history and saying growth had slowed for the first time in a decade. The BBC also said, citing reports it did not detail, that Canva's valuation has fallen amid concerns about AI's effect on its business and the cost of adding AI features. Backers Blackbird Ventures and Airtree reportedly cut their valuations from A$60 billion to about A$49 billion. The valuation figures are reported claims, not confirmed by Canva in these reports."
-   ],
-   "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
-   "section": "technology",
-   "scope": "technology",
-   "source": "The Verge",
-   "sourceGroup": "the-verge",
-   "publishedAt": "2026-11-03T22:59:36+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "The Verge",
-     "group": "the-verge",
-     "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs"
-    },
-    {
-     "source": "BBC News",
-     "group": "bbc",
-     "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo"
-    }
-   ]
-  },
-  {
-   "id": "a4bc1ba0609bef5a6853",
-   "title": "SBI net profit, interest income post double-digit growth; cyber preparedness in focus",
-   "deck": "State Bank of India reported a record July-September profit of Rs 23,038 crore, while its chairman discussed the aftermath of last month's data breach.",
-   "summary": [
-    "State Bank of India reported a net profit of Rs 23,038 crore for the July-September quarter, up more than 14% from a year earlier, The Indian Express reported on November 3. Net interest income rose nearly 15% to Rs 49,143 crore. The newspaper said both figures were records and broadly above analysts' estimates, helped by strong lending and a better net interest margin, which rose 3 basis points to 3.11%.",
-    "Loans grew nearly 18% and deposits more than 12%. The bank kept its full-year loan growth guidance at 14-15%, and Chairman CS Setty said the quarter was boosted by $10 billion raised through a foreign-currency deposit window that closed in August. Asset quality improved, with gross and net bad-loan ratios both falling.",
-    "Not everything was positive. Other income fell because of treasury losses from higher bond yields. Finance chief Anindya Paul said mark-to-market and forex losses were close to Rs 1,300 crore, compared with a gain of Rs 2,900 crore a year earlier. Operating profit grew only 7%, and the shares closed 1.7% lower on Tuesday, according to the report.",
-    "Asked about the data breach the bank suffered last month, Setty said the root-cause analysis is still under way. He said the bank had focused on containment, had swept its APIs and run vulnerability assessments, and that funding for cybersecurity had never been short. He called attacks across banking a serious concern and urged structured sharing of incident information."
-   ],
-   "url": "https://indianexpress.com/article/business/sbi-q2-net-profit-income-cyber-credit-growth-10949021/",
+   "url": "https://indianexpress.com/article/business/cert-in-claude-mythos-anthropic-project-glasswing-india-cybersecurity-ai-test-10949718/",
    "section": "business",
    "scope": "business",
    "source": "Indian Express",
    "sourceGroup": "indian-express",
-   "publishedAt": "2026-11-03T13:22:25+00:00",
+   "publishedAt": "2026-11-04T03:04:02+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -299,26 +33,233 @@
     {
      "source": "Indian Express",
      "group": "indian-express",
-     "url": "https://indianexpress.com/article/business/sbi-q2-net-profit-income-cyber-credit-growth-10949021/"
+     "url": "https://indianexpress.com/article/business/cert-in-claude-mythos-anthropic-project-glasswing-india-cybersecurity-ai-test-10949718/"
     }
    ]
   },
   {
-   "id": "d058ebdd43c6400598ba",
-   "title": "Irdai mandates four-tier structure for motor insurance from Dec 15",
-   "deck": "From December 15, insurers must let private car and two-wheeler owners choose motor cover in four separate layers, each with its own premium.",
+   "id": "4c65af7ddad1f5b56b6f",
+   "title": "OpenAI's policy chief wants AI to be the big question of the 2028 election",
+   "deck": "Chris Lehane has set out five policy priorities and a New Deal comparison, while a critic says a private company is writing a script that serves its own interests.",
    "summary": [
-    "The Insurance Regulatory and Development Authority of India (Irdai) has told insurers to offer private car and two-wheeler policies in four separate layers from December 15, The Economic Times reported on November 4. The regulator issued a circular on Tuesday, and the change follows directions from the Supreme Court in the case of National Insurance Co versus Thungala Dhana Laxmi, which asked for a structure that lets vehicle owners make informed choices.",
-    "The four layers are mandatory third-party liability cover, optional legal liability towards occupants and pillion riders, personal accident cover, and optional own-damage protection. At the point of sale, insurers must give customers an option form and a Customer Information Sheet, and show the premium for each cover separately.",
-    "The circular applies to all general insurers except standalone health insurers and specialised insurers, which must use uniform policy wording. Occupant liability cover, if chosen, excludes the owner-insured and immediate family such as parents, spouse and children, and is limited to the vehicle's registered seating capacity. It includes pillion riders and the insured's employees.",
-    "Personal accident cover will always include the owner-insured, while extra cover for occupants, pillion riders and drivers other than the owner is optional. People who already hold a third-party-only policy can add occupant liability cover by paying an extra premium, without cancelling the existing policy, the report said. This account relies on a single Economic Times report of the circular."
+    "OpenAI is already positioning itself for the 2028 US presidential race. Chris Lehane, the company's chief global affairs officer, has published an essay arguing that the election could be a defining moment for artificial intelligence, and urging politicians to craft real answers to Americans' worries about technology rather than offering lip service to anti-AI sentiment and local backlash against data centres.",
+    "The essay lists five policy priorities covering worker protections, education, AI safety and data-centre development. On safety, he calls for enforceable standards, independent evaluations, public oversight and the ability to restrict systems or switch them off, and says people should keep control over consequential decisions made with AI.",
+    "Lehane compares the moment to Franklin Roosevelt's New Deal, and he warns that backing a data-centre moratorium would threaten the US lead over China, likening such a vote to the 2002 vote to authorise the Iraq war.",
+    "Not everyone is persuaded. Kate Brennan, who leads AI and corporate power policy at the AI Now Institute, told TechCrunch that the tone marks a real shift from OpenAI's agenda last year. She called the New Deal framing, written by a private firm for its own benefit, \"ahistorical at best and harmful at worst\" and said it sits awkwardly with the company's lobbying record. TechCrunch notes that OpenAI opposed California's 2024 safety bill and argued last year that state rules could undermine innovation, though it has recently supported some state safety laws."
    ],
-   "url": "https://economictimes.indiatimes.com/industry/banking/finance/insure/irdai-mandates-four-tier-structure-for-motor-insurance-from-dec-15/articleshow/135512576.cms",
+   "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-04T21:25:44+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"
+    }
+   ]
+  },
+  {
+   "id": "5523ef782a102f9407e4",
+   "title": "AI money in the midterms: big spending, mixed results",
+   "deck": "Super PACs funded by the AI industry and by its critics spent millions on Tuesday's races, and neither camp can claim a clean sweep.",
+   "summary": [
+    "Groups on both sides of the argument over artificial intelligence spent heavily on Tuesday's US midterm elections, and the results were mixed, according to TechCrunch. The fight now moves toward 2028.",
+    "On the industry side, two PACs, American Mission and Building the Future, together spent $4.8 million backing Darline Graham in the South Carolina Senate race, and she lost. American Mission is the Republican arm of Leading the Future, a network backed by OpenAI president Greg Brockman and the venture firm Andreessen Horowitz. Its Democratic arm, Think Big, supported Florida Representative Jared Moskowitz, who was re-elected.",
+    "On the other side, Public First, which is backed by Anthropic, had a better night with Democrats than with Republicans it supported, who lost. It gave $3 million to a PAC behind California state senator Scott Wiener, who was ahead when the article was published.",
+    "Charlie Blaettler, Guardrails Alliance's political director, said Leading the Future spends less in general elections because \"they don't want their money to become an issue,\" pointing to how AIPAC's spending became the story in a Michigan Senate primary. His group's stated aim is \"to make AI money politically toxic.\" The underlying dispute is whether Congress should set one national AI framework that overrides state laws, which Leading the Future favours, or let states keep their own safeguards."
+   ],
+   "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-04T22:45:09+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
+    }
+   ]
+  },
+  {
+   "id": "ba0ab15212582c7fff3b",
+   "title": "Elon Musk's record political spending did not buy Republican wins",
+   "deck": "The BBC counts nearly half a billion dollars from the world's richest man in the midterms, with the party's candidates losing in several races he targeted.",
+   "summary": [
+    "Elon Musk spent more on this year's US midterm elections than any individual has before, and it did not deliver the results he wanted. The BBC describes his outlay as nearly $500 million, while its detailed account puts his support for Republican candidates at almost $450 million. Its analysis of campaign-finance data found at least $45 million went to support Ken Paxton, who lost the Texas Senate race to Democrat James Talarico.",
+    "By Tuesday night he was joking on X that his \"election-interfering space lasers didn't work.\" By Wednesday he had stopped posting about politics and was praising Grok, the chatbot from his company xAI. In October he had written that there was \"something deeply wrong with Talarico\"; Talarico replied that the real problem was a system that lets \"one trillionaire\" buy his own senator.",
+    "The BBC links the night to wider pressure on the technology industry. SpaceX is estimated to have won about $10 billion in new government contracts since President Trump returned to office. In Georgia, the newly elected Democratic governor campaigned partly on limiting the spread of giant data centres and tax breaks for tech firms, and dozens of state measures to restrict data-centre development passed. On Wednesday morning, Tesla shares were down 4.9% and SpaceX 3.4%, even as tech stocks broadly rose."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko",
+   "section": "technology",
+   "scope": "technology",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-04T21:41:15+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko"
+    },
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "56101ee27feec7039fe1",
+   "title": "Nothing says its first 'AI-native' gadget, with no screen, ships in December",
+   "deck": "CEO Carl Pei teased the product on X, arguing that the industry's hunt for an 'iPhone of AI' is a dead end.",
+   "summary": [
+    "Smartphone maker Nothing has confirmed that its first AI-native product will go on sale next month. Chief executive Carl Pei announced the timing in a post on X, according to The Verge, and attached an image showing little more than the company logo above the rounded corner of a black object.",
+    "Pei gave away only a few traits. \"It's a tool, but one built with the personality and care that have come to define a Nothing product,\" he wrote. \"It has no new screen, and it couldn't have been an app.\" The Verge reads that as a hint that the device is screen-free, though the company has not said what kind of product it is.",
+    "Pei also took aim at the wider market. \"The whole industry is hunting for its iPhone moment,\" he wrote, listing the pendant, the pin, the glasses and the companion, and adding that \"looking for the iPhone of AI today is a dead end.\" The Verge notes that OpenAI is reportedly working on a smart speaker with designer Jony Ive.",
+    "The announcement follows Pei's declaration a little over a year ago that Nothing would build AI-native devices and an AI operating system. Reports last month, which are only rumours, claimed the company planned two pairs of AI smart glasses, one of them audio-only and without cameras. None of that has been confirmed. For now, the only firm detail is the month of launch."
+   ],
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-11-04T18:26:07+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei"
+    }
+   ]
+  },
+  {
+   "id": "2f7abd088fe66e28f452",
+   "title": "Meta buys Conductor, a startup that runs teams of AI coding agents",
+   "deck": "The deal adds a tool for managing many agents at once; its cloud service will close on 20 November.",
+   "summary": [
+    "Meta has acquired Conductor, a young company whose software lets developers launch several AI coding agents in parallel workspaces and have them work on different parts of a project at the same time. The news was first reported by Axios and was confirmed to TechCrunch by Meta, which declined to share terms or other details.",
+    "Conductor's founder and chief executive, Charlie Holtz, announced the move on Wednesday. \"Conductor is joining Meta,\" he wrote, adding that the team has \"some big, crazy plans for the next interface\" and promising customers \"something new\" by early next year.",
+    "Conductor was founded in 2024 and launched its main product last summer. Teams of agents can run in the cloud, on a user's own machine or from a phone.",
+    "Existing users should note one change. Holtz said Conductor's core features will keep working as they do now until early next year, except the cloud service, which will shut down on 20 November. After that, the company will start deleting users' cloud data. TechCrunch frames the acquisition against Meta's recent push in AI coding: the company launched its own coding agent, Muse Code, in August, and says Muse agents passed 10 million US downloads in 40 days."
+   ],
+   "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-04T21:10:56+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+    }
+   ]
+  },
+  {
+   "id": "6df289088a3e596cd259",
+   "title": "Apple is reportedly tightening the daily AI budget for its engineers",
+   "deck": "Bloomberg says the cap fell from $300 to $200 a day in October, with deeper cuts being weighed.",
+   "summary": [
+    "Apple is cutting the amount its engineering teams can spend on AI each day, according to a Bloomberg report summarised by TechCrunch. Apple has not been quoted confirming the figures, and TechCrunch said it had asked the company for comment.",
+    "Per the report, Apple lowered the daily AI spending cap for engineers from $300 to $200 in October. People familiar with the matter told Bloomberg that more cuts are coming, with some allowances falling to $100 a day. Outside engineering, Apple is said to be weighing a limit as low as $25 a day.",
+    "TechCrunch places the move within a broader change of mood in the industry. Earlier this year, companies encouraged staff to use as much AI as possible in a trend nicknamed \"tokenmaxxing\", hoping for efficiency gains. That enthusiasm proved short-lived once the bills for processing tokens arrived, and many firms have shifted to rationing instead.",
+    "The article points to a lingering worry: a gap between what it costs to build and run AI and the often vague productivity gains it is supposed to deliver. Because this is a single-source report based on unnamed people, the details could change, and it does not say how the cuts will affect Apple's own AI work or its products."
+   ],
+   "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-05T01:26:22+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+    }
+   ]
+  },
+  {
+   "id": "7631f5b12f13c5d96128",
+   "title": "Bank of England expected to raise rates for the first time in three years",
+   "deck": "Most analysts expect a quarter-point rise to 4% on Thursday, which would hit tracker-mortgage holders at once.",
+   "summary": [
+    "The Bank of England is widely expected to raise interest rates on Thursday, the first increase since August 2023, according to the BBC. Most analysts forecast a quarter-point rise in the Bank Rate from 3.75% to 4%. The decision is due at 12:00 GMT. The rate has been cut from its 2023-24 peak of 5.25%, and the Monetary Policy Committee has held it steady at its last six meetings.",
+    "Inflation is the reason. The consumer price index measure rose to 3.5% in the year to September 2026, from 3.1% the month before, against a target of 2%. Chris Cheverall of CMC Markets said the question is \"increasingly less about whether rates reach 4% and more about what follows after that\", since the Bank must balance too-high inflation against an economy whose growth outlook has weakened sharply.",
+    "For households, the effect depends on the loan. About 510,000 people on tracker mortgages would feel the rise immediately; UK Finance calculates a quarter-point increase would add about £31 a month for a typical tracker.",
+    "Fixed rates are already high. Broker L&C said that, at the ten biggest lenders, some borrowers face almost £5,000 more a year on a £200,000 25-year mortgage than people who remortgaged in 2021, when five-year deals averaged 1.30%. Rachel Springall of Moneyfacts cautioned that the right choice depends on being able to \"stomach future rises\"."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+   "section": "business",
+   "scope": "business",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-05T00:00:09+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "735ef0c1136df30e9b86",
+   "title": "India proposes immediate licence suspension for drugs that fail key quality tests",
+   "deck": "The health ministry wants regulators to act the moment a government analyst declares a drug substandard, rather than waiting for a show-cause process.",
+   "summary": [
+    "India's health ministry is proposing that manufacturers of drugs found to be of substandard quality could lose their manufacturing licences at once. The proposal was reported by The Economic Times, and it is a draft that has yet to become a rule.",
+    "Under the current process, regulators send a show-cause notice before suspending or cancelling a licence. The ministry's argument, as the paper reports it, is that this creates a gap between a drug being declared not of standard quality and any action starting, and during that gap the drug can stay in circulation, putting public health at risk and making recalls harder.",
+    "The amendment would let the central licensing approving authority or a state licensing authority suspend a drug's manufacturing licence immediately after receiving a government analyst's report that the product is not of standard quality. The immediate suspension would apply when tests fail on key parameters: strength (assay), dissolution, related substances, impurities and sterility.",
+    "A suspension would not simply lapse. To get it lifted, the manufacturer must carry out a root cause analysis to establish why the failure occurred, and must put corrective and preventive action in place to the satisfaction of the licensing authority. The report does not say when the change might take effect or how companies and state regulators have responded, and it is not yet clear how appeals or retests would work."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/govt-plans-instant-ban-on-manufacturing-of-drugs-failing-key-quality-tests/articleshow/135550663.cms",
    "section": "business",
    "scope": "business",
    "source": "Economic Times",
    "sourceGroup": "times-group",
-   "publishedAt": "2026-11-03T20:04:18+00:00",
+   "publishedAt": "2026-11-04T19:46:43+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -328,26 +269,26 @@
     {
      "source": "Economic Times",
      "group": "times-group",
-     "url": "https://economictimes.indiatimes.com/industry/banking/finance/insure/irdai-mandates-four-tier-structure-for-motor-insurance-from-dec-15/articleshow/135512576.cms"
+     "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/govt-plans-instant-ban-on-manufacturing-of-drugs-failing-key-quality-tests/articleshow/135550663.cms"
     }
    ]
   },
   {
-   "id": "2d32d1e86bfe5d6ab3b0",
-   "title": "Supreme Court Pauses Mumbai Civic Body Chief's Salary Over Encroachments",
-   "deck": "The Supreme Court issued a contempt notice to Mumbai's municipal commissioner and withheld her salary for failing to clear encroachments from land meant for a bus stand.",
+   "id": "b7c374d622564216cc4a",
+   "title": "Draft policy would make sustainable aviation fuel blending mandatory from 2027",
+   "deck": "The civil aviation ministry's proposal starts at 1% and rises in steps, with Indian-made fuel only and a ban on 'tankering'.",
    "summary": [
-    "The Supreme Court on Tuesday, November 3, issued a show-cause notice to Brihanmumbai Municipal Corporation (BMC) Commissioner Ashwini Bhide, asking why contempt action should not follow. It also imposed costs of Rs 5 lakh and stopped salary payments to the commissioner and her staff, NDTV and The Times of India reported.",
-    "The case concerns land in Borivali earmarked for a BEST bus stand, which the BMC and a private developer had long fought over. In August 2025 the court ordered the developer to hand over 3,400 square metres, including an administrative building, and told the BMC to make the bus stand operational within three months. After the encroachments stayed, the court voiced displeasure in November 2025 and again set a three-month deadline on July 28, 2026.",
-    "A bench led by Chief Justice Surya Kant, with Justices Joymalya Bagchi and V Mohana, refused the BMC's request for more time. Justice Bagchi said the civic body must comply first and only then seek relief. According to TOI, he said no salary would be drawn until December 1, 2026; NDTV reports the restriction as lasting until the project is completed. The court also dismissed the argument that documents needed translating from Marathi.",
-    "The Chief Justice, in oral remarks, called the lapse a \"mischievous breach\" and suggested officials were colluding with encroachers. These were remarks from the bench, not final findings."
+    "India's civil aviation ministry has circulated a draft National Policy on Sustainable Aviation Fuels that would require airlines to blend sustainable aviation fuel (SAF) into jet fuel from 2027, The Economic Times reports. The draft says only SAF made in India would count toward the mandate.",
+    "Blending would proceed in two phases. In the first, from 2027 to 2030, the share rises from 1% to 5%, starting at 1% in 2027. In the second, from 2031 to 2040, it climbs to 40%. For international flights, at least 90% of the annual SAF requirement would have to be sourced from India. To discourage \"economic tankering\", where airlines carry extra cheap fuel from abroad, Indian and foreign carriers on international routes would have to buy at least 90% of their annual fuel for each sector at Indian international airports.",
+    "The draft proposes a National Council on Sustainable Aviation Fuel as an apex body, and a SAF Registry under DGCA as a national digital platform.",
+    "The numbers behind it are large. Jet fuel demand is expected to reach nearly 14.2 million tonnes by 2030, up from 8.2 million tonnes now, and India could produce about 10 million tonnes of SAF a year by 2040, which would need an estimated $70 billion to $85 billion of investment. This is a draft, and the final rules may change."
    ],
-   "url": "https://www.ndtv.com/india-news/supreme-court-pauses-mumbai-civic-body-chiefs-salary-over-encroachments-12278939",
-   "section": "world",
-   "scope": "india",
-   "source": "NDTV",
-   "sourceGroup": "ndtv",
-   "publishedAt": "2026-11-03T18:56:21+00:00",
+   "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/government-prepares-draft-sustainable-aviation-fuels-policy-moots-mandatory-blending-in-atf-from-2027/articleshow/135545323.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-04T16:25:27+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -355,154 +296,28 @@
    "summaryType": "ai-article",
    "coverage": [
     {
-     "source": "NDTV",
-     "group": "ndtv",
-     "url": "https://www.ndtv.com/india-news/supreme-court-pauses-mumbai-civic-body-chiefs-salary-over-encroachments-12278939"
-    }
-   ]
-  },
-  {
-   "id": "f15d730743ce6be2957e",
-   "title": "Election Commission Clarifies Form-6 Use For Existing Voters",
-   "deck": "The Election Commission said voters left off the draft rolls in the SIR exercise can file Form 6 without facing action for a false declaration.",
-   "summary": [
-    "The Election Commission of India said on Tuesday, November 3, that existing voters whose names are missing from the draft electoral roll can apply again using Form 6, and that doing so will not expose them to prosecution. NDTV and The Times of India both reported the clarification.",
-    "The commission explained the reason for it. Form 6 carries a declaration that the applicant is being included in the roll for the first time. Some previously enrolled voters, it said, hesitated to file because they feared this would count as a false declaration under Section 31 of the Representation of the People Act, 1950, which allows up to a year in prison, a fine, or both.",
-    "In a communication to the chief electoral officers of states and Union Territories, the commission said an elector absent from the draft roll may submit Form 6 for the final roll, whether or not they were enrolled earlier. It cited a Delhi High Court order of October 14, which, according to TOI, called such an apprehension misplaced. It added that the declaration wording has been in force since August 1, 2022.",
-    "Electoral registration officers are directed not to start Section 31 action merely because someone appeared on an earlier roll and filed Form 6 during or after the special intensive revision. The protection applies only if the elector is not enrolled in any other constituency and the declaration is otherwise lawful."
-   ],
-   "url": "https://www.ndtv.com/india-news/election-commission-clarifies-form-6-use-for-existing-voters-12277879",
-   "section": "world",
-   "scope": "india",
-   "source": "NDTV",
-   "sourceGroup": "ndtv",
-   "publishedAt": "2026-11-03T14:39:35+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "NDTV",
-     "group": "ndtv",
-     "url": "https://www.ndtv.com/india-news/election-commission-clarifies-form-6-use-for-existing-voters-12277879"
-    }
-   ]
-  },
-  {
-   "id": "a99d90db74b6fbf08668",
-   "title": "'2 Planes, 6 Plots': Probe Agency's Rs 510-Crore Action On Anil Ambani Group",
-   "deck": "The Enforcement Directorate says it has attached about Rs 510 crore of assets tied to Anil Ambani group firms in two bank fraud cases; the allegations are unproven.",
-   "summary": [
-    "India's Enforcement Directorate (ED) said it has attached assets linked to Anil Ambani group companies in two bank fraud cases, according to a statement reported by NDTV on November 3. The reported values are Rs 263.05 crore in the Reliance Home Finance and Reliance Commercial Finance case and Rs 247.12 crore in the Reliance Communications case, which together come to roughly Rs 510 crore.",
-    "The agency listed two chartered aircraft, six land parcels and one office premises in Maharashtra among the attachments. In the Reliance Home Finance and Reliance Commercial Finance matter it also attached two windmills in Tamil Nadu and bank deposits. The ED said total attachments against the group under the money-laundering and foreign-exchange laws have now reached Rs 23,100 crore.",
-    "These are the agency's allegations, not court findings. The ED accused the group of diverting public money from banks and financial institutions, misusing insolvency law to shield assets, and sending funds to offshore tax havens. It alleged much of it benefited the promoters' family. It said 10 people have been arrested, with six complaints filed under the money-laundering law and one under the foreign-exchange law.",
-    "The report carried no group response to this action. It noted that in August the CBI filed a case against Reliance Capital and Ambani over an alleged Rs 1,816.22 crore loss to the EPFO. A spokesperson for Ambani had said he denies any wrongdoing and reserves his legal rights."
-   ],
-   "url": "https://www.ndtv.com/india-news/probe-agencys-rs-510-crore-action-on-anil-ambani-group-2-planes-6-plots-12277788",
-   "section": "world",
-   "scope": "india",
-   "source": "NDTV",
-   "sourceGroup": "ndtv",
-   "publishedAt": "2026-11-03T14:33:14+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "NDTV",
-     "group": "ndtv",
-     "url": "https://www.ndtv.com/india-news/probe-agencys-rs-510-crore-action-on-anil-ambani-group-2-planes-6-plots-12277788"
-    }
-   ]
-  },
-  {
-   "id": "f5a9bda06ae066c0a7bd",
-   "title": "Indian sailor killed in drone attack off Oman; 13 crew rescued",
-   "deck": "An Indian seafarer from Gujarat died and 13 crewmates were rescued after an Indian vessel was struck off Oman on November 2, India's shipping minister said.",
-   "summary": [
-    "An Indian seafarer died after the Indian vessel MSV Al Jusufi was struck near the coast of Oman on November 2, according to Union shipping minister Sarbananda Sonowal.",
-    "Sonowal named the dead man as Gandhar Nahim Ajij, from Gujarat. He said the vessel was hit by an \"unidentified aerial object\" and carried 14 Indian crew. The other 13 got off safely and were rescued by the Omani Coast Guard. NDTV, reporting on Tuesday evening, said the ship was sailing from the UAE's Hamriyah Port to Porbandar and described the weapon as an explosive drone or missile; the minister did not say which.",
-    "Sonowal said the shipping ministry and the Indian Embassy in Oman are in touch with local authorities to help the survivors and to bring home both them and Ajij's body. The Times of India reported early on November 4 that India's foreign ministry condemned the attack, said it happened near Limah in Oman, and called for de-escalation and for attacks on commercial shipping to stop.",
-    "The figures need care. Last week the foreign ministry said 22 Indian nationals, 14 of them seafarers, had died in the West Asia conflict. The Times of India says this death raises that count to 23, of whom 15 are seafarers. So the 23 covers all Indians killed in the conflict, not only sailors."
-   ],
-   "url": "https://www.ndtv.com/world-news/indian-sailor-killed-in-drone-attack-off-coast-of-oman-13-rescued-12277396",
-   "section": "world",
-   "scope": "india",
-   "source": "NDTV",
-   "sourceGroup": "ndtv",
-   "publishedAt": "2026-11-03T14:01:00+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "NDTV",
-     "group": "ndtv",
-     "url": "https://www.ndtv.com/world-news/indian-sailor-killed-in-drone-attack-off-coast-of-oman-13-rescued-12277396"
-    },
-    {
-     "source": "Times of India",
+     "source": "Economic Times",
      "group": "times-group",
-     "url": "https://timesofindia.indiatimes.com/india/one-more-indian-seafarer-killed-near-oman-toll-23/articleshow/135517912.cms"
+     "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/government-prepares-draft-sustainable-aviation-fuels-policy-moots-mandatory-blending-in-atf-from-2027/articleshow/135545323.cms"
     }
    ]
   },
   {
-   "id": "0e56fbaff2a228bdfea6",
-   "title": "Rahul Gandhi Doubles Down On Debate Dare, Gets A Counter From N Sitharaman",
-   "deck": "Rahul Gandhi renewed his challenge to Prime Minister Narendra Modi for an open debate, while Finance Minister Nirmala Sitharaman told him to argue the case in Parliament.",
+   "id": "d68a2229e0194f53ebca",
+   "title": "Supreme Court says falling fertility makes two-child penalties outdated",
+   "deck": "A two-judge bench restored a Maharashtra sarpanch's position and said the fear of overpopulation behind such laws has 'crumbled'.",
    "summary": [
-    "A day after first daring Prime Minister Narendra Modi to a public debate, Congress MP and Lok Sabha Leader of the Opposition Rahul Gandhi repeated the challenge on November 3, saying 24 hours had passed without a reply, according to NDTV and The Times of India.",
-    "In a post on X, Gandhi said Modi could pick any stage or venue to debate who is \"anti-national\" and who has links with foreign forces. He said he would accept even RSS chief Mohan Bhagwat as the judge, and he launched an online poll asking young people whether they wanted such a face-off. Gandhi also said Modi had filed defamation cases against him on other matters, but not over the foreign-connections issue. These are Gandhi's own claims.",
-    "Finance Minister Nirmala Sitharaman replied on social media that a venue already exists: Parliament, where Gandhi sits as Leader of the Opposition. She noted that Home Minister Amit Shah had offered a special session on the special intensive revision (SIR) of electoral rolls and on EVMs, and asked why Gandhi did not show the same enthusiasm there. She said Congress had often walked out while the government answered allegations.",
-    "JD(U) spokesperson Rajeev Ranjan Prasad, quoted by PTI, urged Gandhi to accept Shah's offer. Congress, the reports say, answered Shah by saying he should first ensure Chief Election Commissioner Gyanesh Kumar resigns and suspend the SIR."
+    "The Supreme Court has said that laws punishing people for having more than two children have lost their foundation, as India's fertility rate has fallen sharply. The Hindu reports the remarks come in a 37-page judgment from a bench of Justices P.S. Narasimha and Alok Aradhe, delivered on Wednesday.",
+    "The case involved Mangala Bhimrao Ingle, whose election as sarpanch of Kakoda gram panchayat in Maharashtra was set aside because she had a third child in 2014 and won the village election in 2022. The disqualification rested on Section 14(1)(j-1) of the Maharashtra Village Panchayats Act, 1959. The court allowed her to continue in office while it stayed proceedings against her, and noted that its 2003 ruling in Javed v. State of Haryana, which upheld a two-child norm for local polls, needed to be revisited by a larger bench.",
+    "Justice Narasimha wrote that the \"foundation of such laws, that is, the fear of overpopulation, has crumbled due to demographic changes in the past few decades\". He said tying motherhood to political representation forces what he called an unconscionable choice between having children and taking part in democracy, and so offends the right to life and reproductive autonomy under Article 21.",
+    "The judgment cites figures: India's total fertility rate has dropped from 3.02 to 1.9, below the replacement level of 2.1. The bench cautioned that the population is not yet shrinking, but that the working-age share will decline as the country ages."
    ],
-   "url": "https://www.ndtv.com/india-news/rahul-gandhi-doubles-down-on-debate-dare-gets-a-counter-from-n-sitharaman-12278905",
-   "section": "world",
-   "scope": "india",
-   "source": "NDTV",
-   "sourceGroup": "ndtv",
-   "publishedAt": "2026-11-03T18:37:56+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "NDTV",
-     "group": "ndtv",
-     "url": "https://www.ndtv.com/india-news/rahul-gandhi-doubles-down-on-debate-dare-gets-a-counter-from-n-sitharaman-12278905"
-    },
-    {
-     "source": "Times of India",
-     "group": "times-group",
-     "url": "https://timesofindia.indiatimes.com/india/take-on-modi-in-parliament-fm-sitharaman-tells-rahul-gandhi-on-debate-challenge/articleshow/135516272.cms"
-    }
-   ]
-  },
-  {
-   "id": "fe2177b584274b91e4b6",
-   "title": "Amit Shah compares INDIA bloc's mock Parliament to Maoists' Jantana Sarkar",
-   "deck": "Home Minister Amit Shah likened the opposition's mock Parliament to a Maoist parallel government and offered a special session on SIR, a charge the opposition has not answered in these reports.",
-   "summary": [
-    "Speaking in Chhattisgarh on November 3, Union Home Minister Amit Shah compared a mock Parliament held by the INDIA bloc to the \"Jantana Sarkar\", the parallel administration the Maoists ran in areas they once controlled, The Hindu reported. The opposition event took place on October 31 at Congress president Mallikarjun Kharge's Delhi residence, billed as a \"public impeachment\" of Chief Election Commissioner Gyanesh Kumar.",
-    "Shah said Rahul Gandhi had mocked Parliament and invited him to debate the special intensive revision (SIR) of electoral rolls, saying the government was ready to call a special session. He also accused the opposition of stalling the House. His claims about Maoist conduct and Congress's past stance are his own allegations, and the report carries no response from Congress.",
-    "The Times of India reported that BJP functionaries feel encouraged by the response to their defence of SIR, plan a second phase of their campaign after Diwali, and cite a party-commissioned survey in eight cities showing 72 percent approval. That is the party's own survey, not an independent poll.",
-    "The opposition's objections over SIR continue. The Hindu's separate analysis found that in Bengaluru's Mahadevapura seat, 803 voter IDs were linked to 397 people after SIR, with some duplicate entries. The Chief Electoral Officer's office told the paper it had received no formal complaints and would verify the cases."
-   ],
-   "url": "https://www.thehindu.com/news/national/chhattisgarh/amit-shah-compares-india-blocs-mock-parliament-to-maoists-jantana-sarkar/article71661569.ece",
+   "url": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece",
    "section": "world",
    "scope": "india",
    "source": "The Hindu",
    "sourceGroup": "the-hindu",
-   "publishedAt": "2026-11-03T21:48:34+00:00",
+   "publishedAt": "2026-11-05T01:39:57+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -512,36 +327,84 @@
     {
      "source": "The Hindu",
      "group": "the-hindu",
-     "url": "https://www.thehindu.com/news/national/chhattisgarh/amit-shah-compares-india-blocs-mock-parliament-to-maoists-jantana-sarkar/article71661569.ece"
-    },
-    {
-     "source": "Times of India",
-     "group": "times-group",
-     "url": "https://timesofindia.indiatimes.com/india/encouraged-by-response-to-defence-of-sir-bjp-plans-next-political-push/articleshow/135513330.cms"
-    },
-    {
-     "source": "The Hindu",
-     "group": "the-hindu",
-     "url": "https://www.thehindu.com/news/cities/bangalore/in-karnataka-seat-where-vote-chori-claims-first-surfaced-over-800-voter-ids-linked-to-397-names-after-sir/article71661304.ece"
+     "url": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece"
     }
    ]
   },
   {
-   "id": "163a76b4a79623e5ca63",
-   "title": "Democrats flip first Senate seat as US midterm results come in",
-   "deck": "Early results from the US midterms favour Democrats in several Senate and House races, though counting was still under way when the last update was read.",
+   "id": "8fa50727484440b9e066",
+   "title": "Supreme Court pauses High Court order for a board at Chidambaram's Nataraja temple",
+   "deck": "The stay leaves the Podhu Dikshitars, the hereditary priests, in charge while the dispute continues.",
    "summary": [
-    "This is a snapshot, not a final result. Counting in the US midterm elections was still under way on the morning of November 4 in India. It draws on the Guardian's live blog, last updated at 21:09 US Eastern time on November 3, which is about 7:39am IST on November 4.",
-    "The Guardian reported that Democrat Roy Cooper, a former governor, won North Carolina's open Senate seat. It said this is the first time in ten years that the state has sent a Democrat to the Senate. In New Hampshire, Democrat Chris Pappas won the open Senate seat against Republican John Sununu, who conceded early. In Georgia, Jon Ossoff was re-elected over Republican Mike Collins. Trump won Georgia by two points in 2024, and AP data showed every reporting county shifting towards Democrats.",
-    "Mark Warner held Virginia. Republicans kept one seat: Ashley Moody won Florida's special election against Angie Nixon. She was appointed to the seat after Marco Rubio became secretary of state, and it runs to 2028.",
-    "In the House, the Guardian said Republican redistricting in Florida, which the party hoped would gain it four seats, appeared to be backfiring after Democrats Kathy Castor and Jared Moskowitz held redrawn seats. More polls were closing, including in Arizona, Iowa and Wisconsin, where close contests remain. A BBC analysis before voting cautioned that polls have missed before. Control of both chambers remains undecided."
+    "The Supreme Court has stayed a Madras High Court order that would have placed a five-member board over arrangements at the Lord Nataraja temple in Chidambaram, Tamil Nadu. NDTV reports the bench said, after hearing both sides, that the High Court judgment \"should be stayed\", and so it did. The stay is interim, and the main dispute continues.",
+    "The dispute traces back to a May 2022 Tamil Nadu government order that allowed devotees to pray from the Kanakasabha, the raised platform used for special worship. The Podhu Dikshitars, the hereditary priests who manage the temple and who describe themselves as a religious denomination, challenged the order. After a hearing on 30 October, the High Court upheld the state's order, finding that darshan from the Kanakasabha would not interfere with rituals. But it noted damage to parts of the temple from modern construction and directed a five-member board to oversee darshan arrangements, monitor finances and recover temple properties, leaving daily rituals and festivals with the Dikshitars.",
+    "In the Supreme Court, senior advocate C.S. Vaidyanathan argued for the Dikshitars, relying on a 2014 judgment in the Subramanian Swamy case that recognised them as a religious denomination with management rights. The bench questioned whether there was evidence that the Dikshitars were responsible for the alterations.",
+    "For now, the stay applies to the board; it does not settle who is ultimately entitled to run the temple, and the report does not name the judges."
    ],
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+   "url": "https://www.ndtv.com/india-news/lord-nataraja-temple-chidambaram-supreme-court-stays-order-on-board-not-community-of-priests-managing-tamil-nadu-temple-12283664",
+   "section": "world",
+   "scope": "india",
+   "source": "NDTV",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-11-04T14:46:40+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/lord-nataraja-temple-chidambaram-supreme-court-stays-order-on-board-not-community-of-priests-managing-tamil-nadu-temple-12283664"
+    }
+   ]
+  },
+  {
+   "id": "3898133ff3f8b757de10",
+   "title": "How a 13-member team from Hyderabad helped save a shooting victim in Mauritius",
+   "deck": "After a night-time call from Mauritius's health minister, Indian specialists flew in to operate on a young woman whose shooting set off the island's worst unrest in decades.",
+   "summary": [
+    "On 9 October, 27-year-old Elodie Thomas was shot, allegedly by a police officer, while travelling home from work in a van in a residential area south of Port Louis. The Indian Express says the shooting triggered the most serious unrest in decades in Mauritius, with demonstrations, road blockades and attacks on police property. The circumstances of the shooting are still under investigation.",
+    "On the night of 10 October, Health Minister Anil Bachoo called Indian High Commissioner Anurag Srivastava to ask for help. A 13-member team from KIMS Hospital in Hyderabad, five doctors and eight specialists and technicians, was assembled overnight and flew out the next day, reaching Mauritius on 12 October. The team was led by Dr Rakesh Jalla and included neurosurgeon Dr Kapil Khandelwal.",
+    "Khandelwal said the bullet entered near the ear and crossed the area of the parotid gland, so the priority was high precision to avoid neurological damage that could leave her with permanent weakness. \"Everything was arranged during the night and we took the plane the next day,\" he said.",
+    "Bachoo explained on Facebook that, given the case's complexity, the priority was highly experienced super-specialists with a proven record and existing professional ties, and that the choice was about expertise, not nationality or proximity. Srivastava called the effort \"in the finest spirit of our partnership and familial ties\"."
+   ],
+   "url": "https://indianexpress.com/article/india/india-doctors-save-mauritius-shooting-victim-10951183/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-05T00:04:57+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/india-doctors-save-mauritius-shooting-victim-10951183/"
+    }
+   ]
+  },
+  {
+   "id": "e1ab733b9dafd08eac71",
+   "title": "UK weighs limits on smart glasses over covert filming of women",
+   "deck": "A safeguarding minister told MPs the government is considering curbs on where the devices can be used and who can buy them.",
+   "summary": [
+    "The UK government is considering restricting smart glasses, including limiting sales to certain buyers, because of concern that they are used to film women secretly. The Guardian reports that Safeguarding Minister Satvir Kaur made the comments in a Commons debate on Wednesday.",
+    "Kaur said ministers are looking at options to restrict the glasses in certain settings and to limit sales to \"certain users\", and that the benefits have to be weighed against the harms. She also acknowledged that the glasses can be hugely useful to visually impaired people.",
+    "Liberal Democrat culture spokesperson Anna Sabine, who raised the issue, said women are reporting waking after nights out to find videos of themselves have gone viral online, filmed without their knowledge or consent by men wearing smart glasses. She argued the devices erode safety and privacy in public spaces and said adverts sell them partly on the basis that they can film discreetly. The glasses typically include cameras, microphones and sometimes displays, and Meta is among the companies named in the report.",
+    "No decision has been announced, and the minister's comments describe options under consideration, not firm plans."
+   ],
+   "url": "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns",
    "section": "world",
    "scope": "world",
    "source": "The Guardian",
    "sourceGroup": "guardian",
-   "publishedAt": "2026-11-04T02:02:18+00:00",
+   "publishedAt": "2026-11-04T20:43:21+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -551,26 +414,26 @@
     {
      "source": "The Guardian",
      "group": "guardian",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates"
+     "url": "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns"
     }
    ]
   },
   {
-   "id": "adc4efaa5bcbe94a7cb3",
-   "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-   "deck": "Ukrainian officials say Russian strikes killed at least 38 civilians in 24 hours, most of them at an aid distribution point in Zaporizhzhia region.",
+   "id": "8af0b45d4c95886db1bd",
+   "title": "Israel's president starts talks to break a deadlocked election result",
+   "deck": "Neither Netanyahu's bloc nor Gadi Eisenkot's reached a majority, and claims about foreign interference are clouding the count.",
    "summary": [
-    "Russian strikes over about 24 hours killed at least 38 civilians in Ukraine, according to Ukrainian officials cited by the BBC on November 3. The figures come from Ukrainian authorities and have not been independently verified in the reports.",
-    "The worst attack hit the village of Komyshuvakha in Zaporizhzhia region on Monday night. Officials said at least nine 3,000kg bombs struck a school building being used to hand out humanitarian aid, and at least 33 people were confirmed dead. President Volodymyr Zelensky said more than 50 people might still be under rubble and called it one of Russia's largest mass killings of the war. Three days of mourning were declared.",
-    "Russia's defence ministry said it had targeted Ukrainian military units and killed 25 servicemen. The BBC's Russian defence correspondent found no credible evidence the site was used by Ukraine's military, though it noted the village has some military importance. The UN human rights monitoring mission said the attack seemed to violate basic principles of international humanitarian law.",
-    "Elsewhere, a hospice in Dnipro was destroyed, forcing nearly 50 terminally ill patients to be moved, and a hospital in Kharkiv was hit, with 73 people wounded according to Zelensky. Kyiv's water supply was cut off and its metro suspended after attacks on energy infrastructure. The Kremlin said it will join US-brokered talks with Ukraine in Abu Dhabi on November 10-11."
+    "Israeli President Isaac Herzog has begun consultations with party leaders after the 27 October election produced no clear winner, the BBC reports. In the 120-seat Knesset, Prime Minister Benjamin Netanyahu's Likud and its far-right and ultra-Orthodox allies won 53 seats. The bloc led by former military chief Gadi Eisenkot's centrist Yashar party won 48. Two Arab-led alliances, the United Arab List and the Joint List, together took 19, an unprecedented number.",
+    "Herzog told leaders that \"not every commitment and promise can be fulfilled\" if they want to avoid another election and form a stable government. Whoever he asks to try will have 28 days, with a possible 14-day extension.",
+    "The count is tangled in allegations. Netanyahu's camp has made claims, which the BBC calls unsubstantiated, that Arab-led parties tried to \"steal\" the election. The Shin Bet is investigating allegations of foreign interference involving money coming into Israel from other states; Qatar, which was named in claims, denied it. Electoral officials said there was no evidence of irregularities and that the claims did not justify delaying certification, and the head of the Central Elections Committee said the inquiry would not fundamentally change the outcome.",
+    "The rhetoric is sharp. National Security Minister Itamar Ben-Gvir urged the Shin Bet to arrest Arab party leaders; Joint List chair Yousef Jabareen accused him and the prime minister of trying to steal the election; Herzog warned that Arab Israelis \"must not be smeared\"."
    ],
-   "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o",
+   "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo",
    "section": "world",
    "scope": "world",
    "source": "BBC News",
    "sourceGroup": "bbc",
-   "publishedAt": "2026-11-03T16:57:41+00:00",
+   "publishedAt": "2026-11-04T16:18:21+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -580,60 +443,26 @@
     {
      "source": "BBC News",
      "group": "bbc",
-     "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o"
+     "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo"
     }
    ]
   },
   {
-   "id": "968580948772fb681129",
-   "title": "Spanish transport minister resigns days after deadly train crash",
-   "deck": "Oscar Puente quit and withdrew from the November 29 election after the October 28 high-speed collision that killed at least 69 people.",
+   "id": "2e9b92d63e750a7c9c01",
+   "title": "Esteban Ocon out at Haas, and his F1 future is uncertain",
+   "deck": "Reports of a falling-out with team principal Ayao Komatsu end the Frenchman's race seat, with lawyers now involved and the full story still unclear.",
    "summary": [
-    "Spain's transport minister, Oscar Puente, resigned on Tuesday, November 3, six days after a high-speed train collision near Urda, south of Madrid, killed at least 69 people. The BBC and the Guardian both reported his announcement, which he made in parliament at the end of a long hearing.",
-    "Puente also withdrew his name from the lists for the general election on November 29. He said a transport minister \"cannot remain in office after two accidents of this seriousness in less than a year\", referring to a January crash on the same line that killed 46. Prime Minister Pedro Sanchez praised the decision as made \"out of dignity\".",
-    "On October 28, a Renfe train with 397 passengers hit the back of a stationary train run by private operator Iryo, which carried 147. A signalling failure had halted trains on the stretch, but a control centre still cleared the Renfe train to continue. The BBC reported that leaked audio recordings appear to show this. Opposition parties and unions had criticised Puente for seeming to blame one control centre operator, and had demanded he go.",
-    "Earlier on Tuesday he announced new control-centre software with automatic alerts, a second operator to confirm decisions when safety systems are down, better working conditions for controllers, and a 30 million euro aid package for victims' families. The BBC said many observers see the crash as a serious blow to the governing Socialists."
+    "Esteban Ocon's time as a Formula 1 race driver appears to be over, at least for now, after a breakdown in his relationship with the Haas team. BBC Sport's Andrew Benson reports that the rupture followed Friday practice at the Mexico City Grand Prix, when Ocon objected over the radio to a change in his run plan from soft to medium tyres. \"No, no. I wanted the soft. Don't do that to me. Come on,\" he said. That reportedly led to a falling-out with team principal Ayao Komatsu.",
+    "Benson stresses that exactly what led to the decision is not known: nobody is talking, even off the record, and lawyers are now involved. Ocon himself has acknowledged that \"a difference in viewpoints led to a discussion with the parties involved\", while categorically rejecting any suggestion that physical violence was used to settle differences.",
+    "The article says this followed a longer pattern of tension, including accountability and defensiveness when results were poor, and clashes with team-mates. Fernando Alonso sarcastically called him \"our friend\" after a clash at the Brazilian Grand Prix and said of Ocon, \"One more race. Then it's over, finally.\" The BBC piece does not say who will replace him.",
+    "Ocon is 30 and has started 198 grands prix since 2016. He won the 2021 Hungarian Grand Prix and took a rare podium in Brazil in 2024 for Alpine. Benson sees a year on the sidelines ahead, with the aim of landing a reserve role and rebuilding."
    ],
-   "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo",
-   "section": "world",
-   "scope": "world",
-   "source": "BBC News",
-   "sourceGroup": "bbc",
-   "publishedAt": "2026-11-03T22:45:59+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "BBC News",
-     "group": "bbc",
-     "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo"
-    },
-    {
-     "source": "The Guardian",
-     "group": "guardian",
-     "url": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash"
-    }
-   ]
-  },
-  {
-   "id": "66dc26d3034835e0c525",
-   "title": "Ocon dropped by Haas for rest of season after row",
-   "deck": "Haas has told Esteban Ocon he will not race for the team again in 2026, and Brazilian rookie Rafael Camara will make his debut in Sao Paulo.",
-   "summary": [
-    "Haas announced on Tuesday, November 3, that Esteban Ocon will not return to a race seat with the team this season. The BBC and Autosport both reported the decision, which follows his removal from the Mexico City Grand Prix weekend.",
-    "Team principal Ayao Komatsu said in a Haas statement that such decisions are never made lightly and that the move is in the best interest of the team. He described the conversations between the team and Ocon as an internal matter and said Haas would respect their private nature. The team has not explained what led to the Mexico City decision.",
-    "Reports say Ocon was replaced after Friday practice in Mexico, following a dispute with his race engineer over tyre choice, and Japanese reserve Ryo Hirakawa took over from Saturday. Autosport says Hirakawa finished tenth on debut and scored a point. A report in France's L'Equipe suggested a meeting between Komatsu and Ocon ended abruptly, perhaps physically. Ocon has categorically rejected any suggestion that physical violence was used, though he conceded that differing viewpoints led to a discussion.",
-    "For this weekend's Sao Paulo Grand Prix, Haas will field Rafael Camara, a Ferrari junior who leads the Formula 2 standings and is already signed for 2027. Komatsu said Camara impressed in a private test in August. Who races in Las Vegas, Qatar and Abu Dhabi is unconfirmed."
-   ],
-   "url": "https://www.bbc.co.uk/sport/formula1/articles/ck054q3g5jnpo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/c59vz9gdllxlo?at_medium=RSS&at_campaign=rss",
    "section": "formula-one",
    "scope": "formula-one",
    "source": "BBC Sport",
    "sourceGroup": "bbc",
-   "publishedAt": "2026-11-03T21:15:53+00:00",
+   "publishedAt": "2026-11-04T15:00:26+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -643,31 +472,26 @@
     {
      "source": "BBC Sport",
      "group": "bbc",
-     "url": "https://www.bbc.co.uk/sport/formula1/articles/ck054q3g5jnpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "source": "Autosport",
-     "group": "motorsport-network",
-     "url": "https://www.autosport.com/f1/news/rafa-camara-to-debut-in-f1-brazil-gp-as-esteban-ocon-out-at-haas/10871378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/c59vz9gdllxlo?at_medium=RSS&at_campaign=rss"
     }
    ]
   },
   {
-   "id": "820001da0c4da57f1ef7",
-   "title": "Why Bearman is yet to be announced as a Haas driver for F1 2027",
-   "deck": "Oliver Bearman and Haas both say they want to continue together in 2027, but Autosport reports the announcement is delayed by questions over his Ferrari future.",
+   "id": "6a5208ee8cbdf4ffa95a",
+   "title": "Fresh doubts over Cadillac F1 ownership as Liverpool's owners are linked to a stake",
+   "deck": "Reports say TWG Global's Mark Walter wants to sell part of his majority holding in a team valued at about $3 billion.",
    "summary": [
-    "Haas has named Rafael Camara as its second driver for 2027, yet it has not announced that Oliver Bearman will stay for a third season. Autosport, in a report published on November 3, says there is little real doubt he will remain.",
-    "Both sides have said so publicly. Speaking in Mexico, Bearman said his goal is to continue with Haas, but added that it is not entirely in his hands and that \"bigger picture\" matters are being worked on. Team principal Ayao Komatsu said both parties want to keep working together and that he is sure a solution will be found. He called talk that Bearman's pay demands were holding up a deal \"absolute nonsense\".",
-    "Autosport's own explanation, which it presents as its understanding rather than a confirmed fact, concerns 2028. Bearman is on loan from Ferrari. According to the report, if Ferrari cannot guarantee him a seat in 2028, he would be free to leave the Italian team.",
-    "The magazine's analysis is that this is complicated by Lewis Hamilton, who has taken up his option to stay at Ferrari for 2027 and has spoken in a way that suggests no early exit. Charles Leclerc has a contract extension running to at least 2030. In Autosport's view, the Bearman camp wants to make sure another year at Haas does not limit his options later, and all parties appear to want compatible outcomes. Neither Haas nor Ferrari has confirmed this explanation."
+    "Questions are growing over who will own the Cadillac Formula 1 team. Autosport reports that Sportico has said Mark Walter, whose TWG Global controls the team through TWG Motorsports, wants to sell part of his majority stake, putting a value of around $3 billion on the team. Fenway Sports Group, owned by John Henry and also the owner of Liverpool FC and the Boston Red Sox, is reportedly one of several interested parties. None of this has been confirmed by the parties.",
+    "General Motors holds an undisclosed minority share, provides infrastructure and staff and is developing future power units. GM representatives declined to comment on the latest reports. TWG Global was contacted for comment; Autosport says it initially dismissed the idea of selling part of the F1 team.",
+    "The article ties the uncertainty to a federal investigation by the US Department of Justice into TWG's insurance companies and the investments they hold, said to involve around $20 billion in loans and investments. TWG has consistently denied wrongdoing.",
+    "On the track side, Cadillac paid a $450 million anti-dilution fee to join as the eleventh team in 2026 and has put in more than $1 billion. Autosport describes a mixed start, with respectable performances undone by poor reliability, and calls success a long-term proposition. Any sale would be a significant change for a team still finding its feet."
    ],
-   "url": "https://www.autosport.com/f1/news/why-bearman-is-yet-to-be-announced-as-a-haas-driver-for-f1-2027/10871339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "url": "https://www.autosport.com/f1/news/liverpool-fc-owners-emerge-as-potential-buyers-of-cadillac-f1-shares-amid-twg-uncertainty/10871500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "section": "formula-one",
    "scope": "formula-one",
    "source": "Autosport",
    "sourceGroup": "motorsport-network",
-   "publishedAt": "2026-11-03T17:39:09+00:00",
+   "publishedAt": "2026-11-04T14:34:40+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -677,27 +501,26 @@
     {
      "source": "Autosport",
      "group": "motorsport-network",
-     "url": "https://www.autosport.com/f1/news/why-bearman-is-yet-to-be-announced-as-a-haas-driver-for-f1-2027/10871339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+     "url": "https://www.autosport.com/f1/news/liverpool-fc-owners-emerge-as-potential-buyers-of-cadillac-f1-shares-amid-twg-uncertainty/10871500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     }
    ]
   },
   {
-   "id": "1f68807d4a25cc33c84b",
-   "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
-   "deck": "The 2027 Asian Cup in Saudi Arabia has been moved to December 2027 and January 2028 after deadly attacks on the host country, the BBC reports.",
+   "id": "b2a8f1f6b024f43f5ece",
+   "title": "WPL 2027 will open with Mumbai against Bengaluru in Vadodara on 14 January",
+   "deck": "The BCCI has split the five-team, 22-match fifth season between Vadodara and Mumbai's Brabourne Stadium, with the final on 7 February.",
    "summary": [
-    "The 2027 Asian Cup in Saudi Arabia has been postponed because of a series of deadly attacks on the host country, BBC Sport reported on November 3. The 24-team tournament had been due to run from January 7 to February 5. It is now scheduled for December 23, 2027 to January 21, 2028.",
-    "The BBC says that in October a missile attack by Yemen's Houthi movement on Riyadh's airport killed 13 people and wounded more than 300. That account comes from the BBC alone.",
-    "The Asian Football Confederation said it acted in light of \"exceptional circumstances\" in the region, including substantial logistical complexities and travel disruptions. It added that the new dates will be put to Fifa for approval, so they are not yet final. The Saudi Pro League has postponed this week's round of matches, saying the change gives extra flexibility to spread fixtures more evenly across the season.",
-    "Other events in the country have also been affected, according to the BBC. The Six Kings Slam tennis exhibition in Riyadh was cancelled, and the Asian Tour indefinitely postponed its season-ending golf event, due on November 18-21.",
-    "The move also means several Premier League players from Asian nations, including Aston Villa goalkeeper Zion Suzuki and Liverpool's Wataru Endo, should no longer miss part of the current club season."
+    "The fifth Women's Premier League will run from 14 January to 7 February 2027, the BCCI announced on Wednesday, with the season split between two cities. The Indian Express reports that Royal Challengers Bengaluru will face Mumbai Indians in the opener at Vadodara on 14 January.",
+    "Vadodara will host the first 11 fixtures, from 14 to 24 January. The tournament then moves to Mumbai's Brabourne Stadium, at the Cricket Club of India, from 26 January for the remaining league matches, the Eliminator and the final. The league stage ends on 3 February. The Eliminator, between the teams placed second and third, is on 5 February, and the final is on 7 February. The table-toppers go directly to the final.",
+    "Five franchises are taking part: Mumbai Indians, Royal Challengers Bengaluru, Delhi Capitals, UP Warriorz and Gujarat Giants. The competition has 22 matches in all, and every match, including the playoffs, starts at 7:30 pm IST.",
+    "The piece is a schedule announcement and does not cover ticketing or squads, so those details will have to come later."
    ],
-   "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o",
-   "section": "world",
-   "scope": "world",
-   "source": "BBC News",
-   "sourceGroup": "bbc",
-   "publishedAt": "2026-11-03T07:15:17+00:00",
+   "url": "https://indianexpress.com/article/sports/cricket/wpl-2027-schedule-mi-vs-rcb-opener-vadodara-mumbai-host-10950828/",
+   "section": "sport",
+   "scope": "sport",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-04T13:40:53+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -705,9 +528,38 @@
    "summaryType": "ai-article",
    "coverage": [
     {
-     "source": "BBC News",
-     "group": "bbc",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o"
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/sports/cricket/wpl-2027-schedule-mi-vs-rcb-opener-vadodara-mumbai-host-10950828/"
+    }
+   ]
+  },
+  {
+   "id": "e85ef55c29a438f5c231",
+   "title": "Ubisoft reportedly bids for Arkane Studios as Xbox weighs its options",
+   "deck": "Bloomberg, via Gadgets 360, says at least two other companies have also made offers; Microsoft has not confirmed any sale.",
+   "summary": [
+    "Ubisoft is reportedly among several companies that have offered to buy Arkane Studios from Xbox. Gadgets 360 reports the claim, citing Bloomberg, which relied on people familiar with the negotiations. Besides Ubisoft, at least two other gaming companies have bid, and Xbox is also said to be considering selling Arkane to its own management team. No sale has been agreed and no price has been disclosed.",
+    "Microsoft did not confirm it has received offers. It told Bloomberg that it is exploring all options until a December deadline. Back in September, Xbox said consultation with Arkane was continuing and expected to run through the end of the year, with a sale or spin-off among the options on the table.",
+    "Arkane, based in Lyon and founded in 1999, makes the Dishonored series and Deathloop. Bethesda acquired it in 2010. The Lyon team is working on Marvel's Blade, announced in 2023, which has no confirmed release window.",
+    "Gadgets 360 notes that the studio could face closure if Xbox cannot agree a deal with a buyer. This is a report on bids rather than a priced offer, so there is no price to verify, and readers should treat it as unconfirmed until Microsoft or the buyers say more."
+   ],
+   "url": "https://www.gadgets360.com/games/news/arkane-studios-offers-ubisoft-big-xbox-microsoft-12283458",
+   "section": "deals",
+   "scope": "deals",
+   "source": "Gadgets 360",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-11-04T14:08:02+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Gadgets 360",
+     "group": "ndtv",
+     "url": "https://www.gadgets360.com/games/news/arkane-studios-offers-ubisoft-big-xbox-microsoft-12283458"
     }
    ]
   }
@@ -717,79 +569,79 @@
    "name": "Indian Express",
    "section": "world",
    "status": "ok",
-   "count": 69
+   "count": 52
   },
   {
    "name": "NDTV",
    "section": "world",
    "status": "ok",
-   "count": 7
+   "count": 20
   },
   {
    "name": "The Hindu",
    "section": "world",
    "status": "ok",
-   "count": 6
+   "count": 60
   },
   {
    "name": "Times of India",
    "section": "world",
    "status": "ok",
-   "count": 6
+   "count": 20
   },
   {
    "name": "BBC News",
    "section": "world",
    "status": "ok",
-   "count": 13
+   "count": 16
   },
   {
    "name": "The Guardian",
    "section": "world",
    "status": "ok",
-   "count": 31
+   "count": 33
   },
   {
    "name": "TechCrunch",
    "section": "technology",
    "status": "ok",
-   "count": 14
+   "count": 16
   },
   {
    "name": "The Verge",
    "section": "technology",
    "status": "ok",
-   "count": 5
+   "count": 10
   },
   {
    "name": "BBC News",
    "section": "technology",
    "status": "ok",
-   "count": 6
+   "count": 7
   },
   {
    "name": "Indian Express",
    "section": "business",
    "status": "ok",
-   "count": 15
+   "count": 16
   },
   {
    "name": "BBC News",
    "section": "business",
    "status": "ok",
-   "count": 6
+   "count": 21
   },
   {
    "name": "Economic Times",
    "section": "business",
    "status": "ok",
-   "count": 50
+   "count": 47
   },
   {
    "name": "BBC Sport",
    "section": "formula-one",
    "status": "ok",
-   "count": 9
+   "count": 4
   },
   {
    "name": "Autosport",
@@ -801,19 +653,19 @@
    "name": "BBC Sport",
    "section": "sport",
    "status": "ok",
-   "count": 50
+   "count": 44
   },
   {
    "name": "Indian Express",
    "section": "sport",
    "status": "ok",
-   "count": 46
+   "count": 44
   },
   {
    "name": "Gadgets 360",
    "section": "deals",
    "status": "ok",
-   "count": 7
+   "count": 5
   },
   {
    "name": "Indian Express",
