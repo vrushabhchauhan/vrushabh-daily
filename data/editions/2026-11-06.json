@@ -1,0 +1,723 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-11-06",
+ "generatedAt": "2026-11-06T02:30:00+00:00",
+ "timezone": "Asia/Kolkata",
+ "windowHours": 48,
+ "primaryWindowHours": 24,
+ "summaryMode": "original-articles",
+ "localLimit": 1,
+ "stories": [
+  {
+   "id": "adb3875b04d439409ea1",
+   "title": "Tech stocks plunge as midterm results stoke fears of an AI slowdown",
+   "deck": "A sharp sell-off wiped trillions off US technology shares after Democratic election wins raised the prospect of tougher scrutiny of data centres and AI spending.",
+   "summary": [
+    "Technology shares suffered one of their worst days in years on Thursday, as investors reacted to the US midterm elections by questioning how fast the artificial intelligence boom can keep growing. The BBC reported that roughly $2.5 trillion was erased from market value, while the Indian Express put the figure above $2.2 trillion if the day's trend held.",
+    "The immediate trigger was political. Democrats won seats in several states that host large data-centre projects, and some had campaigned on slowing AI expansion and restricting new facilities. The BBC said the governor-elect of Texas has pledged a moratorium on data-centre construction, and that Senator Bernie Sanders has called for a national pause. Both publications describe the selling as a reaction to expected policy, not to any change in company earnings.",
+    "The numbers differ between reports because markets were moving as they were written. The BBC cited a Nasdaq Composite fall of more than 5.5 percent and a 4.4 percent drop in the S&P 500, with Nvidia down over 9 percent, about $400 billion of value. The Indian Express, reporting earlier in the session, recorded a 3.2 percent fall in the S&P 500, a 2.15 percent fall in the Dow and a near 11 percent drop in the Philadelphia Semiconductor Index. It also noted that chipmaker Qualcomm slid 13.5 percent after missing sales estimates.",
+    "The shock spread across Asia. According to the BBC, Japan's Nikkei 225 fell 6 percent, with memory-chip maker Kioxia down more than 12 percent, while South Korea's Kospi dropped over 8.5 percent and trading was briefly halted.",
+    "Two themes stand out. First, the 'magnificent seven' large technology companies lost about a trillion dollars in a single day, according to the BBC. Second, the Indian Express quoted a Cleveland Fed official, Beth Hammack, hinting that interest-rate rises could still come, which added to the nervousness. Whether the fall is a brief correction or the start of a longer reassessment will depend on how quickly the new politicians turn their campaign promises into rules."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+   "section": "business",
+   "scope": "business",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-06T01:44:03+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo"
+    },
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/business/market/wall-street-nasdaq-ai-stocks-selloff-us-midterm-elections-10952559/"
+    }
+   ]
+  },
+  {
+   "id": "2a2dee1e1f0d522c44b4",
+   "title": "The New York Times is reported to be in talks to buy Letterboxd for about $330 million",
+   "deck": "The film-lovers' social network could join the Times' growing stable of digital acquisitions, if exclusive negotiations succeed.",
+   "summary": [
+    "The New York Times Company is in exclusive talks to acquire Letterboxd, the social network where film fans log and review movies, for roughly $330 million. The Verge and TechCrunch both relayed the report, which originated with the Times itself. Neither the Times spokesperson, Charlie Stadtlander, nor Letterboxd's parent company, Tiny Ltd., commented on the deal. It has not been announced, so details could still change.",
+    "According to the account carried by The Verge, Letterboxd's co-founders could stay in charge, and the service would probably remain a standalone product for the foreseeable future. The Times is said to plan to bring its advertising technology to the platform, which suggests the purchase is partly a play for a young, engaged audience that advertisers want to reach.",
+    "The report adds colour on how the deal might compare with the paper's earlier purchases. The Times bought the word game Wordle for a price in the low seven figures, and the sports outlet The Athletic for $550 million. At about $330 million, Letterboxd would sit between the two. The Verge also noted that Sony Pictures and A24 had earlier been rumoured as possible buyers, though nothing in the new report suggests either is still involved.",
+    "Letterboxd has grown fast in recent years as a gathering place for film enthusiasts. A sale would hand a legacy news publisher another consumer destination beyond its core journalism, following its approach of building a bundle of games, cooking, sport and recommendations. Readers should treat the figure as reported, not confirmed, until either company issues a statement."
+   ],
+   "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-06T00:07:18+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/"
+    },
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report"
+    }
+   ]
+  },
+  {
+   "id": "d7ab8a34c701ae8d1332",
+   "title": "Meta, Google and TikTok sue California over its under-16 social media law",
+   "deck": "The companies say AB 1709, due to take effect in 2027, breaches the First Amendment; the state attorney general says he will defend it.",
+   "summary": [
+    "Three of the biggest social media companies have taken California's attorney general to court to stop a new law that restricts how teenagers use their platforms. Meta, Google and TikTok filed separate lawsuits against Rob Bonta, aiming to block AB 1709 before it takes effect at the start of 2027, according to TechCrunch.",
+    "The law, signed by Governor Gavin Newsom in September, bars autoplay videos and personalised feeds for users under 16. Platforms that fail to comply face fines of up to $50,000 per user. Supporters present it as a way to give parents more control over what their children see online. Google, in its own filing, acknowledged that the law is meant to empower parents.",
+    "The companies argue it goes too far. Meta says AB 1709 violates the First Amendment and overrides its editorial choices about what to show. TikTok describes it as an unconstitutional limit on free expression. Those are the plaintiffs' legal claims, which a court has yet to test. Digital-safety experts quoted by TechCrunch add a separate worry: that such laws push companies towards stricter age checks, which can weaken privacy.",
+    "The case sits within a wider global push to limit young people's use of social media. Australia banned social media for under-16s in December 2025, and Meta has previously agreed to settlements of up to $18 billion over child-safety claims brought by 29 US states. Bonta's office has said it is committed to defending the law, so the dispute is likely to be decided in court well before the rules would start to apply."
+   ],
+   "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-06T00:01:38+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/"
+    }
+   ]
+  },
+  {
+   "id": "17b57e4655701f14b981",
+   "title": "Airbnb plans an AI travel agent for the first half of 2027",
+   "deck": "CEO Brian Chesky says the assistant will go beyond a chatbot, with an interface designed specifically for travel.",
+   "summary": [
+    "Airbnb says it will launch an AI travel agent in the first half of 2027, a plan disclosed in its third-quarter shareholder letter. The assistant is meant to help guests plan trips, compare options, manage bookings and get help during their stay, according to TechCrunch and The Verge.",
+    "Chief executive Brian Chesky argued that the experience will be 'much richer than a chatbot'. As The Verge describes it, the agent will build a custom interface in real time, with maps, photos and itineraries, instead of returning only lines of text. Airbnb also wants it to help travel companions weigh choices together before deciding.",
+    "The company is presenting the project as part of a broader shift. Airbnb calls AI 'the best thing to ever happen' to the business, and says its core strength, matching hosts and guests, suits the technology well. Chesky also made the case that travel needs its own interface instead of a general-purpose chat window, which hints at why Airbnb prefers to build its own product rather than rely on outside assistants.",
+    "There are few firm details yet. The company has not published pricing, supported languages or the exact launch date within the first half of 2027, and the descriptions come from Airbnb's own statements, not independent testing. For travellers, the practical question will be whether the agent saves real planning time or simply adds another layer between them and a booking."
+   ],
+   "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-05T22:40:55+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+    },
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings"
+    }
+   ]
+  },
+  {
+   "id": "9c6e67cc65141fc07bcb",
+   "title": "Dropbox buys Tigris Data for $350 million to power its AI storage push",
+   "deck": "The company's largest acquisition to date is meant to underpin DBX Agent Cloud, a storage platform for developers building AI agents.",
+   "summary": [
+    "Dropbox has agreed to acquire Tigris Data for $350 million, its biggest purchase so far, in a bid to strengthen the infrastructure behind its artificial intelligence products. TechCrunch reported that the deal is expected to close in the fourth quarter of 2026.",
+    "Tigris Data was founded by former Uber engineers and raised a $25 million Series A round last year. Dropbox says the technology will support DBX Agent Cloud, a new storage platform aimed at developers who are building AI models and agents. Dropbox also said it has no plans to cut jobs as a result of the acquisition.",
+    "The platform is already reaching customers. According to the report, DBX Agent Cloud has been rolled out to more than 70,000 teams, initially for Standard and Advanced customers in the United States, the United Kingdom and Australia. Broader availability is planned for 2027.",
+    "The purchase fits a pattern. Dropbox has previously bought several AI-focused companies as it tries to move from a file-syncing service towards a place where businesses store and manage the data that AI systems need. The company has not said how much of the price is cash, and the figures here are Dropbox's own. The question for investors will be whether storage built for AI agents can become a growth line as large as the consumer product that made Dropbox famous."
+   ],
+   "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-05T15:19:05+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
+    }
+   ]
+  },
+  {
+   "id": "2165b65a40c289be1bb3",
+   "title": "Perplexity launches 'Teammates', always-on AI agents for the workplace",
+   "deck": "The new product takes on OpenAI and Anthropic, but access requires the company's $200-a-month Max plan.",
+   "summary": [
+    "Perplexity has introduced Teammates, a set of always-on AI agents designed to carry out several work tasks at once. The Verge reported the launch, which puts the company in direct competition with OpenAI and Anthropic in the market for workplace AI.",
+    "Each Teammate can take on a different role and manage an ongoing project. Users follow progress through separate threads in the Perplexity app, and the agents can also collaborate and take instructions inside Slack. They tie into Perplexity Computer, which lets them complete tasks on a user's device, and they reuse skills and memory from other tools the person already uses.",
+    "Chief executive Aravind Srinivas has said the goal is for organisations to run hundreds of Teammates for every employee. That ambition comes with a price. The agents are available only on the Max subscription, which costs $200 a month, and The Verge noted that this makes Perplexity's version more expensive than comparable offerings, which it likened to OpenAI's Dots and Anthropic's Claude Duet.",
+    "Those comparisons come from the reporter's assessment and the company's marketing, not from independent testing. Always-on agents raise familiar questions about reliability, cost control and what data they can see. Whether Perplexity's mix of research strength and a premium price can win business customers will depend on how well the agents work in real offices."
+   ],
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-11-05T22:26:50+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work"
+    }
+   ]
+  },
+  {
+   "id": "b86f7c45dcb3e5423ed2",
+   "title": "Claude gets a Personal Finance tool that reads your bank accounts",
+   "deck": "Anthropic's beta lets US subscribers connect accounts through Plaid and ask questions about spending, but it cannot move money.",
+   "summary": [
+    "Anthropic has added a Personal Finance feature to Claude, letting users connect bank and card accounts and ask questions about their money in plain language. TechCrunch reported the announcement, made on Thursday. The feature is a beta for Pro, Max and Ultra subscribers in the United States.",
+    "Accounts are linked through Plaid, a service that securely connects apps to banks. Once connected, Claude can analyse spending, flag duplicate charges and unexpected fees, and explain terms such as APR. Access is read-only: the assistant cannot manage money, make payments or invest on a user's behalf.",
+    "Anthropic says conversations in the tool are not used to train its models. That is the company's own assurance and has not been independently verified. The launch follows similar personal-finance features that OpenAI introduced for ChatGPT in May 2026, so the two leading AI assistants now compete over a very personal kind of data.",
+    "For users, the appeal is convenience: asking a question in everyday language instead of searching through statements. The trade-off is handing a chatbot a detailed view of one's finances, and the limited US launch means Indian users cannot try it yet. Anyone who does should check what permissions they grant and how to disconnect accounts, and should treat the answers as information to verify, not advice."
+   ],
+   "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-05T18:00:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+    }
+   ]
+  },
+  {
+   "id": "2a8256897722920e0cf4",
+   "title": "OpenAI's Greg Brockman says the company could be ready to list in 2027",
+   "deck": "Speaking at a Wall Street Journal conference, the president credited an enterprise push for a 70 percent jump in annualised revenue.",
+   "summary": [
+    "OpenAI could be ready for an initial public offering in 2027, according to company president Greg Brockman. He made the remark on Wednesday at a Wall Street Journal technology conference, TechCrunch reported. He gave no firm date, and said only that the company could be prepared by then.",
+    "Brockman used the appearance to stress business momentum. He said OpenAI's annualised revenue grew 70 percent in the third quarter, and that most of its revenue now comes from enterprise customers, up from only about 30 percent before. Those figures are the company's own and were not audited or independently confirmed.",
+    "The enterprise market is where rival Anthropic had already made progress, particularly in tools that write software through autonomous agents. Brockman admitted that the first two quarters of 2026 were 'pretty rough' for OpenAI, but said ongoing investments, rather than any single event in the third quarter, explained the improvement. He also expressed high confidence in the business.",
+    "The timing is notable. His comments came on a day when technology shares were falling over worries about AI spending and data-centre politics, as described elsewhere in this edition. A listing would give the public its first audited look at the economics of a company that has raised huge sums to build computing capacity. For now, 'IPO ready' signals ambition, not a filing."
+   ],
+   "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-05T18:02:27+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
+    }
+   ]
+  },
+  {
+   "id": "f7d967ca858156343ed8",
+   "title": "Adani Ports agrees to buy European storage operator Evos in a Rs 27,200 crore deal",
+   "deck": "The acquisition of eight terminals would take the port group to 28 ports in 10 countries, financed by debt.",
+   "summary": [
+    "Adani Ports and Special Economic Zone (APSEZ) has agreed to acquire Evos, Europe's second-largest independent liquid-storage operator, for €2.56 billion, about Rs 27,200 crore, the Indian Express reported. Evos is being sold by Igneo Infrastructure Partners.",
+    "The deal covers eight terminals in the Netherlands, Germany, Spain, Belgium and Malta. According to the report, Evos earned €392 million in revenue and €219 million in earnings before interest, tax, depreciation and amortisation in 2025, a margin of 56 percent. Its terminals are about 99 percent occupied under long-term customer contracts. The purchase values Evos's equity at €1.18 billion, which works out to about 11.7 times EBITDA.",
+    "APSEZ plans to fund the purchase with debt. Japanese bank MUFG is underwriting up to €2.8 billion. Regulatory approvals will begin immediately. After completion, the group's network would span 28 ports across 10 countries.",
+    "Managing director Karan Adani called the acquisition a milestone towards the group's goal of handling one billion tonnes of cargo, and said it reduces dependence on a single geography and positions the company in major European energy hubs. Those are the company's own statements of intent. Investors will likely focus on how a debt-funded deal of this size affects the balance sheet, and on whether European approvals arrive without conditions."
+   ],
+   "url": "https://indianexpress.com/article/business/adani-ports-evos-acquisition-rs-27200-crore-10952091/",
+   "section": "business",
+   "scope": "business",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-05T11:20:35+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/business/adani-ports-evos-acquisition-rs-27200-crore-10952091/"
+    }
+   ]
+  },
+  {
+   "id": "ed6dd3fd9548fcb0704b",
+   "title": "Bank of England raises interest rates to 4%, its first increase in over three years",
+   "deck": "Eight of nine committee members backed the rise, driven by oil-linked inflation; Governor Bailey left the door open to more.",
+   "summary": [
+    "The Bank of England has raised its main interest rate from 3.75 percent to 4 percent, the first increase in more than three years. The BBC reported that eight of the nine members of the Monetary Policy Committee voted for the rise. Most analysts had expected the move.",
+    "The Bank blamed inflation pressure from high global oil prices. Inflation is currently 3.5 percent, and the Bank expects it to peak at 4.9 percent next year. In an adverse scenario, it warned, prices could rise as much as 6.2 percent. The Bank's assessment is that inflation has not yet spread widely through the economy.",
+    "Governor Andrew Bailey signalled that further increases are possible, depending on events in the Middle East. He said progress there would be needed to stabilise rates, which makes the future path of borrowing costs uncertain.",
+    "The effect on households will be uneven. Higher rates raise borrowing costs for mortgages and loans, but people on fixed-rate deals are unaffected for now. The BBC estimated that about 510,000 holders of tracker mortgages face an increase of around £31 a month. For Indian readers, the decision matters mainly through currency and global-markets sentiment, as the pound has recently climbed to its highest since the Brexit referendum, according to a separate BBC report."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo",
+   "section": "business",
+   "scope": "business",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-05T17:09:55+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo"
+    }
+   ]
+  },
+  {
+   "id": "52f79217b0692612ea41",
+   "title": "Kashmir's local militants are down to single digits, says police chief",
+   "deck": "IG Sujit Kumar links the militancy to drug trafficking and says an exact count is impossible to give.",
+   "summary": [
+    "The number of active local militants in Kashmir has fallen to single digits, Inspector General of Police Sujit Kumar has said. He added that giving an exact figure is difficult because militants are constantly on the move. The statement was reported by the Indian Express and The Hindu, which quoted him as saying only one local militant is currently active, though the threat has not gone.",
+    "According to the Indian Express, that militant is linked to attacks in Anantnag and Kulgam and is identified as 22-year-old Mohammad Lateef Bhat. Kumar said suspected foreign militants are helping local fighters. These are police assessments, and the numbers cannot be independently checked.",
+    "The IG tied militancy to the narcotics trade, saying a significant portion of drug money directly fuels or supports terrorism. Jammu and Kashmir Police reported 1,651 drug-trade cases this year and more than 1,900 arrests. Officials seized over 1,700 kilograms of contraband, recovered about one crore rupees in cash, and froze 567 bank accounts linked to the trade.",
+    "Kumar also warned that threats remain, citing the regular risk of improvised explosive devices along the national highway, where security rules reflect lessons from earlier attacks. A reduction in local recruitment, if the claim holds, would be a notable change, but the police themselves caution that the picture is fluid and that drug networks give militancy a source of funds."
+   ],
+   "url": "https://indianexpress.com/article/india/jammu-kashmir-militancy-drug-terrorism-nexus-jk-police-sujit-kumar-10952680/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-06T00:14:48+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/jammu-kashmir-militancy-drug-terrorism-nexus-jk-police-sujit-kumar-10952680/"
+    },
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/national/article-71670876"
+    }
+   ]
+  },
+  {
+   "id": "0587bb4d316350ed1c28",
+   "title": "Nepal's prime minister to make his first bilateral visit to India on 22 November",
+   "deck": "Balendra Shah accepted Prime Minister Modi's invitation after talks with Foreign Secretary Vikram Misri in Kathmandu.",
+   "summary": [
+    "Nepal's Prime Minister, Balendra Shah, will visit India from 22 November, his first bilateral trip abroad since taking office in March. The Indian Express reported that Shah had earlier decided against international travel during his first year, which makes the visit a notable shift.",
+    "The announcement followed a courtesy call by Indian Foreign Secretary Vikram Misri in Kathmandu, during which he conveyed Prime Minister Narendra Modi's invitation. Misri also held talks with Nepal's Foreign Minister, Amrit Bahadur Rai, and met several Nepali ministers on cooperation in water resources, energy, trade and aviation.",
+    "Shah thanked India and Modi for being the first to respond when flash floods struck Nepal in August. He said he wants the visit to be 'result-oriented'. The report is based on statements from Shah and Indian officials, which describe the talks in positive terms and give no specifics about agreements that might be signed.",
+    "India and Nepal share an open border and deep economic links, and Nepal depends on India for fuel, trade routes and electricity exchange. A first visit to Delhi is a traditional way for a new Nepali leader to set the tone of the relationship. Watch for announcements on power trade, hydropower projects and air routes, areas officials flagged in this week's meetings."
+   ],
+   "url": "https://indianexpress.com/article/india/nepal-pm-balendra-shah-india-november-22-visit-10952770/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-06T00:05:50+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/nepal-pm-balendra-shah-india-november-22-visit-10952770/"
+    }
+   ]
+  },
+  {
+   "id": "611b811f8282fd92f90e",
+   "title": "Home Ministry eases passport and visa rules for some minority migrants and Nepal–Bhutan travel",
+   "deck": "An amendment order exempts certain long-staying migrants from passport requirements and streamlines identification rules for travellers from neighbouring countries.",
+   "summary": [
+    "India's Home Ministry has relaxed passport and visa requirements for certain foreign nationals, the Indian Express reported, citing an amendment order. The changes cover members of the Hindu, Sikh, Buddhist, Jain, Parsi and Christian communities from Afghanistan, Bangladesh and Pakistan who entered India on or before 31 December 2024.",
+    "The report also describes a narrower exemption for Pakistani nationals who entered on or before 31 December 2009. They are excused from passport renewal if they lack a Pakistani national identity card, but only if they did not marry in Pakistan or acquire property there, left Indian-citizen family members behind in Pakistan, and have no adverse report from police or security agencies.",
+    "The amendment also streamlines travel and identification rules for citizens of Nepal and Bhutan moving between those countries and India. The ministry's stated aim is to improve convenience. The text of the order and its full eligibility conditions should be checked in the official notification, because the newspaper's summary may not capture every detail.",
+    "For affected families, the practical gain is relief from paperwork that can leave long-term residents in legal limbo. Supporters see it as a humane fix; critics could question the religious basis of the eligibility categories, though this report does not record reactions. Expect clarifications from state governments and immigration offices on how the exemption will be applied."
+   ],
+   "url": "https://indianexpress.com/article/india/india-passport-visa-rules-refugees-2026-exemption-10952757/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-06T00:14:25+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/india-passport-visa-rules-refugees-2026-exemption-10952757/"
+    }
+   ]
+  },
+  {
+   "id": "8a9d4265dcdf734d8601",
+   "title": "Serious adverse events linked to medical devices nearly triple since 2020, data shows",
+   "deck": "Figures released for the first time under a Central Information Commission order show a sharp rise, with few cases passed on to regulators.",
+   "summary": [
+    "Reports of serious problems caused by medical devices in India have nearly tripled in five years, according to data released for the first time by the Indian Pharmacopoeia Commission (IPC). The Indian Express obtained the figures under the Right to Information Act after a Central Information Commission order of 10 September.",
+    "The data show serious adverse events rising from 808 in 2020 to 2,176 in 2025, for a total of 9,373 since 2020. The IPC has logged 556 reports so far in 2026. Serious events include life-threatening incidents and those that prolong hospital stays. Separately, the commission recorded 14,584 medical-device adverse events in 2024–25.",
+    "Only 22 of those cases were forwarded to the Central Drugs Standard Control Organisation, the national regulator. The report notes that the IPC had argued against disclosure on grounds of vendors' commercial confidence. The newspaper recalls that in 2018 coronary stents made by Abbott accounted for over half of such entries, a pattern examined in the international Implant Files investigation.",
+    "A rise in reports can mean more harm, better reporting, or both, and the data alone cannot say which. India's materiovigilance programme only began in 2015, so awareness among hospitals may still be growing. Still, the gap between thousands of reports and a few dozen escalated cases raises questions about how often warning signs reach those who can act on them."
+   ],
+   "url": "https://indianexpress.com/article/india/rti-act-medical-device-adverse-events-jump-10952756/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-06T00:10:34+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/rti-act-medical-device-adverse-events-jump-10952756/"
+    }
+   ]
+  },
+  {
+   "id": "b22a3fbcabf5df791624",
+   "title": "California governor commutes the sentences of all 548 people on death row",
+   "deck": "Gavin Newsom turned every death sentence into life without parole, calling state killing incompatible with California's values.",
+   "summary": [
+    "California Governor Gavin Newsom has commuted the death sentences of all 548 people on the state's death row, converting them into life sentences without parole. The BBC reported the move, which uses his constitutional clemency powers.",
+    "The effect is largely symbolic in the short term. California has not executed anyone since 2006, and only 13 people have been put to death since the penalty returned in 1978. Newsom said that 'state-sanctioned killing is incompatible with California's values'. Supporters, such as the ACLU's Anthony D. Romero, called it a step away from an inhumane system, and the report said it could save millions in court costs each year.",
+    "Critics argue the governor has overstepped. Los Angeles County's top prosecutor, Nathan Hochman, said only voters or the legislature can abolish the death penalty. The BBC noted that the law remains on the books and that voters have twice rejected ballot measures to end it.",
+    "The decision lands as Newsom is widely discussed as a possible 2028 presidential candidate, a political context that will shape how both sides read it. California has historically held the largest death-row population in the United States, so the step is among the broadest ever taken by a US governor. Legal challenges are possible, and the question of full abolition remains with lawmakers and voters."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-05T23:09:33+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo"
+    }
+   ]
+  },
+  {
+   "id": "58baebef2c52a55d41f2",
+   "title": "Paraguay's president resigns after a bank collapse freezes millions of savings",
+   "deck": "Santiago Peña quit ahead of impeachment, denying wrongdoing, after Ueno Bank failed and its customers were locked out of their money.",
+   "summary": [
+    "Paraguay's president, Santiago Peña, has resigned, bringing to an end a political crisis set off by the collapse of Ueno Bank. The Guardian reported that his departure came as impeachment proceedings gathered support from the opposition and parts of his own Colorado party. His term ran to 2028.",
+    "Ueno Bank reportedly served about 60 percent of Paraguay's adult population, and the Guardian said deposits belonging to around three million customers were frozen. Hundreds of thousands of people were left without access to money for essentials. The bank also held between $800 million and $850 million in deposits from state and pension entities.",
+    "Peña's government had authorised the bank to expand sharply before it failed, according to the report. He previously held shares in Ueno Bank, which raised conflict-of-interest concerns. Peña denies any wrongdoing and has called the accusations a 'false media campaign'. Opposition senator Rafael Filizzola called the affair the 'biggest fraud' tied to political power; that is a political judgment, not a finding.",
+    "Pressure rose further when Horacio Cartes, a powerful political ally, publicly backed impeachment on the morning of the resignation. Investigations will need to determine who knew what about the bank's condition. In the meantime, the immediate priority is getting frozen savings back to ordinary depositors and choosing a successor."
+   ],
+   "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+   "section": "world",
+   "scope": "world",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-11-05T18:48:07+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
+    }
+   ]
+  },
+  {
+   "id": "7a233fca9b7c70a5b96c",
+   "title": "French strikes draw hundreds of thousands over wages and the cost of living",
+   "deck": "The interior ministry counted 600,000 marchers; the CGT union said 1.57 million, as the prime minister called a social conference.",
+   "summary": [
+    "Unions across France brought out large crowds on Thursday in protests and strikes over pay, the cost of living and public services. The BBC reported that the interior ministry estimated 600,000 people took part nationwide, while the CGT union put the figure at 1.57 million. Such counts often differ widely, and neither can be independently verified.",
+    "The action disrupted schools, hospitals and public transport. Official figures cited by the BBC showed that 9.89 percent of civil servants were on strike. Sophie Binet, who leads the CGT, was among the union leaders at the Paris march, joined by students demanding better conditions in schools.",
+    "The demands focus on wages. France's minimum wage is €12.31 an hour, and Marylise Léon, head of the more moderate CFDT union, called for a net increase of €100 a month. Prime Minister Sébastien Lecornu has called a social conference for 6 November to discuss the issues, which is the next test of whether the government will make concessions.",
+    "The BBC recalled earlier protests during which more than 2,000 stores were vandalised, a reminder of how quickly such days can turn tense. For now the unions are pressing the case that prices have outpaced pay. The talks on Friday will show whether the government is willing to offer anything beyond a hearing."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-05T17:59:53+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"
+    }
+   ]
+  },
+  {
+   "id": "6250cfea32e61d604858",
+   "title": "Alan Jones, Williams' first Formula One world champion, dies aged 80",
+   "deck": "The Australian won the 1980 title with the team and 12 grands prix in total; Sir Patrick Head called him a 'fantastic battler'.",
+   "summary": [
+    "Alan Jones, the 1980 Formula One world champion, has died at the age of 80 after a short illness, Autosport reported. Born in Melbourne in 1946, he won 12 grands prix and became the first driver to take a title with the Williams team.",
+    "His 1980 championship season included five race wins. It came from a close partnership with team founders Frank Williams and Patrick Head. Sir Patrick described him as highly skilled and a 'fantastic battler' on track. Williams said his legacy will live on and sent condolences to his family.",
+    "Jones surprised the sport when he decided to quit at the end of 1981. That opened the door for Keke Rosberg to join Williams, where the Finn won the 1982 crown. Away from racing, Jones was awarded an MBE for services to motor racing in 1980 and was inducted into the Sport Australia Hall of Fame in 1989.",
+    "He is survived by his wife and six children. His death comes days before the Sao Paulo Grand Prix."
+   ],
+   "url": "https://www.autosport.com/f1/news/1980-f1-world-champion-alan-jones-dies-aged-80/10871644/",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-11-05T09:52:25+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/1980-f1-world-champion-alan-jones-dies-aged-80/10871644/"
+    }
+   ]
+  },
+  {
+   "id": "e583aa6033fdfe38d6ae",
+   "title": "Mercedes can clinch the constructors' title at the Brazilian Grand Prix",
+   "deck": "The Silver Arrows lead Ferrari by 126 points with 12 wins from 19 races; a set of finishing combinations would seal a ninth crown.",
+   "summary": [
+    "Mercedes could win the Formula One constructors' championship as soon as this weekend's Brazilian Grand Prix, according to Autosport's calculations. It would be the team's ninth title. Mercedes has won 12 of 19 races this season and leads Ferrari, the only team that can still catch it mathematically, by 126 points.",
+    "To seal the crown in Sao Paulo, Mercedes must outscore Ferrari by at least three points. Several results would do it: a 1-2, 1-3 or 1-4 finish for the two Mercedes cars as long as Ferrari does not win, or 2-3 and 2-4 finishes if Ferrari does not win. The combinations in between depend on how the Ferraris finish.",
+    "Autosport points out that Mercedes has beaten Ferrari by three points or more at 10 of the season's 19 races, so the title is possible but far from guaranteed in Brazil. Even if it slips, the lead is so large that the championship should follow soon after.",
+    "The report describes 2026 as the first season Mercedes has won without Lewis Hamilton since 1955, with Kimi Antonelli taking over as the team's leading figure. Hamilton now races for Ferrari, which makes the remaining weekends a head-to-head with his former employer. The race lights go out on Sunday."
+   ],
+   "url": "https://www.autosport.com/f1/news/how-mercedes-can-win-the-f1-world-constructors-title-in-brazil/10871661/",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-11-05T17:37:33+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/how-mercedes-can-win-the-f1-world-constructors-title-in-brazil/10871661/"
+    }
+   ]
+  },
+  {
+   "id": "d9e47f618d71890f7044",
+   "title": "India come from behind to beat Japan 4-1 and defend the Asian Champions Trophy",
+   "deck": "A full-press tactic turned a 1-0 deficit into a win at Mohali, India's sixth title in the tournament.",
+   "summary": [
+    "India defeated Japan 4-1 in the final of the Asian Champions Trophy at the Balbir Singh Senior International Stadium in Mohali, winning the title for a sixth time, the Indian Express reported. The hosts retained the trophy after a slow start.",
+    "Japan struck first. Kazumasa Matsumoto scored in the third minute and the visitors defended tightly, using effective man-to-man marking. India found their way back after the interval. Shilanand Lakra equalised in the 42nd minute, and Dilpreet Singh put India ahead shortly afterwards. Jugraj Singh then converted a penalty corner, and Vivek Sagar Prasad scored the fourth to close the game.",
+    "The turning point, according to the report, was a switch to a full press once the game seemed to be slipping away. India had 11 entries into the attacking circle to Japan's six, a measure of how much the balance shifted. The match also served as preparation for the coming Olympic cycle.",
+    "The account comes from a single publisher's match report, but the scoreline and scorers are straightforward. For India's coach, Craig Fulton, the comeback is encouraging because it shows the team can rewrite a game plan under pressure."
+   ],
+   "url": "https://indianexpress.com/article/sports/hockey/india-beat-japan-asian-champions-trophy-final-comeback-6th-title-10952568/",
+   "section": "sport",
+   "scope": "sport",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-05T18:03:32+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/sports/hockey/india-beat-japan-asian-champions-trophy-final-comeback-6th-title-10952568/"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "name": "Indian Express",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "The Hindu",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Times of India",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC News",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "The Guardian",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "TechCrunch",
+   "section": "technology",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "The Verge",
+   "section": "technology",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC News",
+   "section": "technology",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Indian Express",
+   "section": "business",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC News",
+   "section": "business",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Economic Times",
+   "section": "business",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC Sport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Autosport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC Sport",
+   "section": "sport",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Indian Express",
+   "section": "sport",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "NDTV",
+   "section": "world",
+   "status": "unavailable",
+   "count": 0
+  },
+  {
+   "name": "Gadgets 360",
+   "section": "deals",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Indian Express",
+   "section": "local",
+   "status": "ok",
+   "count": 0
+  }
+ ]
+}
