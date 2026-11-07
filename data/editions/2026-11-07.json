@@ -1,0 +1,815 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-11-07",
+ "generatedAt": "2026-11-07T02:10:00+00:00",
+ "timezone": "Asia/Kolkata",
+ "windowHours": 48,
+ "primaryWindowHours": 24,
+ "summaryMode": "original-articles",
+ "localLimit": 1,
+ "stories": [
+  {
+   "id": "8a4d90c4aa8b2d5c60f2",
+   "title": "Tesla will stop making the Cybertruck in 2027",
+   "deck": "Elon Musk says Tesla will end Cybertruck production next year, handing the factory space to its Cybercab robotaxi.",
+   "summary": [
+    "Tesla will stop making the Cybertruck in 2027, according to chief executive Elon Musk, who said in a post on X that the freed-up factory space will go toward building more two-seat Cybercab robotaxis.",
+    "Musk's post did not make clear whether production would end entirely or move elsewhere, the BBC noted. However, the truck's lead engineer, Wes Morrill, appeared to confirm a discontinuation, writing that the Cybertruck \"lives on through Cybercab.\" Musk separately told a fan that the existing fleet would be on the road for a long time. Tesla's shares rose 4.7 percent on Friday, the BBC reported.",
+    "The truck has long fallen short of its billing. Musk predicted annual sales of 250,000 when production began in 2023, yet TechCrunch says Tesla has sold only tens of thousands over three years. Kelley Blue Book figures cited by the BBC put 2025 sales at 20,237, down from 38,965 a year earlier. The price also drifted from the sub-$40,000 figure promised in 2019 to about $61,000 at launch, and the BBC says the top Cyberbeast model now costs $102,000.",
+    "The move fits Tesla's pivot toward AI and robotics. TechCrunch reports Cybercabs have operated in Austin for about two months with no major incidents, with Dallas planned later this month. Earlier this year Tesla also ended the Model S and Model X to make room for Optimus humanoid robots."
+   ],
+   "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-06T11:50:10+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/"
+    },
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.com/news/articles/cq1j33w7d232o"
+    }
+   ]
+  },
+  {
+   "id": "314bd089789a099591d7",
+   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+   "deck": "OpenAI has reportedly secured $11 billion of a larger round at a $1.25 trillion valuation, well short of its earlier target.",
+   "summary": [
+    "OpenAI has reportedly raised $11 billion so far in a new funding round that values the company at $1.25 trillion, according to Bloomberg, which cited unnamed people familiar with the matter. TechCrunch, summarising the report, said it had asked OpenAI for comment and had not yet heard back.",
+    "Bloomberg said the $11 billion is only part of a bigger round that has not closed. A source told the outlet it should wrap up within weeks and could total about $20 billion. That is well below the $30 billion Bloomberg reported OpenAI was seeking in late September, when the talk was of a $1.4 trillion valuation.",
+    "The news came hours after a separate Bloomberg report that prospective buyers in rival Anthropic's planned stock market listing are pushing for a much lower valuation than the company had aimed for. Some think it could be as low as $1.1 trillion, compared with the roughly $2 trillion expected about a month ago, the report said.",
+    "OpenAI had hinted it would go public this year but delayed; TechCrunch notes expectations of a listing next year. The outlet described the AI market as precarious, saying the Democratic win in the US midterms and strongly negative voter views of data centres have unsettled investors who expect possible regulation. That characterisation is TechCrunch's own reading of market sentiment."
+   ],
+   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-06T22:53:46+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+    }
+   ]
+  },
+  {
+   "id": "d275be2a1267c8e7312f",
+   "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+   "deck": "Card-spending data from Ramp suggests business spending on AI has flattened even as usage keeps rising, raising questions for Anthropic's IPO.",
+   "summary": [
+    "Companies are using more AI but not spending more on it, according to a new report from the spending platform Ramp. Its data shows spending on AI tokens grew just 1.5 percent across August and September, compared with 42 percent growth in July alone. Token volumes kept climbing.",
+    "Ramp lead economist Ara Kharazian told TechCrunch the slowdown is not a demand problem. He pointed to price cuts: OpenAI halved API prices for two GPT-6 models in September, and Anthropic also cut prices, which it said in a filing trimmed revenue growth by about $600 million. He also cited cheaper rival and open models, and customers growing more disciplined by setting budgets and routing work to cheaper models.",
+    "Kharazian said nearly all AI spending comes from venture-backed tech firms, so a pause among the heaviest users, the top 1 percent, can stall overall revenue. He expressed doubt that sectors such as doctors' offices or car dealers will spend like heavy-using software firms. October saw a rebound, with token spend up 8.9 percent over a month.",
+    "The findings land as investors reassess AI valuations. Bloomberg reported Anthropic's potential IPO valuation has fallen from about $2 trillion to roughly $1.2 to $1.3 trillion, and that OpenAI trimmed its valuation target. Kharazian's view that the hypergrowth era may be ending is his own interpretation; new products could still revive spending."
+   ],
+   "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-06T15:54:47+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+    }
+   ]
+  },
+  {
+   "id": "35d583ecb9bdf6120f29",
+   "title": "EU charges TikTok with failing to protect users’ mental health",
+   "deck": "The European Commission's preliminary ruling says TikTok's recommendation algorithm fails to protect users from harmful content spirals; TikTok calls the findings inaccurate.",
+   "summary": [
+    "The European Commission has charged TikTok with failing to protect users' mental health, in a preliminary ruling issued on Friday under the Digital Services Act. Regulators said the platform's algorithm \"can be harmful\" and draws young and vulnerable people into repetitive content they struggle to escape.",
+    "Officials said the case concerns legal content: a single video may be harmless, but watching many on themes such as body image or isolation can fuel anxiety or worsen eating disorders. They said TikTok's safeguards were ineffective, noting that tapping \"not interested\" on a diet video still led to similar content. Tech policy chief Henna Virkkunen said the algorithm serves \"more of the same.\" The platform has 189 million EU users.",
+    "TikTok rejected the findings, saying the Commission made statements that were \"fundamentally inaccurate\" and distorted its design. It said its rules ban content promoting disordered eating and that over 79 million EU users used its filters in the first half of 2026.",
+    "The Molly Rose Foundation welcomed the ruling and urged UK regulator Ofcom to investigate. TikTok can now review the evidence and respond, and could avoid a fine by changing its recommender system. If the findings are upheld, the fine could reach 6 percent of global turnover. The Commission had earlier made preliminary findings against the app's addictive design."
+   ],
+   "url": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-11-06T15:17:08Z",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health"
+    }
+   ]
+  },
+  {
+   "id": "46e88a02e03424f2e4ee",
+   "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+   "deck": "Meta's Muse assistant can now build custom app-like pages called Spaces, such as planners and trackers, that update from connected apps.",
+   "summary": [
+    "Meta has added a feature called Spaces to Muse, its family of AI agents, letting users describe an idea in chat and have the assistant build a tracker, planner or project board. Meta says Spaces are rolling out to all Muse users.",
+    "TechCrunch describes them as breakout conversations focused on one goal, sitting in the app's sidebar. Examples include a vacation plan, a holiday gift tracker or a wedding planner. The Verge reports that if users connect outside services such as Gmail, Google Calendar, OpenTable or Notion, Muse can refresh details like prices and dates in the background. Users can tick off items, add notes and edit, and can pin a Space to the main tab or schedule when it appears, for instance a weekly planner on workdays and weekend plans on Saturday.",
+    "Meta chief executive Mark Zuckerberg said on X that he had built a barbecue game, an event tracker and a home-control dashboard. Meta is also exploring ways to share Spaces with other people, The Verge reports, and is bringing \"Active Memory\" and \"Active Focus\" abilities to Muse so it can recall relevant past information.",
+    "The launch follows Muse Voice, announced Thursday, which allows video chats with the agent. Zuckerberg said in October the agents had 10 million users in the US and Canada. Meta competes with similar assistants from OpenAI and SpaceXAI."
+   ],
+   "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-06T18:44:20+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+    },
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
+    }
+   ]
+  },
+  {
+   "id": "a71a5d2a71717a8e704d",
+   "title": "Sensex touches 80,000 in Bull run on Dhanteras, IT and banks lead rally",
+   "deck": "India's benchmark Sensex briefly crossed 80,000 on Dhanteras, helped by foreign buying and gains in IT and private bank shares.",
+   "summary": [
+    "India's BSE Sensex touched the 80,000 level in Friday trade on Dhanteras, the festival day ahead of Diwali, hitting an intraday high of 80,080.59. The index had closed at 79,310.01 the previous day and opened at 79,413.66, with a low of 79,016.05. At the time of reporting it was up more than 660 points.",
+    "The Indian Express attributed the rally to continued buying by foreign institutional investors. It noted the Sensex first reached the 80,000 mark on 3 July 2024, when it touched an intraday high of 80,074.",
+    "The broader Nifty rose over 142 points to a high of 24,702.60, against a previous close of 24,536.60. Top gainers on the NSE included Mahindra and Mahindra, Titan, ICICI Bank, HDFC Bank and NTPC, while Shriram Finance, Eicher Motors, Tata Motors Passenger Vehicles, Hindalco and Bharat Electronics were among the biggest losers.",
+    "By sector, information technology led, with the Nifty IT index up 1.32 percent even as technology shares sold off globally. Private banks were also firm, with the Nifty Private Bank index up 0.72 percent in the morning. Consumer durables, financial services and pharma rose by up to 0.38 percent. Metal stocks fell more than 1 percent, and chemicals and real estate shares also declined. These are intraday figures and may have changed by the close."
+   ],
+   "url": "https://indianexpress.com/article/business/market/bse-sensex-crosses-80000-dhanteras-nifty-fii-buying-top-gainers-10953160/",
+   "section": "business",
+   "scope": "business",
+   "source": "The Indian Express",
+   "sourceGroup": "other",
+   "publishedAt": "2026-11-06T07:54:21Z",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/business/market/bse-sensex-crosses-80000-dhanteras-nifty-fii-buying-top-gainers-10953160/"
+    }
+   ]
+  },
+  {
+   "id": "21e629dd6114cdcf0334",
+   "title": "Videocon’s Venugopal Dhoot declared bankrupt over Rs 12,668 crore SBI default",
+   "deck": "A Mumbai tribunal has declared Videocon's former promoter personally bankrupt over unpaid State Bank of India dues of Rs 12,668 crore.",
+   "summary": [
+    "The National Company Law Tribunal's Mumbai bench has declared Venugopal Dhoot, the ousted promoter of Videocon Industries, bankrupt. The order, passed on Thursday, covers dues of Rs 12,668 crore, including interest and penalty, owed to the State Bank of India. Dhoot had personally guaranteed loans given to Videocon Industries and Videocon Telecommunications, and the bank brought the petition.",
+    "The tribunal vested his estate in bankruptcy trustee Ashish Narayan, who will run it and share the proceeds among creditors. Dhoot has been told to hand over a statement of his financial position within seven days, according to the Times of India. The trustee must also publish a public notice inviting creditors to file claims.",
+    "The decision follows a long road. Videocon Industries went into insolvency proceedings in June 2018, and those were merged with cases of 12 other group firms in 2019. SBI began a separate personal insolvency process against Dhoot in April 2026. He then offered Rs 600 crore over 36 months, tied to a development project in Siliguri. The petition described that as only 0.42 per cent of the admitted dues.",
+    "The resolution professional found the offer depended on future approvals and cash flows that could not be verified, and it offered nothing upfront. Creditors rejected it and agreed to move to bankruptcy. The Times of India noted that Dhoot is among the most prominent individuals declared bankrupt under the decade-old Insolvency and Bankruptcy Code."
+   ],
+   "url": "https://indianexpress.com/article/business/nclt-declares-videocon-venugopal-dhoot-bankrupt-sbi-loan-default-10953265/",
+   "section": "business",
+   "scope": "business",
+   "source": "The Indian Express",
+   "sourceGroup": "other",
+   "publishedAt": "2026-11-06T08:17:22Z",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/business/nclt-declares-videocon-venugopal-dhoot-bankrupt-sbi-loan-default-10953265/"
+    },
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/ousted-videocon-promoter-dhoot-declared-bankrupt-over-dues-worth-rs-12668cr/articleshow/135620291.cms"
+    }
+   ]
+  },
+  {
+   "id": "a3b291d629fe8c261ce8",
+   "title": "Electric vehicle sales jump 45% to 3,54,625 units in October, led by e-two wheelers and burgeoning demand",
+   "deck": "Electric vehicle retail sales in India hit a record in October, with dealers saying supply, not demand, was the limit.",
+   "summary": [
+    "Electric vehicle sales in India rose about 45 per cent in October to 3,54,625 units, compared with 2,44,764 in the same month last year. The figures come from the Federation of Indian Automobile Dealers' Association (FADA), released on Friday. FADA described the month as a record for EV retail.",
+    "Electric two-wheelers led the way, with 2,24,064 units sold, up 48.49 per cent from 1,50,890. Their share of the market doubled to 9.7 per cent from 4.7 per cent a year earlier. Electric passenger vehicles grew 76.47 per cent to 37,049 units, a 7.3 per cent share against 3.5 per cent. Electric three-wheelers rose 24.76 per cent to 88,570, and electric commercial vehicles reached 4,492, up from 1,884.",
+    "FADA president Sai Giridhar said EVs now make up roughly 11.5 per cent of overall vehicle retail, against about 6 per cent a year ago. He said demand ran ahead of supply while petrol and diesel prices stayed high, and that availability had become the main constraint. In his view, improved driving ranges and prices now close to comparable petrol and diesel models have strengthened buyer interest.",
+    "Giridhar added that three-wheelers are now close to 63 per cent electric. He also said alternative fuels, including CNG, hybrids and electric, once again edged past petrol in the passenger vehicle mix. These comments are the association's own assessment of the market."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/renewables/electric-vehicle-sales-jump-45-to-354625-units-in-october-led-by-e-two-wheelers-and-burgeoning-demand/articleshow/135606221.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-06T11:49:23Z",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/renewables/electric-vehicle-sales-jump-45-to-354625-units-in-october-led-by-e-two-wheelers-and-burgeoning-demand/articleshow/135606221.cms"
+    }
+   ]
+  },
+  {
+   "id": "3d1a7c010b1f5c973bcc",
+   "title": "'E20 Actually Has Over 30% Ethanol': Karnataka Minister Cites Petrol Tests, Demands Consumer Relief Fund",
+   "deck": "Karnataka's consumer affairs minister claims petrol sold as E20 contains up to 31 per cent ethanol; state-run oil companies reject the findings and question the testing.",
+   "summary": [
+    "Karnataka's Consumer Affairs Minister, Rizwan Arshad, claimed on Friday that petrol sold as E20 in the state contains far more ethanol than the permitted 20 per cent. He said the state collected 63 samples and that laboratory tests showed Indian Oil at 31.2 per cent and HPCL at 30.5 per cent. He gave BPCL, Nayara and Shell as 26.5, 26.1 and 25.5 per cent. These figures are the minister's claims and are unverified.",
+    "Arshad demanded action against firms that over-blend, an 'E20 spoilage fund' to compensate owners of damaged vehicles, and mandatory display of ethanol content at pumps. He estimated a hidden consumer loss of about Rs 62,000 crore a year, based on his own assumptions, including a 10 per cent mileage loss.",
+    "Indian Oil, BPCL and HPCL rejected the claims. They said their E20 petrol meets the Bureau of Indian Standards specification and that the findings do not follow the prescribed sampling and testing procedure. They said the October samples were drawn without their representatives, and that they have not received retention samples or full reports. They also said the certificates cite a gas chromatography method without the dilution and reference steps the standard requires.",
+    "The companies also called the loss estimates unscientific, noting that millions of vehicles have run on E20 for over three years without widespread breakdowns. They asked Karnataka for its documentation and for joint retesting of counterpart samples."
+   ],
+   "url": "https://www.ndtv.com/india-news/e20-actually-has-over-30-ethanol-karnataka-minister-cites-petrol-tests-demands-relief-fund-for-consumers-12292948",
+   "section": "world",
+   "scope": "india",
+   "source": "NDTV",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-11-06T17:35:08Z",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/e20-actually-has-over-30-ethanol-karnataka-minister-cites-petrol-tests-demands-relief-fund-for-consumers-12292948"
+    },
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/oil-companies-reject-karnataka-ministers-30-ethanol-charge-on-e20-petrol-question-testing-method-12294591"
+    }
+   ]
+  },
+  {
+   "id": "b26692aa4252f1a6633f",
+   "title": "India Set to Join EU's 93.5 Billion Euro Horizon Europe Research Program",
+   "deck": "India and the European Union have finished negotiating India's association with the EU's 93.5 billion euro Horizon Europe research programme.",
+   "summary": [
+    "India and the European Union have concluded talks on India joining Horizon Europe, the EU's flagship research and innovation programme for 2021 to 2027, which has a budget of 93.5 billion euros. According to NDTV, the deal still needs to be signed and formalities completed, after which it should take effect in January 2027.",
+    "Once associated, Indian universities, research institutions, companies and scientists can use the programme's funding and join projects with European partners. Under its second pillar, covering areas such as health, artificial intelligence, digital technologies, advanced manufacturing, space, climate and energy, Indian organisations will be able to lead multinational projects.",
+    "Association generally lets outside countries bid for funding on broadly the same terms as EU members, but they must contribute money to the programme. NDTV says 23 non-EU countries are already associated, including the United Kingdom, Japan, South Korea, Canada and Switzerland. Talks with Australia have also concluded.",
+    "The timeline was quick. Exploratory talks began on 6 February 2026 and formal negotiations started on 17 July. The two sides have also renewed their 2001 science and technology cooperation agreement until 2030. NDTV's report suggests cooperation could be strongest in AI, semiconductors, advanced computing, clean energy and space, though that is an expectation rather than a settled plan."
+   ],
+   "url": "https://www.ndtv.com/india-news/india-set-to-join-eus-93-5-billion-euro-horizon-europe-research-program-12294575",
+   "section": "world",
+   "scope": "india",
+   "source": "NDTV",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-11-06T17:29:30Z",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/india-set-to-join-eus-93-5-billion-euro-horizon-europe-research-program-12294575"
+    }
+   ]
+  },
+  {
+   "id": "d355d5f8ba3684dadc9e",
+   "title": "18 unhappy MLAs, discontent spreading: Omar Abdullah’s Diwali weekend",
+   "deck": "A meeting between National Conference leaders and rebel legislators ended without settling the main demands, though Farooq Abdullah insisted the party is united.",
+   "summary": [
+    "Jammu and Kashmir's ruling National Conference faces unrest among its own legislators. On Friday morning, a group of MLAs met party president Farooq Abdullah at his Srinagar home. Chief Minister Omar Abdullah also attended. The Times of India reported that 15 of 25 rebel MLAs took part in a meeting lasting over two hours, citing sources. The Indian Express said 18 aggrieved MLAs had met separately a week earlier.",
+    "The discontent follows a cabinet reshuffle last month that added four new ministers. The rebels want long-serving ministers dropped, party promises kept, and action on complaints about the chief minister's adviser Nasir Aslam Wani and party treasurer Shammi Oberoi. The Times of India said the demands to replace all eight ministers and remove Wani remain unresolved.",
+    "According to sources quoted by the paper, the meeting agreed to set up consultative committees of legislators for each minister and a manifesto committee to track election promises. Sources also said Omar offered to resign several times and left the room at least three times before being persuaded to return. These accounts are unconfirmed.",
+    "Farooq Abdullah called the MLAs' concerns genuine and said some steps would come soon and others gradually. He rejected talk of a split, saying the party remains united and strong. One rebel told the paper that leaders had agreed to consider a reshuffle within a year. The Indian Express added that Srinagar MP Aga Syed Ruhullah Mehdi quit the party this week."
+   ],
+   "url": "https://indianexpress.com/article/india/national-conference-discontent-omar-abdullah-legislators-meet-farooq-10953072/",
+   "section": "world",
+   "scope": "india",
+   "source": "The Indian Express",
+   "sourceGroup": "other",
+   "publishedAt": "2026-11-06T06:17:58Z",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/national-conference-discontent-omar-abdullah-legislators-meet-farooq-10953072/"
+    },
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/how-abdullahs-managed-the-rebellion-farooq-calls-mlas-demands-genuine-omar-offers-to-resign/articleshow/135618815.cms"
+    }
+   ]
+  },
+  {
+   "id": "4312f2ccad3bf2ee00b1",
+   "title": "SC settles 60-yr Bhakra & Beas dispute between Punjab, Haryana and HP",
+   "deck": "The Supreme Court has approved a settlement ending a 60-year dispute over sharing power from the Bhakra-Nangal and Beas projects.",
+   "summary": [
+    "The Supreme Court on Friday approved a settlement, brokered with the help of Attorney General R Venkataramani, to a roughly 60-year dispute between Punjab, Haryana and Himachal Pradesh over electricity from the Bhakra-Nangal and Beas projects. The Times of India described it as a cashless arrangement.",
+    "Under the order, Punjab and Haryana must supply 598 million units of power a year to Himachal Pradesh during October to March for the next 20 years. The total arrears owed to Himachal come to about 11,973 million units. Himachal's liability toward project costs was set off against its pending power dues, which reduced its entitlement from around 13,000 million units.",
+    "The ruling gives effect to a 2011 Supreme Court decree, which declared Himachal entitled to 7.19 per cent of the power of the composite state of Punjab from Bhakra-Nangal, from 1 November 1966, and from the Beas project from when its units began producing. The decree had remained unimplemented, though Himachal filed its case in 1996.",
+    "A bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana said the court's directions are binding and must be followed without reservation. It said a decree pending for decades cannot be rendered fruitless by the unwillingness of the judgment debtors, meaning Punjab and Haryana."
+   ],
+   "url": "https://timesofindia.indiatimes.com/india/sc-settles-60-yr-bhakra-beas-dispute-between-punjab-haryana-and-hp/articleshow/135623755.cms",
+   "section": "world",
+   "scope": "india",
+   "source": "Times of India",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-07T00:35:56Z",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/sc-settles-60-yr-bhakra-beas-dispute-between-punjab-haryana-and-hp/articleshow/135623755.cms"
+    }
+   ]
+  },
+  {
+   "id": "8152263c52e1f0d1d240",
+   "title": "Businessman Kishore Biyani Charged In Rs 904-Crore SBI Fraud Case",
+   "deck": "India's CBI has opened a Rs 904-crore bank fraud case against Future Retail and its promoters; the allegations are unproven.",
+   "summary": [
+    "India's Central Bureau of Investigation has registered a case alleging a Rs 904.32-crore bank fraud involving Future Retail Limited and its promoters, Kishore Biyani and Rakesh Biyani. The FIR was filed on November 4 after a complaint by the State Bank of India. It also names unidentified public servants. No court has tested the allegations.",
+    "According to the bank's complaint, as reported, the company and its directors obtained large credit facilities from an SBI branch in Mumbai and a consortium of nine banks. The complaint alleges the money was not used for its stated purposes and was instead routed to related and connected companies, some of whose finances did not match the size of the transactions.",
+    "The complaint leans on a forensic audit by BDO India covering April 2017 to April 2022. It allegedly flagged accounting discrepancies, manipulated records, transactions passed through layers of companies and efforts to hide the true financial position. SBI classed the account as a non-performing asset in April 2021 and as fraud in March 2025.",
+    "Investigators searched several premises linked to the promoters and directors in Mumbai and reportedly seized documents. The CBI says it will trace where the funds ended up and establish the roles of private individuals and public servants. The charges include criminal conspiracy, cheating and offences under the Prevention of Corruption Act. The reports carried no response from the Biyanis."
+   ],
+   "url": "https://www.ndtv.com/india-news/future-retail-businessman-kishore-biyani-charged-in-rs-904-crore-sbi-fraud-case-12294140",
+   "section": "world",
+   "scope": "india",
+   "source": "NDTV",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-11-06T15:39:57Z",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/future-retail-businessman-kishore-biyani-charged-in-rs-904-crore-sbi-fraud-case-12294140"
+    },
+    {
+     "source": "The Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/cbi-files-case-against-biyanis-future-retail-in-rs-904-cr-fraud/articleshow/135623962.cms"
+    }
+   ]
+  },
+  {
+   "id": "1645dedb8b8ef9f93962",
+   "title": "Did all the murders happen in the small house on the terrace?",
+   "deck": "Police say seven members of one family were killed over two weeks in Bengaluru; the accused's account has yet to be fully verified.",
+   "summary": [
+    "Bengaluru police are investigating seven killings that they say were carried out between October 16 and 31, with the last two bodies disposed of on November 1 or 2. The accused is Indushekhar, a cab driver who also runs a YouTube channel. Police say the victims were his wife Sunita, her mother Roopavathi, Sunita's brother Shivakumar, his wife Divya and their seven-year-old son, and another brother, Shankar, with his wife Nalini. These are police claims; the case has not gone to trial.",
+    "Officers say the case surfaced after Nalini's mother filed a missing-persons complaint on November 3, when phones were off and homes were locked. Police tracked Indushekhar through technical inputs and stopped his car in the city. Nalini's family alleged police ignored an earlier approach on November 1; Commissioner Seemant Kumar Singh rejected that.",
+    "Officers say he cited years of friction with his wife's family and an October 14 visit as the trigger, and that he had planned it for over a year. He claims he used a grinder stone, but police say the method is unconfirmed until bodies are found.",
+    "The Hindu reports that the suspect lived in a cramped terrace home of about 500 sq ft up a narrow staircase, raising doubts that all the killings happened there. An officer said residues were found despite cleaning. Police suspect his minor daughter helped move the bodies, an unproven theory."
+   ],
+   "url": "https://www.thehindu.com/news/national/karnataka/did-all-the-murders-happen-in-the-small-house-on-the-terrace/article71675859.ece",
+   "section": "world",
+   "scope": "india",
+   "source": "The Hindu",
+   "sourceGroup": "the-hindu",
+   "publishedAt": "2026-11-07T01:38:05Z",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/national/karnataka/did-all-the-murders-happen-in-the-small-house-on-the-terrace/article71675859.ece"
+    },
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/cities/bangalore/a-missing-persons-complaint-that-unravelled-bengalurus-seven-murders/article71675640.ece"
+    }
+   ]
+  },
+  {
+   "id": "d68c5b31e5739a8cf829",
+   "title": "EC re-opens window for electors left out of draft rolls in 7 States/ UT",
+   "deck": "Voters left off draft rolls as absent, shifted, dead or duplicate in seven states and territories can re-apply without Form 6.",
+   "summary": [
+    "The Election Commission has reopened a window for people dropped from draft electoral rolls in seven states and union territories where the Special Intensive Revision is under way: Delhi, Haryana, Maharashtra, Andhra Pradesh, Jharkhand, Telangana and Nagaland. It covers voters excluded as absent, shifted, dead or duplicate whose enumeration forms were never received.",
+    "According to The Times of India, these voters can submit the enumeration form again rather than Form 6, which is for first-time enrolment and carries a declaration some deleted voters were reluctant to sign. An EC official was quoted as saying the enumeration window that closed with the draft roll is being reopened until the end of the claims and objections period.",
+    "The forms can be filed in person or online with the electoral registration officer or a booth-level officer, with an annexure explaining the delay and declaring that no Form 6 was filed during the revision. Voters who moved within the same state must give their old and new addresses, attach residence proof and file in the constituency they moved to.",
+    "The commission told officials to chase affected voters through home visits, phone calls and enquiries with neighbours, relatives and residents' associations, and to send forms by post, WhatsApp, SMS or email. Booth-wise lists will be displayed afresh. Approved voters will get back their earlier EPIC number. Indian Express carried only a brief breaking-news note on the decision."
+   ],
+   "url": "https://indianexpress.com/article/india/election-commission-voters-absent-dead-duplicate-delhi-maharashtra-haryana-andhra-pradesh-jharkhand-telangana-nagaland-10953520/",
+   "section": "world",
+   "scope": "india",
+   "source": "The Indian Express",
+   "sourceGroup": "other",
+   "publishedAt": "2026-11-06T10:51:48Z",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/election-commission-voters-absent-dead-duplicate-delhi-maharashtra-haryana-andhra-pradesh-jharkhand-telangana-nagaland-10953520/"
+    },
+    {
+     "source": "The Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/one-more-chance-for-excluded-voters-in-delhi-6-other-states/articleshow/135620214.cms"
+    }
+   ]
+  },
+  {
+   "id": "533775c3cf0a0644886b",
+   "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+   "deck": "Donald Trump has named hardline immigration adviser Stephen Miller as White House chief of staff, replacing Susie Wiles days after Republicans lost Congress.",
+   "summary": [
+    "President Donald Trump announced on Friday that Stephen Miller, 41, will become White House chief of staff from Monday, replacing Susie Wiles, the first woman to hold the job. The move comes days after Democrats won control of Congress in the midterm elections. Miller has been deputy chief of staff since January 2025 and is the principal architect of the administration's immigration crackdown.",
+    "Trump called Miller one of his most trusted advisers and told reporters: \"I wanted to make a change,\" adding that Wiles had done a good job and that \"we've got to make moves.\" Wiles, 69, reportedly resigned on Thursday night. She said serving Trump was \"the honor of a lifetime\" and that her commitment to the president would not change. The Guardian, which reported the story, described her as ousted.",
+    "The appointment is politically contested. Critics read it as a sign Trump will fight Democratic oversight. Presidential historian Chris Whipple told CNN it was \"almost a declaration of war\", and Democratic strategist David Axelrod said it would disappoint those hoping for a pivot to cooperation. Representative Becca Balint called Miller the architect of inhumane policies. More than a hundred congressional Democrats previously called him a white nationalist; those are their characterisations, not established findings. Trump praised him as a \"great manager\" who \"gets it\".",
+    "Wiles's exit follows a run of departures of senior women from the administration, and the Guardian notes that the leadership team is now overwhelmingly male. Several Justice Department officials have also resigned this week. Wiles led Trump's 2024 campaign and was credited with imposing discipline on the White House and curbing leaks."
+   ],
+   "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+   "section": "world",
+   "scope": "world",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-11-07T01:38:06Z",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump"
+    },
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation"
+    }
+   ]
+  },
+  {
+   "id": "466b2a58a9546ba9a32b",
+   "title": "New wave of bomb threats hit European airlines",
+   "deck": "A third wave of hoax bomb threats hit flights and media outlets across Europe, with no explosives found and no culprit identified.",
+   "summary": [
+    "Europe faced a third round of bomb threats this week on Friday. Flights to and from Lisbon, Rome, Prague and Sofia were targeted, and Hungary scrambled fighter jets to escort three aircraft. The Guardian counted at least 18 affected flights across nine countries. All planes landed safely and no explosives were found.",
+    "Threats also hit media organisations. Ireland's RTÉ and the Irish Independent were evacuated, as were Dublin offices of Newstalk and TodayFM, and Sky said it received a security threat. Irish police said they knew of a threat against media in Ireland and Europe. No link between the airline and media threats has been established.",
+    "Ireland's government called it a \"likely coordinated campaign of disruption\", though it said it was unknown whether individuals or an organised effort were responsible. Taoiseach Micheál Martin said such hoaxes were an attempt to sow fear. Spain's foreign minister, José Manuel Albares, said the matching methods could not be coincidence and called it probable hybrid aggression, which is his assessment.",
+    "Investigators say there is no evidence yet that a hostile state or terror group is behind it. Some Thursday threats were signed \"fighters of the Male State\", a Russian far-right movement, but a Telegram account linked to it told the BBC it no longer exists and mocked the idea. Eurocontrol data cited by the Guardian put affected flights at 0.0674% of Friday's schedule."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-06T15:25:35+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo"
+    },
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
+    }
+   ]
+  },
+  {
+   "id": "a043cda1bcb1b69de9c6",
+   "title": "Paraguay President Santiago Peña resigns after bank collapse",
+   "deck": "Paraguay's president tried to quit over the collapse of a bank tied to him, but Congress impeached him and a prosecutor placed him under house arrest.",
+   "summary": [
+    "Paraguay's President Santiago Peña announced his resignation on Thursday after the failure of Ueno Bank, a digital lender linked to him. In a video message he apologised if he had failed the public, saying he never meant to betray their trust.",
+    "Ueno entered an insolvency process that froze its operations. The bank says it has about three million customers, roughly 60% of Paraguay's adult population, and it held pensions and some public funds. Millions were unable to reach their money, and protesters clashed with police near Congress. Lawmakers accused Peña, who held shares in the bank's parent company until 2025, of conflicts of interest and misconduct. He denies any impropriety and has said he bought the shares purely as an investor.",
+    "Congress did not accept the resignation and pressed ahead with impeachment instead. The Guardian reported that he was impeached on Friday and that a prosecutor said he had been placed under house arrest minutes later. Prosecutors had opened an investigation on Thursday into suspected illicit enrichment, money laundering and influence peddling. Those are allegations under investigation, not findings. Vice-president Pedro Alliana was sworn in as the new leader.",
+    "Opposition senator Rafael Filizzola called the affair one of the biggest corruption scandals since democracy returned. Political analyst Hugo Duarte said state-linked pension funds went to Ueno because it had the presidency's blessing. Officials have named a new central bank chief, and Congress has approved a process to repay depositors."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-05T17:40:40+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo"
+    },
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts"
+    }
+   ]
+  },
+  {
+   "id": "79cfcadb5415c2b053da",
+   "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
+   "deck": "With most votes counted, the ANC is heading for its worst local election result, and coalition talks in big cities are under way.",
+   "summary": [
+    "South Africa's governing African National Congress is on course for a heavy defeat in Wednesday's local elections. With more than 80% of ballots counted, the party had about 31.8% nationally, nearly 14 percentage points below its 2021 local result, according to The Guardian.",
+    "The Democratic Alliance had 24.1% and Jacob Zuma's uMkhonto weSizwe party 9.3%. Turnout rose to an estimated 54.5% of registered voters, from 46% five years ago. The report lists unemployment, crime, corruption and poor local services as reasons voters turned away from the ANC. It projects the party will lose its place as the largest in Gauteng and KwaZulu-Natal, and final results are expected on Sunday.",
+    "In Johannesburg, where residents have endured water and power cuts, the DA led with about 40% with just over half the vote counted. The ANC was on 17.5% and ActionSA on 15.5%. ActionSA leader Herman Mashaba has said he will never work with the DA's Helen Zille, whom he calls racist; she strongly denies this. The research body CSIR projects a final Johannesburg split of DA 34%, ANC 20% and ActionSA 16.8%, though many ANC township strongholds had yet to report.",
+    "Coalition talks are happening behind closed doors. In Durban, the MK had 41% at the halfway mark, so other parties could band together to keep it out. The DA looks set to keep Cape Town. Councillors have two weeks to elect mayors."
+   ],
+   "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
+   "section": "world",
+   "scope": "world",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-11-06T12:48:37Z",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections"
+    }
+   ]
+  },
+  {
+   "id": "3a3df697a78189d0a7b3",
+   "title": "Ferrari set for crunch meeting as Hamilton and Leclerc tension reaches Brazil",
+   "deck": "An Autosport opinion piece says Ferrari must set clear ground rules for Hamilton and Leclerc after their clash in Mexico.",
+   "summary": [
+    "Ferrari arrived at the Brazilian Grand Prix with a better car but a driver problem, according to an Autosport analysis by Roberto Chinchero. The team has scored more points than any rival over the last three races, yet the opening-corner collision between Lewis Hamilton and Charles Leclerc in Mexico cost it what could have been a far better result. They finished second and fourth.",
+    "Hamilton repeated at Interlagos the position he took after Mexico, with no retreat from it. Leclerc did not attend the media sessions. Team principal Fred Vasseur had not been able to meet both drivers since the race, so a clear-the-air meeting was planned for Thursday.",
+    "The article is opinion. Its author argues the talks should not decide who was right, but set a principle that the team's interests come first when a Ferrari can win. He speculates that Hamilton, long the focal point at Mercedes, is adjusting to sharing status with a team-mate who has driven for Ferrari since 2019. Neither driver is in title contention this season.",
+    "Chinchero says Vasseur, who has backed letting his drivers race freely, needs the full support of Ferrari's leadership and a single voice with the drivers. He frames the meeting as groundwork for 2027, when a title fight would make the rivalry harder to manage."
+   ],
+   "url": "https://www.autosport.com/f1/news/ferrari-set-for-crunch-meeting-as-hamilton-and-leclerc-tension-reaches-brazil/10872030/",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-11-06T11:09:53Z",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/ferrari-set-for-crunch-meeting-as-hamilton-and-leclerc-tension-reaches-brazil/10872030/"
+    }
+   ]
+  },
+  {
+   "id": "05cdb28fd2b7d08903ff",
+   "title": "Usman Khawaja reveals ‘all of us’ involved in 2018 Australia sandpaper ball-tampering scandal",
+   "deck": "In his memoir, former Australia batter Usman Khawaja claims the whole squad knew of the 2018 sandpaper plan; the bowlers have long denied it.",
+   "summary": [
+    "Former Australia batter Usman Khawaja has claimed in his new memoir, Sabr, that everyone in the touring party knew about the ball-tampering plan in the 2018 Cape Town Test against South Africa. The Indian Express reports extracts published in The Sydney Morning Herald. These remain Khawaja's claims, and the report does not show independent confirmation.",
+    "\"It was all of us. Not the batters, not the bowlers, not the staff,\" Khawaja told the newspaper. He said open dressing-room talks during the previous Test in Port Elizabeth led to the team's discovery of sandpaper as an effective tool, and that Steve Smith, then captain, threw up his hands and said he did not want to know. Khawaja said he wanted the squad to accept collective responsibility, but that did not happen and three players were left to take the blame.",
+    "Smith, David Warner and Cameron Bancroft received year-long bans from international cricket. Bowlers Pat Cummins, Mitchell Starc, Josh Hazlewood and Nathan Lyon have maintained they did not know. In a joint statement in 2021 they said they learned of it only when images appeared on the big screen, and asked for an end to what they called innuendo.",
+    "Khawaja said he would rather not be the one to speak, but had expected the truth to be out after eight years. The Indian Express did not include a response to his claims from the bowlers."
+   ],
+   "url": "https://indianexpress.com/article/sports/cricket/usman-khawaja-reveals-entire-australia-team-knew-sandpaper-ball-tampering-2018-10954114/",
+   "section": "sport",
+   "scope": "sport",
+   "source": "The Indian Express",
+   "sourceGroup": "other",
+   "publishedAt": "2026-11-07T00:58:22Z",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/sports/cricket/usman-khawaja-reveals-entire-australia-team-knew-sandpaper-ball-tampering-2018-10954114/"
+    }
+   ]
+  },
+  {
+   "id": "8087344e6950ba1cd40a",
+   "title": "‘Shukriya, Test cricket’: Mohammed Shami calls it a day from Tests",
+   "deck": "India fast bowler Mohammed Shami has ended his Test career with an emotional Instagram message thanking fans, teammates and cricket boards.",
+   "summary": [
+    "Mohammed Shami, the India fast bowler, announced on Friday that he is retiring from Test cricket. The Indian Express describes him as out of favour in the national side. He made the announcement in a post on Instagram, written in Hindi.",
+    "Shami said he was taking leave of the white jersey but not of the memories attached to it. He recalled that when he first wore India's Test shirt his only dream was to do something for his country, and said every wicket, struggle, injury and comeback since had taught him something. Test cricket, he wrote, had been far more than a format to him, and he was making the decision with a heavy heart.",
+    "He thanked teammates, coaches, his family and the millions of Indians who backed him through good and bad times. He also thanked the BCCI and the Cricket Association of Bengal for trusting his talent and giving him opportunities. His last Test ball may have been bowled, he said, but pride in playing for India would stay with him. He signed off with a thank-you to Test cricket.",
+    "The report gives no reason beyond his own words, and carries no comment from the BCCI. It also does not list his career figures, so none are given here."
+   ],
+   "url": "https://indianexpress.com/article/sports/cricket/india-pacer-mohammed-shami-retires-from-test-cricket-10953939/",
+   "section": "sport",
+   "scope": "sport",
+   "source": "The Indian Express",
+   "sourceGroup": "other",
+   "publishedAt": "2026-11-06T17:58:48Z",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/sports/cricket/india-pacer-mohammed-shami-retires-from-test-cricket-10953939/"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "name": "Indian Express",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "NDTV",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "The Hindu",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Times of India",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC News",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "The Guardian",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "TechCrunch",
+   "section": "technology",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "The Verge",
+   "section": "technology",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC News",
+   "section": "technology",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Indian Express",
+   "section": "business",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC News",
+   "section": "business",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Economic Times",
+   "section": "business",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC Sport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Autosport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC Sport",
+   "section": "sport",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Indian Express",
+   "section": "sport",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Gadgets 360",
+   "section": "deals",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Indian Express",
+   "section": "local",
+   "status": "ok",
+   "count": 0
+  }
+ ]
+}
