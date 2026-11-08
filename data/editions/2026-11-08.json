@@ -1,0 +1,716 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-11-08",
+ "generatedAt": "2026-11-08T02:14:09+00:00",
+ "timezone": "Asia/Kolkata",
+ "windowHours": 48,
+ "primaryWindowHours": 24,
+ "summaryMode": "original-articles",
+ "localLimit": 1,
+ "stories": [
+  {
+   "id": "b521172828d62613029c",
+   "title": "US approved Nvidia chip sales to a Chinese firm whose office turned out to be empty",
+   "deck": "A New York Times investigation says Commerce cleared a company with no visible presence, and a separate intelligence memo, reported but unconfirmed, claims Beijing tried to cultivate a source close to Nvidia's chief executive.",
+   "summary": [
+    "Questions are mounting over how carefully Washington and Nvidia check the Chinese companies allowed to buy the chipmaker's advanced H200 processors. The New York Times reported on Saturday that a firm called New Matrix appears on the list of buyers approved by the US Commerce Department, yet its listed address is, in the paper's words, a hollow gray shell with wires hanging from the ceiling.",
+    "According to the Times, as relayed by The Verge, the company was created only 17 months ago and leaves almost no trace online. The building directory does not list it, and staff at the nearby industrial-park management office said they had no record of it. Its owners are reportedly linked to a Chinese private equity firm that the US government has had on a blacklist since 2024. The Times describes this as part of a pattern in which companies tied to entities under national-security trade restrictions have won approval to buy Nvidia chips.",
+    "The background matters. Chip exports to China were tightly restricted under the Biden administration. The Trump administration relaxed those limits after Nvidia agreed to hand the government a 15 percent share of such sales, and chief executive Jensen Huang lobbied hard for the change.",
+    "A second, separate report adds a more sensational claim. TechCrunch, summarising the Times and the Financial Times, says a US intelligence memo circulated earlier this year alleged that China's Ministry of State Security recruited Alice Huang, an executive at Singapore-based Megaspeed, to spy on Jensen Huang. The Financial Times said the memo also alleged a romantic relationship between the two. These are allegations in a reported memo, not established facts. An Nvidia spokesperson told the Times the executive's contacts with Mr Huang were not unusual and that the company does not share classified information with customers.",
+    "Nvidia said it sells the first, best and most of its technology in America. The Commerce Department's vetting process is now likely to face harder scrutiny."
+   ],
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-11-07T15:43:45+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+    },
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+    }
+   ]
+  },
+  {
+   "id": "2af345503cb4dc3ab8a9",
+   "title": "Crusoe hands its unfinished Wyoming data center to Google",
+   "deck": "The $30.9 billion developer confirms the sale of a campus it once planned to grow to 10 gigawatts, after Google reportedly worried about cost and timing.",
+   "summary": [
+    "Crusoe, the Denver data center developer recently valued at $30.9 billion, confirmed on Friday that it has sold an unfinished project in southeastern Wyoming to Google. The sale ends a saga in which Google was not a customer of the site at all: Crusoe had tried and failed to land it as one, and Google is now taking over development itself.",
+    "Crusoe announced the project last year with Tallgrass, an infrastructure company backed by Blackstone. The plan was to scale it eventually to 10 gigawatts of power capacity. According to TechCrunch, Google reportedly raised concerns about the cost and construction timeline under Crusoe's management. Google did not disclose what it paid, but it has said it plans to invest $17 billion to develop the campus. Bloomberg first reported the handover in June.",
+    "TechCrunch argues the deal shows how hard it is for independent developers to deliver giant AI facilities on time and on budget, given the difficulty of securing equipment and power and the growing opposition from local communities.",
+    "The relationship has not ended. Crusoe is still building another data center for Google near Amarillo, Texas, and the Wyoming setback did not stop it raising $3.9 billion in September. Its largest projects serve well-known AI names: a campus in Abilene, Texas, is being built in phases for Oracle and OpenAI, with a separate 900-megawatt campus beside it for Microsoft whose first building is expected in mid-2027. Meta is also a customer, and Bloomberg reported a $13 billion, five-year cloud deal with the trading firm Jane Street.",
+    "Crusoe began as a cryptocurrency-mining business powered by natural gas that would otherwise have been burned off."
+   ],
+   "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-07T01:40:28+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+    }
+   ]
+  },
+  {
+   "id": "f30eabe3ae69a9850322",
+   "title": "Fox closes its $22 billion purchase of Roku months ahead of schedule",
+   "deck": "The deal gives Fox access to more than 100 million households and makes the combined group the third-largest US television business by viewership, the company says.",
+   "summary": [
+    "Fox has completed its $22 billion acquisition of Roku, bringing the streaming platform formally under its ownership. According to TechCrunch, Fox says the combined company now ranks as the third-largest television business in the United States by viewership, a claim that comes from the company rather than an independent measure.",
+    "For Fox, the attraction is reach. Roku serves more than 100 million households, and Fox expects that audience to sharpen its advertising targeting, strengthen its position in connected TV and reduce its dependence on traditional television distribution.",
+    "Roku founder Anthony Wood struck a reassuring note in a statement. He said the mission he started more than two decades ago, giving people a better way to watch television, does not change, and that his teams will keep building with Fox's support and resources behind them.",
+    "The timing is striking. When the deal was announced in June, the companies projected it would close in the first half of 2027. Instead it closed in early November, only two months after the US Justice Department issued a second request for information, a step that signals a deeper antitrust review. Reports earlier this month, including one from Semafor, suggested the deal was close to clearing the department under a consent decree.",
+    "The $22 billion price is the figure Fox has publicly attached to the transaction. The article does not give a breakdown of how it is paid."
+   ],
+   "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-06T16:05:36+00:00",
+   "timestampType": "published",
+   "older": true,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/"
+    }
+   ]
+  },
+  {
+   "id": "a67bea44a5c5cfbaca39",
+   "title": "Binance's finance chief steps down just over a week after a $6.3 billion hack",
+   "deck": "Kaiser Ng leaves to 'pursue a new venture'; Justin Yek takes over as the exchange tries to reassure users it will absorb the losses.",
+   "summary": [
+    "Binance said on Saturday that its chief financial officer, Kaiser Ng, is leaving the cryptocurrency exchange. Bloomberg reported that co-chief executive Yi He described the move as a chance for Mr Ng to pursue a new venture after more than five years at the company, adding that a transition plan had been put in place over the past half year. Justin Yek will replace him.",
+    "The timing will draw attention. Barely more than a week ago, hackers stole about $6.3 billion in cryptocurrency from Binance users. The exchange froze withdrawals for several days. Once accounts were unfrozen, users withdrew a net $3.6 billion in the first few hours, a sign of how nervous customers were.",
+    "Binance and the FBI have both blamed a North Korean group called TraderTraitor for the theft. The company has promised to cover every loss, saying that it will bear the financial impact of the stolen funds and that the losses will not be passed on to users.",
+    "Nothing in the reporting links Mr Ng's departure to the hack. Binance's own explanation is that the exit was planned well in advance, and no independent evidence has been offered either way. Still, a change in the finance chair so soon after the largest breach of its kind raises questions that investors and regulators are likely to ask, particularly about how the exchange is funding its pledge to make users whole."
+   ],
+   "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+   "section": "business",
+   "scope": "business",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-07T17:24:07+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/"
+    }
+   ]
+  },
+  {
+   "id": "7b7eb085d0678082271a",
+   "title": "Indian firms' overseas investments jump 41% to Rs 16.71 lakh crore, with the UAE the surprise driver",
+   "deck": "RBI data show debt exposure to the Emirates rising nearly nine-fold, prompting calls for more disclosure about where the money goes.",
+   "summary": [
+    "Indian companies' stock of outward direct investment rose by Rs 4.85 lakh crore, or 40.8 percent, to Rs 16.71 lakh crore by the end of March 2026, up from Rs 11.87 lakh crore a year earlier, according to Reserve Bank of India data analysed by The Indian Express.",
+    "The biggest surprise is the United Arab Emirates. Indian exposure there more than doubled, up 160 percent to Rs 2.71 lakh crore, which lifts the UAE into second place behind Singapore and ahead of the United States and the United Kingdom. Debt investment drove the jump: it climbed from Rs 17,644 crore to Rs 152,778 crore, nearly nine times the previous level. The UAE alone accounts for roughly 34 percent of the year's total increase. Singapore remains the largest destination at Rs 352,822 crore, about 21 percent of the stock.",
+    "Debt's share of all overseas investment rose from 14.9 percent to 20.4 percent in a year. Singapore, the UAE, the US and the UK together hold 63.6 percent of the stock, and adding the Netherlands and Mauritius takes the concentration to nearly 80 percent. China accounts for just 0.7 percent.",
+    "The figures are outstanding investments valued at market prices, not necessarily fresh money sent abroad, so exchange rates, valuation changes and restructuring can all move them. The Express reports that analysts want closer scrutiny of what lies behind the UAE debt surge and clearer disclosure of the ultimate beneficiaries and the activities financed. The newspaper adds that the policy challenge is to support legitimate global expansion while keeping cross-border capital flows transparent and accountable."
+   ],
+   "url": "https://indianexpress.com/article/business/india-inc-overseas-investments-rise-41-percent-16-71-lakh-crore-10953826/",
+   "section": "business",
+   "scope": "business",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-06T15:05:59+00:00",
+   "timestampType": "published",
+   "older": true,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/business/india-inc-overseas-investments-rise-41-percent-16-71-lakh-crore-10953826/"
+    }
+   ]
+  },
+  {
+   "id": "089ae1f671640a2c9790",
+   "title": "Prestige buys Noida housing developer Allure for Rs 524 crore",
+   "deck": "The realty group takes 100 percent of Allure Developers at a time when its own quarterly profit has fallen 44 percent.",
+   "summary": [
+    "Prestige Estates Projects has agreed to acquire all of Allure Developers for about Rs 524 crore, according to a regulatory filing reported by the Press Trust of India and carried by The Economic Times. The share purchase agreement was signed on 6 November, and Allure becomes a wholly owned subsidiary.",
+    "Allure is developing a residential project in Sector 150, Noida, and the purchase is part of Prestige's expansion in the Delhi-NCR region. The filing says the consideration will be paid in tranches, up to a maximum of Rs 523.76 crore. The price is as stated in the company's own disclosure and has not been independently verified.",
+    "The deal follows another recent purchase. Prestige acquired 100 percent of Gloind Vintage Infra at an enterprise value of Rs 519 crore through its subsidiary Prestige Retail Ventures. Gloind's subsidiary, Tarun Realtors, owns a shopping mall in Bengaluru.",
+    "The acquisitions come as the company's earnings have softened. For the July-September quarter, Prestige reported a 44 percent fall in consolidated net profit to Rs 256.2 crore, compared with Rs 457.4 crore a year earlier. Total income fell to Rs 2,222.2 crore from Rs 2,697.8 crore. Across April to September, profit declined to Rs 527.6 crore from Rs 768.9 crore, while total income edged down to Rs 5,057.8 crore from Rs 5,166.5 crore.",
+    "The reporting does not say how Prestige plans to fund the purchase."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/prestige-group-buys-100-stake-in-allure-developers-for-rs-524-crore-to-develop-housing-project-in-noida/articleshow/135630853.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-07T08:06:00+00:00",
+   "timestampType": "updated",
+   "older": false,
+   "updated": true,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/prestige-group-buys-100-stake-in-allure-developers-for-rs-524-crore-to-develop-housing-project-in-noida/articleshow/135630853.cms"
+    }
+   ]
+  },
+  {
+   "id": "df3a40bf180a9caddfdc",
+   "title": "Railways promises 1,000 more regular trains once seven corridors get four tracks",
+   "deck": "Railway Minister Ashwini Vaishnaw links the long-term plan to the festive rush, with 18,000 special trains, AI cameras and holding areas in place.",
+   "summary": [
+    "Indian Railways intends to run more than 1,000 additional regular trains once seven major corridors are widened to four parallel tracks, Railway Minister Ashwini Vaishnaw said on Saturday. The corridors are the routes linking Delhi, Mumbai, Kolkata and Chennai, plus three diagonal lines: Delhi-Chennai, Mumbai-Kolkata and Delhi-Guwahati. He said the extra capacity would ease pressure on waiting lists and reservation availability. The trains would only become possible after the construction is complete, and no completion date was given in the report.",
+    "Asked about delays, Mr Vaishnaw admitted the network is at a point of peak congestion because of heavy coal and goods movement alongside high passenger traffic. He said the railways have laid 36,000 kilometres of additional track over the past decade and argued that building more is the only permanent fix.",
+    "For the current festive season covering Durga Puja, Diwali and Chhath, he said the railways have deployed 18,000 special trains, up from 12,000 last year. Around 700 AI-enabled cameras have been installed at stations, and holding areas have been set up at about 20 stations, with ticket counters moved into them and extra scanning counters added to speed security checks. Special trains are stationed at several Delhi locations, including Nizamuddin, Anand Vihar and Shakur Basti.",
+    "Mr Vaishnaw said traffic at stations had returned to normal on Chhoti Diwali and that the arrangements would continue through the season. These are official statements from the minister, reported by the Economic Times with agency inputs, rather than independently verified outcomes."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/transportation/railways/1000-extra-trains-between-delhi-mumbai-kolkata-and-chennai-to-ease-waiting-lists-railway-ministry-plans-four-parallel-tracks-on-7-major-corridors/articleshow/135635762.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-07T12:02:00+00:00",
+   "timestampType": "updated",
+   "older": false,
+   "updated": true,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/transportation/railways/1000-extra-trains-between-delhi-mumbai-kolkata-and-chennai-to-ease-waiting-lists-railway-ministry-plans-four-parallel-tracks-on-7-major-corridors/articleshow/135635762.cms"
+    }
+   ]
+  },
+  {
+   "id": "aedd699e5c5f05df5951",
+   "title": "Update: Oil companies and Petroleum Ministry reject Karnataka's claim of excess ethanol in petrol",
+   "deck": "A new government statement says 893 samples from 27 states and territories met the E20 standard; Karnataka's food department had reported 26-31 percent ethanol at some outlets.",
+   "summary": [
+    "The Petroleum Ministry on Saturday defended India's 20 percent ethanol-blended petrol programme after Karnataka's food and consumer affairs department claimed that samples from certain retail outlets contained 26 to 31 percent ethanol. This is an update to an earlier edition's report on the Karnataka minister's demand for a relief fund. The Economic Times, relaying PTI, says the ministry reported tests of 893 samples from 27 states and union territories, including 56 from Karnataka. Indian Oil, Bharat Petroleum and Hindustan Petroleum found ethanol between 19 and 21 percent in every sample, within the BIS IS 17021 specification. The Karnataka samples ranged from 19 to 20 percent, averaging 19.30 percent.",
+    "The companies challenge how Karnataka tested. They say six one-litre samples must be drawn at each inspection, but the October exercise happened without their representatives and they have not received retention samples, outlet-wise details or laboratory reports. They also question a third-party laboratory's gas chromatography certificates, saying the dilution procedure and reference material were not specified, and note that the reported fuel density was lower than their own E20 samples, whereas more ethanol should raise it.",
+    "The companies have asked Karnataka for the complete sampling documents and offered joint testing using the prescribed method. Karnataka's side of the argument rests on its own press release; no new Karnataka response appears in this report.",
+    "The ministry and companies also dispute estimates that E20 costs consumers Rs 62,000 crore a year in lost mileage and Rs 39,000 crore in repairs. They cite earlier studies suggesting mileage losses of 1-2 percent for E20-calibrated vehicles and 3-6 percent for others. Both sides' figures are claims; the Karnataka and oil-company results have not been independently reconciled."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/e20-petrol-supplied-by-psu-oil-firms-meets-prescribed-quality-standards-oil-min/articleshow/135635580.cms",
+   "section": "world",
+   "scope": "india",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-07T11:51:00+00:00",
+   "timestampType": "updated",
+   "older": false,
+   "updated": true,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/e20-petrol-supplied-by-psu-oil-firms-meets-prescribed-quality-standards-oil-min/articleshow/135635580.cms"
+    }
+   ]
+  },
+  {
+   "id": "642027f44ba4ae95e86a",
+   "title": "FSSAI seizes 3,280 tonnes of non-compliant food in Diwali enforcement drive",
+   "deck": "Worth about Rs 82 crore, the haul came from 56,431 inspections between 1 September and 5 November, with 52 licences cancelled.",
+   "summary": [
+    "India's food regulator says it has seized about 3,280 tonnes of banned and non-compliant food products, valued at around Rs 82 crore, during a nationwide enforcement drive aimed at festive-season adulteration. The Food Safety and Standards Authority of India put the exact figures at 3,279.57 tonnes worth Rs 81.80 crore, in a social media post on Saturday, as reported by the Economic Times from PTI.",
+    "The drive ran from 1 September to 5 November. Inspectors visited 56,431 food establishments and found problems in everyday festive staples including paneer, ghee, milk and sweets. As a result, the FSSAI cancelled 52 licences, suspended 1,133 and sealed 314 establishments. It also issued 10,047 improvement notices to food businesses.",
+    "The regulator said it had stepped up vigilance because of the festival season, when demand for sweets and dairy products surges and the temptation to cut corners rises. It added that this calendar year it has tightened enforcement against food business operators and e-commerce companies to keep food safe for consumers.",
+    "The Hindu, in a brief report on the same figures, says the authority seized 3,280 tonnes and cancelled 52 licences. Both reports rely on the regulator's own account; the release does not break down how many of the seizures involved deliberate adulteration compared with labelling or hygiene failures."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/cons-products/food/sweet-trouble-this-diwali-rs-82-crore-worth-of-food-1185-licences-come-under-fssai-scanner/articleshow/135649427.cms",
+   "section": "world",
+   "scope": "india",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-08T01:55:00+00:00",
+   "timestampType": "updated",
+   "older": false,
+   "updated": true,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/cons-products/food/sweet-trouble-this-diwali-rs-82-crore-worth-of-food-1185-licences-come-under-fssai-scanner/articleshow/135649427.cms"
+    },
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/article-71680460"
+    }
+   ]
+  },
+  {
+   "id": "8d02c78819496921aa22",
+   "title": "Sonia Gandhi looks back on love, loss and why she stayed in India",
+   "deck": "Ahead of her memoir 'Belonging: A Journey of Love', the Congress veteran spoke to The Guardian; the BJP seized on her remarks about the Babri mosque demolition.",
+   "summary": [
+    "Sonia Gandhi, 79, has given an interview to The Guardian ahead of the release of her memoir, Belonging: A Journey of Love, due on 10 November. The Indian Express summarised it on Saturday. She recalled meeting Rajiv Gandhi in the 1960s, when she was 18 and studying at a language school in Cambridge, as an instant attraction, a coup de foudre. She said she did not initially know he was Nehru's grandson and Indira Gandhi's son. She moved to India in 1968.",
+    "Of Indira Gandhi, she said newspapers portrayed a tough leader but at home she was like any other mother, and recalled her admitting to being frightened when she first became prime minister. Mrs Gandhi, she said, was a democrat at heart. She described Rajiv taking over as prime minister after Indira's assassination in 1984 as a knife going into her heart, and said she feared he would be killed next. He was assassinated on 21 May 1991. Asked why she stayed, she answered that India was her home and her children's home. On 2004, when Congress won the Lok Sabha election, she said it was clear in her mind she would never become prime minister.",
+    "The Times of India reports a political reaction. According to the paper, she said she cried when she watched the Babri mosque demolition. BJP spokesman Sudhanshu Trivedi responded that this exposed Congress's anti-Ram face, and questioned how she could have seen visuals on that day. These are the BJP's characterisations, and the report shows no Congress reply."
+   ],
+   "url": "https://indianexpress.com/article/india/sonia-gandhi-memoir-rajiv-indira-congress-journey-10954967/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-07T15:13:26+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/sonia-gandhi-memoir-rajiv-indira-congress-journey-10954967/"
+    },
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/sonias-babri-claim-exposes-congs-anti-ram-face-bjp/articleshow/135646452.cms"
+    }
+   ]
+  },
+  {
+   "id": "e8bd48b35742973ef0c7",
+   "title": "Sonam Wangchuk alleges a smear campaign run from the Ladakh Lieutenant Governor's office",
+   "deck": "The activist and his wife make claims about two social media accounts; the L-G's office had not responded when the report was published.",
+   "summary": [
+    "Activist Sonam Wangchuk on Saturday alleged that he is being targeted by a smear campaign linked to the office of Ladakh's Lieutenant Governor, and appealed to President Droupadi Murmu to take note. The Indian Express reports that he said he was being continuously witch-hunted and defamed for raising his voice for the youth of the nation and border areas such as Ladakh and Arunachal, and that his schools were being harassed in every possible way by the administration. The Times of India also reports his accusation. These are his claims; neither report independently confirms them.",
+    "He said a probe by his lawyers had produced material from the Raj Niwas, and that he first shared it with the chief of the Intelligence Bureau, who after a few exchanges stopped responding. His wife, Gitanjali J Angmo, who co-founded and runs the Himalayan Institute of Alternatives, Ladakh (HIAL), accused L-G Vinai Kumar Saxena's office of using public money to pay private companies to run two social media profiles: one, Ladakh Lens, to defame Mr Wangchuk, and another, Ladakh Vision, to praise the Lieutenant Governor.",
+    "The allegations come amid a legal dispute between HIAL and the Union Territory administration over a land lease. The administration cancelled the lease, citing failure to execute the deed, to pay the premium on time and alleged non-compliance with the land's intended use. Mr Wangchuk and Ms Angmo say the delay was bureaucratic and the cancellation politically motivated, linked to the campaign for Sixth Schedule safeguards and statehood. The administration has told HIAL to stop classes at the Desert Flower School, citing a High Court case; the couple said the school will keep running.",
+    "The Express notes there was no immediate reaction from the L-G's office."
+   ],
+   "url": "https://indianexpress.com/article/india/sonam-wangchuk-smear-campaign-ladakh-lieutenant-governor-10955042/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-07T17:54:34+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/sonam-wangchuk-smear-campaign-ladakh-lieutenant-governor-10955042/"
+    },
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/wangchuk-accuses-ladakh-admin-of-witch-hunt-smear-campaign/articleshow/135644611.cms"
+    }
+   ]
+  },
+  {
+   "id": "0099b19869517b47b80b",
+   "title": "Six killed in Krakow market-square shooting; three more bodies found at suspect's home",
+   "deck": "Polish officials call it terrorism and say the 25-year-old suspect held far-right, ultra-nationalist views; national mourning has been declared.",
+   "summary": [
+    "A gunman opened fire at about 3pm on Saturday in the Main Market Square of Krakow, Poland, killing six people and wounding 16, authorities said. Police told reporters the dead include four women and two men: a British citizen, three Polish women and two people not yet identified. The injured include foreign nationals from Britain, Austria, Germany, Portugal and Russia, and two police officers. One officer, shot three times in an exchange of fire, was reported to be in very critical condition.",
+    "Police described the suspect as a 25-year-old Polish man who wore military-style clothing and carried a military-grade automatic weapon, with a large quantity of weapons and ammunition found in his vehicle. He is not a soldier. Interior Minister Marcin Kierwinski said the suspect was fascinated by far-right ideology and held very radical, ultra-nationalistic views. Defence Minister Wladyslaw Kosiniak-Kamysz called it an act of terror.",
+    "Late on Saturday, Prime Minister Donald Tusk said three more people, two women and a man, probably family members, were found dead at the suspect's home. He said he was travelling to Krakow. Justice Minister Waldemar Zurek promised the perpetrator would be held fully accountable. President Karol Nawrocki said he was deeply concerned.",
+    "Krakow's mayor, Lukasz Gibala, ordered mourning until Wednesday 11 November, and the Guardian reports that Sunday and Monday were declared a period of national mourning. The US ambassador, Tom Rose, called the attack savage, and EU foreign policy chief Kaja Kallas said it would be felt far beyond Poland. The motive described so far comes from officials' early assessments, and the investigation is continuing."
+   ],
+   "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+   "section": "world",
+   "scope": "world",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-11-07T21:19:01+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+    },
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo"
+    }
+   ]
+  },
+  {
+   "id": "62f39c82b1348381f08e",
+   "title": "Kyiv endures day-long blackouts and water cuts after Russian strike on the grid",
+   "deck": "Moscow launched 172 drones and 36 ballistic missiles overnight; Zelenskyy says it is trying to plunge the country into darkness before peace talks.",
+   "summary": [
+    "Residents of Kyiv spent Saturday with power cuts lasting all day and interruptions to the water supply after a Russian overnight attack on Ukraine's energy network. According to the Guardian, Russia used 172 drones and 36 ballistic missiles against electricity substations, a bridge over the Dnipro river and surrounding regions. Substations in five regions were targeted, including one that connects two nuclear power plants to Kyiv.",
+    "President Volodymyr Zelenskyy said five people were injured, among them a 14-year-old girl, and that the capital faced serious difficulties with electricity, water and heating. He accused Russia of trying to cause a blackout while it prepares for peace talks, and said Russia had damaged every power plant. Ukrainian officials argue the aim is to freeze civilians into submission over the winter. The Russian defence ministry said its strikes on Saturday morning were aimed at energy and transport targets. The city's Northern Bridge was closed for repairs to its road surface and power lines.",
+    "The attack comes just before negotiators from Russia, Ukraine and the United States are due to meet in Abu Dhabi on Tuesday and Wednesday to discuss ending the war. Mr Zelenskyy appealed to the US Congress for continued bilateral support, saying Ukraine must not be left alone. He criticised the peace blueprint associated with Jared Kushner as a Yalta 2.0, called talks about a wider European-Russian security structure dangerous, and said Russia must first end the war and give meaningful security guarantees.",
+    "These are the positions of the Ukrainian president and the Russian defence ministry; the Guardian's report does not independently verify the damage claims."
+   ],
+   "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+   "section": "world",
+   "scope": "world",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-11-07T13:03:03+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
+    }
+   ]
+  },
+  {
+   "id": "f9ce569d6615b2e5a37f",
+   "title": "New Zealand election too close to call as special votes decide who governs",
+   "deck": "National edged Labour by 0.02 percentage points in the party vote; official results are due on 27 November.",
+   "summary": [
+    "New Zealand faces weeks of uncertainty after an election that preliminary results show is too close to call. The Guardian reports that Christopher Luxon's National Party won 42 seats and edged Labour by just 0.02 percent in the party vote. Chris Hipkins's Labour won 35, the Greens 16, ACT 13, New Zealand First 12 and Te Pati Maori 5, along with 5 overhang seats. The Opportunity Party, led by Qiulae Wong, passed the 5 percent threshold with 5.9 percent and enters parliament.",
+    "On preliminary figures, National, ACT and New Zealand First hold a wafer-thin 67-seat majority, with the left bloc three seats behind. With extra overhang seats, parliament could have 130 seats, so a coalition needs 65. Opinion polls had suggested the Opportunity Party might be kingmaker; at present the right does not need it, but that could change.",
+    "The uncertainty comes from special votes, which include overseas ballots and those cast outside a voter's own electorate. They are yet to be counted, and official results will be released on 27 November. In 2023 they totalled about 600,000, or 21 percent of the vote, and they tended to favour the left.",
+    "Mr Luxon told supporters in Auckland the result was too close to call and that negotiations must wait for special votes. He said National remains the largest party with a pathway to forming the next government, and that caretaker conventions mean the daily business of government continues. Mr Hipkins joked that New Zealand had spoken but it may take longer to work out what it said, and promised to get straight to work if the final count favours Labour. Ms Wong said she was stoked and the result looked promising."
+   ],
+   "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+   "section": "world",
+   "scope": "world",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-11-07T13:48:18+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+    },
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o"
+    }
+   ]
+  },
+  {
+   "id": "b7ba65c704ad4512d299",
+   "title": "US offers up to $20 million for information on Iran's nuclear programme",
+   "deck": "The State Department's Rewards for Justice scheme is seeking details of facilities, equipment and personnel, as Washington keeps open the threat of renewed strikes.",
+   "summary": [
+    "The US State Department's Rewards for Justice programme is offering a reward of up to $20 million, with possible relocation for informants, for information about Iran's nuclear programme. The BBC reports that the offer covers facilities, equipment and associated personnel.",
+    "The announcement follows a US and Israeli bombing campaign that President Donald Trump has said left nuclear facilities completely and totally obliterated. Mr Trump has since suggested that the United States might need to go after Pickaxe Mountain, an underground site linked to the programme. US Central Command has also set up Task Force Iron Gate to restrict the movement of weapons and sanctioned material. The BBC notes that Mr Trump has repeatedly raised the prospect of renewed strikes on Iranian nuclear sites.",
+    "At the same time, the president has talked up diplomacy. He is quoted as saying the US is dealing with Iran now, that they want to make a deal very badly, and that there is no rush. Tehran insists its nuclear programme is peaceful and that it has no intention of building a weapon. It says it is keen to end the eight-month conflict.",
+    "The reward is an offer, and the reporting does not say whether any information has been received. Statements about the damage to Iranian facilities come from Mr Trump and have not been independently verified in the BBC piece, while Iran's denial of weapons ambitions is likewise its own account."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-07T18:14:38+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo"
+    }
+   ]
+  },
+  {
+   "id": "1a82ebf2f18bcfdcfcf0",
+   "title": "Norris takes Brazilian Grand Prix pole in a rain-hit qualifying session",
+   "deck": "McLaren's Lando Norris beat Mercedes' George Russell by 0.204 seconds after a delay of more than an hour; penalties reshape the grid.",
+   "summary": [
+    "Lando Norris will start the Brazilian Grand Prix from pole position after a wet and disrupted qualifying session at Interlagos. Autosport reports that the McLaren driver set a 1m27.470s lap on intermediate tyres to beat Mercedes' George Russell by 0.204 seconds. Russell's team-mate Andrea Kimi Antonelli was third on the road, followed by Ferrari's Charles Leclerc, Racing Bulls' Liam Lawson and Audi's Nico Hulkenberg.",
+    "The session was repeatedly interrupted. The first segment was red-flagged when drivers reported aquaplaning on full wet tyres, and the delay lasted more than an hour. Later, Haas rookie Rafael Camara crashed at turn 12 in Q2. Russell was angry when his team asked him to abort a second flying lap in the final shootout, though Autosport notes he already carried a five-place grid penalty for an engine change.",
+    "Penalties mean the official grid will look different. Leclerc has a 10-place penalty, which lifts Lawson to third, according to Autosport. Lewis Hamilton was knocked out in Q2 in 11th and starts from the back after a power unit penalty. Max Verstappen did not run in Q2 because of his engine penalty and also starts at the rear. Oscar Piastri was 12th.",
+    "Antonelli, newly crowned world champion, only just reached the final part of qualifying, taking 10th. Lawson, in fifth, may have strengthened his case as Racing Bulls considers promoting reserve driver Nikola Tsolov. Autosport's separate preview notes a wet race forecast for the weekend."
+   ],
+   "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-takes-pole-in-soaking-wet-qualifying/10872710/",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-11-07T21:48:47+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-takes-pole-in-soaking-wet-qualifying/10872710/"
+    },
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/c6gell5l7l3zo"
+    }
+   ]
+  },
+  {
+   "id": "54049e514f30636a6861",
+   "title": "Ferrari and Red Bull take engine penalties, sending Hamilton, Leclerc and Verstappen backwards",
+   "deck": "Both teams changed power-unit parts at Interlagos; Hamilton and Leclerc each drop ten places, Verstappen and Perez go to the back.",
+   "summary": [
+    "Ferrari and Red Bull have both taken grid penalties in Brazil by replacing power-unit components for the final race of the Americas triple-header, Autosport reports. Ferrari decided on a planned engine change for both Lewis Hamilton and Charles Leclerc after a difficult Friday, and each driver drops ten places on the grid.",
+    "Ferrari's Friday was poor. Leclerc missed the first practice session and called it one of the most difficult Fridays of the year, while team principal Frederic Vasseur blamed car balance on the Interlagos tarmac. Autosport separately reports that Hamilton was given his fifth internal combustion engine of the season, a quota overrun that triggered the penalty.",
+    "Max Verstappen takes a complete power-unit change and starts from the very back. Red Bull had said before the weekend that a change was unnecessary, but reassessed on Friday after Verstappen suffered several small issues and sat out the last six minutes of second practice while mechanics worked under the car. The team broke curfew on Friday evening to work on it, and the full change was confirmed on Saturday. Sergio Perez also received a new engine, turbocharger and MGU-K and starts at the back.",
+    "There is some hope for those drivers. Verstappen has a record of fighting through at Interlagos, including a podium from the pit lane last year and a win from 17th in 2024. Hamilton has won the race there from tenth and climbed from 20th to fifth in the 2021 sprint. A wet forecast could give them more chances to pass."
+   ],
+   "url": "https://www.autosport.com/f1/news/lewis-hamilton-charles-leclerc-and-max-verstappen-hit-with-f1-grid-penalties-for-brazilian-gp/10872564/",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-11-07T15:37:40+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/lewis-hamilton-charles-leclerc-and-max-verstappen-hit-with-f1-grid-penalties-for-brazilian-gp/10872564/"
+    },
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o"
+    }
+   ]
+  },
+  {
+   "id": "36d73547c648d59b00dd",
+   "title": "Alcaraz beats Ruud to set up Paris Masters final rematch with Shelton",
+   "deck": "A 6-4 6-4 win in 86 minutes puts the Spaniard in his first Paris final, against the American who beat him at the US Open.",
+   "summary": [
+    "Carlos Alcaraz reached his first Paris Masters final on Saturday with a 6-4 6-4 win over Casper Ruud in 86 minutes. The BBC reports that a single break was enough to settle each set, and he finished both with an ace. He won 86 percent of points behind his first serve, hit 20 winners, 13 of them from the forehand, and took 11 of 13 points at the net.",
+    "Alcaraz now meets Ben Shelton in Sunday's final. It is a rematch of their five-set US Open quarter-final in September, which finished at 3.34am local time and was won by Shelton, giving the American his first victory over a top-three opponent. Shelton has since added Alcaraz's former coach, Juan Carlos Ferrero, to his team.",
+    "Alcaraz said he was ready to take on Shelton in the final and called it probably one of the most difficult challenges in tennis right now. He said Shelton is playing great tennis, that their last meeting was a hell of a match, and that he would enjoy the moment because he had been chasing a final in Paris for a long time. He called it a big day for him.",
+    "Shelton, for his part, described Alcaraz as being in amazing form and a young legend in the sport already, adding that any match he plays is a blockbuster."
+   ],
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/cw0k06v13xvxo",
+   "section": "sport",
+   "scope": "sport",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-08T00:31:53+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/tennis/articles/cw0k06v13xvxo"
+    }
+   ]
+  },
+  {
+   "id": "8b6310d446651c082662",
+   "title": "India win rain-shortened second ODI against New Zealand by four runs on DLS",
+   "deck": "KL Rahul's cautious unbeaten innings and four wickets from Gurnoor Brar give India a 2-0 series lead in Wellington.",
+   "summary": [
+    "India won the second one-day international against New Zealand in Wellington by four runs under the Duckworth-Lewis-Stern method after drizzle ended play, and lead the series 2-0. The Indian Express reports that New Zealand were bowled out for 134 in 41 overs. India were 113 for 7 in 26 overs when the rain stopped play. Only 247 runs were scored in the match, which the paper called a low-scoring thriller on a seamer-friendly pitch.",
+    "The decisive bowling came from Gurnoor Brar, who took 4 for 30. Anshul Kamboj took 2 for 25 and Auqib Nabi 2 for 31, and Axar Patel also took two wickets. Jacob Duffy and Kyle Jamieson were the pick of New Zealand's attack.",
+    "KL Rahul steered India home. He was cautious early, needing nine legal deliveries to get off the mark, and survived a review for a possible edge off Nathan Smith. He broke free in the 16th over by pulling Smith for a four and a six, later pulled Matthew Fisher for four and top-edged a six off Duffy, shepherding the lower order as wickets fell.",
+    "After the match, Shubman Gill said chasing 134 was harder than he had thought it would be, according to the Express's separate report. Brar said he was just bowling to his strengths."
+   ],
+   "url": "https://indianexpress.com/article/sports/cricket/kl-rahul-shepherds-india-to-win-low-scoring-thriller-new-zealand-10954717/",
+   "section": "sport",
+   "scope": "sport",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-07T10:45:53+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/sports/cricket/kl-rahul-shepherds-india-to-win-low-scoring-thriller-new-zealand-10954717/"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "name": "Indian Express",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "NDTV",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "The Hindu",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Times of India",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC News",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "The Guardian",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "TechCrunch",
+   "section": "technology",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "The Verge",
+   "section": "technology",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC News",
+   "section": "technology",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Indian Express",
+   "section": "business",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC News",
+   "section": "business",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Economic Times",
+   "section": "business",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC Sport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Autosport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC Sport",
+   "section": "sport",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Indian Express",
+   "section": "sport",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Gadgets 360",
+   "section": "deals",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Indian Express",
+   "section": "local",
+   "status": "ok",
+   "count": 0
+  }
+ ]
+}
