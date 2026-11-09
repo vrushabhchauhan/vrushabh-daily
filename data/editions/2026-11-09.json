@@ -1,0 +1,691 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-11-09",
+ "generatedAt": "2026-11-09T02:10:20.329448+00:00",
+ "timezone": "Asia/Kolkata",
+ "windowHours": 48,
+ "primaryWindowHours": 24,
+ "summaryMode": "original-articles",
+ "localLimit": 1,
+ "stories": [
+  {
+   "id": "8a86cf9d70b8065c8241",
+   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+   "deck": "Nvidia's board has opened an independent inquiry after its founder admitted an affair with an executive US officials reportedly believe worked for Chinese intelligence.",
+   "summary": [
+    "Nvidia said on Sunday that a committee of independent directors, advised by outside counsel, will investigate chief executive Jensen Huang's relationship with Alice Huang, an executive linked to the Singapore-based data-centre firm Megaspeed. The two are not related. The board said it had no reason to believe national security or Nvidia's secrets were compromised, and that it still has confidence in Huang, who has run the company for more than three decades.",
+    "The move follows reporting by The New York Times last month. That report, which has not been independently confirmed in detail, said US agencies had been monitoring Alice Huang and concluded she was acting for Beijing. According to unnamed sources cited by the newspaper, surveillance picked up her contact with an American who was later identified as Jensen Huang. It is not clear what, if anything, she passed on. She did not respond to the paper's request for comment, and China has previously called the espionage allegations \"groundless speculation\".",
+    "In a memo to staff, Huang wrote that he had been unfaithful to his wife, that his actions hurt his family, and that there was \"no excuse\". He said he supports the investigation and will cooperate fully. Those are his own statements; the intelligence claims remain allegations from US officials relayed through the press.",
+    "The business context raises the stakes. Megaspeed is an Nvidia customer and is the subject of a Commerce Department inquiry into whether AI chips were smuggled to China. Washington restricts sales of Nvidia's most powerful processors to Chinese firms, even after the Trump administration loosened some rules. Huang has also grown close to President Trump, which prompts questions about what he may have heard of policy discussions.",
+    "Congress is watching too. Three House Republican committee leaders have asked Huang to appear later this month to discuss Nvidia's protections against foreign espionage. The company, worth roughly $4.5 trillion, has promised further updates."
+   ],
+   "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-08T21:00:11+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+    },
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+    },
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no"
+    }
+   ]
+  },
+  {
+   "id": "a8057696b6984e7adb3d",
+   "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+   "deck": "Elon Musk has confirmed Tesla will stop making the Cybertruck next year to free factory space for its driverless Cybercab.",
+   "summary": [
+    "Tesla will wind down Cybertruck production at its Texas factory in 2027, according to Elon Musk, who said the aim is to make room for building more of its self-driving Cybercab. Replying to a social media user who said the truck would be discontinued next year, Musk wrote \"true\", then added that the Cybertruck fleet already on the road \"will be around for a long time\". Tesla shares rose 4.7 per cent on Friday after the news.",
+    "The stainless-steel pickup was unveiled in 2019, when a demonstration of its supposedly unbreakable windows ended with the glass shattering. Musk predicted annual sales of 250,000 once commercial production began in 2023. Reality was far smaller. Kelley Blue Book figures cited by the BBC show Tesla sold 20,237 Cybertrucks in 2025, down from 38,965 a year earlier. Industry estimates put deliveries since late 2023 at about 71,000.",
+    "Pricing and quality hurt as well. Musk once promised a base price below $40,000 and a 500-mile range; neither arrived, and the fully equipped version cost about $61,000, with the top Cyberbeast reaching $102,000. A 2025 recall covered more than 46,000 vehicles over trim that could fall off.",
+    "A Tesla executive said the Cybertruck was an incredible technology development platform that \"lives on through Cybercab\". That is Tesla's own framing, not an independent assessment. The shift underlines the company's pivot from consumer vehicles toward autonomy, where it is staking its future valuation."
+   ],
+   "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-08T17:02:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/"
+    },
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o"
+    }
+   ]
+  },
+  {
+   "id": "b9c0dd474c98ba84113b",
+   "title": "Apple is racing to make Siri more agentic",
+   "deck": "Apple's chief executive is reportedly pushing for a faster, more agentic Siri, with deeper app control arriving in the coming months.",
+   "summary": [
+    "Apple is under internal pressure to turn Siri into an assistant that can act on a user's behalf, according to Bloomberg's Mark Gurman, whose newsletter The Verge summarised on Sunday. Gurman reports that chief executive John Ternus is urging AI chief Craig Federighi to speed up the roadmap so Apple can compete with agent-style products such as OpenAI's Dots and Meta's Muse. These details come from Gurman's sources, and Apple has not confirmed them.",
+    "According to the report, Federighi has delivered a working version of the new Siri on an unusually short timeline, but Apple has no illusions that it is keeping pace with rivals. Two big upgrades are expected in the coming months. The first gives Siri fine-grained control of Apple's own apps, such as rotating and cropping images in Photos or organising Safari tabs, and is expected with iOS 27.3.",
+    "The second reaches outside Apple's software. Gurman says integration with third-party apps is likely this spring, so Siri could place a food order through Grubhub or book a table through OpenTable.",
+    "The larger ambition is persistence. Gurman writes that assistants such as Dots, Muse and Grok can keep track of goals, decide what must happen next and keep working without the user starting every step. Apple, he says, ultimately wants to go the same way, and he believes Siri could become more agent-like as early as next year, given consumer and market demand."
+   ],
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-11-08T22:54:50+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+    }
+   ]
+  },
+  {
+   "id": "86f9aea00d5ec50add6c",
+   "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+   "deck": "A new report says Sequoia partners were caught off guard when Roelof Botha took a seat on SpaceX's board, deepening scrutiny of the firm's leadership shake-up.",
+   "summary": [
+    "Several Sequoia Capital partners were reportedly blindsided when Roelof Botha, the firm's former steward, joined the board of SpaceX, according to a Financial Times report that TechCrunch summarised on Sunday. The details rest on unnamed sources and have not been confirmed by the people involved.",
+    "The FT's sources say Botha did not consult the firm's compliance team and did not obtain sign-off from the wider partnership before accepting the seat. Sequoia's stake in SpaceX is reported to be worth about $20 billion, which makes any board role at the company sensitive for the whole firm. A Sequoia spokesperson told the paper only that the firm's partners \"collaborate closely\".",
+    "The story also touches on how the firm has changed since Botha stepped back. One source described him as having \"loved process and hierarchy\" in a way the rest of the team did not. Another framed Sequoia's recent changes as an \"erasure of Sequoia's heritage, not Roelof's legacy\". Those are characterisations from anonymous insiders, not established fact. The report also names Alfred Lin and Pat Grady.",
+    "Sequoia is among the most influential venture firms in Silicon Valley, so a governance dispute over a stake of this size could affect how its investors judge the firm."
+   ],
+   "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-08T19:51:30+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/"
+    }
+   ]
+  },
+  {
+   "id": "a67bea44a5c5cfbaca39",
+   "title": "Binance CFO is leaving to pursue a new venture after $6.3 billion hack",
+   "deck": "Binance's chief financial officer is leaving the exchange just over a week after hackers stole $6.3 billion in cryptocurrency from users.",
+   "summary": [
+    "Binance's chief financial officer, Kaiser Ng, will leave the company to \"pursue a new venture\", co-founder Yi He announced, barely more than a week after attackers stole about $6.3 billion worth of crypto from users of the exchange. Yi He wrote that Ng had spent more than five years at the company, and credited him for security improvements implemented over the last half year.",
+    "The theft is among the largest in the industry's history. Binance has said it will bear the financial impact of the stolen funds and that the losses will not be passed on to users. The exchange also disclosed how the attack began: an engineer was approached through a legitimate job-hunting platform and invited to fake job interviews with bogus company representatives, the company says.",
+    "Executive departures after a major security failure are common, but the company's wording does not describe Ng's exit as connected to the hack. Readers should treat any link between the two as unproven.",
+    "For customers the key questions are practical. Can Binance absorb a loss of this size while keeping withdrawals normal? What will change in how staff are recruited and how sensitive credentials are protected?",
+    "The episode is also a warning for other employers. If a fake interview can reach an engineer through a trusted job platform, any firm holding valuable keys needs checks that do not depend on one person's judgement."
+   ],
+   "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-07T17:24:07+00:00",
+   "timestampType": "published",
+   "older": true,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/"
+    }
+   ]
+  },
+  {
+   "id": "246d45790f69876be5d3",
+   "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+   "deck": "Stephen Ward, who arrested a hacker and later spent months defending his own reputation, is raising a second cybersecurity fund of about $250 million.",
+   "summary": [
+    "Stephen Ward, a former Secret Service agent and chief information security officer at Home Depot, is raising a second fund of roughly $250 million for Brightmind Partners, a New York cybersecurity investor, TechCrunch reports. He will act as sole general partner, matching the size of the debut fund that closed late last year.",
+    "His path was unusual. Ward joined the Coast Guard after school, then the Secret Service, where he arrested a New York hacker behind a major credit-card theft and turned him into an informant. When the hacker was caught again, he accused Ward of involvement. Ward says he spent about 18 months clearing his name; the hacker received a 20-year sentence. Ward later worked at J.P. Morgan, TIAA and Home Depot before becoming an investor at Insight Partners.",
+    "Brightmind began in 2024 with two co-founders, who left in April. Ward attributes the split to \"differences in opinions regarding operations and the future of Brightmind\"; one of them says he continues to support the portfolio companies and investors. The first fund has made 14 investments and one exit: CrowdStrike agreed in January to buy portfolio company SGNL for $740 million.",
+    "The market is tougher. PitchBook counts $4.7 billion of early-stage cybersecurity deals through September, but deal counts fell from 358 to 248 while average seed rounds rose to $8.4 million. Ward's team found only 30 genuine AI-security start-ups among 278 deals so labelled in the first half."
+   ],
+   "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-08T17:30:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/"
+    }
+   ]
+  },
+  {
+   "id": "d1d29453d583846bd777",
+   "title": "Epic Games Launcher is coming to SteamOS",
+   "deck": "Epic Games says its new Linux launcher will officially support SteamOS, though anti-cheat for Fortnite on Steam Deck remains unresolved.",
+   "summary": [
+    "Epic Games has confirmed that the new Epic Games Launcher for Linux will support Valve's SteamOS, according to a report from GamingOnLinux that The Verge picked up on Sunday. The launcher is still in preview, and until now SteamOS was not listed among the supported distributions.",
+    "Epic communications director Jake Jones said the company plans to support \"as many Linux distributions as possible\", naming Fedora, SteamOS, Cachy and Omarchy among others. He said the team is still testing packaging formats and will restore the AppImage download this month, after a change that had replaced it with Debian and Ubuntu packages.",
+    "The harder issue is Fortnite. In October Epic said it was investigating whether the game could work on SteamOS, and Easy Anti-Cheat remains the obstacle. Epic's statement says the Steam Deck \"does not support the required features\" for its second-generation anti-cheat solution, but adds that it is talking to Valve and hopes to support the device in future. In other words, Linux players can expect a launcher before they get the flagship game.",
+    "The announcement matters because the Steam Deck has made Linux a real gaming platform. For now the commitment is a statement of intent rather than a finished product, and no firm date has been given for Fortnite."
+   ],
+   "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-11-08T20:52:05+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos"
+    }
+   ]
+  },
+  {
+   "id": "f59559178b4719df0c8d",
+   "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+   "deck": "The UK government says it is looking seriously at adding second-hand marketplaces such as Vinted and eBay to its planned under-16 social media ban.",
+   "summary": [
+    "Culture Secretary Lisa Nandy has confirmed that ministers are \"looking seriously\" at including online marketplaces such as Vinted and eBay in the UK's planned ban on social media for under-16s. She was responding to a Sunday Times report that the list of restricted platforms would be widened, with Depop and Facebook Marketplace also mentioned. The report says the concern is that messaging functions allow strangers to contact and groom children.",
+    "The government announced the ban in June. Prime Minister Sir Keir Starmer has said he hopes to pass regulation before Christmas, with the ban due to take effect by next spring. Snapchat, TikTok, YouTube, Instagram, Facebook and X are already expected to be covered. Roblox will not be banned, but features such as chat will be limited.",
+    "The companies point to their rules. eBay already requires all members to be over 18, because listings involve entering into a contract. Vinted, which has 17 million UK users, allows parents to create accounts for children under supervision; a spokesperson said direct messaging is part of how the platform works but that it has zero tolerance for harmful content.",
+    "Critics raise doubts from different directions. Ian Russell argues ministers should enforce existing laws on harmful material. Matthew Sinclair warns of scope creep, saying a messaging restriction would reach into services families use to stay in touch. The details of the proposed legislation remain unpublished."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+   "section": "technology",
+   "scope": "technology",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-08T15:37:25+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "ef1561a07c34f5e0af27",
+   "title": "First since 2017, Sensex & Nifty end in red on Diwali; snap 7-day winning run",
+   "deck": "Indian equities ended a seven-session rally with a small fall in the Diwali special session, the first red close on the festival in nine years.",
+   "summary": [
+    "The Sensex lost 28.62 points to close at 80,999.40 and the Nifty finished 0.2 per cent lower at 24,986.40 in Sunday's Diwali trading session, ending a seven-day winning run. The Indian Express notes it was the first time in nine years that benchmarks ended lower on Diwali. Even so, the indices gained roughly 8 to 9 per cent over the week, and India's volatility index rose for a third straight session.",
+    "The week followed a sharp global swing. According to the report, Indian markets had fallen by as much as 15 per cent during 2026, while AI-heavy markets in the United States, Taiwan and South Korea dropped as much as 45 per cent from their peaks. The Nasdaq Composite rose 1.1 per cent on Friday after a 5.5 per cent fall on Thursday.",
+    "Foreign investors, who sold about $50 billion of Indian shares between January 2024 and October 2026, returned as buyers last week, purchasing $4.6 billion. The Reserve Bank of India also took steps on 10 October to support the rupee and reduce oil marketing companies' dollar demand.",
+    "Brokers were upbeat about the new Hindu business year, Samvat. Avinash Agarwal of Bandhan Life said the outlook is constructive but with moderate and more selective returns, driven by earnings rather than valuations. Ramdeo Agrawal of Motilal Oswal said the market could give bumper returns by next Diwali after two years of stagnation. Both are opinions, not guarantees."
+   ],
+   "url": "https://indianexpress.com/article/business/muhurat-trading-diwali-stocks-sensex-nifty-bse-nse-market-fall-7-day-profit-booking-10955580/",
+   "section": "business",
+   "scope": "business",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-08T10:59:31+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/business/muhurat-trading-diwali-stocks-sensex-nifty-bse-nse-market-fall-7-day-profit-booking-10955580/"
+    }
+   ]
+  },
+  {
+   "id": "1e6980e14e91e279b1be",
+   "title": "FSSAI seizes food products worth Rs 81.8 crore, suspends over 1,100 licences in nationwide drive",
+   "deck": "India's food regulator says an inspection drive across the festive season seized about 3,280 tonnes of banned or non-compliant food.",
+   "summary": [
+    "The Food Safety and Standards Authority of India says it inspected 56,431 food establishments between 1 September and 5 November and seized about 3,280 tonnes of banned or non-compliant products. NDTV puts the value at about Rs 82 crore, while the Economic Times reports Rs 81.8 crore. The seized items included paneer, ghee, milk and sweets, the products most in demand around the festival season.",
+    "The regulator also cancelled 52 licences and suspended 1,133 more, according to NDTV. It sealed 314 establishments and issued 10,047 improvement notices to food business operators. The Economic Times reports that more than 1,100 licences were suspended.",
+    "FSSAI described the drive in a social media post on Saturday, saying it had stepped up vigilance in view of festivals. These are the regulator's own figures and have not been independently audited. They show enforcement activity rather than the overall level of adulteration in the market, because inspections tend to concentrate on suspect businesses.",
+    "Demand for dairy-based foods peaks around Diwali, which is why the regulator concentrates its checks on paneer, ghee, milk and sweets at this time of year. Whether the licence actions will deter repeat offenders is the open question after the festival."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/cons-products/food/fssai-seizes-food-products-worth-rs-81-8-crore-suspends-over-1100-licences-in-nationwide-drive/articleshow/135653865.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-08T07:21:49+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/cons-products/food/fssai-seizes-food-products-worth-rs-81-8-crore-suspends-over-1100-licences-in-nationwide-drive/articleshow/135653865.cms"
+    },
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/food-safety-body-seizes-banned-items-worth-rs-82-crore-in-nationwide-drive-12300572"
+    }
+   ]
+  },
+  {
+   "id": "77a854b9c8a16da444e3",
+   "title": "Naxals Wiped Out In Forests But 'Dimagi Naxals Hide Among Us': PM Modi In Bastar On Diwali",
+   "deck": "Prime Minister Narendra Modi told troops in Bastar that armed Maoists are gone but their ideological supporters remain, drawing a sharp response from Congress.",
+   "summary": [
+    "Prime Minister Narendra Modi spent Diwali with security forces at a CoBRA operations base in Bastar, long the epicentre of Maoist violence in Chhattisgarh. He said this was the first Diwali since India won a decades-long fight against Naxalism, and that every district is now free of it. He also said that, for the first time in 47 years, no Central Reserve Police Force soldier has been killed in action in the past year. These are official claims from the prime minister.",
+    "The remark that drew attention came next. Modi said armed Naxalites have disappeared from the forests but \"dimagi Naxals\", meaning ideological supporters, have taken control of several organisations. He said they are still instigating people against the Constitution and democracy and have infiltrated political parties. \"We must identify and defeat them and secure the country,\" he said. He did not name any party or group.",
+    "Congress replied on Sunday. Communications chief Jairam Ramesh said the prime minister had used a solemn, non-political occasion, in the uniform of the security forces, to hurl abuse at rivals. He called it a brazen assault on institutional norms and said Modi was desperate, adding that \"jhola-picking-up time\" was approaching. That is a political characterisation, not a finding of fact.",
+    "The Hindu, citing PTI, NDTV and The Times of India report the same exchange. None of the reports offers evidence that any named party is linked to the Maoist movement."
+   ],
+   "url": "https://www.ndtv.com/india-news/while-naxalites-have-been-wiped-out-from-the-forests-dimagi-naxals-have-infiltrated-various-organisations-pm-modi-12299676",
+   "section": "world",
+   "scope": "india",
+   "source": "NDTV",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-11-08T08:28:16+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/while-naxalites-have-been-wiped-out-from-the-forests-dimagi-naxals-have-infiltrated-various-organisations-pm-modi-12299676"
+    },
+    {
+     "source": "The Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/reds-gone-but-dimagi-naxals-still-instigating-people-pm-modi/articleshow/135666910.cms"
+    },
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/national/pm-modi-desperate-jhola-picking-up-time-fast-approaching-congress/article71680932.ece"
+    }
+   ]
+  },
+  {
+   "id": "4b40d5f449cfa07ab931",
+   "title": "Air pollution over 50 times WHO limit in parts of Delhi as people defy ban on firecrackers on Deepavali",
+   "deck": "Smoke from Diwali firecrackers pushed some Delhi monitors to more than 50 times the WHO limit, and officials expect air quality to turn severe.",
+   "summary": [
+    "Delhi's air quality worsened sharply on Diwali night as people let off firecrackers after the 10 p.m. deadline set by the Supreme Court. The Hindu reports PM2.5 levels of 767 micrograms per cubic metre at Anand Vihar and 761 at Akshardham at 11 p.m., according to Delhi Pollution Control Committee data. The World Health Organization's 24-hour guideline is 15, so both readings were more than 50 times higher.",
+    "Across the city, NDTV says the average air quality index stood at 373, in the very poor category, at 11.05 p.m. on Sunday. Several areas, including Alipur, Bawana, Burari, Chandni Chowk, Mundka, Punjabi Bagh, Rohini and Vivek Vihar, crossed 400, which is the severe band. Noida recorded 319, Ghaziabad 360, Gurugram 280 and Faridabad 297.",
+    "Officials expect more of the same. The Commission for Air Quality Management had already imposed Stage 3 of the Graded Response Action Plan across the region as a pre-emptive step, and the early warning system forecasts severe air from Monday for a few days.",
+    "Campaigner Bhavreen Kandhari says the policies are flawed, a citywide average hides neighbourhood reality, and restricted firecracker windows are pointless if violations go unchecked. She also alleges at least 11 monitoring stations had data gaps on 6 November. These are her claims, and the report did not verify them."
+   ],
+   "url": "https://www.thehindu.com/news/cities/Delhi/air-pollution-over-50-times-who-limit-in-parts-of-delhi-as-people-defy-ban-on-firecrackers-on-deepavali/article71681210.ece",
+   "section": "world",
+   "scope": "india",
+   "source": "The Hindu",
+   "sourceGroup": "the-hindu",
+   "publishedAt": "2026-11-09T01:47:21+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/cities/Delhi/air-pollution-over-50-times-who-limit-in-parts-of-delhi-as-people-defy-ban-on-firecrackers-on-deepavali/article71681210.ece"
+    },
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/delhi-pollution-delhi-diwali-pollution-delhi-aqi-delhi-aqi-delhi-ncr-chokes-on-diwali-night-as-smoke-engulfs-city-aqi-nears-400-12301098"
+    }
+   ]
+  },
+  {
+   "id": "9036dd4d40e49b18fcce",
+   "title": "19 Indian seafarers stranded in Yemen evacuated, Embassy says",
+   "deck": "India's embassy says 19 Indian seafarers who were stuck in Yemen for two weeks are safe and on their way home.",
+   "summary": [
+    "Nineteen Indian seafarers who had been stranded in Yemen's Hodeidah and Sana'a for about two weeks have been evacuated, the Indian Embassy in Yemen said. In a statement the embassy said all of them are safe, in good health and on their way back to India, and thanked everyone who helped with the operation.",
+    "The evacuation comes days after India said that 14 Indian nationals aboard a yacht involved in an incident off the Yemeni coast were safe. On 23 October the Indian mission had said the 14 were near Hodeidah, safe, and in contact with the relevant parties as the circumstances were being established. The embassy statement does not say whether the 19 evacuated seafarers include those 14 crew members, and The Hindu's report, which is based on PTI copy, does not link the two groups.",
+    "The yacht incident remains disputed. Yahya Saree, a spokesperson for the Houthi group, claimed through Arab media that Saudi forces had targeted the Indian yacht near Yuqar Island in the Red Sea and that Houthi forces were rescuing the 14 Indians. That is a claim by one side in the conflict, and the report does not say it has been confirmed by India or Saudi Arabia.",
+    "The episode comes as fighting between the Houthis and a Saudi-led coalition has intensified, with missile and drone attacks on Saudi targets, according to separate BBC reporting."
+   ],
+   "url": "https://www.thehindu.com/news/national/indian-seafarers-stranded-in-yemen-evacuated/article71681203.ece",
+   "section": "world",
+   "scope": "india",
+   "source": "The Hindu",
+   "sourceGroup": "the-hindu",
+   "publishedAt": "2026-11-08T19:13:45+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/national/indian-seafarers-stranded-in-yemen-evacuated/article71681203.ece"
+    }
+   ]
+  },
+  {
+   "id": "484fcd27cdfd07d4d8c7",
+   "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+   "deck": "Houthi missiles or drones damaged Aramco Tower in Riyadh's financial district, with video suggesting far more damage than Saudi officials admit.",
+   "summary": [
+    "A tower belonging to Aramco in the heart of Riyadh's financial district was hit during fresh Houthi strikes on Saturday, and footage authenticated by BBC Verify shows more extensive damage than the Saudi government has acknowledged. The video shows at least one floor badly struck by what appears to be a missile or drone, and windows shattered on more than one level.",
+    "Saudi Arabia's energy ministry said the building suffered only minor damage and that nobody was killed or injured. The Saudi side also said its air defences intercepted and destroyed several missiles. The Houthi-run Saba news agency confirmed the group targeted Riyadh's business zone without naming the tower, and said Riyadh's airport and Aramco oil storage were hit in separate strikes. Those Houthi statements are claims, and the BBC does not independently verify them.",
+    "The Houthis also accused a Saudi-led coalition of killing at least 33 people, including women and children, in an air strike on al-Shariyah, east of Sanaa, with 39 injured, according to Saba. Saudi Arabia has not commented on that strike.",
+    "A Saudi-led coalition has fought the Iran-backed Houthis for more than a decade. An informal ceasefire unravelled in July when the Houthis announced a maritime embargo on Saudi Arabia and began missile and drone attacks. The United Nations says more than 1,600 people have been killed and more than 300,000 displaced since the fighting resumed."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-08T21:37:36+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "fe43e4b6ce3d31067615",
+   "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+   "deck": "Gadi Eisenkot has begun trying to form Israel's next government after President Herzog tasked him, and he is courting Netanyahu's allies.",
+   "summary": [
+    "Gadi Eisenkot, the former military chief of staff who leads the Yashar party, began efforts on Sunday to form a government after President Isaac Herzog gave him a mandate with 28 days. The 66-year-old's opposition bloc won 48 of the 120 seats in October's election, against 53 for Benjamin Netanyahu's camp, according to the Guardian. He received endorsements from both Arab-majority lists during consultations with Herzog.",
+    "The arithmetic is hard, so Eisenkot is reaching across the divide. He said Israel is in a state of emergency approaching a point of no return and needs a national emergency government, which would require \"creative and unconventional political steps\". \"My door is open and my hand is extended,\" he said. These are Eisenkot's own statements.",
+    "Netanyahu, who is wanted by the International Criminal Court, has claimed the election was stolen by Arab parties, though the Guardian says he offered little evidence. Israel's Central Elections Committee and Herzog said the vote was valid and that any wrongdoing did not materially affect the result. The Shin Bet has opened an investigation into possible foreign interference. Netanyahu has called for a national unity government with Eisenkot.",
+    "One potential partner has already drawn a line: Yisrael Beiteinu said it will not join a coalition with Arab-led parties."
+   ],
+   "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+   "section": "world",
+   "scope": "world",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-11-08T14:26:14+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government"
+    },
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
+    }
+   ]
+  },
+  {
+   "id": "42253fe538ae37917264",
+   "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+   "deck": "Two trains collided south of Giza, killing at least seven people and injuring more than 100, and the president has ordered an investigation.",
+   "summary": [
+    "At least seven people died and more than 100 were injured when two trains collided outside Giza, Egypt, on Sunday. The railway authority said several carriages derailed and fell down an embankment. The public prosecutor's office warned that the death toll could rise, and hospitals in the area were placed on heightened alert.",
+    "BBC reporting says one train, travelling from Giza towards Fayoum, hit the rear of another service from Cairo to Aswan that was stationary on the tracks, between the Kafr Ammar and Al-Raqqa stations in Al-Ayyat. The driver of one of the trains was among the dead. Health Minister Dr Khaled Abdel Ghaffar said patients were being treated for broken bones and head injuries. Trains between Giza and Upper Egypt were suspended.",
+    "President Abdel Fattah al-Sisi ordered authorities to investigate the circumstances and hold accountable anyone found to have been negligent. There were calls on Sunday for the transport minister to resign; that reflects public demands and is not a finding about responsibility.",
+    "Egypt's rail network has a troubling record. The deadliest disaster was in February 2002, when a fire swept a Cairo-to-Luxor passenger train and more than 370 people were officially reported killed. The cause of the latest collision has not been established."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-08T19:58:02+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "62ad3317c393df22069d",
+   "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+   "deck": "Russia hit Ukraine's energy grid in a large attack days before a planned round of trilateral talks in Abu Dhabi.",
+   "summary": [
+    "Russian strikes wounded nine people, including a child, and damaged Ukraine's power network on Saturday, days before Ukrainian and Russian delegations are due to meet for trilateral talks in Abu Dhabi. The BBC, citing Ukrainian officials, said the attacks used more than 30 ballistic missiles and more than 170 drones and hit 12 regions, with Kyiv suffering the most. The figures come from the Ukrainian side and were not independently confirmed.",
+    "President Volodymyr Zelensky described a difficult situation in the capital, with disruption to electricity, water and heating, and said residential buildings, the North Bridge and a kindergarten were damaged. Strikes also hit substations that connect the Rivne and Khmelnytsky nuclear power plants to Kyiv and central Ukraine. The BBC reported that Kyiv's water supply was back to normal and about 60 per cent of the city's apartment blocks were connected to heating. Power cuts affected five regions.",
+    "Diplomacy is under way in parallel. According to the BBC, US First Lady Melania Trump hosted Russian and Ukrainian delegations at the White House on Thursday, after hundreds of residents of Oleshky were evacuated during a six-day ceasefire that Moscow and Kyiv credited to President Trump.",
+    "Zelensky said he is counting on unity between both US parties on security, support for Ukraine and tougher sanctions on Putin. The BBC report is from 7 November; it is included because the talks it previews are still pending."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-07T12:49:36+00:00",
+   "timestampType": "published",
+   "older": true,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "518e0eeb5ecaf0b61232",
+   "title": "Norris sparkles in Sao Paulo despite firework mishap",
+   "deck": "Lando Norris won the Sao Paulo Grand Prix from pole in a wet-dry race, while Mercedes sealed the constructors' title and several drivers were penalised.",
+   "summary": [
+    "Lando Norris won the Sao Paulo Grand Prix for McLaren after starting from pole position in a race that swung between wet and dry conditions. BBC Sport reported that Norris called it one of the hardest races of the year for focus, and therefore one of the best. His team principal Andrea Stella said Norris is at his best in mixed conditions. On the podium Norris smashed a champagne bottle on the ground and then stepped into fireworks; Stella said he was unhurt.",
+    "The race turned on a mistake by Kimi Antonelli. The Mercedes driver built an eight-second lead in the first 13 laps, but spun at Turn One under pressure from Norris after the leaders switched to slicks. Norris said his team boxed a lap early, which put him right behind and forced the Italian to push. Max Verstappen finished second after starting 21st, though he said the car oversteered badly on slicks.",
+    "Mercedes still celebrated: the team clinched its ninth constructors' championship. Team principal Toto Wolff said the sport is entering a more competitive era with four teams able to win races.",
+    "After the race the stewards handed out penalties, according to Autosport. Charles Leclerc received five seconds for a lap-69 clash with Liam Lawson, dropping him from seventh to eighth. Leclerc called the contact minor. Antonelli and Oliver Bearman each got five seconds for unsafe pit releases, without changing their finishing places."
+   ],
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/c6gr8e822kzqo?at_medium=RSS&at_campaign=rss",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-08T23:44:53+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/c6gr8e822kzqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/leclerc-penalised-for-lawson-clash-antonelli-and-oliver-bearman-also-punished-after-f1-brazilian-gp/10873166/"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "name": "Indian Express",
+   "section": "world",
+   "status": "ok",
+   "count": 26
+  },
+  {
+   "name": "NDTV",
+   "section": "world",
+   "status": "ok",
+   "count": 5
+  },
+  {
+   "name": "The Hindu",
+   "section": "world",
+   "status": "ok",
+   "count": 6
+  },
+  {
+   "name": "Times of India",
+   "section": "world",
+   "status": "ok",
+   "count": 2
+  },
+  {
+   "name": "BBC News",
+   "section": "world",
+   "status": "ok",
+   "count": 6
+  },
+  {
+   "name": "The Guardian",
+   "section": "world",
+   "status": "ok",
+   "count": 34
+  },
+  {
+   "name": "TechCrunch",
+   "section": "technology",
+   "status": "ok",
+   "count": 8
+  },
+  {
+   "name": "The Verge",
+   "section": "technology",
+   "status": "ok",
+   "count": 3
+  },
+  {
+   "name": "BBC News",
+   "section": "technology",
+   "status": "ok",
+   "count": 1
+  },
+  {
+   "name": "Indian Express",
+   "section": "business",
+   "status": "ok",
+   "count": 4
+  },
+  {
+   "name": "BBC News",
+   "section": "business",
+   "status": "ok",
+   "count": 2
+  },
+  {
+   "name": "Economic Times",
+   "section": "business",
+   "status": "ok",
+   "count": 19
+  },
+  {
+   "name": "BBC Sport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 8
+  },
+  {
+   "name": "Autosport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 13
+  },
+  {
+   "name": "BBC Sport",
+   "section": "sport",
+   "status": "ok",
+   "count": 56
+  },
+  {
+   "name": "Indian Express",
+   "section": "sport",
+   "status": "ok",
+   "count": 22
+  },
+  {
+   "name": "Gadgets 360",
+   "section": "deals",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Indian Express",
+   "section": "local",
+   "status": "ok",
+   "count": 0
+  }
+ ]
+}
