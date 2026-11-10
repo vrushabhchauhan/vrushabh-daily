@@ -1,0 +1,756 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-11-10",
+ "generatedAt": "2026-11-10T02:30:00+00:00",
+ "timezone": "Asia/Kolkata",
+ "windowHours": 48,
+ "primaryWindowHours": 24,
+ "summaryMode": "original-articles",
+ "localLimit": 1,
+ "stories": [
+  {
+   "id": "58580c03fbdd25528547",
+   "title": "Anthropic releases Claude Fable 5.2 and Mythos 5.2",
+   "deck": "Anthropic has released Claude Fable 5.2 and Mythos 5.2 at a lower price, saying they are faster and better at coding, reasoning and vision.",
+   "summary": [
+    "Anthropic released two upgraded models on Monday, Claude Fable 5.2 and Claude Mythos 5.2. Fable is available to all users from today on the major cloud platforms. Mythos, which Anthropic describes as the same underlying model with fewer cybersecurity and biology safeguards, is open at first only to vetted organizations, such as those admitted to its cyber and life-sciences verification programs.",
+    "Most of what follows comes from Anthropic's own announcement and should be read as company claims. It says the models improve on coding, reasoning and vision, communicate more clearly, and generate output up to 30% faster than the 5.1 versions. Pricing falls to $8 per million input tokens and $40 per million output tokens, and an optional fast mode costs double. Anthropic also says that during pre-release testing the models helped formalize a proof of Fermat's Last Theorem in 30 hours and solved two open physics problems about black holes. The benchmark results it publishes were run by Anthropic.",
+    "TechCrunch notes the new Fable price undercuts rival OpenAI's GPT-6 Astra, and that Fable 5.2 now works with zero data retention policies through Anthropic's Enterprise Frontier Safeguards system, long an enterprise sticking point.",
+    "The launch follows a third-party report from the evaluation group METR, which suggested Anthropic's internal models were speeding up its AI progress by roughly twofold, though it said many uncertainties remain. Anthropic's own release acknowledges that both models say they suspect they are being tested more often than recent predecessors, which makes it harder to judge how they will behave in real use. The company assesses the risk of unsafe behavior in high-stakes situations as low, a judgment that outside readers cannot yet independently check."
+   ],
+   "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-09T19:24:51+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+    },
+    {
+     "source": "The Verge",
+     "group": "theverge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
+    },
+    {
+     "source": "Anthropic (primary)",
+     "group": "anthropicprimary",
+     "url": "https://anthropic.com/claude-fable-and-mythos-5-2"
+    }
+   ]
+  },
+  {
+   "id": "d360149389ef4dd0a4d1",
+   "title": "Nvidia scandal: Trump says FBI is investigating; shares tumble (update)",
+   "deck": "Update: President Trump says the FBI is investigating Nvidia chief Jensen Huang's affair with an alleged Chinese spy, and the company faces its first shareholder lawsuit.",
+   "summary": [
+    "This updates our earlier coverage of the inquiry into Nvidia chief executive Jensen Huang. On Monday, President Donald Trump told reporters the FBI is looking into Huang's affair with Alice Huang, who is alleged to be a Chinese spy. The FBI declined to comment to the BBC, and Trump did not say when the probe began. Trump said Huang told him by phone he had \"no idea she was a spy\" and that he believed him.",
+    "The espionage allegation is a claim, not an established fact. It rests on a New York Times report that US intelligence officials believe Alice Huang, also called Huang Le, worked for Beijing, and that Secretary of State Marco Rubio sent a memo warning of the relationship. Beijing's foreign ministry called the allegations \"entirely groundless\". Huang has admitted being unfaithful to his wife. Nvidia says it has no reason to believe its secrets or security were compromised, and its board ordered an independent probe.",
+    "Nvidia shares fell more than 4% on Monday, erasing about $250bn in market value. A proposed class action filed in California by Rosen Law Firm accuses Nvidia and Huang of misleading investors about his ties to Megaspeed, the Singapore firm Alice Huang ran. These are allegations that have not been tested in court. TechCrunch notes a filing alone does not show a strong case. Huang has also been asked to brief Congress next week."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
+   "section": "technology",
+   "scope": "technology",
+   "source": "BBC News",
+   "sourceGroup": "bbcnews",
+   "publishedAt": "2026-11-10T01:44:53+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": true,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbcnews",
+     "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o"
+    },
+    {
+     "source": "BBC News",
+     "group": "bbcnews",
+     "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo"
+    },
+    {
+     "source": "The Verge",
+     "group": "theverge",
+     "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference"
+    },
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
+    }
+   ]
+  },
+  {
+   "id": "8a35af252b32001f777c",
+   "title": "Anthropic reportedly plans to move ahead with IPO",
+   "deck": "The Wall Street Journal reports that Anthropic is pressing ahead with its stock market listing despite jittery markets; the company has not confirmed the details.",
+   "summary": [
+    "Anthropic is reportedly moving ahead with its planned initial public offering, according to the Wall Street Journal. TechCrunch summarized the report on Monday. Anthropic has not confirmed any of the details, so everything below should be treated as reported rather than established.",
+    "The Journal says the company intends to set a valuation range this week and begin trading on the Thursday or Friday of next week. That timetable would put a major technology listing into a difficult moment, coming shortly after one of the Nasdaq's biggest sell-offs and amid fallout from reports that a chief executive central to the AI boom had an affair with a suspected Chinese spy.",
+    "The price is the open question. Per the report, some institutional investors are now pushing for a valuation below the $1.5 trillion figure discussed as recently as last week. That figure was itself well under the $2 trillion that had been floated a few months earlier. The report suggests investors will treat Anthropic's final range as a gauge of how healthy the AI boom remains.",
+    "For comparison, TechCrunch notes that rival OpenAI was reportedly valued at $1.25 trillion last week after raising $11 billion in new capital, short of the $20 billion it had first sought. Anthropic's listing plans, details and pricing could change before any shares trade."
+   ],
+   "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-10T01:27:12+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+    }
+   ]
+  },
+  {
+   "id": "2f05eab281f5e9f67b4e",
+   "title": "Anthropic buys $3.4 billion of gas turbines",
+   "deck": "Anthropic is reportedly spending $3.4 billion on Caterpillar gas turbines, a rare physical-infrastructure purchase driven by AI's power shortage.",
+   "summary": [
+    "Anthropic is spending $3.4 billion on natural gas turbines, according to a Financial Times report relayed by TechCrunch. Anthropic has generally avoided buying physical infrastructure, so the purchase marks a shift. The Caterpillar generators can produce up to 1.7 gigawatts of electricity.",
+    "The reported background is unusual. Equipment supplier OnePWR ordered the turbines a couple of years ago but could not find financing to complete the purchase. Anthropic had planned to buy them from OnePWR, but instead went directly to Caterpillar, the manufacturer. It is not clear why OnePWR could not secure funding.",
+    "Historically, Anthropic has preferred renting capacity. In an S-1 filing in May it disclosed that it pays xAI, a SpaceX subsidiary, $1.25 billion a month through May 2029 for computing power, and said it expects to sign more similar contracts. TechCrunch's reading is that the turbine purchase looks like a last resort, since the backlog for gas turbines stretches into the early 2030s and grid connection queues can be just as long. It also speculates, without evidence, that Anthropic may have wanted to keep the capacity from a competitor. That is the outlet's opinion.",
+    "Other large AI firms, including Google, Amazon, Microsoft and Meta, have announced on-site gas plants for their data centers. TechCrunch cites one analyst who expects gas prices could more than triple by the end of the decade in some markets, which could leave buyers with regrets."
+   ],
+   "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-09T16:56:54+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
+    }
+   ]
+  },
+  {
+   "id": "7cebdf7992375cd77c81",
+   "title": "Qantas to outsource 850 jobs, most to India",
+   "deck": "Qantas says it will outsource 850 corporate jobs to Accenture, most of them moving to India, as it pushes ahead with AI and IT upgrades.",
+   "summary": [
+    "Qantas will outsource 850 Australian corporate jobs to the consulting firm Accenture, with most of the work moving to India, the airline announced on Tuesday. It said the multi-year agreement is meant to modernize its back-end systems, processes and data as it steps up investment in technology and AI.",
+    "In an internal email, chief executive Vanessa Hudson apologized for \"the uncertainty it brings\" and said the changes would begin around mid-2027. They start with finance, procurement, people and marketing roles, which would shift \"mostly\" to teams in India and \"some in Australia\". Hudson said the airline runs on more than 1,000 legacy applications \"never designed to work together\" and spends over A$1bn a year on technology. Qantas says affected staff will be redeployed where possible, and that the outsourced work will in time be \"transformed further with automation and AI\". These are the company's own explanations.",
+    "Hudson said the airline is consulting staff and unions before final decisions are made. The BBC has sought comment from the Australian Services Union. The Guardian expects a strong union response, noting that unions have previously fought Qantas over outsourcing.",
+    "The Guardian places the move among a run of cuts: it counts about 4,550 corporate jobs targeted in the past month across Qantas, NAB (2,500) and Canva (1,200). It links the wider pressure to a weak economy, high unemployment and elevated fuel prices."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo",
+   "section": "technology",
+   "scope": "technology",
+   "source": "BBC News",
+   "sourceGroup": "bbcnews",
+   "publishedAt": "2026-11-10T01:55:22+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbcnews",
+     "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo"
+    },
+    {
+     "source": "The Guardian",
+     "group": "theguardian",
+     "url": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul"
+    }
+   ]
+  },
+  {
+   "id": "9bbeae0d9077b0fb3d9a",
+   "title": "France blames Iran for supermarket fridge and freezer hacks",
+   "deck": "France says Iran's Revolutionary Guards were behind the attacks that overheated supermarket freezers, a claim Iran has not formally answered.",
+   "summary": [
+    "France has formally accused Iran of orchestrating cyberattacks that raised the temperatures of refrigerated and freezer units in supermarkets, spoiling tons of food. Foreign minister Jean-Noël Barrot told reporters in Paris that responsibility lay with the Islamic Revolutionary Guard Corps. The attribution is the French government's claim; BBC reports that Paris has not explained how it reached that conclusion, and notes that pinning down the origin of cyberattacks is extremely difficult.",
+    "Reported facts: on 11 October, hackers took control of software used to regulate fridge temperatures, hitting more than 100 Coopérative U stores and 180 Intermarché and Netto outlets, according to the BBC. A second wave in early November struck more than 100 stores across several European countries, and French blood banks were also targeted, though TechCrunch says those attacks were stopped before any blood spoiled.",
+    "Official statements: Barrot called the attack \"unprecedented\" in scale and aggression and promised Europe-wide sanctions. France summoned Iran's ambassador, and the Paris prosecutor opened an inquiry into the head of an IRGC-linked cyber unit and two deputies. Iran has not responded officially, and some Iranian media have dismissed the allegation as baseless, the BBC says.",
+    "Context and opinion: Rafe Pilling of cybersecurity firm Sophos told The Guardian the attacks, which relied on default passwords, were \"not particularly complex\" and fit Iranian capabilities. US officials reportedly suspect Iran in similar base freezer failures, without formal attribution."
+   ],
+   "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-09T19:19:24+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/"
+    },
+    {
+     "source": "BBC News",
+     "group": "bbcnews",
+     "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo"
+    },
+    {
+     "source": "The Guardian",
+     "group": "theguardian",
+     "url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe"
+    }
+   ]
+  },
+  {
+   "id": "b1be80b78bfbf737aef7",
+   "title": "Godrej Properties plans Rs 32,000 crore of launches in H2 FY27",
+   "deck": "The country's largest listed developer says it will double its launches in the second half of the fiscal year even as profit fell sharply.",
+   "summary": [
+    "Godrej Properties plans to launch homes worth Rs 32,000 crore in the second half of the 2026-27 fiscal year, double the Rs 16,000 crore launched between April and September. Chairperson Pirojsha Godrej gave the figures in an interview with the news agency PTI, as reported by The Economic Times.",
+    "Godrej said the pipeline is strong across Mumbai, Delhi-NCR, Pune, Bengaluru and Hyderabad, and that the company is on track to meet or beat its annual guidance for sales bookings, collections, launches, land purchases and project completions. On demand, he said: \"We are not seeing any of our own projects where we are disappointed with off-take.\" That is a company executive's assessment, not an independent measure.",
+    "The company's numbers back part of that picture. Sales bookings rose 7 per cent to Rs 16,659 crore in the first half. Full-year bookings are expected to climb 22 per cent to a record Rs 41,500 crore, against a guidance of Rs 39,000 crore. Collections stand at Rs 9,666 crore of a Rs 24,000 crore target. Deliveries lag: 3.4 million square feet were handed over in the first half against a 13.5 million target, which Godrej says will still be met.",
+    "Profit tells a weaker story. Consolidated net profit for the September quarter fell 62 per cent to Rs 154.15 crore, as expenses rose to Rs 2,476.74 crore from Rs 1,300.98 crore a year earlier, while total income grew to Rs 2,571.73 crore."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/godrej-properties-to-launch-rs-32000-cr-homes-h2-fy27-amid-strong-housing-demand/articleshow/135680134.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "economictimes",
+   "publishedAt": "2026-11-09T11:23:50Z",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "economictimes",
+     "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/godrej-properties-to-launch-rs-32000-cr-homes-h2-fy27-amid-strong-housing-demand/articleshow/135680134.cms"
+    }
+   ]
+  },
+  {
+   "id": "521130329cfdb11dde45",
+   "title": "Modi and Zelenskyy speak ahead of Abu Dhabi peace talks",
+   "deck": "The Indian prime minister called Ukraine's president on the eve of US-brokered talks, and Kyiv says India has offered to mediate over Black Sea grain routes.",
+   "summary": [
+    "Prime Minister Narendra Modi spoke by phone with Ukrainian President Volodymyr Zelenskyy on Monday, a day before Russia-Ukraine peace talks begin in Abu Dhabi. External Affairs Minister S. Jaishankar separately spoke with Russian Foreign Minister Sergey Lavrov. The Hindu describes the calls as the clearest sign yet of New Delhi's mediating role.",
+    "Official statements: India's Ministry of External Affairs said Modi stressed that the conflict must be resolved through dialogue and diplomacy and conveyed India's readiness to contribute to peace efforts. Modi posted that the two leaders agreed to strengthen bilateral ties. Jaishankar said his conversation with Lavrov \"focused on the Ukraine conflict and ongoing diplomatic initiatives.\"",
+    "Zelenskyy's account: in a social media post, he said he briefed Modi on diplomatic developments, discussed Russia's blocking of Black Sea grain exports, and that \"India is ready to mediate in establishing food corridors.\" This is Ukraine's characterisation; the Indian statements quoted by the outlets did not use that wording.",
+    "Background: according to The Hindu, India floated a four-point proposal in October covering an end to attacks on civilians, grain and energy exports through the Black Sea, and an end to targeting ships and seafarers. The Indian Express says Zelenskyy had not spoken publicly about it before. US negotiators including Jared Kushner and Steve Witkoff are due to restart talks with both sides after three months. It is unclear whether India will join them."
+   ],
+   "url": "https://www.thehindu.com/news/international/pm-modi-speaks-to-ukrainian-president-zelenskyy-on-kyiv-moscow-conflict-bilateral-relations/article71683116.ece",
+   "section": "world",
+   "scope": "world",
+   "source": "The Hindu",
+   "sourceGroup": "thehindu",
+   "publishedAt": "2026-11-09T18:51:50+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Hindu",
+     "group": "thehindu",
+     "url": "https://www.thehindu.com/news/international/pm-modi-speaks-to-ukrainian-president-zelenskyy-on-kyiv-moscow-conflict-bilateral-relations/article71683116.ece"
+    },
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/pm-narendra-modi-volodymyr-zelensky-discuss-bilateral-ties-peace-efforts-in-russia-ukraine-war-12304560"
+    },
+    {
+     "source": "Times of India",
+     "group": "timesofindia",
+     "url": "https://timesofindia.indiatimes.com/india/pm-modi-speaks-with-zelenskyy-discusses-efforts-for-russia-ukraine-peace-deal/articleshow/135684263.cms"
+    },
+    {
+     "source": "Indian Express",
+     "group": "indianexpress",
+     "url": "https://indianexpress.com/article/india/narendra-modi-volodymyr-zelenskyy-call-india-ukraine-black-sea-food-corridor-10956969/"
+    }
+   ]
+  },
+  {
+   "id": "7ec4e403a2cb10afdf38",
+   "title": "Delhi Diwali pollution: monitoring data went missing at peak",
+   "deck": "Readings from dozens of Delhi monitoring stations went blank at the height of Diwali pollution, and experts disagree on why.",
+   "summary": [
+    "Hourly air quality data from many government monitors in Delhi vanished during the worst of the Diwali pollution on 8 and 9 November. An analysis by the Centre for Research on Energy and Clean Air (CREA), cited by The Hindu and NDTV, counted 227 missing hourly PM2.5 readings across 59 stations between midnight and 5 a.m. Only 14 stations reported complete data. The Times of India separately reported that 35 stations initially went blank and only 47 fed into the Diwali-day average.",
+    "Experts warn that gaps can pull the official AQI down. CREA analyst Manoj Kumar said missing hourly data \"will artificially lower the AQI.\" Public readings also appear capped at 1,000 micrograms per cubic metre, which is the upper limit of the analysers. Anil Gupta, a pollution board member, told NDTV the stations stop reporting above that level and called it \"a technical glitch\" with no deliberate move. Former CPCB official Dipankar Saha disagreed, saying a glitch has nothing to do with high or low values, and said the cause could lie in the analyser or display.",
+    "Official response: Delhi minister Kapil Mishra said the government would look into it. The CPCB member secretary did not respond to The Hindu. An activist, Bhavreen Kandhari, alleged the data was being fudged; no evidence of tampering is reported.",
+    "The Times of India says Diwali-day AQI hit 376, the worst in five years."
+   ],
+   "url": "https://www.thehindu.com/news/cities/Delhi/at-peak-of-air-pollution-on-deepavali-night-data-goes-missing-at-several-govt-monitoring-stations-in-delhi/article71682391.ece",
+   "section": "world",
+   "scope": "world",
+   "source": "The Hindu",
+   "sourceGroup": "thehindu",
+   "publishedAt": "2026-11-09T19:02:58+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Hindu",
+     "group": "thehindu",
+     "url": "https://www.thehindu.com/news/cities/Delhi/at-peak-of-air-pollution-on-deepavali-night-data-goes-missing-at-several-govt-monitoring-stations-in-delhi/article71682391.ece"
+    },
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/experts-explain-why-delhis-air-quality-monitors-went-blank-on-diwali-night-12305060"
+    },
+    {
+     "source": "Times of India",
+     "group": "timesofindia",
+     "url": "https://timesofindia.indiatimes.com/india/delhi-pollution-on-diwali-rockets-to-worst-in-5-years/articleshow/135692723.cms"
+    }
+   ]
+  },
+  {
+   "id": "1170838e0ee79f755454",
+   "title": "Delhi Police serve notice on Mamata Banerjee in 2013 protest case",
+   "deck": "Delhi Police have served the former West Bengal chief minister in a 2013 protest case, with reports differing on whether she is a witness or a victim.",
+   "summary": [
+    "Delhi Police on Monday served a notice on Mamata Banerjee, the former West Bengal chief minister, over a case registered in April 2013 at Parliament Street police station. According to The Hindu, a Delhi Police team went to her home in Kalighat, Kolkata, to deliver it.",
+    "The case grew out of protests by Left and Students' Federation of India activists in New Delhi after the death in police custody of an SFI leader, Sudipto Gupta, in Kolkata. On 9 April 2013, protesters gathered outside the Planning Commission office, where Banerjee and the then state finance minister Amit Mitra had arrived for a meeting, and allegedly heckled them. Police registered a case alleging obstruction of public servants. Police cited sections of the Indian Penal Code in a statement quoted by The Hindu.",
+    "Reports differ on her status. The Hindu and The Times of India, citing police and PTI sources, say she was asked to appear as a witness to record her statement, and not as an accused. NDTV, carrying a syndicated PTI feed, says the notice was issued to her as a \"victim\" in the case. Both versions say she is not being treated as an accused.",
+    "NDTV adds that earlier attempts to record witness statements had failed even though notices were received. None of the reports quote Banerjee or her party responding to the notice."
+   ],
+   "url": "https://www.thehindu.com/news/national/west-bengal/13-years-on-delhi-police-serve-notice-on-mamata-banerjee-in-2013-protest-case/article71683504.ece",
+   "section": "world",
+   "scope": "world",
+   "source": "The Hindu",
+   "sourceGroup": "thehindu",
+   "publishedAt": "2026-11-09T16:58:27+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Hindu",
+     "group": "thehindu",
+     "url": "https://www.thehindu.com/news/national/west-bengal/13-years-on-delhi-police-serve-notice-on-mamata-banerjee-in-2013-protest-case/article71683504.ece"
+    },
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/mamata-banerjee-gets-delhi-police-notice-to-record-statement-in-2013-case-12305166"
+    },
+    {
+     "source": "Times of India",
+     "group": "timesofindia",
+     "url": "https://timesofindia.indiatimes.com/india/delhi-police-issues-notice-to-mamata-banerjee-as-witness-in-2013-protest-case/articleshow/135686813.cms"
+    }
+   ]
+  },
+  {
+   "id": "dd7b35d6ec8d9008d6c7",
+   "title": "Trinamool MLA Paresh Ram Das arrested on rape and extortion charges",
+   "deck": "West Bengal police say a Trinamool MLA was detained at Kolkata airport over rape and extortion allegations, which remain unproven.",
+   "summary": [
+    "Police in West Bengal arrested Paresh Ram Das, the Trinamool Congress MLA for Canning Paschim, at Kolkata's Netaji Subhas Chandra Bose International Airport on Monday evening, 9 November. The allegations are police claims; he is presumed innocent.",
+    "According to a Baruipur District Police press release cited by NDTV, he is named in a case registered at Canning police station on 5 September under Indian Penal Code sections covering rape, causing hurt, cheating, criminal conspiracy and criminal intimidation. The complaint, as relayed by NDTV, alleges that before the 2023 panchayat polls he demanded Rs 4 lakh from the complainant's husband for an election ticket. It further alleges the money was taken at an old age home he ran, and that the woman was locked in and raped. These are the complainant's allegations, not findings. NDTV says he evaded summons for 17 days.",
+    "Police sources told The Hindu that a Baruipur special operations team tracked him to the airport. NDTV reports he is due before a district court in South 24 Parganas on Tuesday, where prosecutors will seek police custody.",
+    "The politics are contested. The Hindu notes that several Trinamool leaders, including five former ministers, have been arrested since the BJP took power in May 2026. Party spokesperson Kunal Ghosh claimed police acted only once Das backed Mamata Banerjee rather than the rebel camp. That is a party claim, and the reports include no police response to it."
+   ],
+   "url": "https://www.thehindu.com/news/cities/kolkata/trinamool-mla-paresh-ram-das-arrested-on-charges-of-rape-and-extortion/article71683579.ece",
+   "section": "world",
+   "scope": "world",
+   "source": "The Hindu",
+   "sourceGroup": "thehindu",
+   "publishedAt": "2026-11-09T23:08:34+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Hindu",
+     "group": "thehindu",
+     "url": "https://www.thehindu.com/news/cities/kolkata/trinamool-mla-paresh-ram-das-arrested-on-charges-of-rape-and-extortion/article71683579.ece"
+    },
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/rape-accused-trinamool-congress-mla-paresh-ram-das-arrested-at-kolkata-airport-12305159"
+    }
+   ]
+  },
+  {
+   "id": "99e81647ba45e2d02892",
+   "title": "Kerala starts fuel sample tests after Karnataka ethanol claim (update)",
+   "deck": "Update: Kerala has begun testing petrol for ethanol after Karnataka's disputed claim, while oil companies and the Centre reject the original finding.",
+   "summary": [
+    "This updates earlier coverage of Karnataka's claim that petrol sold there contained more ethanol than the 20 per cent allowed. On Monday, 9 November, the Congress-led Kerala government began its own checks, setting up a possible dispute with the Centre over E20 fuel.",
+    "Civil Supplies Minister Anoop Jacob said officials took samples at nine outlets of Indian Oil, BPCL and HPCL in Thiruvananthapuram, Ernakulam, Kozhikode and Kannur, with oil-company representatives present. Samples go to government chemical labs, and he expects results within about ten days. He told the Indian Express that no over-blending had been reported in Kerala, but that he had received complaints and reports of vehicle faults. He said strict action would follow if the fuel proves adulterated.",
+    "Karnataka's minister, Rizwan Arshad, said third-party tests of 63 samples found ethanol at up to 31.2 per cent. The three state-run oil companies reject this and question how the samples were collected and tested. The Petroleum Ministry says all 893 E20 samples it drew across 27 states and Union Territories met standards. Karnataka defended its findings on Monday.",
+    "Union minister of state Suresh Gopi said states may test, but should avoid political mudslinging. Opposition leader Rahul Gandhi called the claim \"petrol theft\". Kerala's own results are not yet known, and nothing in the reports confirms the Karnataka figures independently."
+   ],
+   "url": "https://timesofindia.indiatimes.com/india/now-cong-led-keralam-govt-follows-karnataka-on-ethanol-test/articleshow/135692622.cms",
+   "section": "world",
+   "scope": "world",
+   "source": "Times of India",
+   "sourceGroup": "timesofindia",
+   "publishedAt": "2026-11-09T20:01:27Z",
+   "timestampType": "published",
+   "older": false,
+   "updated": true,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Times of India",
+     "group": "timesofindia",
+     "url": "https://timesofindia.indiatimes.com/india/now-cong-led-keralam-govt-follows-karnataka-on-ethanol-test/articleshow/135692622.cms"
+    },
+    {
+     "source": "Economic Times",
+     "group": "economictimes",
+     "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/keralam-testing-random-fuel-samples-for-ethanol-density-state-minister-anoop-jacob-says-major-concern-raised-in-karnataka/articleshow/135676084.cms"
+    },
+    {
+     "source": "Indian Express",
+     "group": "indianexpress",
+     "url": "https://indianexpress.com/article/india/karnataka-excess-ethanol-claims-kerala-inspections-sample-testing-petrol-10956218/"
+    }
+   ]
+  },
+  {
+   "id": "d7b738c8fe61b4c94570",
+   "title": "Ladakh groups oppose winter local-body polls",
+   "deck": "Political and community groups in Ladakh want panchayat and local-body elections put off, citing winter migration and unfinished constituency work.",
+   "summary": [
+    "Several groups in Ladakh said on Monday, 9 November, that planned local elections should be postponed. They argue that winter polling would shut out many voters and that preparations are rushed.",
+    "The Hindu reports that the Lieutenant Governor's administration last month dissolved the Kargil hill council and announced panchayat and municipal elections for 21 November, to be completed before 30 November. Tsering Dorjey Lakrook of the Ladakh Buddhist Association and the Leh Apex Body called the polls a \"conspiracy\" and said they should be held in April or May once constituencies are framed. He also alleged, without evidence offered in the report, that fraud is easy in a small region. He said an agitation would start within days.",
+    "In Kargil, the Kargil Democratic Alliance has called a complete shutdown for Tuesday. Its co-chairman Sajjad Kargili said roughly a quarter of residents leave in winter and accused the administration of imposing decisions. Ladakh MP Mohmad Haneefa wrote to the Lieutenant Governor, saying winter elections could leave eligible voters unable to take part.",
+    "Reports differ slightly on scope. The Indian Express says panchayat polls are set for 21 November while hill council elections are unannounced, though speculated for December. The Times of India says the administration has given no hill council dates. Administration officials were unavailable for comment. Talks between the Centre and Ladakh groups also stalled in October."
+   ],
+   "url": "https://www.thehindu.com/news/national/ladakh/postpone-panchayat-municipal-elections-to-april-may-next-year-ladakh-group/article71683915.ece",
+   "section": "world",
+   "scope": "world",
+   "source": "The Hindu",
+   "sourceGroup": "thehindu",
+   "publishedAt": "2026-11-09T21:54:17+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Hindu",
+     "group": "thehindu",
+     "url": "https://www.thehindu.com/news/national/ladakh/postpone-panchayat-municipal-elections-to-april-may-next-year-ladakh-group/article71683915.ece"
+    },
+    {
+     "source": "Times of India",
+     "group": "timesofindia",
+     "url": "https://timesofindia.indiatimes.com/india/fearing-winter-polls-ladakh-political-parties-social-bodies-plan-protests/articleshow/135693310.cms"
+    },
+    {
+     "source": "Indian Express",
+     "group": "indianexpress",
+     "url": "https://indianexpress.com/article/india/ladakh-winter-elections-kargil-shutdown-mp-raises-concerns-10956710/"
+    }
+   ]
+  },
+  {
+   "id": "9641a16883f21f0be4dc",
+   "title": "Ukraine peace talks resume in the UAE",
+   "deck": "Russia, Ukraine and the US hold their first three-way talks since February in Abu Dhabi, with positions still far apart.",
+   "summary": [
+    "Delegations from Moscow, Kyiv and Washington are meeting in Abu Dhabi for the first three-way talks on ending the war in Ukraine since February, the BBC reports. The last round, in Geneva, produced no breakthrough, and talks lapsed after the US-Israel war on Iran took Washington's attention.",
+    "A US official, speaking before the talks, said both sides are showing \"a little bit of flexibility, privately\" on who would control Ukraine's eastern regions after the war. That is one anonymous official's characterisation. Publicly, Russia demands that Ukraine give up the parts of Donetsk it still holds, while Ukraine wants to freeze the front line. The official said the territorial question cannot be settled before a postwar security arrangement is agreed. Ideas floated include crisis hotlines, security consultations and reviving the Nato-Russia Council.",
+    "Jared Kushner, part of the US team with envoy Steve Witkoff, said the talks would address both sides' postwar security concerns, but cautioned they could at most \"build momentum\" toward the next phase. The US plans to propose widening the format to include Europeans, who have so far been largely excluded. Ursula von der Leyen has urged their inclusion.",
+    "Scepticism is strong in Kyiv. Ukrainian MP Oleksandr Merezhko said he believes President Trump wants \"a quick deal at the expense of Ukraine\", and argued that sanctions and deep strikes are needed to pressure Russia. That is his opinion. Russian strikes on Ukraine have continued."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbcnews",
+   "publishedAt": "2026-11-10T00:09:49+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbcnews",
+     "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o"
+    }
+   ]
+  },
+  {
+   "id": "bfba74fdc28fbe1a40c8",
+   "title": "Steel plant blast in Turkey kills at least 17",
+   "deck": "An explosion at a steel plant near Izmir killed at least 17 workers, with five reportedly arrested and a search still under way.",
+   "summary": [
+    "At least 17 people died and 12 were injured in an explosion at the Habas Demir Celik iron and steel plant in Aliaga, near the western Turkish port city of Izmir, the BBC reports. Authorities said all of the dead and injured were workers.",
+    "Izmir's governor said the blast came around midday, after a crane carrying a replacement boiler collapsed and material fell into a furnace below. The company said the accident happened during scheduled maintenance on one of the plant's electric arc furnaces. Footage showed a large fire and a tall column of smoke, and witnesses said the ground shook so hard that one person thought an earthquake had struck.",
+    "President Recep Tayyip Erdogan first put the toll at 16 after a cabinet meeting. Health Minister Kemal Memisoglu later said a critically injured person had died, raising it to 17. The governor said some people were believed to be under rubble, and rescue work continued. Erdogan said investigations were under way.",
+    "BBC Turkish, citing local media, reports that at least five people have been arrested. The reasons for the arrests are not given, and no charges are described. The independent group Turkish Health and Safety Labor Watch says workplace accidents remain a chronic problem in Turkey. The cause of the blast is not yet formally established beyond the officials' accounts above."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbcnews",
+   "publishedAt": "2026-11-09T20:42:04+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbcnews",
+     "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo"
+    }
+   ]
+  },
+  {
+   "id": "85831887198483330119",
+   "title": "Republican congressman to force impeachment vote on Hegseth",
+   "deck": "A Republican congressman has forced a House vote on impeaching the defence secretary over the Iran war, though it is widely expected to fail.",
+   "summary": [
+    "Republican Representative Thomas Massie introduced articles of impeachment against Defence Secretary Pete Hegseth on the House floor on Monday. The move starts a 48-hour clock, after which the chamber must act. Members could vote on the resolution directly, send it to committee or set it aside.",
+    "Massie's central claim is that Hegseth has engaged in hostilities in Iran for more than 90 days without congressional authorisation. \"Secretary Hegseth is breaking the law and must be held accountable,\" he said. The Guardian reports the filing contains eight articles. Massie, who lost re-election this year, says his aim is to push President Trump to name a replacement while Republicans still control Congress.",
+    "Hegseth has called the effort a \"sham\" and dismissed Massie as a \"disgruntled, defeated congressman\". He said he plans a news conference on Tuesday. Trump has defended him, saying Hegseth \"won the war in Venezuela\" and is \"winning\" in Iran, and he called Massie a \"stone cold loser\".",
+    "Outcomes are disputed. The BBC says the effort will likely fail, and that removal would require a Senate conviction by a two-thirds vote. Massie told reporters he was unsure it had the votes. One academic quoted by the BBC predicted it might pass, a forecast rather than a fact. Democrats, who take control of Congress in January, have signalled openness to their own effort."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbcnews",
+   "publishedAt": "2026-11-10T01:38:49+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbcnews",
+     "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro"
+    },
+    {
+     "source": "The Guardian",
+     "group": "theguardian",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates"
+    }
+   ]
+  },
+  {
+   "id": "8f42c893f2f16c12d5fc",
+   "title": "Norris wins Brazilian GP as Mercedes clinch constructors title",
+   "deck": "Lando Norris won a rain-hit Sao Paulo Grand Prix while Mercedes sealed the constructors' title despite errors from both of its drivers.",
+   "summary": [
+    "Lando Norris won the Brazilian Grand Prix at Interlagos on Sunday, beating Max Verstappen in changeable wet and dry conditions. It was McLaren's third victory of the season and, by the BBC's count, Norris's first win since the Dutch Grand Prix at the end of August.",
+    "Norris started on pole but lost the lead to Mercedes' Kimi Antonelli at the start. An earlier switch to dry-weather tyres brought him onto Antonelli's tail, and the new world champion then spun at the first corner after complaining of strange handling. Norris took the lead and held it through a late shower, controlling the final laps on intermediate tyres. \"I just kept it cool and I did not make any mistakes,\" he said.",
+    "Verstappen finished second after starting from the back of the grid with an engine penalty, and Isack Hadjar made it a Red Bull double on the podium. Mercedes took the constructors' championship, its ninth and first since 2021, with George Russell fourth and Antonelli fifth, even though Russell spun in the pit-lane exit.",
+    "Stewards later issued five-second penalties. Ferrari's Charles Leclerc was blamed for a late collision with Liam Lawson and dropped from seventh to eighth, promoting Lawson. Antonelli and Haas driver Oliver Bearman were penalised for unsafe pit releases, which changed neither driver's finishing position. Oscar Piastri was sixth and Lewis Hamilton ninth."
+   ],
+   "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-wins-in-mixed-conditions-mercedes-clinches-constructors-title/10873048/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "autosport",
+   "publishedAt": "2026-11-08T18:50:51Z",
+   "timestampType": "published",
+   "older": true,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "autosport",
+     "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-wins-in-mixed-conditions-mercedes-clinches-constructors-title/10873048/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+     "source": "BBC Sport",
+     "group": "bbcsport",
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo"
+    },
+    {
+     "source": "Autosport",
+     "group": "autosport",
+     "url": "https://www.autosport.com/f1/news/leclerc-penalised-for-lawson-clash-antonelli-and-oliver-bearman-also-punished-after-f1-brazilian-gp/10873166/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    }
+   ]
+  },
+  {
+   "id": "197c01cf875f88719441",
+   "title": "Piastri and Webber end management agreement",
+   "deck": "Oscar Piastri and Mark Webber have agreed to end their seven-year management partnership, an exit that had been foreshadowed since February.",
+   "summary": [
+    "Formula 1 driver Oscar Piastri and Mark Webber have mutually agreed to end their management agreement, the pair announced on Monday. Webber and his wife Ann became Piastri's managers in 2019, when he won the Formula Renault Eurocup title.",
+    "In a joint statement, Webber said the two had \"collectively agreed\" the time was right after his reduced trackside involvement this season, allowing Piastri to build \"under a new management structure\". Piastri thanked the couple for their support and advice, calling their guidance \"invaluable\" at the start of his F1 career.",
+    "Autosport notes Piastri signalled the change in February, saying nothing specific had triggered it and that Webber would simply be trackside less. Webber's role was already smaller this year, with Pedro Matos and mental coach Emma Murray among those assisting the McLaren driver.",
+    "Autosport's analysis, which is its interpretation rather than confirmed fact, links the split to a tense 2025 season and McLaren's \"papaya rules\", suggesting Webber was not always happy with how the team handled certain moments. It adds that McLaren never formally asked Piastri to change manager, and that Autosport understands the driver formed his own view. The piece also argues Piastri, now with a contract to the end of 2028, needs less hands-on guidance than he did as a rookie. Piastri has nine wins from 88 starts."
+   ],
+   "url": "https://www.autosport.com/f1/news/oscar-piastri-splits-from-mark-webber-management/10873258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "autosport",
+   "publishedAt": "2026-11-09T08:43:40Z",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "autosport",
+     "url": "https://www.autosport.com/f1/news/oscar-piastri-splits-from-mark-webber-management/10873258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+     "source": "Autosport",
+     "group": "autosport",
+     "url": "https://www.autosport.com/f1/news/whats-behind-piastris-split-with-webber-and-what-it-means-for-his-f1-career/10873410/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    }
+   ]
+  },
+  {
+   "id": "b74c299d4888507b0a7d",
+   "title": "Man Utd expected to sack head coach Carrick",
+   "deck": "Manchester United are reported to be leaning towards sacking head coach Michael Carrick after their worst league start in 40 years, though no decision has been confirmed.",
+   "summary": [
+    "Manchester United look increasingly likely to sack head coach Michael Carrick, according to BBC Sport. This is a reported expectation, not a confirmed decision. Multiple sources told the BBC that the board remains committed to a review during the international break and that no final decision has been made.",
+    "The BBC reports a growing expectation that chief executive Omar Berrada and director of football Jason Wilcox will recommend a sacking to minority owner Sir Jim Ratcliffe and the Glazer family. United chose to keep Carrick after a 3-0 home loss to Bournemouth on 25 October, then drew 4-4 with Aston Villa on Sunday.",
+    "The numbers are poor. United are 18th, one point above bottom club Crystal Palace, with one win in 10 league games and 19 goals conceded. The BBC calls it their worst start to a top-flight season since 1986/87, and says the team has won just three of 15 matches in all competitions.",
+    "On possible successors, the BBC reported in October that the club sounded out Eddie Howe and Julian Nagelsmann. It says Antonio Conte is known to be keen, and that multiple sources say Mauricio Pochettino is open to a move. Pochettino extended his deal as USA coach in August, but the contract is thought to include clauses allowing him to leave for certain high-profile jobs. These names come from the BBC's sourcing and are unconfirmed."
+   ],
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po",
+   "section": "sport",
+   "scope": "sport",
+   "source": "BBC Sport",
+   "sourceGroup": "bbcsport",
+   "publishedAt": "2026-11-09T23:13:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC Sport",
+     "group": "bbcsport",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "name": "Indian Express",
+   "section": null,
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "NDTV",
+   "section": null,
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "The Hindu",
+   "section": null,
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Times of India",
+   "section": null,
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC News",
+   "section": null,
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "The Guardian",
+   "section": null,
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "TechCrunch",
+   "section": null,
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "The Verge",
+   "section": null,
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Economic Times",
+   "section": null,
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC Sport",
+   "section": null,
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Autosport",
+   "section": null,
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Gadgets 360",
+   "section": null,
+   "status": "ok",
+   "count": 0
+  }
+ ]
+}
