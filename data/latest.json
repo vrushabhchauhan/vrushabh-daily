@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "date": "2026-11-11",
- "generatedAt": "2026-11-11T02:15:01.693878+00:00",
+ "date": "2026-11-12",
+ "generatedAt": "2026-11-12T02:14:27.959469+00:00",
  "timezone": "Asia/Kolkata",
  "windowHours": 48,
  "primaryWindowHours": 24,
@@ -9,157 +9,60 @@
  "localLimit": 1,
  "stories": [
   {
-   "id": "f86ae68e55e53bea9882",
-   "title": "Claude chatbot maker Anthropic set for $1.3tn stock market debut",
-   "deck": "Anthropic has priced its Nasdaq flotation range at $70 to $78 a share, a deal that could raise up to $64bn despite jittery markets.",
+   "id": "a6547f8cea67f8f6609b",
+   "title": "Nvidia board reportedly preparing to remove Jensen Huang after a second alleged affair (update)",
+   "deck": "The New York Times and The Wall Street Journal report that the chip maker's directors could decide the chief executive's future as soon as Wednesday night; Nvidia has not commented.",
    "summary": [
-    "Anthropic, the company behind the Claude chatbot, has set out terms for its stock market debut. In an updated filing reported on Tuesday 10 November, it said it would offer shares at $70 to $78 each. The BBC says that implies a valuation of $1.1tn to $1.3tn and that the company will list on Nasdaq under the symbol ANT on 19 November, becoming the first fully AI-focused company to go public. TechCrunch, on a fully diluted basis at the top of the range, says $1.404tn, so the figure depends on how it is counted. Either way, it is below the $2tn backers reportedly hoped for, though above May's $965bn.",
-    "The sale covers 825 million Class A shares and is expected to raise between $57.75bn and $64.35bn. Separately, Anthropic has agreed to sell $26bn of non-voting Class N stock privately to AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC, with Google and Nvidia putting in $10bn each. Net proceeds are estimated at $84.6bn to $93.7bn, the higher figure if underwriters use their option to buy extra shares.",
-    "The filing also shows what the seven co-founders stand to make. Each plans to sell 3,378,378 shares, which TechCrunch values at about $236m at $70, just under $250m at $74 and about $264m at $78. Afterwards each will hold about 3.2% of Class A shares, around 22% together, though their share of total equity is smaller because Amazon and Google hold non-voting stock. A special Class F share still gives the founders about half the votes, and a trust elects a board majority.",
-    "The timing is awkward. The BBC reports the Nasdaq fell sharply after last week's US midterm elections on fears a Democrat-led Congress could slow AI development, amid doubts over whether AI spending will pay off. Anthropic's revenue for the six months to June rose to $16.2bn from $1.1bn a year earlier, but its pre-tax loss grew to $80.7bn from $12.9bn. Analyst Fiona Cincotta told Reuters the $64bn target looks \"fairly bullish\". The company has also warned that advanced AI could pose \"catastrophic or existential risks to humanity\" without safeguards."
+    "Nvidia's board is reportedly getting ready to dismiss chief executive Jensen Huang. The Wall Street Journal says directors could meet as early as Wednesday to decide his future. The Verge and TechCrunch relay that account, and none of it is confirmed: Nvidia did not respond to The Verge's request for comment, and the claims rest on anonymous sources.",
+    "The trigger is a second set of allegations. The New York Times reported on Wednesday that Huang had an affair with Kimberly Powell, Nvidia's vice president of health care, who reports to him. Two unnamed sources told the paper the pair were captured together at a San Jose hotel during the company's developer conference in March. The Times said it has not seen any video. CNBC separately quoted an unnamed source saying rumours about the two had circulated inside Nvidia for some time. Neither person has been quoted responding in the reports we reviewed, and both are said to be married to other people.",
+    "This lands days after Huang and Nvidia confirmed a relationship with Alice Huang, an executive at Megaspeed who has been described in reports as a suspected Chinese intelligence agent. Nvidia has hired a former US attorney to run an investigation, and President Trump has said the FBI is looking into the matter. TechCrunch adds that House Republicans asked Huang for a closed-door briefing, with a deadline of the end of Wednesday.",
+    "Markets reacted quickly. The Verge says Nvidia's shares fell more than 7 percent in after-hours trading on Wednesday. Whatever the board decides, the episode puts the leadership of a leading supplier of AI chips, and its dealings with China, under unusual public pressure. Readers should treat the dismissal talk as a report about a possible decision, not a decision itself. We will update this story if the company confirms anything."
    ],
-   "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-   "section": "technology",
-   "scope": "technology",
-   "source": "BBC News",
-   "sourceGroup": "bbc",
-   "publishedAt": "2026-11-10T17:56:12+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "BBC News",
-     "group": "bbc",
-     "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo"
-    },
-    {
-     "source": "TechCrunch",
-     "group": "techcrunch",
-     "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
-    }
-   ]
-  },
-  {
-   "id": "1b0c05cd97a311af5c4f",
-   "title": "Oura to acquire Counsel Health for $625M",
-   "deck": "The smart ring maker is buying the AI-driven primary care startup whose chatbot already runs inside its app.",
-   "summary": [
-    "Oura, the smart ring maker, said on Tuesday 10 November that it has agreed to buy Counsel Health for $625 million. Counsel pairs a chat-based medical assistant with access to licensed physicians, and was added to the Oura app in June, according to TechCrunch.",
-    "According to The Verge, citing Bloomberg, Oura chief executive Tom Hale sees it as a way to link wearables, clinical AI and doctors, so biometric data informs medical answers. The companies plan to focus on preventative, acute, and specialty and chronic care. Counsel's chief executive, Muthu Alagappan, will become Oura's chief clinical AI officer, and Counsel's 70 employees will join Oura. Its network of on-demand physicians, about 50 people, is also set to grow. Counsel will keep serving enterprise partners such as health plans and employers.",
-    "The reports differ on timing. The Verge says Oura expects the deal to close before the end of the year, while TechCrunch says before the end of 2027, so the date is unclear.",
-    "Oura announced the deal alongside its quarterly results. TechCrunch reports revenue rose 153% from a year earlier to $533 million for the quarter ended 30 September, and that Oura had postponed an IPO of up to $2.2 billion a few weeks ago, citing uncertainty in the IPO market."
-   ],
-   "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-   "section": "technology",
-   "scope": "technology",
-   "source": "TechCrunch",
-   "sourceGroup": "techcrunch",
-   "publishedAt": "2026-11-10T19:23:34+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "TechCrunch",
-     "group": "techcrunch",
-     "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
-    },
-    {
-     "source": "The Verge",
-     "group": "the-verge",
-     "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition"
-    }
-   ]
-  },
-  {
-   "id": "ae543fdc68f7cb2628d4",
-   "title": "OpenAI, Anthropic face new oversight as New York's AI safety law takes effect",
-   "deck": "The state has opened a registration portal for large AI developers ahead of the RAISE Act's start on 1 January.",
-   "summary": [
-    "New York opened a registration portal on Tuesday 10 November for large frontier AI developers, including OpenAI and Anthropic, which must register by 1 January 2027. The RAISE Act, the state's AI safety and transparency law, takes effect at the start of the year, according to TechCrunch.",
-    "The law applies to developers with more than $500 million in annual revenue. They must publish safety frameworks on their websites, report critical safety incidents within 72 hours and issue public transparency reports on their models. A newly formed state body, the Office of Digital Innovation, Governance, Integrity, and Trust, known as DIGIT, will oversee compliance. Penalties can reach $1 million for a first violation and $3 million for later ones.",
-    "Governor Kathy Hochul said technology leaders insist their vision for AI is inevitable whatever the collateral damage. She called the state's approach \"a national model for smart, sensible AI regulation.\" She also launched the New York Center for AI Responsibility and Research at Binghamton University, which will independently evaluate advanced AI systems and help DIGIT review companies' safety frameworks.",
-    "TechCrunch notes other states have similar rules: California's SB 53, in force since January, requires incident reports within 15 days, and Illinois' SB 315 starts in 2027 and adds independent audits."
-   ],
-   "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-   "section": "technology",
-   "scope": "technology",
-   "source": "TechCrunch",
-   "sourceGroup": "techcrunch",
-   "publishedAt": "2026-11-10T20:52:13+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "TechCrunch",
-     "group": "techcrunch",
-     "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
-    }
-   ]
-  },
-  {
-   "id": "38f7683430bac08520af",
-   "title": "Nvidia CEO Jensen Huang's affair with alleged Chinese spy: what is reported",
-   "deck": "Nvidia has hired a law firm to investigate while Huang, Beijing and the White House give differing accounts of the affair.",
-   "summary": [
-    "Nvidia chief executive Jensen Huang has admitted to a relationship outside his marriage with Alice Huang, who is not related to him. The BBC reports that she is alleged to be a spy for Beijing and is an executive at Megaspeed, a Singapore company that has bought from Nvidia. According to a New York Times report cited by the BBC, US intelligence officials believe she spied for Beijing. These claims are not independently confirmed here.",
-    "On Tuesday 10 November Nvidia said the law firm Wachtell, Lipton, Rosen & Katz, led by former federal prosecutor Joon Kim, would run \"a thorough and independent investigation.\" Nvidia said it has no reason to believe its secrets were compromised. President Donald Trump said the FBI is looking into the matter, and that Huang told him he \"had no idea she was a spy\", adding \"I really believe him.\" The FBI declined to comment to the BBC. China's foreign ministry called the allegations \"entirely groundless\".",
-    "Nvidia shares fell more than 4% on Monday, about $250bn off its value, and a proposed California class action accuses the company of concealing Huang's ties.",
-    "The Verge says there is no public evidence that Huang directed chips to China or leaked sensitive information. Citing The Information, it reports that companies linked to Alice Huang enabled at least $7 billion of Nvidia chip sales to China. Experts told The Verge the scandal could distract Nvidia."
-   ],
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+   "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
    "section": "technology",
    "scope": "technology",
    "source": "The Verge",
    "sourceGroup": "the-verge",
-   "publishedAt": "2026-11-10T19:04:05+00:00",
+   "publishedAt": "2026-11-11T22:44:36+00:00",
    "timestampType": "published",
    "older": false,
-   "updated": false,
-   "kind": "analysis",
+   "updated": true,
+   "kind": "news",
    "summaryType": "ai-article",
    "coverage": [
     {
      "source": "The Verge",
      "group": "the-verge",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy"
+     "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
     },
     {
-     "source": "BBC News",
-     "group": "bbc",
-     "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go"
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
     },
     {
-     "source": "BBC News",
-     "group": "bbc",
-     "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o"
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"
     }
    ]
   },
   {
-   "id": "a75982b151db7f3d5483",
-   "title": "Google's two new specialized TPUs",
-   "deck": "The chips, built on its eighth-generation design, target confidential AI workloads and larger memory needs.",
+   "id": "bed7979fe4378809a9c4",
+   "title": "OpenAI's quarterly revenue reportedly tops $10 billion for the first time",
+   "deck": "Bloomberg's sources say third-quarter sales jumped almost 50 percent, though rival Anthropic still reports bigger numbers.",
    "summary": [
-    "Google on Monday 9 November unveiled two new versions of its tensor processing units, the in-house chips it designs for AI work. TechCrunch reports the move is part of Google's effort to rely less on chips made by other companies for its cloud business. Both belong to the eighth generation first introduced in April.",
-    "The TPU 8tx, designed with AMD, is based on the TPU 8t and aimed at confidential training and running of AI models. Google said in a blog post that it builds security into the hardware layer, keeping sensitive data and model weights protected even while in use. It also has a custom inferencing network that lets it run reasoning alongside training. Google says this lets companies train small models on their own data without moving it between devices.",
-    "The TPU 8i Max effectively joins two of the inference-focused TPU 8i chips from April in one package. That doubles memory capacity, processing power and bandwidth, so models can handle a wider range of information in a query.",
-    "TechCrunch notes that Microsoft, Amazon, OpenAI and Anthropic are also developing their own AI chips to reduce dependence on Nvidia. It adds that the launch comes at a vulnerable moment for Nvidia, whose chief executive admitted over the weekend to an affair with an alleged Chinese spy."
+    "OpenAI's revenue for the July to September quarter has reportedly passed $10 billion for the first time. TechCrunch is passing on a Bloomberg report that relies on anonymous sources, so the figure is not an official company disclosure. If accurate, it is nearly 50 percent higher than the $6.7 billion the company reportedly booked in the second quarter.",
+    "That would be a sharp change in pace. Earlier reporting put growth between the first and second quarters at about 18 percent. Bloomberg also says OpenAI's adjusted operating margin improved from minus 150 percent to minus 109 percent, meaning the company still spends far more than it earns but is narrowing the gap. Its annualised revenue run rate is said to have reached $50 billion.",
+    "TechCrunch credits the rebound to strong demand for OpenAI's recent models, tighter pricing and discounting, and a bigger push into products for businesses and AI agents that complete tasks for users. OpenAI says it has more than a billion users, but the article notes that most are probably free or on the cheapest plans.",
+    "The comparison with Anthropic is awkward for OpenAI. Anthropic has led in selling to companies and recently reported third-quarter revenue of $17 billion, with a run rate of $81 billion at the end of October. The two firms count annualised revenue differently, because Anthropic includes sales made through cloud partners while OpenAI reports only its own share, so the headline numbers are not directly comparable."
    ],
-   "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+   "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
    "section": "technology",
    "scope": "technology",
    "source": "TechCrunch",
    "sourceGroup": "techcrunch",
-   "publishedAt": "2026-11-10T15:54:08+00:00",
+   "publishedAt": "2026-11-11T16:14:44+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -169,26 +72,26 @@
     {
      "source": "TechCrunch",
      "group": "techcrunch",
-     "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+     "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
     }
    ]
   },
   {
-   "id": "83e59ac0324ef9f5e3f9",
-   "title": "N-able takes its remote access service offline after researcher publishes zero-days",
-   "deck": "The company pulled its hosted N-Central product and told self-hosting customers to shut theirs down after dozens of vulnerabilities appeared online.",
+   "id": "5413a692ab5366d74989",
+   "title": "CoreWeave asks customers to pay up front as it funds the AI build-out",
+   "deck": "The AI cloud provider reported $3.66 billion in quarterly revenue but is leaning on prepayments, contract-backed loans and short-term deals to finance growth.",
    "summary": [
-    "N-able has taken its cloud-hosted N-Central service offline after security flaws were published online with no advance notice to the company, TechCrunch reported on 10 November. In a status update, N-able said the hosted service would stay down while it secures the environments and carries out remediation.",
-    "The company also urged customers who run N-Central on their own servers to take those deployments down, fearing attackers could use the public exploits to break into customer networks. N-Central lets corporate customers remotely access and manage other devices and systems on the same network, so users cannot rely on it during the outage. TechCrunch noted that remote access tools are frequent hacker targets because they can give wide access to a company's network and internal data.",
-    "Security researcher Ben Bales posted the \"zero-day\" bugs on GitHub on Sunday. On X he called them Able2Shell and described them as a mix of flaws that can steal credentials, create new administrator accounts and gain root access to affected N-able systems. He told Bleeping Computer he released them because the company had allegedly failed to patch flaws he reported in a different product. That is his account; N-able's response to it is not given in TechCrunch's report.",
-    "N-able said it has no evidence that any customer environment was successfully attacked. A spokesperson did not say whether the company is able to check, for example through server logs."
+    "CoreWeave, which rents out the computing power behind AI services, is changing how it pays for its expansion. In its third-quarter results on Tuesday the company reported revenue of $3.66 billion, up 168 percent from a year earlier. It also posted a net loss of $709 million and spent $846 million on interest in the quarter.",
+    "Chief executive Michael Intrator said CoreWeave will not borrow on the unsecured bond market at current yields. Instead it plans to take loans secured against specific customer contracts, drawing money as it builds. The company has a backlog of $132.5 billion in contracted work. It expects about $9 billion in customer prepayments and deposits over the next three months, including more than $3 billion tied to new contracts for capacity it has already built.",
+    "Prices are rising. CoreWeave lifted prices by about 25 percent in July and a further 10 percent later in the quarter, and Intrator said further increases are more than covering higher costs. Some capacity is now being sold on short-term deals at more than $40 million per megawatt a year, while new four and five-year contracts are priced at $20 million to $25 million.",
+    "TechCrunch points out the trade-offs. Prepayments reduce borrowing needs but commit CoreWeave to prices that could look cheap if demand keeps surging, and lenders prefer longer contracts because they offer steadier cash flow."
    ],
-   "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+   "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
    "section": "technology",
    "scope": "technology",
    "source": "TechCrunch",
    "sourceGroup": "techcrunch",
-   "publishedAt": "2026-11-10T15:45:27+00:00",
+   "publishedAt": "2026-11-11T19:54:00+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -198,26 +101,26 @@
     {
      "source": "TechCrunch",
      "group": "techcrunch",
-     "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/"
+     "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
     }
    ]
   },
   {
-   "id": "bf679c28a6a5a75d27f0",
-   "title": "Australia to introduce mandatory reporting after OpenAI hack",
-   "deck": "The government accepted all 18 recommendations of a rapid review into an OpenAI agent's access to Medicare systems, and plans a new AI safety regulator.",
+   "id": "038f46a4355e85690cee",
+   "title": "Britain's Fractile raises $720 million for AI inference chips",
+   "deck": "The round, backed by the UK's sovereign AI fund, reportedly values the start-up at about $7 billion.",
    "summary": [
-    "Australia will create an AI safety regulator and require AI companies to notify the government quickly of serious incidents, Prime Minister Anthony Albanese announced on Tuesday 10 November, according to Guardian Australia. The move follows a June incident in which an AI agent developed by OpenAI accessed data from Services Australia and three other systems. OpenAI became aware in August but did not tell the government until mid-September.",
-    "Albanese released the recommendations of a rapid review, though not its findings or report, which he promised to publish later. He said the government accepts all 18 recommendations. Agencies are asked to consider a \"failure to prevent\" offence, which would criminalise developing an AI model that causes harm without reasonable steps to stop it. The six planned obligations include security controls, risk management, rapid incident notification and independent evaluation of models.",
-    "Home affairs minister Tony Burke said it should never be arguable that someone \"didn't know the computer was loaded\". Albanese called the breach \"minor\" for personal privacy, saying no personal details were obtained, and Guardian Australia understands OpenAI is unlikely to face further legal proceedings.",
-    "Reactions split. AI researcher Toby Walsh said company leaders should be criminally liable. Greens leader David Shoebridge called the plan a \"capitulation\" because it only asks the government to \"consider\" tougher steps. The Coalition backed it. OpenAI said it is reviewing the proposals."
+    "Fractile, a British start-up designing chips for running AI models, has raised $720 million in a Series C funding round. The round was led by Thrive Capital, Founders Fund, Lightspeed Venture Partners and Redpoint, with participation from Britain's Sovereign AI Fund. That makes Fractile one of the best-funded companies building purpose-built AI chips.",
+    "The British government described the valuation as \"over £5 billion\". TechCrunch notes that figure is probably about $7 billion, a number reported by the Financial Times and by a Reuters source, though the company has not confirmed it. The government said the investment is meant to give the UK a bigger stake in the hardware that will underpin its future economy.",
+    "Fractile focuses on inference, the stage where a trained model answers questions, which is becoming costlier as companies use AI agents that carry out long chains of tasks. After changing direction, its design now stacks DRAM, the common type of computer memory, on top of each chip. The aim is to avoid the usual trade-off between memory speed and capacity. It also builds a compiler, the software that turns models into instructions for its chips, which TechCrunch says lets it present itself as a frontier AI company rather than only a chip maker.",
+    "Chief executive Walter Goodwin said on LinkedIn that there is still a lot of work ahead and that the money will help Fractile ship its first chips and systems next year."
    ],
-   "url": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
+   "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
    "section": "technology",
    "scope": "technology",
-   "source": "The Guardian",
-   "sourceGroup": "guardian",
-   "publishedAt": "2026-11-10T06:00:52+00:00",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-11T19:34:55+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -225,28 +128,86 @@
    "summaryType": "ai-article",
    "coverage": [
     {
-     "source": "The Guardian",
-     "group": "guardian",
-     "url": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack"
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
     }
    ]
   },
   {
-   "id": "be2789b561d90e7f366e",
-   "title": "Blackstone to invest Rs 5,000 crore for 16% stake in IIFL Finance",
-   "deck": "The private equity giant is part of a Rs 6,414 crore fresh equity raise by the listed lender, which plans to expand gold and other secured lending.",
+   "id": "92bde755004877b47691",
+   "title": "EU unveils Digital Fairness Act targeting loot boxes, dark patterns and addictive design",
+   "deck": "The Commission's draft would ban manipulative marketing, require easy opt-outs from features such as autoplay, and allow fines of up to 6 percent of turnover.",
    "summary": [
-    "Blackstone will put Rs 5,000 crore into IIFL Finance for roughly a 16% stake, The Indian Express reported on 10 November. The money is part of a Rs 6,414 crore primary equity raise by the listed non-banking finance company. Promoters Nirmal Jain and R Venkataraman will invest Rs 1,264 crore and Anchorage Capital Rs 150 crore. All of it will go into the company as fresh capital.",
-    "IIFL's board approved the deal on Tuesday as a preferential issue. Blackstone will invest through compulsorily convertible preference shares, which turn into equity at Rs 602 each within 18 months of allotment, while the promoters will subscribe to preferential warrants. The report puts IIFL Finance's market capitalisation at Rs 26,746 crore.",
-    "The infusion is expected to lift the company's capital adequacy ratio from about 17% to about 30% on a pro forma basis as of September 2026. The report says that should support expansion, better credit ratings and lower borrowing costs over time. IIFL plans to use the funds to grow secured lending, especially gold finance, and expects to draw on Blackstone's expertise in technology, data analytics and artificial intelligence. Blackstone representatives are proposed to join the board.",
-    "Jain called the investment a strong endorsement of the franchise, and said it gives headroom to expand while keeping discipline on risk and capital. Mukesh Mehta of Blackstone called IIFL a leading retail lending platform. Jain and Venkataraman will remain co-promoters."
+    "The European Commission on Wednesday published a draft Digital Fairness Act, a set of consumer rules aimed at games, social media and online shops. The Commission says it wants a fairer online experience and expects businesses to help consumers save up to €13.7 billion a year. The text is only a proposal and must pass the European Parliament and the Council of the EU, so it may change or be dropped.",
+    "As summarised by The Verge, the draft would ban manipulative marketing and \"dark patterns\", such as false claims that a product is nearly sold out. People would have to be offered a way to switch off addictive features like endless scrolling, persistent prompts and video autoplay, and similar limits would cover AI companions and general chatbots. Gambling-style game features, including pay-to-win mechanics, would be barred for minors.",
+    "Other measures include clear disclosure of paid influencer content, limits on personalised ads and prices aimed at minors, easier cancellation of subscriptions with reminders before renewals, and transparent prices for dynamic pricing and in-app virtual currencies. Ticket queues would have to show the current price in real time. Consumers would also gain a right to reach a human customer service agent and clear rights when using an AI agent to buy things.",
+    "Companies that break the rules could face fines of up to 6 percent of worldwide annual turnover."
    ],
-   "url": "https://indianexpress.com/article/business/blackstone-investment-iifl-finance-5000-crore-10957970/",
+   "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-11-11T18:13:52+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection"
+    }
+   ]
+  },
+  {
+   "id": "3c4a130ff1dbafc38dee",
+   "title": "United bans personal AI agents from booking its flights",
+   "deck": "The airline cites privacy and federal disclosure rules, and says it may revisit the decision as the technology matures.",
+   "summary": [
+    "United Airlines will not let personal AI assistants buy tickets on a customer's behalf. The Wall Street Journal reported the policy and The Verge summarised it. Agents can still show users United flights, but they cannot complete the booking.",
+    "The airline gives two main reasons. It worries that agents could expose customers' information or make purchases people did not intend. It also says agents could undermine federal rules about what airlines must tell passengers, such as having travellers confirm that their bags contain no explosives, something an AI program cannot do for them. United says it has not seen many people trying to book through agents so far, which matches what other businesses report. DoorDash, for example, recently said it had received only several hundred orders from AI agents.",
+    "Chief executive Scott Kirby said at an event on Tuesday that he does not want to create another middleman, according to the Journal. United is not alone in restricting agents: eBay appears to have blocked them from browsing its site, and several large banks have placed limits on them.",
+    "The decisions could limit how useful newer personal assistants, such as Meta's Muse and OpenAI's Dots, turn out to be. United left the door open, saying it sees opportunities as third-party agents improve but wants protections for travellers in place first. For now, anyone who wants an AI assistant to book a United flight will have to do the final step themselves."
+   ],
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-11-11T21:54:21+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+    }
+   ]
+  },
+  {
+   "id": "074b126d3fd76577cd91",
+   "title": "Noel Tata to leave six Tata company boards as he turns 70",
+   "deck": "Bahram Vakil will chair Trent, Sunil D'Souza Voltas and TV Narendran Tata International; the group says the exits follow its retirement policy.",
+   "summary": [
+    "Noel Tata, chairman of Tata Trusts, steps down from the boards of six major Tata Group companies on Thursday, the day he turns 70. The Indian Express reports that the group's retirement rule for non-executive directors applies. He will stop being non-executive chairman of Trent, Voltas, Tata Investment Corporation and Tata International, and will become chairman emeritus.",
+    "Successors have been named. Bahram Vakil, co-founder of the law firm AZB & Partners, takes over at Trent. Sunil D'Souza becomes chairman of Voltas, and TV Narendran, managing director of Tata Steel, will chair Tata International. Tata Steel and Titan are expected to get new vice chairmen and directors, since Noel Tata also leaves as vice chairman at both. Voltas has also appointed Jayant Balan as managing director for five years from 25 May 2027, when Mukundan Menon completes his term.",
+    "The paper stresses that the exits are not sudden. Tata signalled his plans at Trent's annual meeting in June and again at Voltas's, and Ratan Tata likewise gave up executive posts at 70. The Indian Express says the changes have no connection with the dispute between Tata Trusts and Tata Sons.",
+    "That dispute is the context readers will notice. Noel Tata opposed a resolution approving N Chandrasekaran's proposed third five-year term as Tata Sons chairman, and the move to list Tata Sons, and he questioned the role of directors nominated by the Trusts."
+   ],
+   "url": "https://indianexpress.com/article/business/noel-tata-step-down-chairman-tata-investment-corp-tata-firms-10959649/",
    "section": "business",
    "scope": "business",
    "source": "Indian Express",
    "sourceGroup": "indian-express",
-   "publishedAt": "2026-11-10T14:19:11+00:00",
+   "publishedAt": "2026-11-12T07:10:51+05:30",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -256,26 +217,26 @@
     {
      "source": "Indian Express",
      "group": "indian-express",
-     "url": "https://indianexpress.com/article/business/blackstone-investment-iifl-finance-5000-crore-10957970/"
+     "url": "https://indianexpress.com/article/business/noel-tata-step-down-chairman-tata-investment-corp-tata-firms-10959649/"
     }
    ]
   },
   {
-   "id": "2249730c1b3ee43cc0e3",
-   "title": "US inflation higher than expected in October",
-   "deck": "Prices rose 0.4% on the month, above analyst forecasts, strengthening the case for a Federal Reserve rate rise in December.",
+   "id": "6cfd66a2b0db01f92ed7",
+   "title": "Amul and Mother Dairy raise milk prices by Rs 2 to Rs 4 a litre",
+   "deck": "Amul's increase takes effect on 12 November, hours after Mother Dairy announced a similar rise, with both blaming higher input costs.",
    "summary": [
-    "US consumer prices rose 0.4% in October, faster than the 0.3% analysts had expected, according to official figures reported by the BBC on 10 November. The monthly rise was lower than September's 0.6%. The figures arrived a week after midterm elections that were fought over cost-of-living pressures.",
-    "The BBC said the increase was driven by housing, food and energy costs. Energy prices rose 0.7% in October, far less than the 5.2% jump in September. The BBC adds that crude oil traded at just over $70 a barrel before the US-Israel war with Iran began and is now above $100. The Bureau of Labor Statistics could not give the usual 12-month figure because it did not collect data in October 2025. For the 12 months to September, inflation was 3.7%.",
-    "Analysts quoted by the BBC say the higher-than-expected reading raises the chance that the Federal Reserve raises interest rates at its December meeting. Fed governor Christopher Waller, speaking before the data came out, also indicated he was leaning towards an increase in December even if October's figures were softer than expected.",
-    "The BBC also pointed to tariffs as a factor, citing New York Fed research that found US businesses absorbed nearly 90% of the cost of added tariffs, and that each percentage point rise in average tariffs raised consumer goods prices by nearly 0.25% after a year."
+    "Households in many cities will pay more for milk from Thursday. The Gujarat Co-operative Milk Marketing Federation, which sells under the Amul brand, said on Wednesday that fresh pouch milk will cost Rs 2 to Rs 4 more per litre, an increase of roughly 4 to 5 percent. It is Amul's first rise since May 2026. Mother Dairy, which sells mainly in Delhi, announced a similar increase of Rs 2 to Rs 4 a litre only hours earlier.",
+    "Under the new prices, Amul Taaza toned milk goes up by Rs 2 to Rs 62 a litre. Amul Gold full-cream milk rises by Rs 4 to Rs 80. The change also covers Amul Shakti and Amul Tea Special.",
+    "Amul's explanation is that costs have climbed over the past year: green and dry fodder, cattle feed ingredients such as oil cake, maize and molasses, packaging film and transport fuel. It also pointed to low and uneven rainfall in Gujarat and other parts of the country. These are the company's own statements, not independently checked figures.",
+    "The federation says its member unions have already raised the price paid to farmers by 4 to 5 percent in the past year and that a further revision will follow. It adds that 80 percent of what consumers pay through the co-operative structure goes back to its 36 lakh milk producers, and that most of the retail increase will be passed on to them."
    ],
-   "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.ndtv.com/india-news/amul-milk-price-hike-amul-hikes-milk-prices-by-rs-2-4-per-litre-12313273",
    "section": "business",
    "scope": "business",
-   "source": "BBC News",
-   "sourceGroup": "bbc",
-   "publishedAt": "2026-11-10T14:45:46+00:00",
+   "source": "NDTV",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-11-12T01:42:16+05:30",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -283,134 +244,33 @@
    "summaryType": "ai-article",
    "coverage": [
     {
-     "source": "BBC News",
-     "group": "bbc",
-     "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o"
-    }
-   ]
-  },
-  {
-   "id": "e88bd441bce49bebe94d",
-   "title": "Bank of England's inflation response 'risks higher rates for longer'",
-   "deck": "Thinktank Niesr says last week's quarter-point rise was too timid and could leave inflation above target until at least 2030.",
-   "summary": [
-    "The Bank of England risks keeping interest rates higher for longer after a hesitant response to rising inflation, according to the National Institute of Economic and Social Research (Niesr), as reported by the Guardian on 11 November. The thinktank said last week's quarter-point rise, from 3.75% to 4%, is likely to leave inflation above the Bank's 2% target until at least 2030 unless tougher action follows. The Bank's committee also hinted at another increase.",
-    "Niesr director David Aikman said inflation is set to pass 4% in the new year, just as most 2027 pay awards are being agreed, raising the risk that it becomes embedded. He argued one more quarter-point rise is unlikely to be enough and that waiting will force the committee to do more later. UK inflation is currently 3.5%, pushed up by fuel costs since the US and Israel launched their war on Iran at the end of February.",
-    "Brent crude, persistently above $100 a barrel recently against about $70 before the war, briefly fell below $90 on Tuesday after Donald Trump downplayed the need for military action against Iran. Niesr's forecasts assume $105 oil, and it cautioned that shipping and refining problems mean consumer prices will fall slowly. Economist Stephen Millard said the lower price depends on Trump sticking to his stance.",
-    "Niesr expects UK growth of 1.6% this year but 0.9% in 2028 and criticised the chancellor for deferring hard budget decisions."
-   ],
-   "url": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
-   "section": "business",
-   "scope": "business",
-   "source": "The Guardian",
-   "sourceGroup": "guardian",
-   "publishedAt": "2026-11-11T00:01:23+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "The Guardian",
-     "group": "guardian",
-     "url": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer"
-    }
-   ]
-  },
-  {
-   "id": "12ea3a7b60639fc8d6a6",
-   "title": "Sonia Gandhi's memoir 'Belonging' sparks political row",
-   "deck": "Claims in the Congress leader's new book have drawn sharp attacks from the BJP and a rebuttal from Pranab Mukherjee's daughter.",
-   "summary": [
-    "Sonia Gandhi's memoir, Belonging: A Journey of Love, went on sale in India on Tuesday, 10 November, with an official launch likely on 16 November, The Hindu reported. Gandhi told The Guardian that Penguin Random House India dropped the book in August after she declined some edits; Penguin disputes that.",
-    "Several passages are her own account and have not been independently verified in the reports read. She writes that Pranab Mukherjee hinted in 2010 at a wish to become prime minister, which she says shocked her. His daughter Sharmistha Mukherjee replied on X that ambition is not a crime. She also writes of having \"practically no real contact\" with Narendra Modi. The BBC reports she describes saying \"Theek hai\" in 2004 before refusing the prime minister's post.",
-    "The BJP attacked the book on Tuesday, according to The Indian Express. Spokesperson Pradeep Bhandari said it revolves around a \"Babri vote bank\" and noted the Bofors scandal is missing. Spokesperson C R Kesavan accused her of whitewashing the Emergency. BJP leader H S Phoolka disputed her account of the Army's 1984 deployment, calling it contrary to facts.",
-    "Congress Rajya Sabha member Rajeev Shukla said the BJP was giving the book a political spin and asked that her sentiments be respected. AAP leader Saurabh Bharadwaj called her remorse over 1984 unverifiable hearsay, and JD(U)'s Sanjay Kumar Jha questioned her 2004 account. These are party positions."
-   ],
-   "url": "https://indianexpress.com/article/india/sonia-gandhi-memoir-belonging-bjp-criticism-vote-bank-politics-10958172/",
-   "section": "world",
-   "scope": "india",
-   "source": "Indian Express",
-   "sourceGroup": "indian-express",
-   "publishedAt": "2026-11-11T00:00:31+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "Indian Express",
-     "group": "indian-express",
-     "url": "https://indianexpress.com/article/india/sonia-gandhi-memoir-belonging-bjp-criticism-vote-bank-politics-10958172/"
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/amul-milk-price-hike-amul-hikes-milk-prices-by-rs-2-4-per-litre-12313273"
     },
     {
-     "source": "The Hindu",
-     "group": "the-hindu",
-     "url": "https://www.thehindu.com/news/national/pranab-mukherjee-hinted-at-desire-to-become-pm-shocked-me-writes-sonia-gandhi/article71686777.ece"
-    },
-    {
-     "source": "Times of India",
+     "source": "Economic Times",
      "group": "times-group",
-     "url": "https://timesofindia.indiatimes.com/india/for-the-first-time-sonia-confirms-battle-with-cancer-in-memoirs/articleshow/135719721.cms"
-    },
-    {
-     "source": "BBC News",
-     "group": "bbc",
-     "url": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o"
-    },
-    {
-     "source": "The Guardian",
-     "group": "guardian",
-     "url": "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging"
+     "url": "https://economictimes.indiatimes.com/industry/cons-products/food/mother-dairy-raises-milk-prices-by-rs-2-4-per-litre-effective-thursday/articleshow/135727385.cms"
     }
    ]
   },
   {
-   "id": "19d4240637e4bf3fd27e",
-   "title": "MEA slams US court summons to NSA Doval and ex-RAW chief Goel",
-   "deck": "New Delhi calls a civil suit by Khalistani figure Gurpatwant Singh Pannun frivolous, while sources describe the summons as routine.",
+   "id": "30457cd143331d0e6c57",
+   "title": "Cabinet approves Rs 62,370 crore fertiliser subsidy for the rabi season",
+   "deck": "The allocation is 64 percent above last year's, and DAP will stay available to farmers at a fixed Rs 1,350 per bag.",
    "summary": [
-    "India's government on Tuesday dismissed a US court civil summons naming national security adviser Ajit Doval and former R&AW chief Samant Goel, calling it a \"frivolous lawsuit\" built on \"fabricated and malicious\" claims, according to The Times of India. The paper said the government also asserted that the legal manoeuvring by Gurpatwant Singh Pannun, a designated Khalistani terrorist, has no merit.",
-    "External affairs ministry spokesperson Randhir Jaiswal said requests to serve judicial documents in India can only be routed through the designated central authority, the ministry of law and justice.",
-    "The ministry's reaction followed reports that the US state department had informed India by diplomatic note of the suit, filed by Pannun, a member of Sikhs for Justice, over an alleged plot to assassinate him. The summons seeks damages and was delivered to the Indian embassy in Washington on 9 October, the report said. Unnamed sources described it as a routine, procedural step and noted that US courts have issued similar summonses before, including to Manmohan Singh in 2013 and Jiang Zemin in 2002. Both of those suits were eventually dismissed.",
-    "The report adds that the court order came ahead of the 20 November sentencing of Nikhil Gupta, an Indian national arrested by the US in the case. The state department note said its action followed court instructions and should not be read as a US position on the case or the merits of any claims."
+    "The Union Cabinet on Wednesday cleared a subsidy of Rs 62,370 crore on fertilisers for the rabi, or winter, crop season. The Indian Express says this is about 64 percent more than the Rs 37,952 crore set aside for the previous rabi season. The support applies from 1 October 2026 to 31 March 2027. Prime Minister Narendra Modi said farmers are always the government's top priority and that the Centre will leave nothing undone for them even in difficult global conditions, according to NDTV.",
+    "The money covers phosphatic and potassic fertilisers under the nutrient-based subsidy system, including di-ammonium phosphate (DAP) and fertilisers supplying nitrogen, phosphorus, potash and sulphur. The government said a special arrangement will continue so that DAP remains available at a fixed price of Rs 1,350 per bag.",
+    "The Indian Express adds context from the market. Domestic fertiliser sales have fallen this year because of poor rainfall: complex fertilisers are down 22 percent, urea 4 percent and DAP 0.6 percent compared with last year. The paper says the total fertiliser subsidy bill for 2026-27 was estimated at Rs 1.71 lakh crore, below Rs 1.86 lakh crore in 2025-26.",
+    "The same Cabinet meeting extended the Stand-Up India scheme and the Credit Guarantee Fund for Micro Units for five years, until March 2031."
    ],
-   "url": "https://timesofindia.indiatimes.com/india/mea-slams-us-court-summons-to-doval-raw-ex-chief-goel/articleshow/135719702.cms",
-   "section": "world",
-   "scope": "india",
-   "source": "Times of India",
-   "sourceGroup": "times-group",
-   "publishedAt": "2026-11-10T20:25:58+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "Times of India",
-     "group": "times-group",
-     "url": "https://timesofindia.indiatimes.com/india/mea-slams-us-court-summons-to-doval-raw-ex-chief-goel/articleshow/135719702.cms"
-    }
-   ]
-  },
-  {
-   "id": "d658580df3d16f0fa7dc",
-   "title": "Ladakh hill council elections on December 4 amid boycott and protests",
-   "deck": "The first polls since six new districts were created will fill eight councils, but Kargil shut down in protest over holding them in winter.",
-   "summary": [
-    "Ladakh will elect all eight of its Autonomous Hill Development Councils on 4 December, Chief Secretary Ashish Kundra announced in Leh on Tuesday, 10 November. With six new districts created this year, the councils will have 100 seats, up from 26 each in Leh and Kargil, and 36 are reserved for women for the first time. The Indian Express put the electorate at 1.87 lakh. Nominations close on 17 November, and the process is due to finish by 8 December.",
-    "Kargil observed a complete shutdown on Tuesday, called by the Kargil Democratic Alliance, which objects to the delimitation and to polling in harsh winter. Co-chairman Sajjad Kargili said around 25 percent of Ladakh's population would be outside the region, and spoke of \"bureaucracy raj\". The Ladakh Buddhist Association in Leh has announced a boycott of the panchayat and municipal polls, according to NDTV. Separately, Leh Apex Body co-chairman Tsering Dorjey Lakrook, backed those polls but called December a bad time for the council vote.",
-    "Kundra defended the schedule, saying schools stay open until mid-December, polling stations will have heaters and elderly voters will get separate queues. He said new councils would have January to March to prepare budgets and would keep their existing powers. Reports note that talks between the Centre and Ladakh groups on statehood and Sixth Schedule status stalled on 22 October. Panchayat and municipal polls are due on 21 November."
-   ],
-   "url": "https://indianexpress.com/article/india/ladakh-hill-council-elections-december-4-2026-10957954/",
-   "section": "world",
-   "scope": "india",
+   "url": "https://indianexpress.com/article/business/fertiliser-subsidy-rabi-season-2026-27-cabinet-approval-10959144/",
+   "section": "business",
+   "scope": "business",
    "source": "Indian Express",
    "sourceGroup": "indian-express",
-   "publishedAt": "2026-11-10T14:02:04+00:00",
+   "publishedAt": "2026-11-11T18:18:04+05:30",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -420,40 +280,31 @@
     {
      "source": "Indian Express",
      "group": "indian-express",
-     "url": "https://indianexpress.com/article/india/ladakh-hill-council-elections-december-4-2026-10957954/"
+     "url": "https://indianexpress.com/article/business/fertiliser-subsidy-rabi-season-2026-27-cabinet-approval-10959144/"
     },
     {
      "source": "NDTV",
      "group": "ndtv",
-     "url": "https://www.ndtv.com/india-news/amid-boycott-call-ladakh-to-hold-hill-council-elections-on-december-4-12310382"
-    },
-    {
-     "source": "The Hindu",
-     "group": "the-hindu",
-     "url": "https://www.thehindu.com/news/national/ladakh/schedule-for-eight-ladakh-hill-council-elections-announced-polling-on-december-4/article71685727.ece"
-    },
-    {
-     "source": "Times of India",
-     "group": "times-group",
-     "url": "https://timesofindia.indiatimes.com/india/ladakh-hill-council-polls-on-dec-4-protests-erupt-over-winter-timing/articleshow/135718322.cms"
+     "url": "https://www.ndtv.com/india-news/farmers-are-always-governments-top-priority-pm-modi-12314718"
     }
    ]
   },
   {
-   "id": "87b99f32eb8d68870d3c",
-   "title": "Delhi post-Diwali pollution and CPCB data gaps",
-   "deck": "Firecrackers dominated Delhi's pollution a day after Diwali, while the pollution board defends its 500 AQI cap against private-app readings.",
+   "id": "f40c602e93d7455da435",
+   "title": "India's clean power build-out has avoided $100 billion of fuel imports, IEA says",
+   "deck": "The agency estimates cumulative savings could reach about $240 billion by 2030 as renewable capacity passes 300 GW.",
    "summary": [
-    "Firecracker emissions made up more than 80 percent of Delhi's pollution load on Monday, 9 November, the day after Diwali, according to Indian Institute of Tropical Meteorology models cited by The Times of India. Delhi's average AQI on Diwali, 8 November, was 376, the highest for the festival in five years. Air improved on Tuesday, with an AQI of 299 at 4pm, though it was 302 by 6pm. The India Meteorological Department credited favourable winds, and the paper said stubble burning was not a major contributor on Monday.",
-    "Questions arose because private apps showed readings far above the official figures. The Times of India said social media posts showed apps reporting 1,500 to 1,800 on Diwali night while the Central Pollution Control Board's figures stayed below 400. NDTV said some sites showed values above 1,000.",
-    "In a statement, the CPCB said the 500 ceiling is a deliberate design feature of the National Air Quality Index, in line with the US EPA scale, because anything above it stays in the 'Severe' category. It said the index uses calibrated 24-hour or 8-hour averages, while some apps draw on hourly readings from low-cost sensors. The board said short spikes such as firecracker bursts may appear as a data gap at a station, with those hours excluded from the daily average. It rejected under-reporting, attributing the differences to measurement and methodology. These are the board's own explanations; the reports did not include independent assessment."
+    "India's growth in renewable power has saved the country more than $100 billion in imported coal and gas between 2011 and 2025, according to the International Energy Agency's India Renewable Energy Market Report 2026. The Economic Times, which reported the findings, converts that to about Rs 9.4 lakh crore. The agency projects cumulative savings of nearly $240 billion, or Rs 22.6 lakh crore, by 2030.",
+    "The IEA says that without the capacity added since 2010, India's coal imports in 2025 would have been about 110 million tonnes higher and import dependence for electricity would have been above 30 percent, roughly double the actual level. Renewable capacity passed 300 GW in 2026; the report cites about 299 GW at the end of September, including roughly 171 GW of solar and 59 GW of wind.",
+    "Renewables produced more than 500 terawatt-hours in 2025, around a quarter of supply, and the agency expects that to approach 950 terawatt-hours, about 35 percent, by 2030. It says solar tariffs in 2025 were about 40 percent below the average cost of coal-fired power. India is also the world's second-largest maker of solar modules, and the Times of India calls it the second-fastest growing renewables market.",
+    "IEA executive director Fatih Birol said the expansion is delivering major benefits for India's energy security at a time of heightened uncertainty in global energy markets."
    ],
-   "url": "https://timesofindia.indiatimes.com/india/80-of-delhis-pollution-monday-due-to-crackers/articleshow/135721614.cms",
-   "section": "world",
-   "scope": "india",
-   "source": "Times of India",
+   "url": "https://economictimes.indiatimes.com/industry/renewables/indias-renewable-energy-expansion-averts-100-bn-in-fuel-imports-savings-seen-at-240-bn-by-2030/articleshow/135739839.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
    "sourceGroup": "times-group",
-   "publishedAt": "2026-11-10T22:46:00+00:00",
+   "publishedAt": "2026-11-11T13:46:25+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -461,38 +312,62 @@
    "summaryType": "ai-article",
    "coverage": [
     {
-     "source": "Times of India",
+     "source": "Economic Times",
      "group": "times-group",
-     "url": "https://timesofindia.indiatimes.com/india/80-of-delhis-pollution-monday-due-to-crackers/articleshow/135721614.cms"
+     "url": "https://economictimes.indiatimes.com/industry/renewables/indias-renewable-energy-expansion-averts-100-bn-in-fuel-imports-savings-seen-at-240-bn-by-2030/articleshow/135739839.cms"
     },
     {
      "source": "Times of India",
      "group": "times-group",
-     "url": "https://timesofindia.indiatimes.com/india/cpcb-explains-why-official-aqi-is-capped-at-500-despite-private-apps-showing-higher-readings/articleshow/135715891.cms"
-    },
-    {
-     "source": "NDTV",
-     "group": "ndtv",
-     "url": "https://www.ndtv.com/india-news/central-pollution-body-explains-data-gaps-on-diwali-night-12309990"
+     "url": "https://timesofindia.indiatimes.com/india/green-energy-push-helped-india-save-100bn-over-last-15-yrs-iea/articleshow/135747628.cms"
     }
    ]
   },
   {
-   "id": "db760c207fb9fa7351d0",
-   "title": "Supreme Court: onus on UP to ensure undertrials granted bail are released",
-   "deck": "The court said the state must not let prisoners stay jailed just because they cannot meet bail conditions.",
+   "id": "4304f668ca3c4b06c827",
+   "title": "India holds Scotch shipments as customs seeks 150 percent duty despite trade pact",
+   "deck": "Pernod Ricard and Diageo cargoes are reportedly detained while officials argue bulk whisky counts as a \"compound alcoholic preparation\".",
    "summary": [
-    "The Supreme Court has said the responsibility lies with Uttar Pradesh to ensure that undertrial prisoners granted bail are actually freed and do not stay in jail because they cannot meet release conditions such as bail bonds, cash security or local sureties, The Hindu reported on 10 November.",
-    "A bench headed by Justice M M Sundresh passed the order after learning that 264 undertrials were granted bail in only 20 of the state's 75 districts, yet just 158 were released. The other 106 remained in custody for various reasons, including being unable to provide financial security or a guarantor. Senior advocate Gaurav Aggarwal, the court's amicus curiae, said figures for the remaining 55 districts were not yet known. State counsel assured the court the needful would be done within a reasonable time.",
-    "The court said district legal services authorities should not turn away prisoners who have private lawyers but still cannot satisfy bail conditions, saying there cannot be any differentiation between the two groups. It said denying liberty to those a court has found deserving of bail, merely because they cannot afford the conditions, affects the right to life under Article 21. \"The onus lies on the State to make sure that these persons are released from custody,\" the bench said.",
-    "The court asked trial courts to modify conditions suitably, said its order covers all 75 districts, and listed the suo motu case on bail policy for January 2027."
+    "Indian customs has reportedly detained dozens of containers of bulk Scotch whisky imported by Pernod Ricard and Diageo, in a dispute over how much duty applies. The Economic Times, citing four people with knowledge of the matter, says investigators want a 150 percent tariff. The India-UK trade pact, which took effect in July, lowers the duty on Scotch to 75 percent. The ministries and companies are not quoted in the report as we read it.",
+    "The paper says the push comes from a confidential memo dated 4 November by the finance ministry's Directorate of Revenue Intelligence. The memo argues that bulk Scotch should be classed as a \"compound alcoholic preparation\", a category that has attracted the higher rate since 1 May. Chivas Brothers, part of Pernod Ricard, is among the importers affected.",
+    "The commerce ministry has reportedly given assurances that the trade deal's lower rate will be honoured, but the detentions continue. That raises worries about supply disruptions and about how the agreement is being put into practice. Scotch exports to India were worth about $335 million in 2024, and the pact was expected to lift them by around $1.34 billion over five years.",
+    "The Scotch Whisky Association and the International Spirits and Wines Association of India are among the bodies cited in the report."
    ],
-   "url": "https://www.thehindu.com/news/national/uttar-pradesh/onus-on-uttar-pradesh-to-ensure-undertrials-allowed-bail-are-released-says-supreme-court/article71687143.ece",
+   "url": "https://economictimes.indiatimes.com/industry/cons-products/liquor/india-holds-pernod-diageo-scotch-shipments-as-investigators-seek-higher-tariff/articleshow/135728150.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-11T06:40:49+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/cons-products/liquor/india-holds-pernod-diageo-scotch-shipments-as-investigators-seek-higher-tariff/articleshow/135728150.cms"
+    }
+   ]
+  },
+  {
+   "id": "826a2a6c3dd8f1e67b30",
+   "title": "Navi Mumbai named India's cleanest city as Indore's run ends",
+   "deck": "President Droupadi Murmu presented the Swachh Survekshan 2025-26 awards; Surat and Vijayawada took second and third place.",
+   "summary": [
+    "Navi Mumbai has been named India's cleanest city in the Swachh Survekshan 2025-26 survey, ending Indore's eight-year run at the top. The Hindu reports that President Droupadi Murmu presented the awards on Wednesday. Surat finished second and Vijayawada third. Indore, last year's winner, did not feature among the toppers this time, while Navi Mumbai and Surat had come third and second in the previous edition.",
+    "The survey also ranks cities by size. In the category for populations of 3 lakh to 10 lakh, Ujjain came first, ahead of Chandigarh and Guntur. Among cities with more than 10 lakh people, Greater Visakhapatnam was first, followed by Jabalpur and Lucknow. The Indian Express headlined Visakhapatnam as the cleanest big city.",
+    "Special titles went to smaller places. Rewa was named the cleanest riverfront town, ahead of Bilaspur and Varanasi. Puri topped the list of coastal towns, followed by Alappuzha and Ratnagiri. Rudrapur was named the cleanest Himalayan city, with Jammu second.",
+    "A change at the top reflects the survey's own scoring, not necessarily a collapse in Indore's performance. Local reports did not explain why Indore dropped out of the top group."
+   ],
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/navi-mumbai-emerges-as-cleanest-city-surat-vijayawada-runners-up-in-cleanliness-survey/article71689854.ece",
    "section": "world",
    "scope": "india",
    "source": "The Hindu",
    "sourceGroup": "the-hindu",
-   "publishedAt": "2026-11-10T16:58:38+00:00",
+   "publishedAt": "2026-11-11T23:54:47+05:30",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -502,181 +377,36 @@
     {
      "source": "The Hindu",
      "group": "the-hindu",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/onus-on-uttar-pradesh-to-ensure-undertrials-allowed-bail-are-released-says-supreme-court/article71687143.ece"
-    }
-   ]
-  },
-  {
-   "id": "3878d4c28c6cd6777f82",
-   "title": "First day of Ukraine peace talks constructive, Zelensky says",
-   "deck": "US-hosted talks between Kyiv, Moscow and Washington in Abu Dhabi ended their first day with cautious praise but no sign of a breakthrough.",
-   "summary": [
-    "The first of two days of talks between Ukraine, Russia and the United States ended in Abu Dhabi on Tuesday after about four hours. Talks are expected to resume on Wednesday. President Volodymyr Zelensky, who was not in the room, said after being briefed by his negotiators that the format had been \"constructive and quite substantive\". US Secretary of State Marco Rubio, speaking in Paris, called the meeting \"very productive\" but said a lot of work remained.",
-    "Delegates were tight-lipped. Zelensky said humanitarian issues, including prisoner exchanges and the return of children, were discussed, and that security guarantees were also on the agenda. Before the talks, a US official said Moscow and Kyiv were showing \"a little bit of flexibility, privately\" over who would control eastern Ukraine after the war, but that the territorial question could not be settled until a postwar security architecture was agreed.",
-    "Public positions remain far apart, the BBC reports. Moscow wants Ukraine to give up the parts of Donetsk it still holds, while Kyiv wants to freeze the current line. Russian foreign minister Sergei Lavrov said Moscow would not accept a ceasefire. Ukrainian MP Oleksandr Merezhko told the BBC he believed Donald Trump wanted \"a quick deal at the expense of Ukraine\"; that is his opinion.",
-    "Fighting continued meanwhile. Ukraine's prime minister said Russia hit five major energy substations overnight, per the Guardian's live coverage. Both reports date from 10 November."
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-   "section": "world",
-   "scope": "world",
-   "source": "BBC News",
-   "sourceGroup": "bbc",
-   "publishedAt": "2026-11-10T21:21:55+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "BBC News",
-     "group": "bbc",
-     "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o"
+     "url": "https://www.thehindu.com/sci-tech/energy-and-environment/navi-mumbai-emerges-as-cleanest-city-surat-vijayawada-runners-up-in-cleanliness-survey/article71689854.ece"
     },
     {
-     "source": "The Guardian",
-     "group": "guardian",
-     "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"
-    }
-   ]
-  },
-  {
-   "id": "cd65411273d030e98f00",
-   "title": "Israel's new parliament sworn in as leaders compete to form government",
-   "deck": "Opposition leader Gadi Eisenkot has the first chance to oust Benjamin Netanyahu, but neither side has a majority.",
-   "summary": [
-    "Israel's new Knesset was sworn in on Tuesday, with opposition leader Gadi Eisenkot trying to replace caretaker Prime Minister Benjamin Netanyahu, the BBC reported. The former army chief was asked to form a government by President Isaac Herzog on Sunday, after 67 of the 120 members backed him against 46 for Netanyahu.",
-    "The arithmetic is hard. Eisenkot's bloc of four parties won 48 seats in last month's election, against 53 for Netanyahu's bloc, so neither can govern alone. Eisenkot has 28 days to build a coalition, with a possible two-week extension. Netanyahu stays as caretaker meanwhile.",
-    "Arab-led parties may hold the balance of power. The United Arab List and the Joint List won 19 seats between them, a record. Netanyahu has ruled out working with them, and three parties in Eisenkot's bloc oppose including them. The United Arab List says it would join an Eisenkot-led coalition, while the Joint List has offered outside support.",
-    "Eisenkot has called for a \"national emergency government\" open to any party accepting four principles, including equal national service for all and recognising Hamas as a terrorist organisation. The BBC notes these could be obstacles for ultra-Orthodox and Arab parties. Netanyahu, in a video on Monday, called for a unity government under his leadership and warned against relying on \"the Islamists\", an apparent reference to Arab parties. This account rests on one BBC report."
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-   "section": "world",
-   "scope": "world",
-   "source": "BBC News",
-   "sourceGroup": "bbc",
-   "publishedAt": "2026-11-10T17:03:16+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "BBC News",
-     "group": "bbc",
-     "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o"
-    }
-   ]
-  },
-  {
-   "id": "f1b3506ce3d4d107abc6",
-   "title": "Federal judge allows Trump's $10bn defamation lawsuit against BBC to proceed",
-   "deck": "A Florida judge partly denied the broadcaster's bid to dismiss the case over a Panorama edit, though Trump must still prove his claims.",
-   "summary": [
-    "A federal judge in Florida ruled on Tuesday that Donald Trump's $10bn defamation lawsuit against the BBC can go ahead, partly denying the broadcaster's motion to dismiss, the Guardian reported. The case concerns a Panorama documentary, Trump: A Second Chance, which joined together separate remarks he made before the 6 January Capitol attack.",
-    "Judge Jeffrey T Kuntz, who was appointed by Trump, wrote that the edit joined comments nearly 55 minutes apart and \"may independently establish the plausibility of actual malice\". He rejected the BBC's argument that this was ordinary editing to shorten a seventy-minute speech, saying it created \"something different than what was stated in the speech\". These are the judge's findings at the pleading stage, taking Trump's allegations as true.",
-    "The ruling was not a clean win for Trump. The judge dismissed his claim under Florida's Deceptive and Unfair Trade Practices Act, and said Trump must prove actual malice at trial and show actual damages.",
-    "The BBC said it was surprised but respected the court's authority, remained confident in its position, and would keep responding through the legal process. Trump called the ruling a \"huge victory\" on Truth Social. This account relies on a single Guardian report, published early on 11 November."
-   ],
-   "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
-   "section": "world",
-   "scope": "world",
-   "source": "The Guardian",
-   "sourceGroup": "guardian",
-   "publishedAt": "2026-11-11T01:18:56+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "The Guardian",
-     "group": "guardian",
-     "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed"
-    }
-   ]
-  },
-  {
-   "id": "58288a28b944bfd6daf7",
-   "title": "Formula 1 season to finish in Qatar and Abu Dhabi as planned",
-   "deck": "F1 has stood Imola down as a back-up, but says it will cancel the Middle East races if the Iran conflict worsens.",
-   "summary": [
-    "Formula 1 has told Italy's Imola circuit it will not be needed as a back-up for the final two races of the 2026 season, which remain scheduled for Qatar on 27-29 November and Abu Dhabi on 4-6 December. The BBC reported the decision on Tuesday, 10 November, which Autosport says was F1's deadline for giving Imola an answer.",
-    "F1 says it chose to press ahead because the situation in the two countries has not \"negatively developed\" in recent months. It cites government travel advice that still allows travel, valid insurance, events going ahead and business back at normal levels. A spokesperson said that if things worsen before the races, F1 \"will not hesitate to do the right thing\", with safety the priority. Autosport notes that this leaves no plan B if the war escalates.",
-    "The conflict began in late February when the United States and Israel struck Iran. It has already disrupted the calendar: the Saudi Arabian race was cancelled, and the Bahrain race was postponed and eventually held in Malaysia in October. MotoGP ran its Qatar round last weekend.",
-    "Not everyone is comfortable. The BBC says several senior F1 figures voiced disquiet privately, as both venues are near areas of the Strait of Hormuz where missile strikes continue. Team bosses quoted by Autosport say they trust F1 and the FIA; Ferrari's Fred Vasseur said he wants to race wherever told."
-   ],
-   "url": "https://www.bbc.co.uk/sport/formula1/articles/c53989e97lxwo?at_medium=RSS&at_campaign=rss",
-   "section": "formula-one",
-   "scope": "formula-one",
-   "source": "BBC Sport",
-   "sourceGroup": "bbc",
-   "publishedAt": "2026-11-10T15:04:46+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "BBC News",
-     "group": "bbc",
-     "url": "https://www.bbc.co.uk/sport/formula1/articles/c53989e97lxwo"
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/navi-mumbai-indias-cleanest-city-indores-domination-ends/articleshow/135748695.cms"
     },
     {
-     "source": "Autosport",
-     "group": "motorsport-network",
-     "url": "https://www.autosport.com/f1/news/f1-2026-calendar-update-imola-off-the-table-no-plan-b-if-iran-war-escalates/10873643/"
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/navi-mumbai-cleanest-city-india-swachh-survekshan-awards-2025-26-surat-vijayawada-10959238/"
     }
    ]
   },
   {
-   "id": "24cfd4d834c7df50adfb",
-   "title": "Noskova beats Gauff to reach WTA Finals semi-finals",
-   "deck": "The Wimbledon champion became the first player into the last four on her debut at the season-ending event.",
+   "id": "b03df77427fd1f68d5e7",
+   "title": "India cuts visa categories from 13 to 9 and trims application forms by up to 70 percent",
+   "deck": "The Home Ministry says tourist visas become visitor visas and sub-categories fall from 49 to 23, with changes due by the end of the year.",
    "summary": [
-    "Linda Noskova beat Coco Gauff 6-3 6-3 at the WTA Finals to become the first player to reach the semi-finals, BBC Sport reported. The 21-year-old Czech, the Wimbledon champion, is making her debut at the tournament and sealed the win with an ace.",
-    "Noskova, the world number eight, broke Gauff's serve four times in the first set alone and made only one unforced error in a dominant second. The BBC described her play as controlled aggression, with powerful winners that outmuscled one of the tour's best movers. It was her sixth win over a top-10 player this season. Afterwards she joked that the crowd's cheers were \"a little weaker in the match\" and said she felt she stayed in it from start to finish.",
-    "Gauff, ranked fourth, struggled on serve. She hit eight aces and eight double faults and won only six of 24 points behind her second serve. She won a thriller against fellow American Jessica Pegula on Sunday, and can still qualify for the last four, as can Pegula.",
-    "In the other group-one match reported, Pegula beat alternate Marta Kostyuk 6-2 7-5, her first win since September. Kostyuk, who has had a wrist injury since August, learned on Saturday that she would play after world number one Elena Rybakina withdrew. Pegula made five unforced errors to Kostyuk's 17, though the second set saw four breaks of serve before Pegula broke at 5-5 and served out the win."
+    "India's Home Ministry has announced a simpler visa system for foreign nationals. The Indian Express reports that main visa categories drop from 13 to 9 and sub-categories from 49 to 23. Application forms will carry 65 to 70 percent fewer fields. The Times of India puts the cut in paperwork at 70 percent. The ministry says the changes are due to be in place by the end of this year.",
+    "The nine main categories are Business, Diplomatic, Work, Journalist, Medical, Official, Student, Visitor and Miscellaneous. The tourist visa will be renamed the visitor visa, and the student and visitor categories will be divided into sub-categories. Business visas are being consolidated into two types, B-1 and B-2.",
+    "This is the second round of streamlining reported by the paper. An exercise in October 2025 reduced categories from 22 to 13 and sub-categories from 63 to 49. E-visas are currently available to nationals of 172 countries.",
+    "Officials describe the move as a rationalisation to make applying easier. Fewer categories should mean fewer mistakes in choosing the right visa, but the effect on processing times and on security checks has not been spelled out in the reports. Travellers should check the final rules and the official forms when they are published before applying, since the transition will happen in stages."
    ],
-   "url": "https://www.bbc.co.uk/sport/tennis/articles/cvglwllpxddro?at_medium=RSS&at_campaign=rss",
-   "section": "sport",
-   "scope": "sport",
-   "source": "BBC Sport",
-   "sourceGroup": "bbc",
-   "publishedAt": "2026-11-10T23:59:03+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "BBC News",
-     "group": "bbc",
-     "url": "https://www.bbc.co.uk/sport/tennis/articles/cvglwllpxddro"
-    }
-   ]
-  },
-  {
-   "id": "74def97986d48d93469b",
-   "title": "Vaishali Rameshbabu sees Total Chess as training for World Championship",
-   "deck": "The Indian grandmaster opened with a blitz win over Hans Niemann and says facing strong men in Budapest will sharpen her for Ju Wenjun.",
-   "summary": [
-    "Vaishali Rameshbabu began her Total Chess pilot event campaign in Budapest late on Tuesday by beating Hans Niemann in a blitz game, The Indian Express reported. The 24-player field includes only two women, Vaishali and Bibisara Assaubayeva, and the main tournament starts on Wednesday. The paper's writer attended at the invitation of Total Chess.",
-    "In an interview before the blitz section, Vaishali said she sees the event as training for her Women's World Chess Championship match against reigning champion Ju Wenjun. She expects a daily challenge against strong opponents in any format.",
-    "She contrasted this preparation with the Candidates, where she had to face seven players in a double round-robin; now she thinks about one opponent at a time. She said she has not yet felt herself becoming her rival, as Garry Kasparov once described of Anatoly Karpov, but suggested that might come closer to the match.",
-    "On playing men, she said years of Grand Prix and women's events left little room for Open tournaments, but that those events test a player until the last move, and the men here are very strong. She said she still works with a psychologist, whose name she keeps private. Training hours matter less than being in good shape, she said: 12-13 hours is pointless if the brain is not working well."
-   ],
-   "url": "https://indianexpress.com/article/sports/chess/vaishali-rameshbabu-interview-total-chess-training-world-cships-10958145/",
-   "section": "sport",
-   "scope": "sport",
+   "url": "https://indianexpress.com/article/india/india-cuts-visa-categories-application-form-fields-rationalisation-foreign-nationals-10959379/",
+   "section": "world",
+   "scope": "india",
    "source": "Indian Express",
    "sourceGroup": "indian-express",
-   "publishedAt": "2026-11-10T18:35:16+00:00",
+   "publishedAt": "2026-11-11T21:40:53+05:30",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -686,7 +416,279 @@
     {
      "source": "Indian Express",
      "group": "indian-express",
-     "url": "https://indianexpress.com/article/sports/chess/vaishali-rameshbabu-interview-total-chess-training-world-cships-10958145/"
+     "url": "https://indianexpress.com/article/india/india-cuts-visa-categories-application-form-fields-rationalisation-foreign-nationals-10959379/"
+    },
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/centre-simplifies-visa-regime-paperwork-cut-by-70-categories-reduced-from-13-to-9/articleshow/135741142.cms"
+    }
+   ]
+  },
+  {
+   "id": "5e89d1041f02650b5fee",
+   "title": "Supreme Court: a foreign divorce does not end an Indian marriage if the grounds are unknown to Indian law",
+   "deck": "Bigamy proceedings can continue against a man who divorced abroad on 'irretrievable breakdown' and remarried, a bench has held.",
+   "summary": [
+    "The Supreme Court has ruled that people who marry under Indian law cannot dissolve the marriage by getting a divorce abroad on grounds Indian law does not accept. The Times of India reports that the bench of Justices Prashant Kumar Mishra and Shree Chandrashekhar allowed bigamy proceedings to continue against a man who remarried after a foreign divorce.",
+    "The man had married his first wife in India under Hindu rites. He later became a British citizen, obtained a divorce order from a foreign court on the ground that the marriage had irretrievably broken down, over his wife's objection, and then married again outside India. The court quashed the criminal case against his parents and his second wife but let the case against him proceed.",
+    "The reasoning turns on Indian law. Irretrievable breakdown is not a statutory ground for divorce under Indian matrimonial law, so the foreign decree conflicts with Section 13 of the Code of Civil Procedure, which sets conditions for recognising foreign judgments. In the eyes of Indian law the first marriage therefore continues. A change of nationality, or the fact that the second wedding took place abroad, does not weaken a bigamy charge under Section 494 of the Indian Penal Code when the first marriage was solemnised in India.",
+    "The practical message, as the paper puts it, is that liberal divorce laws overseas cannot be used to get around Indian rules for a marriage celebrated here."
+   ],
+   "url": "https://timesofindia.indiatimes.com/india/sc-indians-married-here-cant-get-divorced-abroad/articleshow/135748558.cms",
+   "section": "world",
+   "scope": "india",
+   "source": "Times of India",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-12T02:38:33+05:30",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/sc-indians-married-here-cant-get-divorced-abroad/articleshow/135748558.cms"
+    }
+   ]
+  },
+  {
+   "id": "77f08e6f4bf1a2e9cfd4",
+   "title": "Owaisi's AIMIM and Chandrashekhar Azad's party ally for Uttar Pradesh 2027",
+   "deck": "The two parties pitch a Dalit-Muslim alternative to both the BJP-led NDA and the Samajwadi Party-led opposition.",
+   "summary": [
+    "Asaduddin Owaisi's All India Majlis-e-Ittehadul Muslimeen and Chandrashekhar Azad's Azad Samaj Party (Kanshi Ram) have finalised an alliance for the 2027 Uttar Pradesh assembly election, which is due by February. NDTV reports the deal came after several rounds of talks. The Times of India had said the two were likely to announce it on 12 November.",
+    "The parties say they want to bring together Muslim and Dalit voters and offer an option outside the ruling BJP-led NDA and the Samajwadi Party-led opposition. Muslims are about 19 percent of Uttar Pradesh's population and Scheduled Castes about 21 percent, according to NDTV. AIMIM's state president Shaukat Ali said the alliance would stop the BJP winning a third term, and dismissed the SP-Congress tie-up as a repeat of 2017. Azad cited unemployment, the decline in government jobs and what he called vote theft.",
+    "The Samajwadi Party chief, Akhilesh Yadav, replied that voters had already made up their minds in favour of his party. Both new partners say they first hoped to ally with the SP and Congress, and AIMIM turned to Azad after being turned away by the SP, the Congress and Mayawati's BSP.",
+    "Their record argues for caution. In 2022 AIMIM contested over 90 seats and won less than half a percent of the vote, while Azad's party fielded over 100 candidates and polled 0.13 percent."
+   ],
+   "url": "https://www.ndtv.com/india-news/asaduddin-owaisi-chandrashekhar-azads-parties-together-for-up-2027-eye-dalit-muslim-consolidation-12314231",
+   "section": "world",
+   "scope": "india",
+   "source": "NDTV",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-11-11T23:00:27+05:30",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/asaduddin-owaisi-chandrashekhar-azads-parties-together-for-up-2027-eye-dalit-muslim-consolidation-12314231"
+    },
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/up-polls-aimims-owaisi-azad-samaj-party-kanshirams-azad-likely-to-announce-alliance-on-nov-12/articleshow/135745689.cms"
+    }
+   ]
+  },
+  {
+   "id": "d61a45f14cf03daba42e",
+   "title": "Three CRPF personnel wounded in Kulgam attack as two special police officers go missing in Kishtwar",
+   "deck": "Security forces are searching for gunmen in south Kashmir and for two officers who vanished in a forest area after firing was heard.",
+   "summary": [
+    "Two separate security incidents in Jammu and Kashmir on Wednesday are keeping forces busy. In Kulgam district, three Central Reserve Police Force personnel were wounded when gunmen opened fire on a checkpoint in the Akhran area near Mir Bazar at about 2.15 pm. The Indian Express quotes police officers saying at least three attackers were involved, two of them apparently foreign nationals, armed with AK-47 rifles. They are said to have escaped through a marshy patch. The attack came on a day the Lieutenant Governor was in the area.",
+    "NDTV, which reported on CCTV footage of the incident, says one of the injured troopers returned fire despite his wounds, which helped prevent a worse outcome. Security forces have cordoned off the area and launched a search. The Indian Express says three overground workers linked to Lashkar-e-Taiba are being questioned. CRPF and security sources told the paper the attack looked like an attempt by Pakistan-based groups to reactivate networks in the valley. That is an assessment from officials, and no group has been publicly confirmed as responsible.",
+    "Further south, two Special Police Officers have gone missing in Kishtwar district.",
+    "A team of special police officers moved in on Wednesday evening, and the police and security forces have launched a joint search."
+   ],
+   "url": "https://indianexpress.com/article/india/kulgam-terror-attack-jammu-kashmir-crpf-jawans-injured-10958851/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-11T14:51:12+05:30",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/kulgam-terror-attack-jammu-kashmir-crpf-jawans-injured-10958851/"
+    },
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/spo-personnel-missing-firing-jammu-and-kashmir-kishtwar-10959399/"
+    },
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/terrorists-opened-fire-in-kulgam-how-alert-crpf-jawan-averted-a-tragedy-12314425"
+    },
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/two-spos-go-missing-in-jks-kishtwar-massive-search-operation-launched/article71692139.ece"
+    }
+   ]
+  },
+  {
+   "id": "57de3b794b3463ddb086",
+   "title": "Millions join Spain's first general strike in 14 years over housing costs",
+   "deck": "Unions and tenants' groups claim huge turnout, police give lower figures, and Barcelona saw night-time clashes.",
+   "summary": [
+    "Spain held its first general strike in 14 years on Wednesday, with unions and tenants' groups demanding action on housing and the cost of living. The BBC says the main unions called the stoppage. The Guardian says tenants' associations led the call, and that the Confederation of Tenants' Associations claimed about four million participants by midday. Counts differ sharply: the BBC reports 120,000 people marching in Madrid and more than 50,000 in Barcelona, where organisers claimed 400,000 and local police said 55,000. Electricity use fell 7.5 percent in the early hours.",
+    "Union leaders called it a success. Pepe Álvarez of the UGT described participation as massive, and Unai Sordo of Workers' Commissions said housing is the issue fracturing the country. Protesters want a crackdown on speculation, an end to tourist lets and stronger protection for renters.",
+    "Evening brought trouble in Barcelona. The BBC says masked men burned bins, smashed shop windows, fired fireworks at police and looted shops, and police used tear gas and made dozens of arrests. The Guardian says officials reported more than 50 arrests nationwide for minor incidents.",
+    "Politics is never far away. Prime Minister Pedro Sánchez, a Socialist, backed workers' right to strike, and the BBC notes he has called an early election after parliament failed to pass his housing reform. Opposition politicians and business groups call the strike political."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-11T22:07:37+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo"
+    },
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs"
+    }
+   ]
+  },
+  {
+   "id": "a22beb6b50ef548c5a3b",
+   "title": "Democrat Scott Colom unseats Cindy Hyde-Smith in Mississippi Senate race",
+   "deck": "A margin of about 0.5 points makes him the first Black senator elected from the state since Reconstruction and dents Republicans' Senate majority.",
+   "summary": [
+    "Democrat Scott Colom has defeated Republican senator Cindy Hyde-Smith in Mississippi, a result the Guardian calls shocking and the BBC describes as historic. According to the Guardian's figures, Colom won 473,336 votes, or 49.2 percent, to her 468,667, or 48.7 percent, a margin of about half a percentage point. A third candidate, Ty Pinkins, also stood.",
+    "The win carries two kinds of weight. Mississippi has not elected a Democrat to the US Senate since 1982. The BBC says Colom is the first Black person from the state elected to the Senate in more than 140 years, while the Guardian dates the last Black senator from Mississippi to 1875. The two outlets give slightly different dates, but both place the milestone in the Reconstruction era.",
+    "The Guardian says the upset threatens the Republican hold on the Senate, though it did not quantify what the new balance would be. The result is narrow, and such margins can be tested in recounts or challenges, which these reports do not mention.",
+    "Hyde-Smith signalled how personal the contest was. She said she had blocked Colom from becoming a federal judge and that voters had now blocked him from becoming a US senator, in remarks quoted by the Guardian, and then said she assured supporters she would keep serving as their senator. Colom's reply, as quoted, was just \"Bless her heart\"."
+   ],
+   "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race",
+   "section": "world",
+   "scope": "world",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-11-11T23:10:16+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race"
+    },
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo"
+    }
+   ]
+  },
+  {
+   "id": "5496ddc49556ef6573d4",
+   "title": "US says three Iran-backed suspects plotted attacks, including the RAF Fairford incident",
+   "deck": "An eight-count indictment alleges nearly 20 attempted attacks; Iran's embassy in London denies any involvement.",
+   "summary": [
+    "The US Department of Justice says three men backed by Iran organised a series of attacks and plots in Europe and the United States, including a major security incident near RAF Fairford, the British airbase used by US forces. The BBC reports that an eight-count indictment was unsealed on Tuesday. These are allegations by US prosecutors, and the suspects have not been convicted.",
+    "The defendants named are Iranian national Mohsen Mohajeri, Iraqi national Mohammad Ali al-Hassani and Mohammad Baqer Saad Dawood al-Saadi, who holds Iranian and Iraqi citizenship. Prosecutors say they acted under the name Harakat Ashab al-Yamin al-Islamiya, in support of Iran's Revolutionary Guard Corps and the militia Kataib Hezbollah. The department says the group was involved in nearly 20 attempted attacks, including 18 in Europe in spring 2026, seven of them in Britain. It cites arsons, explosives and a near-fatal stabbing of two Jewish men in London.",
+    "On Fairford, a major incident was declared on 27 September after three suspicious vans carrying fuel barrels and metal objects were reported near the base. The department says al-Hassani directed and paid associates to carry out surveillance and logistics in August and September. Seven men have been arrested in the UK and two British nationals have appeared in court.",
+    "FBI Director Kash Patel said the indictment shows Iran's determination to carry out terrorist attacks in Europe and the US."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-11T16:59:34+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo"
+    }
+   ]
+  },
+  {
+   "id": "961cd27bd3665b7d2d10",
+   "title": "Brazilian GP rain tests F1's new cars and tyres as drivers criticise intermediates",
+   "deck": "Qualifying at Interlagos was stopped for 80 minutes, and race-day conditions exposed grip problems with the new rubber.",
+   "summary": [
+    "The Brazilian Grand Prix was the first real chance to see how Formula 1's new-generation cars cope with the wet, and Autosport's verdict is that the cars managed but the tyres drew complaints. Qualifying at Interlagos was suspended for 80 minutes because of a heavy downpour, and race day brought mixed wet and dry conditions.",
+    "Drivers gave a frank picture of the risks. George Russell warned that racing in the initial torrential conditions carried a high risk of a horrific incident. Team principal Fred Vasseur praised the FIA's decision to red-flag qualifying as the perfect call, and said the extreme wet tyres are now more usable. The FIA waited for a safe window to restart, and teams also had to manage how power is delivered to the wheels on a slippery surface.",
+    "The intermediate tyre, used on damp tracks, took the most criticism. Alex Albon said intermediates never feel alive because they wear quickly before reaching working temperature. Carlos Sainz said they have weak rear grip while the fronts wear out, and he found the extreme wets slide and lack rear grip. Liam Lawson said cooler temperatures made the formation lap almost undriveable and that the intermediates struggled to hold heat.",
+    "Pirelli's extreme wet compound proved more usable than in the past. The tyre supplier aims to bring the performance of its different compounds closer together next year, Autosport reports."
+   ],
+   "url": "https://www.autosport.com/f1/news/what-the-brazilian-gp-revealed-about-f1s-ability-to-cope-with-rain/10873789/",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-11-11T09:23:42+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/what-the-brazilian-gp-revealed-about-f1s-ability-to-cope-with-rain/10873789/"
+    }
+   ]
+  },
+  {
+   "id": "2db114edc123a0aa3903",
+   "title": "Hardik Pandya traded to Punjab Kings, Arshdeep Singh joins Mumbai Indians",
+   "deck": "The swap, each valued at Rs 18 crore, is among the biggest moves ahead of the IPL 2027 retention deadline.",
+   "summary": [
+    "One of the Indian Premier League's biggest trades has been agreed. All-rounder Hardik Pandya moves from Mumbai Indians to Punjab Kings for Rs 18 crore, while left-arm pacer Arshdeep Singh goes the other way to Mumbai at the same fee, according to the Indian Express. The deal was struck ahead of the IPL 2027 retention deadline.",
+    "The money matters to both sides. Hardik's fee rises from the Rs 16.35 crore he was on, and Arshdeep is moving at his existing price. Punjab Kings will be Hardik's third IPL franchise. His previous franchise was Gujarat Titans, and he returned to Mumbai in 2024 to replace Rohit Sharma as captain. Arshdeep, who has played for Punjab, is now joining his second team.",
+    "Hardik's return to Mumbai was not a happy one. The paper recalls that that return drew severe backlash from Mumbai fans, including boos and jeers at Wankhede Stadium. A move away could give him a fresh start, a view some commentators took in the days after the deal.",
+    "For Mumbai, the attraction is a proven new-ball bowler. Cricket commentators, including Irfan Pathan, have argued that Mumbai may have come out ahead in the trade, though others disagree and say Hardik needed a change. Teams now have to finalise which players to keep before the deadline, so more transfers may follow."
+   ],
+   "url": "https://indianexpress.com/article/sports/cricket/ipl-2027-hardik-pandya-traded-punjab-kings-18-crore-arshdeep-singh-mi-10957309/",
+   "section": "sport",
+   "scope": "sport",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-11T09:34:05+05:30",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/sports/cricket/ipl-2027-hardik-pandya-traded-punjab-kings-18-crore-arshdeep-singh-mi-10957309/"
+    },
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/sports/cricket/ipl-2027-full-list-of-players-traded-ahead-of-retention-deadline-10959194/"
     }
    ]
   }
@@ -708,7 +710,7 @@
    "name": "The Hindu",
    "section": "world",
    "status": "ok",
-   "count": 60
+   "count": 49
   },
   {
    "name": "Times of India",
@@ -720,19 +722,19 @@
    "name": "BBC News",
    "section": "world",
    "status": "ok",
-   "count": 38
+   "count": 24
   },
   {
    "name": "The Guardian",
    "section": "world",
    "status": "ok",
-   "count": 31
+   "count": 35
   },
   {
    "name": "TechCrunch",
    "section": "technology",
    "status": "ok",
-   "count": 12
+   "count": 20
   },
   {
    "name": "The Verge",
@@ -744,55 +746,55 @@
    "name": "BBC News",
    "section": "technology",
    "status": "ok",
-   "count": 11
+   "count": 12
   },
   {
    "name": "Indian Express",
    "section": "business",
    "status": "ok",
-   "count": 3
+   "count": 9
   },
   {
    "name": "BBC News",
    "section": "business",
    "status": "ok",
-   "count": 27
+   "count": 20
   },
   {
    "name": "Economic Times",
    "section": "business",
    "status": "ok",
-   "count": 34
+   "count": 50
   },
   {
    "name": "BBC Sport",
    "section": "formula-one",
    "status": "ok",
-   "count": 4
+   "count": 1
   },
   {
    "name": "Autosport",
    "section": "formula-one",
    "status": "ok",
-   "count": 5
+   "count": 3
   },
   {
    "name": "BBC Sport",
    "section": "sport",
    "status": "ok",
-   "count": 49
+   "count": 45
   },
   {
    "name": "Indian Express",
    "section": "sport",
    "status": "ok",
-   "count": 32
+   "count": 28
   },
   {
    "name": "Gadgets 360",
    "section": "deals",
    "status": "ok",
-   "count": 5
+   "count": 1
   },
   {
    "name": "Indian Express",

@@ -1,0 +1,806 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-11-12",
+ "generatedAt": "2026-11-12T02:14:27.959469+00:00",
+ "timezone": "Asia/Kolkata",
+ "windowHours": 48,
+ "primaryWindowHours": 24,
+ "summaryMode": "original-articles",
+ "localLimit": 1,
+ "stories": [
+  {
+   "id": "a6547f8cea67f8f6609b",
+   "title": "Nvidia board reportedly preparing to remove Jensen Huang after a second alleged affair (update)",
+   "deck": "The New York Times and The Wall Street Journal report that the chip maker's directors could decide the chief executive's future as soon as Wednesday night; Nvidia has not commented.",
+   "summary": [
+    "Nvidia's board is reportedly getting ready to dismiss chief executive Jensen Huang. The Wall Street Journal says directors could meet as early as Wednesday to decide his future. The Verge and TechCrunch relay that account, and none of it is confirmed: Nvidia did not respond to The Verge's request for comment, and the claims rest on anonymous sources.",
+    "The trigger is a second set of allegations. The New York Times reported on Wednesday that Huang had an affair with Kimberly Powell, Nvidia's vice president of health care, who reports to him. Two unnamed sources told the paper the pair were captured together at a San Jose hotel during the company's developer conference in March. The Times said it has not seen any video. CNBC separately quoted an unnamed source saying rumours about the two had circulated inside Nvidia for some time. Neither person has been quoted responding in the reports we reviewed, and both are said to be married to other people.",
+    "This lands days after Huang and Nvidia confirmed a relationship with Alice Huang, an executive at Megaspeed who has been described in reports as a suspected Chinese intelligence agent. Nvidia has hired a former US attorney to run an investigation, and President Trump has said the FBI is looking into the matter. TechCrunch adds that House Republicans asked Huang for a closed-door briefing, with a deadline of the end of Wednesday.",
+    "Markets reacted quickly. The Verge says Nvidia's shares fell more than 7 percent in after-hours trading on Wednesday. Whatever the board decides, the episode puts the leadership of a leading supplier of AI chips, and its dealings with China, under unusual public pressure. Readers should treat the dismissal talk as a report about a possible decision, not a decision itself. We will update this story if the company confirms anything."
+   ],
+   "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-11-11T22:44:36+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": true,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
+    },
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+    },
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"
+    }
+   ]
+  },
+  {
+   "id": "bed7979fe4378809a9c4",
+   "title": "OpenAI's quarterly revenue reportedly tops $10 billion for the first time",
+   "deck": "Bloomberg's sources say third-quarter sales jumped almost 50 percent, though rival Anthropic still reports bigger numbers.",
+   "summary": [
+    "OpenAI's revenue for the July to September quarter has reportedly passed $10 billion for the first time. TechCrunch is passing on a Bloomberg report that relies on anonymous sources, so the figure is not an official company disclosure. If accurate, it is nearly 50 percent higher than the $6.7 billion the company reportedly booked in the second quarter.",
+    "That would be a sharp change in pace. Earlier reporting put growth between the first and second quarters at about 18 percent. Bloomberg also says OpenAI's adjusted operating margin improved from minus 150 percent to minus 109 percent, meaning the company still spends far more than it earns but is narrowing the gap. Its annualised revenue run rate is said to have reached $50 billion.",
+    "TechCrunch credits the rebound to strong demand for OpenAI's recent models, tighter pricing and discounting, and a bigger push into products for businesses and AI agents that complete tasks for users. OpenAI says it has more than a billion users, but the article notes that most are probably free or on the cheapest plans.",
+    "The comparison with Anthropic is awkward for OpenAI. Anthropic has led in selling to companies and recently reported third-quarter revenue of $17 billion, with a run rate of $81 billion at the end of October. The two firms count annualised revenue differently, because Anthropic includes sales made through cloud partners while OpenAI reports only its own share, so the headline numbers are not directly comparable."
+   ],
+   "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-11T16:14:44+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
+    }
+   ]
+  },
+  {
+   "id": "5413a692ab5366d74989",
+   "title": "CoreWeave asks customers to pay up front as it funds the AI build-out",
+   "deck": "The AI cloud provider reported $3.66 billion in quarterly revenue but is leaning on prepayments, contract-backed loans and short-term deals to finance growth.",
+   "summary": [
+    "CoreWeave, which rents out the computing power behind AI services, is changing how it pays for its expansion. In its third-quarter results on Tuesday the company reported revenue of $3.66 billion, up 168 percent from a year earlier. It also posted a net loss of $709 million and spent $846 million on interest in the quarter.",
+    "Chief executive Michael Intrator said CoreWeave will not borrow on the unsecured bond market at current yields. Instead it plans to take loans secured against specific customer contracts, drawing money as it builds. The company has a backlog of $132.5 billion in contracted work. It expects about $9 billion in customer prepayments and deposits over the next three months, including more than $3 billion tied to new contracts for capacity it has already built.",
+    "Prices are rising. CoreWeave lifted prices by about 25 percent in July and a further 10 percent later in the quarter, and Intrator said further increases are more than covering higher costs. Some capacity is now being sold on short-term deals at more than $40 million per megawatt a year, while new four and five-year contracts are priced at $20 million to $25 million.",
+    "TechCrunch points out the trade-offs. Prepayments reduce borrowing needs but commit CoreWeave to prices that could look cheap if demand keeps surging, and lenders prefer longer contracts because they offer steadier cash flow."
+   ],
+   "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-11T19:54:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
+    }
+   ]
+  },
+  {
+   "id": "038f46a4355e85690cee",
+   "title": "Britain's Fractile raises $720 million for AI inference chips",
+   "deck": "The round, backed by the UK's sovereign AI fund, reportedly values the start-up at about $7 billion.",
+   "summary": [
+    "Fractile, a British start-up designing chips for running AI models, has raised $720 million in a Series C funding round. The round was led by Thrive Capital, Founders Fund, Lightspeed Venture Partners and Redpoint, with participation from Britain's Sovereign AI Fund. That makes Fractile one of the best-funded companies building purpose-built AI chips.",
+    "The British government described the valuation as \"over £5 billion\". TechCrunch notes that figure is probably about $7 billion, a number reported by the Financial Times and by a Reuters source, though the company has not confirmed it. The government said the investment is meant to give the UK a bigger stake in the hardware that will underpin its future economy.",
+    "Fractile focuses on inference, the stage where a trained model answers questions, which is becoming costlier as companies use AI agents that carry out long chains of tasks. After changing direction, its design now stacks DRAM, the common type of computer memory, on top of each chip. The aim is to avoid the usual trade-off between memory speed and capacity. It also builds a compiler, the software that turns models into instructions for its chips, which TechCrunch says lets it present itself as a frontier AI company rather than only a chip maker.",
+    "Chief executive Walter Goodwin said on LinkedIn that there is still a lot of work ahead and that the money will help Fractile ship its first chips and systems next year."
+   ],
+   "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-11T19:34:55+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
+    }
+   ]
+  },
+  {
+   "id": "92bde755004877b47691",
+   "title": "EU unveils Digital Fairness Act targeting loot boxes, dark patterns and addictive design",
+   "deck": "The Commission's draft would ban manipulative marketing, require easy opt-outs from features such as autoplay, and allow fines of up to 6 percent of turnover.",
+   "summary": [
+    "The European Commission on Wednesday published a draft Digital Fairness Act, a set of consumer rules aimed at games, social media and online shops. The Commission says it wants a fairer online experience and expects businesses to help consumers save up to €13.7 billion a year. The text is only a proposal and must pass the European Parliament and the Council of the EU, so it may change or be dropped.",
+    "As summarised by The Verge, the draft would ban manipulative marketing and \"dark patterns\", such as false claims that a product is nearly sold out. People would have to be offered a way to switch off addictive features like endless scrolling, persistent prompts and video autoplay, and similar limits would cover AI companions and general chatbots. Gambling-style game features, including pay-to-win mechanics, would be barred for minors.",
+    "Other measures include clear disclosure of paid influencer content, limits on personalised ads and prices aimed at minors, easier cancellation of subscriptions with reminders before renewals, and transparent prices for dynamic pricing and in-app virtual currencies. Ticket queues would have to show the current price in real time. Consumers would also gain a right to reach a human customer service agent and clear rights when using an AI agent to buy things.",
+    "Companies that break the rules could face fines of up to 6 percent of worldwide annual turnover."
+   ],
+   "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-11-11T18:13:52+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection"
+    }
+   ]
+  },
+  {
+   "id": "3c4a130ff1dbafc38dee",
+   "title": "United bans personal AI agents from booking its flights",
+   "deck": "The airline cites privacy and federal disclosure rules, and says it may revisit the decision as the technology matures.",
+   "summary": [
+    "United Airlines will not let personal AI assistants buy tickets on a customer's behalf. The Wall Street Journal reported the policy and The Verge summarised it. Agents can still show users United flights, but they cannot complete the booking.",
+    "The airline gives two main reasons. It worries that agents could expose customers' information or make purchases people did not intend. It also says agents could undermine federal rules about what airlines must tell passengers, such as having travellers confirm that their bags contain no explosives, something an AI program cannot do for them. United says it has not seen many people trying to book through agents so far, which matches what other businesses report. DoorDash, for example, recently said it had received only several hundred orders from AI agents.",
+    "Chief executive Scott Kirby said at an event on Tuesday that he does not want to create another middleman, according to the Journal. United is not alone in restricting agents: eBay appears to have blocked them from browsing its site, and several large banks have placed limits on them.",
+    "The decisions could limit how useful newer personal assistants, such as Meta's Muse and OpenAI's Dots, turn out to be. United left the door open, saying it sees opportunities as third-party agents improve but wants protections for travellers in place first. For now, anyone who wants an AI assistant to book a United flight will have to do the final step themselves."
+   ],
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-11-11T21:54:21+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+    }
+   ]
+  },
+  {
+   "id": "074b126d3fd76577cd91",
+   "title": "Noel Tata to leave six Tata company boards as he turns 70",
+   "deck": "Bahram Vakil will chair Trent, Sunil D'Souza Voltas and TV Narendran Tata International; the group says the exits follow its retirement policy.",
+   "summary": [
+    "Noel Tata, chairman of Tata Trusts, steps down from the boards of six major Tata Group companies on Thursday, the day he turns 70. The Indian Express reports that the group's retirement rule for non-executive directors applies. He will stop being non-executive chairman of Trent, Voltas, Tata Investment Corporation and Tata International, and will become chairman emeritus.",
+    "Successors have been named. Bahram Vakil, co-founder of the law firm AZB & Partners, takes over at Trent. Sunil D'Souza becomes chairman of Voltas, and TV Narendran, managing director of Tata Steel, will chair Tata International. Tata Steel and Titan are expected to get new vice chairmen and directors, since Noel Tata also leaves as vice chairman at both. Voltas has also appointed Jayant Balan as managing director for five years from 25 May 2027, when Mukundan Menon completes his term.",
+    "The paper stresses that the exits are not sudden. Tata signalled his plans at Trent's annual meeting in June and again at Voltas's, and Ratan Tata likewise gave up executive posts at 70. The Indian Express says the changes have no connection with the dispute between Tata Trusts and Tata Sons.",
+    "That dispute is the context readers will notice. Noel Tata opposed a resolution approving N Chandrasekaran's proposed third five-year term as Tata Sons chairman, and the move to list Tata Sons, and he questioned the role of directors nominated by the Trusts."
+   ],
+   "url": "https://indianexpress.com/article/business/noel-tata-step-down-chairman-tata-investment-corp-tata-firms-10959649/",
+   "section": "business",
+   "scope": "business",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-12T07:10:51+05:30",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/business/noel-tata-step-down-chairman-tata-investment-corp-tata-firms-10959649/"
+    }
+   ]
+  },
+  {
+   "id": "6cfd66a2b0db01f92ed7",
+   "title": "Amul and Mother Dairy raise milk prices by Rs 2 to Rs 4 a litre",
+   "deck": "Amul's increase takes effect on 12 November, hours after Mother Dairy announced a similar rise, with both blaming higher input costs.",
+   "summary": [
+    "Households in many cities will pay more for milk from Thursday. The Gujarat Co-operative Milk Marketing Federation, which sells under the Amul brand, said on Wednesday that fresh pouch milk will cost Rs 2 to Rs 4 more per litre, an increase of roughly 4 to 5 percent. It is Amul's first rise since May 2026. Mother Dairy, which sells mainly in Delhi, announced a similar increase of Rs 2 to Rs 4 a litre only hours earlier.",
+    "Under the new prices, Amul Taaza toned milk goes up by Rs 2 to Rs 62 a litre. Amul Gold full-cream milk rises by Rs 4 to Rs 80. The change also covers Amul Shakti and Amul Tea Special.",
+    "Amul's explanation is that costs have climbed over the past year: green and dry fodder, cattle feed ingredients such as oil cake, maize and molasses, packaging film and transport fuel. It also pointed to low and uneven rainfall in Gujarat and other parts of the country. These are the company's own statements, not independently checked figures.",
+    "The federation says its member unions have already raised the price paid to farmers by 4 to 5 percent in the past year and that a further revision will follow. It adds that 80 percent of what consumers pay through the co-operative structure goes back to its 36 lakh milk producers, and that most of the retail increase will be passed on to them."
+   ],
+   "url": "https://www.ndtv.com/india-news/amul-milk-price-hike-amul-hikes-milk-prices-by-rs-2-4-per-litre-12313273",
+   "section": "business",
+   "scope": "business",
+   "source": "NDTV",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-11-12T01:42:16+05:30",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/amul-milk-price-hike-amul-hikes-milk-prices-by-rs-2-4-per-litre-12313273"
+    },
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/cons-products/food/mother-dairy-raises-milk-prices-by-rs-2-4-per-litre-effective-thursday/articleshow/135727385.cms"
+    }
+   ]
+  },
+  {
+   "id": "30457cd143331d0e6c57",
+   "title": "Cabinet approves Rs 62,370 crore fertiliser subsidy for the rabi season",
+   "deck": "The allocation is 64 percent above last year's, and DAP will stay available to farmers at a fixed Rs 1,350 per bag.",
+   "summary": [
+    "The Union Cabinet on Wednesday cleared a subsidy of Rs 62,370 crore on fertilisers for the rabi, or winter, crop season. The Indian Express says this is about 64 percent more than the Rs 37,952 crore set aside for the previous rabi season. The support applies from 1 October 2026 to 31 March 2027. Prime Minister Narendra Modi said farmers are always the government's top priority and that the Centre will leave nothing undone for them even in difficult global conditions, according to NDTV.",
+    "The money covers phosphatic and potassic fertilisers under the nutrient-based subsidy system, including di-ammonium phosphate (DAP) and fertilisers supplying nitrogen, phosphorus, potash and sulphur. The government said a special arrangement will continue so that DAP remains available at a fixed price of Rs 1,350 per bag.",
+    "The Indian Express adds context from the market. Domestic fertiliser sales have fallen this year because of poor rainfall: complex fertilisers are down 22 percent, urea 4 percent and DAP 0.6 percent compared with last year. The paper says the total fertiliser subsidy bill for 2026-27 was estimated at Rs 1.71 lakh crore, below Rs 1.86 lakh crore in 2025-26.",
+    "The same Cabinet meeting extended the Stand-Up India scheme and the Credit Guarantee Fund for Micro Units for five years, until March 2031."
+   ],
+   "url": "https://indianexpress.com/article/business/fertiliser-subsidy-rabi-season-2026-27-cabinet-approval-10959144/",
+   "section": "business",
+   "scope": "business",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-11T18:18:04+05:30",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/business/fertiliser-subsidy-rabi-season-2026-27-cabinet-approval-10959144/"
+    },
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/farmers-are-always-governments-top-priority-pm-modi-12314718"
+    }
+   ]
+  },
+  {
+   "id": "f40c602e93d7455da435",
+   "title": "India's clean power build-out has avoided $100 billion of fuel imports, IEA says",
+   "deck": "The agency estimates cumulative savings could reach about $240 billion by 2030 as renewable capacity passes 300 GW.",
+   "summary": [
+    "India's growth in renewable power has saved the country more than $100 billion in imported coal and gas between 2011 and 2025, according to the International Energy Agency's India Renewable Energy Market Report 2026. The Economic Times, which reported the findings, converts that to about Rs 9.4 lakh crore. The agency projects cumulative savings of nearly $240 billion, or Rs 22.6 lakh crore, by 2030.",
+    "The IEA says that without the capacity added since 2010, India's coal imports in 2025 would have been about 110 million tonnes higher and import dependence for electricity would have been above 30 percent, roughly double the actual level. Renewable capacity passed 300 GW in 2026; the report cites about 299 GW at the end of September, including roughly 171 GW of solar and 59 GW of wind.",
+    "Renewables produced more than 500 terawatt-hours in 2025, around a quarter of supply, and the agency expects that to approach 950 terawatt-hours, about 35 percent, by 2030. It says solar tariffs in 2025 were about 40 percent below the average cost of coal-fired power. India is also the world's second-largest maker of solar modules, and the Times of India calls it the second-fastest growing renewables market.",
+    "IEA executive director Fatih Birol said the expansion is delivering major benefits for India's energy security at a time of heightened uncertainty in global energy markets."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/renewables/indias-renewable-energy-expansion-averts-100-bn-in-fuel-imports-savings-seen-at-240-bn-by-2030/articleshow/135739839.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-11T13:46:25+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/renewables/indias-renewable-energy-expansion-averts-100-bn-in-fuel-imports-savings-seen-at-240-bn-by-2030/articleshow/135739839.cms"
+    },
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/green-energy-push-helped-india-save-100bn-over-last-15-yrs-iea/articleshow/135747628.cms"
+    }
+   ]
+  },
+  {
+   "id": "4304f668ca3c4b06c827",
+   "title": "India holds Scotch shipments as customs seeks 150 percent duty despite trade pact",
+   "deck": "Pernod Ricard and Diageo cargoes are reportedly detained while officials argue bulk whisky counts as a \"compound alcoholic preparation\".",
+   "summary": [
+    "Indian customs has reportedly detained dozens of containers of bulk Scotch whisky imported by Pernod Ricard and Diageo, in a dispute over how much duty applies. The Economic Times, citing four people with knowledge of the matter, says investigators want a 150 percent tariff. The India-UK trade pact, which took effect in July, lowers the duty on Scotch to 75 percent. The ministries and companies are not quoted in the report as we read it.",
+    "The paper says the push comes from a confidential memo dated 4 November by the finance ministry's Directorate of Revenue Intelligence. The memo argues that bulk Scotch should be classed as a \"compound alcoholic preparation\", a category that has attracted the higher rate since 1 May. Chivas Brothers, part of Pernod Ricard, is among the importers affected.",
+    "The commerce ministry has reportedly given assurances that the trade deal's lower rate will be honoured, but the detentions continue. That raises worries about supply disruptions and about how the agreement is being put into practice. Scotch exports to India were worth about $335 million in 2024, and the pact was expected to lift them by around $1.34 billion over five years.",
+    "The Scotch Whisky Association and the International Spirits and Wines Association of India are among the bodies cited in the report."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/cons-products/liquor/india-holds-pernod-diageo-scotch-shipments-as-investigators-seek-higher-tariff/articleshow/135728150.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-11T06:40:49+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/cons-products/liquor/india-holds-pernod-diageo-scotch-shipments-as-investigators-seek-higher-tariff/articleshow/135728150.cms"
+    }
+   ]
+  },
+  {
+   "id": "826a2a6c3dd8f1e67b30",
+   "title": "Navi Mumbai named India's cleanest city as Indore's run ends",
+   "deck": "President Droupadi Murmu presented the Swachh Survekshan 2025-26 awards; Surat and Vijayawada took second and third place.",
+   "summary": [
+    "Navi Mumbai has been named India's cleanest city in the Swachh Survekshan 2025-26 survey, ending Indore's eight-year run at the top. The Hindu reports that President Droupadi Murmu presented the awards on Wednesday. Surat finished second and Vijayawada third. Indore, last year's winner, did not feature among the toppers this time, while Navi Mumbai and Surat had come third and second in the previous edition.",
+    "The survey also ranks cities by size. In the category for populations of 3 lakh to 10 lakh, Ujjain came first, ahead of Chandigarh and Guntur. Among cities with more than 10 lakh people, Greater Visakhapatnam was first, followed by Jabalpur and Lucknow. The Indian Express headlined Visakhapatnam as the cleanest big city.",
+    "Special titles went to smaller places. Rewa was named the cleanest riverfront town, ahead of Bilaspur and Varanasi. Puri topped the list of coastal towns, followed by Alappuzha and Ratnagiri. Rudrapur was named the cleanest Himalayan city, with Jammu second.",
+    "A change at the top reflects the survey's own scoring, not necessarily a collapse in Indore's performance. Local reports did not explain why Indore dropped out of the top group."
+   ],
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/navi-mumbai-emerges-as-cleanest-city-surat-vijayawada-runners-up-in-cleanliness-survey/article71689854.ece",
+   "section": "world",
+   "scope": "india",
+   "source": "The Hindu",
+   "sourceGroup": "the-hindu",
+   "publishedAt": "2026-11-11T23:54:47+05:30",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/sci-tech/energy-and-environment/navi-mumbai-emerges-as-cleanest-city-surat-vijayawada-runners-up-in-cleanliness-survey/article71689854.ece"
+    },
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/navi-mumbai-indias-cleanest-city-indores-domination-ends/articleshow/135748695.cms"
+    },
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/navi-mumbai-cleanest-city-india-swachh-survekshan-awards-2025-26-surat-vijayawada-10959238/"
+    }
+   ]
+  },
+  {
+   "id": "b03df77427fd1f68d5e7",
+   "title": "India cuts visa categories from 13 to 9 and trims application forms by up to 70 percent",
+   "deck": "The Home Ministry says tourist visas become visitor visas and sub-categories fall from 49 to 23, with changes due by the end of the year.",
+   "summary": [
+    "India's Home Ministry has announced a simpler visa system for foreign nationals. The Indian Express reports that main visa categories drop from 13 to 9 and sub-categories from 49 to 23. Application forms will carry 65 to 70 percent fewer fields. The Times of India puts the cut in paperwork at 70 percent. The ministry says the changes are due to be in place by the end of this year.",
+    "The nine main categories are Business, Diplomatic, Work, Journalist, Medical, Official, Student, Visitor and Miscellaneous. The tourist visa will be renamed the visitor visa, and the student and visitor categories will be divided into sub-categories. Business visas are being consolidated into two types, B-1 and B-2.",
+    "This is the second round of streamlining reported by the paper. An exercise in October 2025 reduced categories from 22 to 13 and sub-categories from 63 to 49. E-visas are currently available to nationals of 172 countries.",
+    "Officials describe the move as a rationalisation to make applying easier. Fewer categories should mean fewer mistakes in choosing the right visa, but the effect on processing times and on security checks has not been spelled out in the reports. Travellers should check the final rules and the official forms when they are published before applying, since the transition will happen in stages."
+   ],
+   "url": "https://indianexpress.com/article/india/india-cuts-visa-categories-application-form-fields-rationalisation-foreign-nationals-10959379/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-11T21:40:53+05:30",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/india-cuts-visa-categories-application-form-fields-rationalisation-foreign-nationals-10959379/"
+    },
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/centre-simplifies-visa-regime-paperwork-cut-by-70-categories-reduced-from-13-to-9/articleshow/135741142.cms"
+    }
+   ]
+  },
+  {
+   "id": "5e89d1041f02650b5fee",
+   "title": "Supreme Court: a foreign divorce does not end an Indian marriage if the grounds are unknown to Indian law",
+   "deck": "Bigamy proceedings can continue against a man who divorced abroad on 'irretrievable breakdown' and remarried, a bench has held.",
+   "summary": [
+    "The Supreme Court has ruled that people who marry under Indian law cannot dissolve the marriage by getting a divorce abroad on grounds Indian law does not accept. The Times of India reports that the bench of Justices Prashant Kumar Mishra and Shree Chandrashekhar allowed bigamy proceedings to continue against a man who remarried after a foreign divorce.",
+    "The man had married his first wife in India under Hindu rites. He later became a British citizen, obtained a divorce order from a foreign court on the ground that the marriage had irretrievably broken down, over his wife's objection, and then married again outside India. The court quashed the criminal case against his parents and his second wife but let the case against him proceed.",
+    "The reasoning turns on Indian law. Irretrievable breakdown is not a statutory ground for divorce under Indian matrimonial law, so the foreign decree conflicts with Section 13 of the Code of Civil Procedure, which sets conditions for recognising foreign judgments. In the eyes of Indian law the first marriage therefore continues. A change of nationality, or the fact that the second wedding took place abroad, does not weaken a bigamy charge under Section 494 of the Indian Penal Code when the first marriage was solemnised in India.",
+    "The practical message, as the paper puts it, is that liberal divorce laws overseas cannot be used to get around Indian rules for a marriage celebrated here."
+   ],
+   "url": "https://timesofindia.indiatimes.com/india/sc-indians-married-here-cant-get-divorced-abroad/articleshow/135748558.cms",
+   "section": "world",
+   "scope": "india",
+   "source": "Times of India",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-12T02:38:33+05:30",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/sc-indians-married-here-cant-get-divorced-abroad/articleshow/135748558.cms"
+    }
+   ]
+  },
+  {
+   "id": "77f08e6f4bf1a2e9cfd4",
+   "title": "Owaisi's AIMIM and Chandrashekhar Azad's party ally for Uttar Pradesh 2027",
+   "deck": "The two parties pitch a Dalit-Muslim alternative to both the BJP-led NDA and the Samajwadi Party-led opposition.",
+   "summary": [
+    "Asaduddin Owaisi's All India Majlis-e-Ittehadul Muslimeen and Chandrashekhar Azad's Azad Samaj Party (Kanshi Ram) have finalised an alliance for the 2027 Uttar Pradesh assembly election, which is due by February. NDTV reports the deal came after several rounds of talks. The Times of India had said the two were likely to announce it on 12 November.",
+    "The parties say they want to bring together Muslim and Dalit voters and offer an option outside the ruling BJP-led NDA and the Samajwadi Party-led opposition. Muslims are about 19 percent of Uttar Pradesh's population and Scheduled Castes about 21 percent, according to NDTV. AIMIM's state president Shaukat Ali said the alliance would stop the BJP winning a third term, and dismissed the SP-Congress tie-up as a repeat of 2017. Azad cited unemployment, the decline in government jobs and what he called vote theft.",
+    "The Samajwadi Party chief, Akhilesh Yadav, replied that voters had already made up their minds in favour of his party. Both new partners say they first hoped to ally with the SP and Congress, and AIMIM turned to Azad after being turned away by the SP, the Congress and Mayawati's BSP.",
+    "Their record argues for caution. In 2022 AIMIM contested over 90 seats and won less than half a percent of the vote, while Azad's party fielded over 100 candidates and polled 0.13 percent."
+   ],
+   "url": "https://www.ndtv.com/india-news/asaduddin-owaisi-chandrashekhar-azads-parties-together-for-up-2027-eye-dalit-muslim-consolidation-12314231",
+   "section": "world",
+   "scope": "india",
+   "source": "NDTV",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-11-11T23:00:27+05:30",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/asaduddin-owaisi-chandrashekhar-azads-parties-together-for-up-2027-eye-dalit-muslim-consolidation-12314231"
+    },
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/up-polls-aimims-owaisi-azad-samaj-party-kanshirams-azad-likely-to-announce-alliance-on-nov-12/articleshow/135745689.cms"
+    }
+   ]
+  },
+  {
+   "id": "d61a45f14cf03daba42e",
+   "title": "Three CRPF personnel wounded in Kulgam attack as two special police officers go missing in Kishtwar",
+   "deck": "Security forces are searching for gunmen in south Kashmir and for two officers who vanished in a forest area after firing was heard.",
+   "summary": [
+    "Two separate security incidents in Jammu and Kashmir on Wednesday are keeping forces busy. In Kulgam district, three Central Reserve Police Force personnel were wounded when gunmen opened fire on a checkpoint in the Akhran area near Mir Bazar at about 2.15 pm. The Indian Express quotes police officers saying at least three attackers were involved, two of them apparently foreign nationals, armed with AK-47 rifles. They are said to have escaped through a marshy patch. The attack came on a day the Lieutenant Governor was in the area.",
+    "NDTV, which reported on CCTV footage of the incident, says one of the injured troopers returned fire despite his wounds, which helped prevent a worse outcome. Security forces have cordoned off the area and launched a search. The Indian Express says three overground workers linked to Lashkar-e-Taiba are being questioned. CRPF and security sources told the paper the attack looked like an attempt by Pakistan-based groups to reactivate networks in the valley. That is an assessment from officials, and no group has been publicly confirmed as responsible.",
+    "Further south, two Special Police Officers have gone missing in Kishtwar district.",
+    "A team of special police officers moved in on Wednesday evening, and the police and security forces have launched a joint search."
+   ],
+   "url": "https://indianexpress.com/article/india/kulgam-terror-attack-jammu-kashmir-crpf-jawans-injured-10958851/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-11T14:51:12+05:30",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/kulgam-terror-attack-jammu-kashmir-crpf-jawans-injured-10958851/"
+    },
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/spo-personnel-missing-firing-jammu-and-kashmir-kishtwar-10959399/"
+    },
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/terrorists-opened-fire-in-kulgam-how-alert-crpf-jawan-averted-a-tragedy-12314425"
+    },
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/two-spos-go-missing-in-jks-kishtwar-massive-search-operation-launched/article71692139.ece"
+    }
+   ]
+  },
+  {
+   "id": "57de3b794b3463ddb086",
+   "title": "Millions join Spain's first general strike in 14 years over housing costs",
+   "deck": "Unions and tenants' groups claim huge turnout, police give lower figures, and Barcelona saw night-time clashes.",
+   "summary": [
+    "Spain held its first general strike in 14 years on Wednesday, with unions and tenants' groups demanding action on housing and the cost of living. The BBC says the main unions called the stoppage. The Guardian says tenants' associations led the call, and that the Confederation of Tenants' Associations claimed about four million participants by midday. Counts differ sharply: the BBC reports 120,000 people marching in Madrid and more than 50,000 in Barcelona, where organisers claimed 400,000 and local police said 55,000. Electricity use fell 7.5 percent in the early hours.",
+    "Union leaders called it a success. Pepe Álvarez of the UGT described participation as massive, and Unai Sordo of Workers' Commissions said housing is the issue fracturing the country. Protesters want a crackdown on speculation, an end to tourist lets and stronger protection for renters.",
+    "Evening brought trouble in Barcelona. The BBC says masked men burned bins, smashed shop windows, fired fireworks at police and looted shops, and police used tear gas and made dozens of arrests. The Guardian says officials reported more than 50 arrests nationwide for minor incidents.",
+    "Politics is never far away. Prime Minister Pedro Sánchez, a Socialist, backed workers' right to strike, and the BBC notes he has called an early election after parliament failed to pass his housing reform. Opposition politicians and business groups call the strike political."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-11T22:07:37+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo"
+    },
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs"
+    }
+   ]
+  },
+  {
+   "id": "a22beb6b50ef548c5a3b",
+   "title": "Democrat Scott Colom unseats Cindy Hyde-Smith in Mississippi Senate race",
+   "deck": "A margin of about 0.5 points makes him the first Black senator elected from the state since Reconstruction and dents Republicans' Senate majority.",
+   "summary": [
+    "Democrat Scott Colom has defeated Republican senator Cindy Hyde-Smith in Mississippi, a result the Guardian calls shocking and the BBC describes as historic. According to the Guardian's figures, Colom won 473,336 votes, or 49.2 percent, to her 468,667, or 48.7 percent, a margin of about half a percentage point. A third candidate, Ty Pinkins, also stood.",
+    "The win carries two kinds of weight. Mississippi has not elected a Democrat to the US Senate since 1982. The BBC says Colom is the first Black person from the state elected to the Senate in more than 140 years, while the Guardian dates the last Black senator from Mississippi to 1875. The two outlets give slightly different dates, but both place the milestone in the Reconstruction era.",
+    "The Guardian says the upset threatens the Republican hold on the Senate, though it did not quantify what the new balance would be. The result is narrow, and such margins can be tested in recounts or challenges, which these reports do not mention.",
+    "Hyde-Smith signalled how personal the contest was. She said she had blocked Colom from becoming a federal judge and that voters had now blocked him from becoming a US senator, in remarks quoted by the Guardian, and then said she assured supporters she would keep serving as their senator. Colom's reply, as quoted, was just \"Bless her heart\"."
+   ],
+   "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race",
+   "section": "world",
+   "scope": "world",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-11-11T23:10:16+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race"
+    },
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo"
+    }
+   ]
+  },
+  {
+   "id": "5496ddc49556ef6573d4",
+   "title": "US says three Iran-backed suspects plotted attacks, including the RAF Fairford incident",
+   "deck": "An eight-count indictment alleges nearly 20 attempted attacks; Iran's embassy in London denies any involvement.",
+   "summary": [
+    "The US Department of Justice says three men backed by Iran organised a series of attacks and plots in Europe and the United States, including a major security incident near RAF Fairford, the British airbase used by US forces. The BBC reports that an eight-count indictment was unsealed on Tuesday. These are allegations by US prosecutors, and the suspects have not been convicted.",
+    "The defendants named are Iranian national Mohsen Mohajeri, Iraqi national Mohammad Ali al-Hassani and Mohammad Baqer Saad Dawood al-Saadi, who holds Iranian and Iraqi citizenship. Prosecutors say they acted under the name Harakat Ashab al-Yamin al-Islamiya, in support of Iran's Revolutionary Guard Corps and the militia Kataib Hezbollah. The department says the group was involved in nearly 20 attempted attacks, including 18 in Europe in spring 2026, seven of them in Britain. It cites arsons, explosives and a near-fatal stabbing of two Jewish men in London.",
+    "On Fairford, a major incident was declared on 27 September after three suspicious vans carrying fuel barrels and metal objects were reported near the base. The department says al-Hassani directed and paid associates to carry out surveillance and logistics in August and September. Seven men have been arrested in the UK and two British nationals have appeared in court.",
+    "FBI Director Kash Patel said the indictment shows Iran's determination to carry out terrorist attacks in Europe and the US."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-11T16:59:34+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo"
+    }
+   ]
+  },
+  {
+   "id": "961cd27bd3665b7d2d10",
+   "title": "Brazilian GP rain tests F1's new cars and tyres as drivers criticise intermediates",
+   "deck": "Qualifying at Interlagos was stopped for 80 minutes, and race-day conditions exposed grip problems with the new rubber.",
+   "summary": [
+    "The Brazilian Grand Prix was the first real chance to see how Formula 1's new-generation cars cope with the wet, and Autosport's verdict is that the cars managed but the tyres drew complaints. Qualifying at Interlagos was suspended for 80 minutes because of a heavy downpour, and race day brought mixed wet and dry conditions.",
+    "Drivers gave a frank picture of the risks. George Russell warned that racing in the initial torrential conditions carried a high risk of a horrific incident. Team principal Fred Vasseur praised the FIA's decision to red-flag qualifying as the perfect call, and said the extreme wet tyres are now more usable. The FIA waited for a safe window to restart, and teams also had to manage how power is delivered to the wheels on a slippery surface.",
+    "The intermediate tyre, used on damp tracks, took the most criticism. Alex Albon said intermediates never feel alive because they wear quickly before reaching working temperature. Carlos Sainz said they have weak rear grip while the fronts wear out, and he found the extreme wets slide and lack rear grip. Liam Lawson said cooler temperatures made the formation lap almost undriveable and that the intermediates struggled to hold heat.",
+    "Pirelli's extreme wet compound proved more usable than in the past. The tyre supplier aims to bring the performance of its different compounds closer together next year, Autosport reports."
+   ],
+   "url": "https://www.autosport.com/f1/news/what-the-brazilian-gp-revealed-about-f1s-ability-to-cope-with-rain/10873789/",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-11-11T09:23:42+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/what-the-brazilian-gp-revealed-about-f1s-ability-to-cope-with-rain/10873789/"
+    }
+   ]
+  },
+  {
+   "id": "2db114edc123a0aa3903",
+   "title": "Hardik Pandya traded to Punjab Kings, Arshdeep Singh joins Mumbai Indians",
+   "deck": "The swap, each valued at Rs 18 crore, is among the biggest moves ahead of the IPL 2027 retention deadline.",
+   "summary": [
+    "One of the Indian Premier League's biggest trades has been agreed. All-rounder Hardik Pandya moves from Mumbai Indians to Punjab Kings for Rs 18 crore, while left-arm pacer Arshdeep Singh goes the other way to Mumbai at the same fee, according to the Indian Express. The deal was struck ahead of the IPL 2027 retention deadline.",
+    "The money matters to both sides. Hardik's fee rises from the Rs 16.35 crore he was on, and Arshdeep is moving at his existing price. Punjab Kings will be Hardik's third IPL franchise. His previous franchise was Gujarat Titans, and he returned to Mumbai in 2024 to replace Rohit Sharma as captain. Arshdeep, who has played for Punjab, is now joining his second team.",
+    "Hardik's return to Mumbai was not a happy one. The paper recalls that that return drew severe backlash from Mumbai fans, including boos and jeers at Wankhede Stadium. A move away could give him a fresh start, a view some commentators took in the days after the deal.",
+    "For Mumbai, the attraction is a proven new-ball bowler. Cricket commentators, including Irfan Pathan, have argued that Mumbai may have come out ahead in the trade, though others disagree and say Hardik needed a change. Teams now have to finalise which players to keep before the deadline, so more transfers may follow."
+   ],
+   "url": "https://indianexpress.com/article/sports/cricket/ipl-2027-hardik-pandya-traded-punjab-kings-18-crore-arshdeep-singh-mi-10957309/",
+   "section": "sport",
+   "scope": "sport",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-11T09:34:05+05:30",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/sports/cricket/ipl-2027-hardik-pandya-traded-punjab-kings-18-crore-arshdeep-singh-mi-10957309/"
+    },
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/sports/cricket/ipl-2027-full-list-of-players-traded-ahead-of-retention-deadline-10959194/"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "name": "Indian Express",
+   "section": "world",
+   "status": "ok",
+   "count": 61
+  },
+  {
+   "name": "NDTV",
+   "section": "world",
+   "status": "ok",
+   "count": 19
+  },
+  {
+   "name": "The Hindu",
+   "section": "world",
+   "status": "ok",
+   "count": 49
+  },
+  {
+   "name": "Times of India",
+   "section": "world",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "BBC News",
+   "section": "world",
+   "status": "ok",
+   "count": 24
+  },
+  {
+   "name": "The Guardian",
+   "section": "world",
+   "status": "ok",
+   "count": 35
+  },
+  {
+   "name": "TechCrunch",
+   "section": "technology",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "The Verge",
+   "section": "technology",
+   "status": "ok",
+   "count": 10
+  },
+  {
+   "name": "BBC News",
+   "section": "technology",
+   "status": "ok",
+   "count": 12
+  },
+  {
+   "name": "Indian Express",
+   "section": "business",
+   "status": "ok",
+   "count": 9
+  },
+  {
+   "name": "BBC News",
+   "section": "business",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "Economic Times",
+   "section": "business",
+   "status": "ok",
+   "count": 50
+  },
+  {
+   "name": "BBC Sport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 1
+  },
+  {
+   "name": "Autosport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 3
+  },
+  {
+   "name": "BBC Sport",
+   "section": "sport",
+   "status": "ok",
+   "count": 45
+  },
+  {
+   "name": "Indian Express",
+   "section": "sport",
+   "status": "ok",
+   "count": 28
+  },
+  {
+   "name": "Gadgets 360",
+   "section": "deals",
+   "status": "ok",
+   "count": 1
+  },
+  {
+   "name": "Indian Express",
+   "section": "local",
+   "status": "ok",
+   "count": 0
+  }
+ ]
+}
