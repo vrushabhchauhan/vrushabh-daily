@@ -1,0 +1,696 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-11-13",
+ "generatedAt": "2026-11-13T02:12:28.395135+00:00",
+ "timezone": "Asia/Kolkata",
+ "windowHours": 48,
+ "primaryWindowHours": 24,
+ "summaryMode": "original-articles",
+ "localLimit": 1,
+ "stories": [
+  {
+   "id": "ca3a29db9a37ffb19327",
+   "title": "Nvidia chief Jensen Huang resigns as lawmakers demand answers",
+   "deck": "Update: Nvidia's board has accepted Jensen Huang's resignation after reports of extramarital affairs, and CFO Colette Kress is interim chief executive.",
+   "summary": [
+    "Jensen Huang has stepped down as chief executive of Nvidia, the AI chip company he helped found, after a week of reports about his private life. Nvidia confirmed in a regulatory filing that its board accepted the resignation, and finance chief Colette Kress will serve as interim CEO while keeping her CFO duties. The company is searching for a permanent successor.",
+    "The background matters, and much of it is still allegation. Huang publicly admitted last weekend that he had been unfaithful to his wife, in a letter to staff that Nvidia also released as a statement. US media, led by the New York Times, have reported that one relationship was with an executive at Megaspeed, a Singapore firm that bought Nvidia chips, and that US officials suspect her of working for Chinese intelligence. China has rejected that as a smear, and the US Attorney General said on Thursday that the Justice Department had reached no conclusion on espionage.",
+    "A second relationship, with a senior Nvidia executive who reported to him, was reported on Wednesday. Nvidia, Huang and the executive have not confirmed it. On Thursday Reuters reported a further relationship with another Nvidia employee, whose name has not been given. That is a claim from a single outlet, and the other publishers covering it are relaying Reuters rather than confirming it independently.",
+    "Nvidia's own position is an official statement, not proof of the allegations. The company says it has no reason to believe national security or its secrets were compromised, and its board has launched an independent inquiry.",
+    "Pressure from Washington is growing. Republican committee chairmen had asked Huang for a closed-door briefing, and TechCrunch reports he has now agreed to testify before Congress before Thanksgiving. Democrats also want him to brief Congress. The BBC reports Nvidia has lost about 550 billion dollars in market value in five days, its biggest such fall since it listed. Tech figures and President Trump have publicly backed Huang, which is opinion, not evidence."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+   "section": "technology",
+   "scope": "technology",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-12T23:34:05+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": true,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o"
+    },
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions"
+    }
+   ]
+  },
+  {
+   "id": "84134bf97cb95663bdf3",
+   "title": "Microsoft Outlook and Teams hit by global outage",
+   "deck": "Microsoft says servers becoming unexpectedly unavailable put heavy load on its remaining infrastructure, disrupting Microsoft 365 services worldwide.",
+   "summary": [
+    "Microsoft was struggling on Thursday to restore services after a global outage that cut users off from Outlook email and disrupted Teams, with Copilot also affected. Downdetector, a monitoring site, showed reports of Outlook problems peaking at nearly 140,000 around 18:00 GMT.",
+    "Microsoft's explanation, from its own status updates and statements, is that a number of servers became unexpectedly unavailable, which strained the systems still running. It described a portion of its infrastructure as under elevated load across several regions. The company said it was working to bring servers back, moving traffic to alternative routes and applying traffic controls to ease the pressure. It warned that restored services could become unresponsive again.",
+    "By Thursday evening US time, Microsoft said it had begun returning some servers to service and was seeing limited recovery in some regions. It gave no estimate for full restoration and said users might see a gradual recovery as their apps reconnect. Messaging and online meetings were largely working, according to the company, while some users could not view certain files or calendar details.",
+    "The BBC says it understands there is no sign of a cyber-attack. The disruption spread beyond Microsoft's own products. OpenAI said it was investigating a problem with its connections to Microsoft services, and electric truck maker Workhorse delayed its quarterly results, blaming business disruption from the outage."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo",
+   "section": "technology",
+   "scope": "technology",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-13T01:53:55+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo"
+    },
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down"
+    }
+   ]
+  },
+  {
+   "id": "a3e1afb4a33deb1bb631",
+   "title": "Google makes Gemini 4 Hydrogen the default in Search AI Mode",
+   "deck": "Google says its new model handles multi-part questions and typos better and is now the default behind AI Mode.",
+   "summary": [
+    "Google has released a new model, Gemini 4 Hydrogen, and made it the default in AI Mode in Search. Robby Stein, Google's search product chief, also said it is being used for the hardest questions in AI Overviews. Google calls it the biggest model upgrade to Search so far, though that is the company's own claim.",
+    "According to Google, the model is better at questions with several parts, very specific requests and hard-to-read typos, and it can address each part of a question separately. It also runs several searches at once across related subtopics, which Google says surfaces a wider range of links. Answers should include more visuals such as images, comparison tables, graphs and maps.",
+    "TechCrunch reports that Hydrogen is positioned as a faster, cheaper option below Google's top Gemini 4 models, which are aimed at deep reasoning. Google says it completes tasks 2.5 times faster than the earlier fast model, Gemini 3.8 Flash, and it offers four thinking levels, including a new extra-high setting. Google also says it matches or beats some rivals in its class, a company claim.",
+    "Beyond Search, Hydrogen is available from Thursday in the Gemini app, Google AI Studio, the Gemini API and Gemini for business, and in the Antigravity development platform for paid subscribers. Google says the Search update is rolling out to all users globally."
+   ],
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-11-12T21:55:32+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+    },
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
+    }
+   ]
+  },
+  {
+   "id": "dd62360cdb55684548b9",
+   "title": "Whoop launches a social network built on fitness data",
+   "deck": "Whoop Humans lets members of the fitness-band maker share health metrics, photos and comments with followers.",
+   "summary": [
+    "Whoop, the maker of screen-free fitness bands, has launched a social network inside its app called Whoop Humans. It is available from Thursday to members at every tier at no extra cost. Members can follow others, share chosen metrics and activities, post photo-and-caption updates the company calls Moments, and react and comment on each other's posts.",
+    "Whoop pitches the product as a network with no bots, and chief executive Will Ahmed calls it the most verifiably human network ever launched because every account belongs to a real person with a verified heartbeat. That is the company's marketing claim. Its older group feature, Teams, stays available. Humans is meant to be more personal, so a trainer could follow several clients without the clients seeing each other's data.",
+    "On privacy, Whoop says sharing is opt-in. Members pick which metrics to share, such as recovery, strain, sleep and heart rate, and can remove followers. Activities marked sensitive are not shared by default, and a Stealth Mode hides data temporarily. Ahmed told TechCrunch that Whoop does not sell member data and that medical information and health alerts are never shared.",
+    "TechCrunch frames the launch as part of Whoop's push into medical wellness. The company said it expects nearly 4 million members by year-end and plans to sell its devices through Ulta stores from next March."
+   ],
+   "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-11-12T23:43:22+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network"
+    },
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/"
+    }
+   ]
+  },
+  {
+   "id": "9f9ef1f7c9cc007bd125",
+   "title": "Nebius plans 40 billion dollar AI build-out as delays bite",
+   "deck": "The AI cloud firm wants to fund 2027 spending with customer prepayments and loans.",
+   "summary": [
+    "Nebius, an AI cloud provider, said on its third-quarter earnings call that it plans 40 to 45 billion dollars of capital spending in 2027, well above what Wall Street expected. It intends to pay for much of it with customer prepayments and loans backed by customer contracts. The company says these should cover up to 85 percent of the spending.",
+    "The plan carries risk if projects slip, and TechCrunch reports some already have. A New Jersey data centre run by a third-party operator is months behind schedule. It serves Microsoft under a contract worth up to 19.4 billion dollars. Only just over half the capacity is now planned for the end of this year, with the rest in the second quarter of 2027. Nebius says the operator wound down temporary power generation faster than expected while moving to fuel cells.",
+    "According to Nebius's summary of the contract, Microsoft can end affected service after a grace period if dates are missed and no alternative is offered, and late delivery carries financial penalties. Microsoft has not publicly cancelled anything. Chief executive Arkady Volozh said Nebius is not immune to industry delays.",
+    "Nebius says sites it builds itself are on time or early and will provide most new capacity from 2027. It cut its 2026 revenue forecast by 200 million dollars to 3 billion dollars, citing third-party delays. Shares closed down 17 percent."
+   ],
+   "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-12T21:27:10+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+    }
+   ]
+  },
+  {
+   "id": "7714206f2d5b9d44b538",
+   "title": "India's retail inflation breaks through the RBI's 6% ceiling",
+   "deck": "October consumer inflation hit 6.09%, food prices rose 8.94%, and economists expect the RBI to raise rates again in December.",
+   "summary": [
+    "India's retail inflation rose to 6.09% in October from 5.54% in September, according to figures the statistics ministry released on Thursday, 12 November. It is the twelfth straight monthly increase and the first reading above 6% in two years, as reported by The Indian Express.",
+    "Food inflation climbed to 8.94% from 7.74% a month earlier. Onion prices were up 116% on a year earlier, garlic 61%, ginger 48% and lemon 47%. Prices also rose 0.5% over September, with food nearly a full percentage point higher. Only five of 36 states and union territories saw inflation under 4%, while 11 were above 6%. Puducherry was highest at 7.96%.",
+    "The Reserve Bank of India is tasked with holding inflation at 4%, within a 2-6% band. October was the fifth month in a row above 4% and the first above 6% since October 2024. Last month its rate-setting committee raised the repo rate by 0.25 percentage points to 5.5%, and its next meeting is on 2-4 December.",
+    "Analysts quoted in the report expect more tightening. Radhika Rao of DBS Bank said the data supports her forecast of a second successive hike in December, and Axis Bank's Tanay Dalal expects inflation to stay above 6% until June 2027. BofA Securities economists foresee a further 0.75 points of hikes over six to nine months, warning that dearer credit could soften demand. These are economists' forecasts, not RBI decisions."
+   ],
+   "url": "https://indianexpress.com/article/business/economy/household-inflation-crosses-6-percent-rbi-rate-hike-10960140/",
+   "section": "business",
+   "scope": "business",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-12T10:39:32+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": []
+  },
+  {
+   "id": "95180a5e64e165b611f5",
+   "title": "Fairfax's Rs 52,878-crore IDBI Bank deal and its plans for the lender",
+   "deck": "Reported terms put Fairfax in line for a 60.72% controlling stake, with insurance and capital-market businesses to be brought into the bank.",
+   "summary": [
+    "Canadian investor Fairfax Financial Holdings has won a controlling stake in IDBI Bank in a deal valued at Rs 52,878 crore, The Economic Times reported on Thursday, 12 November, citing unnamed people with knowledge of the matter. The figures below are those reported terms and have not been independently confirmed here.",
+    "According to the report, Fairfax, led by Prem Watsa, offered Rs 81 a share for a 60.72% stake. The government's benchmark valuation was Rs 75.99. The offer was described as a 56% premium to the bank's regulatory book value of Rs 51.85 per share at 31 March 2026, and about 15% above its Rs 70.38 closing price on 18 May. The government and LIC would keep a combined 34%.",
+    "The report says Fairfax plans to bring Go Digit's general and life insurance businesses and Fairfax India Holdings' stake in IIFL Capital Services into IDBI, to cross-sell insurance, investment banking and wealth management. That transfer would be separate from the stake purchase. Regulatory and shareholder approvals are needed.",
+    "The sources also addressed criticism. They said Niti Aayog made no recommendation for the sale, and that former chief executive Amitabh Kant, who joined Fairfax in 2025, was never on a panel recommending disinvestment. Fairfax's Peter Clarke declined to comment on the transaction but said IDBI could become India's finest universal bank. The bank is now profitable."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fairfaxs-rs-52878-crore-idbi-bank-deal-sets-stage-for-a-financial-services-powerhouse/articleshow/135764422.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-12T10:04:40+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": []
+  },
+  {
+   "id": "d8d9fcd66c5dc49b8d36",
+   "title": "Sonam Wangchuk says he is under house arrest as Ladakh protests winter council polls",
+   "deck": "Police say their action was preventive, while Wangchuk and Ladakh civil society groups call it unjustified.",
+   "summary": [
+    "Ladakh activist Sonam Wangchuk said on Thursday, 12 November, that he is under house arrest in Leh, a day after police removed him from a protest site. In a letter to senior Ladakh and Union Home Ministry officials, reported by The Hindu, he said about 20 to 22 armed police have been stationed around his home since Wednesday evening. These are his claims.",
+    "The administration invoked Section 163(1) of the BNSS. Wangchuk called the order bad in law, arbitrary, vague and disproportionate, and noted that it does not use the words house arrest, detention or confinement. The order bars him from unauthorised rallies, processions or gatherings likely to disturb public peace during the election process in Leh. He said no written order for the police deployment has been given to him,.",
+    "The dispute is over timing. Panchayat and municipal polls are due on 21 November and hill council polls on 4 December. Leh Apex Body and the Kargil Democratic Alliance want the council polls put off to April-May, and Wangchuk calls winter voting unacceptable because many residents are away.",
+    "Ladakh Police defended its action as preventive, saying it followed prohibitory orders from the Chief Electoral Officer and the Leh District Magistrate on rallies and protests. The Indian Express reported that the Ladakh bodies called the action unjustified, while the Leh-Kargil range DIG, Kaushal Sharma, said peace and public order were the priority."
+   ],
+   "url": "https://www.thehindu.com/news/national/ladakh/restrictions-on-me-arbitrary-vague-sonam-wangchuk/article71695290.ece",
+   "section": "world",
+   "scope": "india",
+   "source": "The Hindu",
+   "sourceGroup": "the-hindu",
+   "publishedAt": "2026-11-12T19:46:14+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/wangchuk-claims-house-arrest-amid-planned-ladakh-protest-alleges-security-deployment-outside-home-12319521"
+    },
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/ladakh-police-action-sonam-wangchuk-election-protest-10960979/"
+    }
+   ]
+  },
+  {
+   "id": "b6c5cda26f0e8b02b2d8",
+   "title": "Draft voter rolls grow in the first lists since the intensive revision",
+   "deck": "Draft rolls from nine states and union territories show electorates up by 0.1% to 3% on the final lists from the 2025-26 revision.",
+   "summary": [
+    "Draft electoral rolls published on Thursday, 12 November, under the Election Commission's Special Summary Revision (SSR) show larger electorates than the final rolls issued after the Special Intensive Revision (SIR) of 2025-26. The Indian Express reported rises of between 0.1% and 3% across nine states and union territories.",
+    "By the paper's figures, Lakshadweep rose 0.1%, Puducherry 1.3%, Kerala and Madhya Pradesh 1.5% each, Manipur 1.7%, and Bihar and Tamil Nadu 1.8% each. Rajasthan grew 2.22% and Goa 3%.",
+    "NDTV, citing officials, reported that Assam's draft roll has 2,51,76,910 voters. That is 2,18,771 more than the 2,49,58,139 on the final roll of 10 February, after 4,12,344 names were added and 1,93,573 deleted. Claims and objections run from 12 November to 11 December, and the final roll is due on 4 January 2027.",
+    "The Times of India reported that Rajasthan's draft has about 5.26 crore voters, around 11 lakh more than the 5.15 crore on the final SIR roll. It noted a third official figure: the State Election Commission's roll stood at 5.45 crore in early October, so the state now has three counts within a year. The paper said the gap partly reflects different methods, since the SSR starts from the last published roll rather than asking voters to prove eligibility again. Changes can be sought until January."
+   ],
+   "url": "https://indianexpress.com/article/india/draft-electoral-voter-rolls-2026-ssr-nine-states-elector-increase-10960798/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-12T16:47:18+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/assam-draft-electoral-roll-has-2-19-lakh-more-voters-than-february-list-12319551"
+    },
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/rajasthan-ssr-draft-counts-11l-more-voters-than-sir-list/articleshow/135782652.cms"
+    }
+   ]
+  },
+  {
+   "id": "abaf67f00b6dd18763e4",
+   "title": "Punjab: AAP drops sitting MLAs in second list as SAD-BJP alliance talk grows",
+   "deck": "AAP named 31 more candidates, including two sitting MPs, while Akali sources say Sukhbir Badal may meet Amit Shah.",
+   "summary": [
+    "Punjab's ruling Aam Aadmi Party released a second list of 31 candidates for the Assembly election due in early 2027, The Hindu reported on Thursday, 12 November. Its party statement said the names were settled by the Political Affairs Committee under Arvind Kejriwal. With the first list of 40 sitting legislators on 31 October, AAP has named 71 candidates for the 117 seats, NDTV said. Its term ends on 16 March 2027.",
+    "Two sitting Lok Sabha MPs are in the list: Raj Kumar Chabbewal for Phagwara and Gurmeet Singh Meet Hayer for Barnala. Agriculture Minister Gurmeet Singh Khudian is replaced in Lambi by his nephew Randhir Singh Dhira. Sitting MLAs are replaced in other seats, and the list includes several former Akali, BJP and BSP figures. NDTV noted that three MLAs left AAP after the first list.",
+    "On the opposition side, The Hindu reported that Shiromani Akali Dal president Sukhbir Singh Badal is likely to meet Union Home Minister Amit Shah in Delhi on 13 November, after a rally at Raikot. Seat-sharing and an alliance with the BJP are expected to be discussed.",
+    "Everything about the alliance rests on unnamed SAD sources and is unconfirmed. They told the paper an announcement could come within November, and that Badal met Prime Minister Narendra Modi in August. SAD and the BJP were partners from the late 1990s until SAD left the NDA in 2020 over the farm laws."
+   ],
+   "url": "https://www.thehindu.com/news/national/punjab/punjab-assembly-polls-aap-releases-second-list-of-candidates/article71694535.ece",
+   "section": "world",
+   "scope": "india",
+   "source": "The Hindu",
+   "sourceGroup": "the-hindu",
+   "publishedAt": "2026-11-12T23:13:59+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/aap-drops-minister-mlas-from-2nd-punjab-list-two-mps-get-ticket-12318522"
+    },
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/national/punjab/sukhbir-badal-likely-to-meet-amit-shah-on-november-13-sad-bjp-alliance-may-be-announced-this-month/article71694288.ece"
+    }
+   ]
+  },
+  {
+   "id": "8e8be77758f1ce4ecc1f",
+   "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+   "deck": "A Russian missile ship was reportedly attacked in the Baltic, which would be the first such strike in an area open to civilian shipping.",
+   "summary": [
+    "Finnish officials have confirmed that a Russian warship was attacked in the Gulf of Finland on Wednesday, though few details are public. The BBC reports it is thought to be the first time Ukrainian drones have struck a Russian vessel in a stretch of the Baltic Sea that is open to civilian maritime traffic.",
+    "Ukraine's SBU security service says it targeted the Naro-Fominsk, which it described as a Buyan-M type small corvette armed with Kalibr and Oniks cruise missiles. That is Kyiv's claim, and the damage has not been independently established. The SBU said the strike was part of a wider drone operation against the Ust-Luga oil export depot on Russia's Baltic coast. There were also unconfirmed reports that Russian combat helicopters were destroyed.",
+    "Estonia's defence minister, Martin Herem, told public broadcaster ERR the ship was hit at about 05:30 local time. He did not say how. He said smoke rose from the vessel afterwards and that it turned back towards St Petersburg. Casualties and damage remain unclear, and Moscow rarely releases such information. Several fuel tanks at Ust-Luga are thought to have been hit overnight, and fires at the port were visible from Estonia.",
+    "Finland's foreign minister, Elina Valtonen, said the Baltic situation remains stable and safe, with no threat to marine traffic. Defence officials are understood to have told Kyiv that the Gulf is narrow, busy with tankers and civilian ships, and home to undersea data cables.",
+    "Herem said Ukrainian drones flew near the Estonian border, though in Russian airspace, from midnight until about 06:00. One briefly entered Estonian airspace from Latvia before heading on to Russia. Nato aircraft were airborne but it was not judged safe to shoot the drones down. Ukraine's foreign ministry called Moscow's claim that Kyiv used Baltic airspace to attack Russia baseless, while acknowledging that Russian electronic warfare can divert drones. Analyst Emil Kastehelmi said the Baltic fleet had been untouched until now, but he did not see the strike as a serious escalation."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-12T20:09:16+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo"
+    }
+   ]
+  },
+  {
+   "id": "dd2e720e9d97f4cacbce",
+   "title": "Democrat Scott Colom wins Mississippi Senate seat",
+   "deck": "Colom narrowly beat Republican incumbent Cindy Hyde-Smith and becomes the state's first black senator since the 1870s.",
+   "summary": [
+    "Democrat Scott Colom has won the US Senate race in Mississippi, a state that has sent Republicans to the chamber for decades. The BBC says he will be the first black person from Mississippi seated in the Senate since Blanche Bruce, who served from 1875 to 1881. The Guardian's briefing also describes the result as a stunning upset after more than a week of vote counting.",
+    "The margin was thin. The BBC reports fewer than five thousand votes separated Colom from Republican incumbent Cindy Hyde-Smith out of nearly a million counted. Colom, 43, took 49.2 percent to her 48.7 percent. Hyde-Smith congratulated him in a video on X, saying the result was not what she had hoped for but that she respected the voters' decision.",
+    "The race was not seen as competitive until late in the campaign, since Donald Trump carried Mississippi in 2024 by more than 22 points. Colom, a local prosecutor, visited all 82 counties and attacked Hyde-Smith's backing for Trump's tariffs, nicknaming her \"Cindy High Prices\". Her campaign described him as a puppet of billionaire donor George Soros, whose family has helped fund Colom's campaigns.",
+    "According to the BBC, exit polls show voter anger at Republicans has been driven largely by economic worries, blamed on the administration's tariffs and war with Iran. The BBC reports Democrats will hold 55 of the 100 Senate seats, with an Alaska contest still undecided, and have also taken the House."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-12T12:56:55+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo"
+    },
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair"
+    }
+   ]
+  },
+  {
+   "id": "57de3b794b3463ddb086",
+   "title": "Spain's first general strike in 14 years ends in Barcelona clashes",
+   "deck": "Unions called the stoppage over housing and living costs, two and a half weeks before a snap election.",
+   "summary": [
+    "Spain held its first general strike since 2012 on Wednesday, called by the main unions over housing and the high cost of living. The BBC reports about 120,000 people marched in Madrid and more than 50,000 in Barcelona, and that transport and other public services faced serious disruption. The Guardian's briefing describes participation as running into the millions across the country, a much larger figure, and the sources do not reconcile the two.",
+    "In Barcelona, masked groups set bins alight, smashed shop windows and threw fireworks at police, who fired tear gas, according to the BBC. A woman who attended told the BBC the day had been mostly peaceful and joyful, with many children and older people present.",
+    "UGT leader Pepe Alvarez called participation massive, while CC OO's Unai Sordo called turnout very significant. Those are union assessments. One measure the BBC cites is electricity: Red Electrica data showed power use down 7.5 percent in the early hours, compared with a fall of more than 15 percent during the last general strike.",
+    "The strike followed protests after an 87-year-old Madrid woman, Maricarmen Abascal, was evicted at the end of September and later died in hospital. Prime Minister Pedro Sanchez, whose housing reform plan failed in parliament, called a snap election for 29 November and has encouraged workers to strike. The opposition People's Party accuses him of using the strike for electoral gain, and its leader called the action nonsense."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-11T22:07:37+00:00",
+   "timestampType": "published",
+   "older": true,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo"
+    },
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair"
+    }
+   ]
+  },
+  {
+   "id": "7c544146a69ddaafc6d4",
+   "title": "Racing Bulls keep Lawson and Lindblad for 2027",
+   "deck": "Red Bull's second team will run the same pairing again, with F2 star Nikola Tsolov expected to take a reserve role.",
+   "summary": [
+    "Racing Bulls have confirmed Liam Lawson and Arvid Lindblad will race together again in 2027. Both Autosport and the BBC report the decision, which settles weeks of speculation that Bulgarian Formula 2 front-runner Nikola Tsolov might replace Lawson.",
+    "Team principal Alan Permane said he had no doubt this was the best line-up for the team, combining experience and ambition. The BBC says Red Bull chose to spend a second season assessing its current drivers instead of promoting Tsolov. It adds that the BBC sees this as a break from Red Bull's usual habit of fast-tracking and dropping drivers. Autosport says its sources in Brazil indicated the balance swung back to Lawson after strong recent races.",
+    "The numbers back the choice. Autosport puts Lawson, 24, on 89 points against 38 for rookie Lindblad, 19, with the team fifth in the constructors' standings, its best ever. The BBC says Lawson has out-qualified Lindblad 13 times to nine and scored more than twice as many points.",
+    "Tsolov, 19, is second in F2. The team's announcement did not mention him, but the BBC reports he is expected to be kept by Red Bull in a reserve role, building experience in the simulator and by testing older cars, and the BBC says he will be reserve for both teams next season."
+   ],
+   "url": "https://www.autosport.com/f1/news/lawson-to-stay-in-f1-as-racing-bulls-announces-2027-driver-pairing/10874063/",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-11-12T11:06:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/lawson-to-stay-in-f1-as-racing-bulls-announces-2027-driver-pairing/10874063/"
+    },
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/cw24epe29566o"
+    }
+   ]
+  },
+  {
+   "id": "eb58f4009f9684eb6088",
+   "title": "Arsenal hold Barcelona to a 1-1 draw at Camp Nou",
+   "deck": "Arsenal's women's team took a point in Spain to stay unbeaten in the Champions League league phase.",
+   "summary": [
+    "Arsenal Women drew 1-1 with Barcelona in the Women's Champions League at Camp Nou on Thursday 12 November, after the match was moved a day because of a 24-hour general strike in Spain on Wednesday.",
+    "Frida Maanum gave Arsenal the lead in the 22nd minute. Alessia Russo crossed for Caitlin Foord, whose close-range effort was saved by Cata Coll, and Maanum scored from the loose ball. Caroline Graham Hansen equalised in the 59th minute, soon after Aitana Bonmati came on as a substitute. Barcelona had been without a dropped point in this season's competition until now, according to the BBC.",
+    "The numbers favoured the hosts. Barcelona had about 69% of the ball, 24 shots to Arsenal's seven, and 11 corners to seven, the Guardian's match stats show. The BBC singled out defender Steph Catley for five interceptions and nine clearances.",
+    "Both reporters offered their own judgement. The Guardian's Suzanne Wrack wrote that Arsenal dug deep and showed they could play ugly when needed. The BBC's Emma Sanders called it a significant achievement that improves their chances of reaching the knockout stages. Those are opinions, not facts.",
+    "Manager Renee Slegers said the team's execution was very good and that one point was fine, though they had gone for three. Arsenal now have seven points from four games. They are sixth in the Women's Super League, and play London City Lionesses on Sunday before hosting Lyon next Thursday."
+   ],
+   "url": "https://www.theguardian.com/football/2026/nov/12/barcelona-arsenal-womens-champions-league-match-report",
+   "section": "sport",
+   "scope": "sport",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-11-12T20:09:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqe85vym242jo"
+    }
+   ]
+  },
+  {
+   "id": "b24539d68453fb3ea51e",
+   "title": "Cummins rejects Khawaja's claims over the 2018 sandpaper plot",
+   "deck": "Australia's Test captain says his former team-mate is wrong that the whole team knew about the ball-tampering plan.",
+   "summary": [
+    "Australia captain Pat Cummins has publicly rejected claims made by former team-mate Usman Khawaja in his autobiography, Sabr, about the 2018 ball-tampering scandal in Cape Town. Speaking to media in Sydney on Friday morning local time, he called them \"100% wrong\" and \"complete and utter nonsense\". This is a dispute between two named people, so these are claims.",
+    "Khawaja has said the entire Australian side knew about the sandpaper plan and should have taken responsibility. In 2018 Steve Smith, David Warner and Cameron Bancroft were punished over the incident. Cummins said that if \"we all knew\" means players knew sandpaper was going onto the field, that is wrong. He said he has said for eight years that he did not know it was happening, and denied he or others were \"architects\" of a plot.",
+    "The Indian Express reported more of what Cummins said. He disputed Khawaja's suggestion that being Australia captain requires a certain skin colour, saying such a claim needs evidence. He also called the bans on Smith, Warner and Bancroft \"way too heavy-handed\".",
+    "Cummins called Khawaja a friend but said friends should not be casual with each other's reputations. The Indian Express noted that Warner has backed Khawaja, saying in a video that what Khawaja said is accurate. It also said Cricket Australia and other players have rejected the claim that everyone was involved."
+   ],
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo",
+   "section": "sport",
+   "scope": "sport",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-13T00:58:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/sports/cricket/utter-nonsense-pat-cummins-slams-khawaja-sandpapergate-sabr-10961001/"
+    }
+   ]
+  },
+  {
+   "id": "5b56c5004c52a4af6d28",
+   "title": "Kane's penalty gives England a 2-1 win over Croatia",
+   "deck": "The captain scored the winner from the spot in the Nations League on a night he set a new caps record.",
+   "summary": [
+    "England beat Croatia 2-1 in the Nations League on Thursday 12 November, with Harry Kane scoring the winning penalty. It was his 92nd goal for England, according to the BBC, and the match made him England's most capped men's player. The Guardian put his tally at 126 caps, passing Peter Shilton.",
+    "Morgan Rogers scored England's first goal, his third at senior level. Croatia levelled after a mistake by defender Jarell Quansah that left goalkeeper Jordan Pickford exposed, before Kane's penalty settled it. That is the sequence as the BBC's ratings piece describes it.",
+    "The source article is a set of player ratings by BBC Sport's Sami Mokbel, so the scores are one journalist's opinion rather than fact. He gave Lewis Hall a 7 and praised another effective display from the Newcastle defender, asking whether he is now England's first-choice left-back. Quansah got a 5 for the error. Most other starters, including Kane, Declan Rice and Jude Bellingham, received a 6.",
+    "BBC readers also rated the players. Their average scores put Hall top on 6.75, with Dan Burn next on 6.72 and Kane on 6.60. Quansah was lowest among England's starters on 5.04. Those figures reflect fan opinion rather than any official measure.",
+    "The ratings piece notes that Dan Burn was not in the original squad but started, and that Rice returned after missing the previous internationals through injury."
+   ],
+   "url": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o",
+   "section": "sport",
+   "scope": "sport",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-12T21:47:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/football/live/2026/nov/12/england-v-croatia-nations-league-live"
+    }
+   ]
+  },
+  {
+   "id": "ecc59add54f7f7e9d8be",
+   "title": "Oura Ring 4 drops to $249 as the Ring 5 takes over",
+   "deck": "The previous-generation smart ring is $100 below its usual price at major US retailers, with the discount confirmed on two product pages.",
+   "summary": [
+    "The previous-generation Oura Ring 4 is on sale in the US from $249, according to The Verge's deals writer Brad Bourque. The site says that is $100 off the retail price and the first big discount since July. The Verge says the price varies a little by size and colour, with most silver and black models at the lowest price in sizes 8 to 13.",
+    "We checked the price ourselves. A fresh load of Amazon's Oura Ring 4 page at about 02:10 UTC on 13 November (7:40 am IST) showed a new price of $249.00, against a $349.00 list price, and the item was in stock. Best Buy's page for the size 8 silver model showed $249.00 at the same time. We did not check Target. Prices and stock can change quickly.",
+    "The Verge's reasoning is that the Ring 4 is a little thicker than the newer Oura Ring 5, which is lighter and thinner but, it says, has the same sensors and software features. That is the reviewer's opinion and comparison.",
+    "Buyers should factor in the running cost. The Verge says full features require an active Oura membership at $5.99 a month or $69.99 a year. If you are unsure of your ring size, a $10 sizing kit includes $10 in store credit toward a ring at Amazon or Target, according to the Verge."
+   ],
+   "url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
+   "section": "deals",
+   "scope": "deals",
+   "source": "The Verge",
+   "sourceGroup": "verge",
+   "publishedAt": "2026-11-12T21:28:53+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Amazon (retailer page, price checked)",
+     "group": "retailer",
+     "url": "https://www.amazon.com/dp/B0D9WWB3WX"
+    },
+    {
+     "source": "Best Buy (retailer page, price checked)",
+     "group": "retailer",
+     "url": "https://www.bestbuy.com/product/oura-ring-4-smart-ring-size-before-you-buy-with-or4-sizing-kit-size-8-silver-2024/CT2962VZS7"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "name": "Indian Express",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "NDTV",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "The Hindu",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Times of India",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC News",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "The Guardian",
+   "section": "world",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "TechCrunch",
+   "section": "technology",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "The Verge",
+   "section": "technology",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC News",
+   "section": "technology",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Indian Express",
+   "section": "business",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC News",
+   "section": "business",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Economic Times",
+   "section": "business",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC Sport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Autosport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC Sport",
+   "section": "sport",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Indian Express",
+   "section": "sport",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Gadgets 360",
+   "section": "deals",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Indian Express",
+   "section": "local",
+   "status": "ok",
+   "count": 0
+  }
+ ]
+}
