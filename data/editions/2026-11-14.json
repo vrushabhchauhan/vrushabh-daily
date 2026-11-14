@@ -1,0 +1,537 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-14T02:11:54.719754+00:00",
+ "timezone": "Asia/Kolkata",
+ "windowHours": 48,
+ "primaryWindowHours": 24,
+ "summaryMode": "original-articles",
+ "localLimit": 1,
+ "stories": [
+  {
+   "id": "9d694fa95af0cfaecf52",
+   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+   "deck": "Venture investors and founders say Nvidia's startup spending may shrink now that Jensen Huang has left, though few expect the money to vanish.",
+   "summary": [
+    "Founders and investors who depend on Nvidia are asking what its startup spending looks like without Jensen Huang. Huang resigned this week after 33 years leading the chip maker, following his admission of an affair with an executive at Megaspeed, a Singapore cloud firm. Finance chief Colette Kress is interim chief executive, and veteran director Harvey C. Jones has been named the company's first board chair.",
+    "TechCrunch spoke to venture investors and founders about what comes next. One founder of a so-called neocloud, a company that rents out AI computing power, said the news felt like a bomb going off. Umesh Padval of Seligman Ventures said big investment calls often came from Huang personally, and that startups felt safe when Nvidia sat on their cap table. Another investor, who was not named, described Kress as far more conservative and said she was unlikely to match his appetite for early-stage companies.",
+    "Others see less reason for alarm. Dharmesh Thakker of Battery Ventures expects other large technology firms to compete for Nvidia's role as the startup world's biggest backer, though he doubts they will put hundreds of millions into infrastructure companies with no revenue the way Nvidia did. Investors in Israel said Nvidia remains well regarded there, and that slower decisions could give rivals an opening.",
+    "Open-source AI is a particular worry. Hugging Face chief executive Clément Delangue called it a really sad day and promised to fight harder for open models. These are opinions from people with money at stake, not forecasts. Nvidia has not said whether its investment strategy will change."
+   ],
+   "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-13T22:43:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+    }
+   ]
+  },
+  {
+   "id": "a5cbeaaf0b4df56fac42",
+   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+   "deck": "New research says leading Chinese AI models were trained on Nvidia chips that US export rules were meant to keep out of China.",
+   "summary": [
+    "A researcher says some of China's most capable AI models were trained on advanced Nvidia chips that the United States has banned from export. The findings, reported by TechCrunch, come from Will DePue, who leads a group called Unemployment Labs. He says open-weight models such as Moonshot AI's Kimi K3 and DeepSeek's V4 were trained on Nvidia's Blackwell processors. The report relays his claim and the article does not describe independent confirmation.",
+    "The wider context is smuggling. Epoch AI has estimated that about 2 million advanced chips reached China in 2024 and 2025 through illicit routes, while 275,000 were shipped to Malaysia over the same period. A White House technology adviser, Michael Kratsios, said earlier this year that Moonshot had used banned chips. Georgetown researcher Sam Bresnick argued that letting chips flow through Malaysia undermines American restrictions. Reuters reported that 600,000 H200 chips sit in Hong Kong, though Stanford's Graham Webster was sceptical that stockpile explains China's domestic output.",
+    "The story lands as Nvidia chief executive Jensen Huang has resigned over an affair with an executive at Megaspeed, a Singapore firm investigated over chip smuggling. US officials allege she is a Chinese intelligence agent, a claim China rejects. Democrats Richard Neal and Ron Wyden have opened an inquiry into Commerce Secretary Howard Lutnick over a 2025 deal under which Nvidia and AMD share 15 percent of China sales revenue in return for export licences.",
+    "Republican committee chairmen have also sought a briefing, and Huang has agreed to testify before Congress before Thanksgiving on 26 November. President Trump has called Huang a fine person."
+   ],
+   "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-13T18:40:30+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+    }
+   ]
+  },
+  {
+   "id": "bbcb79fadd39dd32e9c7",
+   "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+   "deck": "OpenAI is letting its AI agents spend money for US Pro subscribers, with every purchase needing the user's approval.",
+   "summary": [
+    "OpenAI has added a wallet to ChatGPT that lets AI agents shop and check out for users. It launched on Friday as a limited rollout for Pro subscribers in the United States who are 18 or older and hold a US-issued Visa, Mastercard or American Express card.",
+    "According to TechCrunch, the agent cannot complete a purchase alone. Users review each order and approve it with Face ID or a fingerprint. ChatGPT charges the card through a payment token, so merchants and the agent never see the real card number. That also means users should still earn card rewards and be able to dispute charges as usual.",
+    "OpenAI plans to add spending limits and settings that let people allow agents to act on their own within set categories or times. It also wants more retailers on board and has published a playbook for merchants who want to take part. Amazon, the largest retailer to block AI agents, is steering shoppers to its own Alexa assistant instead.",
+    "Demand for agent shopping is unproven. DoorDash and Uber have reported low numbers of orders placed by agents, while Meta says its Muse assistant has passed 10 million users, with shopping among its top uses. Meta has also let paying Muse subscribers have it make phone calls to US businesses, with plans from $20 to $100 a month. The wallet is a first step, and its real test will be whether people trust agents with their cards."
+   ],
+   "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-13T16:00:12+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+    }
+   ]
+  },
+  {
+   "id": "49f0b0840b1ef26af09f",
+   "title": "AI agent startup LangChain hits $3B valuation",
+   "deck": "Backed by CapitalG, the agent-management startup has more than doubled its valuation in about a year.",
+   "summary": [
+    "LangChain, a startup that helps companies build and manage AI agents, has raised 300 million dollars at a valuation of 3 billion dollars. The Series C round, announced on Friday, was led by CapitalG, with GIC of Singapore, DFJ Growth, IVP and Sapphire Ventures also taking part.",
+    "The valuation is more than double the 1.25 billion dollars it was worth about a year ago, when it raised 125 million dollars in a round led by IVP, according to TechCrunch.",
+    "LangChain began in 2022 as an open-source project that helped early language models search the web, call other software and use databases. Leading AI labs later built many of those abilities into their own tools, so the company moved toward managing agents instead. Its pitch is that businesses should own their intelligence rather than depend on one model provider.",
+    "Its main product is LangSmith, software for creating and overseeing agents. LangChain says it works with any model, cloud or ecosystem, which it presents as a way to avoid being locked into a large cloud company or an AI lab. The company claims 7,000 LangSmith customers, naming startups such as Harvey, Rippling and Clay and larger firms including Nvidia, Toyota and Salesforce. Those customer figures come from the company itself and have not been independently checked.",
+    "The round shows investors are still paying high prices for software that sits between AI models and the businesses that use them."
+   ],
+   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-13T19:37:57+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+    }
+   ]
+  },
+  {
+   "id": "4470d2fe261a4693205f",
+   "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+   "deck": "As GTA 6 approaches, BBC News spoke to people who made the first game in 1997 and who say they have no more access than anyone else.",
+   "summary": [
+    "Grand Theft Auto 6 is close to release after a 13-year wait, two delays and a series of leaks, and expectations are huge. The BBC asked people behind the original game in 1997 what they make of it. Their answer: like everyone else, they have not played it.",
+    "The first game was made in Dundee, Scotland, by DMA Design, which had started out on a project called Race'n'Chase. Co-creator Dave Jones said the team wanted something different, and that getting out of the car, stealing vehicles and running on foot made a good mix. Playing the criminal proved far more fun than playing the police. Sales were a slow burn, he said, because people had to play it to understand it. He called the series' cultural reach surreal.",
+    "Brian Baglow, the original writer and publicist, said he has pre-ordered the new game. He recalled that early sales were driven by word of mouth, and said he is proudest of the world-building, from fake businesses to radio stations and DJs.",
+    "The new game follows two protagonists, Jason and Lucia, the first playable female lead in a 3D GTA, in a fictional state called Leonida said to be twice the size of GTA V's map. PlayStation and Xbox say it is the most pre-ordered game in their stores' history, at 212GB. GTA V made a billion dollars in three days in 2013. Guardian games editor Keza MacDonald hopes GTA 6 gives the wider games industry a shot in the arm."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo",
+   "section": "technology",
+   "scope": "technology",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-14T00:37:01+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo"
+    }
+   ]
+  },
+  {
+   "id": "12990af15e181ab96cfc",
+   "title": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+   "deck": "A Finnish logician says the AI model Claude helped decode Kurt Gödel's shorthand notebooks, but other mathematicians say credit is hard to assign.",
+   "summary": [
+    "Kurt Gödel left behind 1,009 pages of workbooks from the early 1940s, much of it written in an obsolete German shorthand called Gabelsberger. The Guardian reports that they are now said to contain hundreds of proved theorems.",
+    "Jan von Plato, a logician at the University of Helsinki, began transcribing the notebooks in 2017 with a 2.5 million euro European Research Council grant. Progress was slow until computer scientists suggested using AI. In September he gave Anthropic's Claude his transcriptions and six of his earlier books, and it produced a 650-page explanation. Using the proof assistant Coq, Claude extracted 663 theorems. Roughly 400 checked out, about 200 were repaired, and around 50 were false. Von Plato says the notebooks anticipate results decades early and open 14 unexplored themes.",
+    "He also says Gödel was one step from proving the independence of the axiom of choice, a result for which Paul Cohen won the 1966 Fields medal, and that Gödel could have won the prize in 1940. Gödel, who published his incompleteness theorems in 1931 and later fled Austria for Princeton, said he had proved the result himself but could not reconstruct the proof.",
+    "Not everyone is ready to share the excitement. Joel David Hamkins of the University of Notre Dame called the reconstruction historically interesting but said how much is Claude and how much is Gödel is a job for historians. These are von Plato's claims and have yet to be peer reviewed."
+   ],
+   "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+   "section": "world",
+   "scope": "world",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-11-13T16:38:27+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+    }
+   ]
+  },
+  {
+   "id": "6b6f7fbda4de10991289",
+   "title": "Yes Bank files Supreme Court petition seeking review of AT-1 bond order",
+   "deck": "The lender wants the court to reconsider an October ruling that cancelled the write-off of 8,415 crore rupees of AT-1 bonds.",
+   "summary": [
+    "Yes Bank has asked the Supreme Court to review its October judgment that cancelled the write-off of its additional tier-1, or AT-1, bonds worth 8,415 crore rupees, about 894 million dollars. The petition was reported by Economic Times.",
+    "The ruling upheld an earlier Bombay High Court decision. The court held that the administrator who ran the bank during its rescue wrongly assumed he could still write down the bonds after the restructuring scheme was complete. The bonds had been written off six years ago, when new investors were brought in to save the bank after it was declared insolvent.",
+    "Before the review petition, Axis Trustee Services, acting for bondholders, filed a contempt petition. It says the bank has not produced a concrete roadmap to restore the bonds and carry out the court's order. Reuters had earlier reported that Yes Bank planned to seek a review and was unlikely to pay coupons on the bonds this year.",
+    "AT-1 bonds pay higher returns than ordinary debt, but they are risky because they can be written off or converted into equity if a bank is under financial stress. Japan's Sumitomo Mitsui Banking Corporation currently holds a 24 percent stake in Yes Bank.",
+    "A review petition is not an appeal and courts rarely grant them, so the outcome is uncertain. For now the bank's position is a legal filing, and it has not said how it would honour the bonds if the review fails."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/yes-bank-files-supreme-court-petition-seeking-review-of-at-1-bond-order/articleshow/135810272.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-13T16:37:15+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/yes-bank-files-supreme-court-petition-seeking-review-of-at-1-bond-order/articleshow/135810272.cms"
+    }
+   ]
+  },
+  {
+   "id": "1e07f84ca1b0df33c6f1",
+   "title": "Airlines' grouping AAPA calls for government support amid surging fuel prices, operational costs",
+   "deck": "The Association of Asia Pacific Airlines says fuel costs and operating pressures are making life harder for its 18 members, including Air India.",
+   "summary": [
+    "The Association of Asia Pacific Airlines, which represents 18 carriers including Air India, has urged governments in the region to give airlines timely and practical support as fuel prices climb. It made the call at the close of its 70th Assembly of Presidents in Kuala Lumpur on Friday.",
+    "Director General Wong Hong said sharp fuel price rises, cost pressures and uncertainty are creating a tougher environment, even though airlines have shown resilience. Jet fuel typically makes up about 33 percent of an airline's operating costs, so price swings reach profits quickly. The association did not set out a specific aid package in the report.",
+    "The assembly adopted four resolutions, on sustainability, passenger rights, cabin safety and aviation security. On sustainable aviation fuel, the group asked governments to lead the transition and to coordinate with regulators and industry. It wants policies harmonised across countries, competition in the fuel supply chain, technology-neutral and performance-based rules, clear certification requirements, and flexibility in buying fuel, including regional acceptance of a book-and-claim system.",
+    "On cabin safety, the airlines asked for closer cooperation on risks from lithium batteries, unruly passengers, medical emergencies, evacuations and crew training. These are positions of an industry body that benefits from the support it requests."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/airlines-grouping-aapa-calls-for-government-support-amid-surging-fuel-prices-operational-costs/articleshow/135804003.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-13T12:46:30+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/airlines-grouping-aapa-calls-for-government-support-amid-surging-fuel-prices-operational-costs/articleshow/135804003.cms"
+    }
+   ]
+  },
+  {
+   "id": "f72588b0551d7a8c57e3",
+   "title": "Godrej Properties acquires 31 acres in Indore for new residential project amid strong demand",
+   "deck": "The developer has bought land on the Indore-Ujjain Road for a plotted residential project, its third in the city.",
+   "summary": [
+    "Godrej Properties has bought 31 acres of land on the Indore-Ujjain Road in Indore for a plotted residential development, the company said in a regulatory filing on Friday. The project has an estimated saleable area of 0.7 million square feet.",
+    "The company did not say whether it bought the land outright or through a joint development agreement, and it gave no estimate of the revenue the project could earn. It already has two plotted projects at an advanced stage in the city, Godrej Greenview Estate and Verdania Estate, so this is its third in Indore.",
+    "Chief executive Gaurav Pandey described Indore as one of India's most promising property markets with strong long-term potential. He said demand continues to rise for well-planned, branded plotted communities in fast-growing cities. That is the company's own view of the market.",
+    "Godrej says it was India's largest listed residential developer by annual sales bookings in the 2025-26 financial year. For the current year it has set a bookings target of 39,000 crore rupees and plans to launch homes worth 32,000 crore rupees in the second half of FY27, according to Economic Times.",
+    "Land purchases like this one feed a developer's launch pipeline, but the financial effect depends on terms the company has not disclosed. Investors will look for them in later filings and in the project's launch details."
+   ],
+   "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/godrej-properties-acquires-31-acres-in-indore-for-new-residential-project-amid-strong-demand/articleshow/135789725.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-13T04:47:49+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/godrej-properties-acquires-31-acres-in-indore-for-new-residential-project-amid-strong-demand/articleshow/135789725.cms"
+    }
+   ]
+  },
+  {
+   "id": "907ef03d17d4a50acf4b",
+   "title": "Centre Extends Ban On Zakir Naik's Islamic Foundation For 5 More Years",
+   "deck": "The Home Ministry has renewed its ban on Zakir Naik's Islamic Research Foundation for five years under the anti-terror law.",
+   "summary": [
+    "The Centre has extended its ban on the Islamic Research Foundation, led by preacher Zakir Naik, for another five years. The Ministry of Home Affairs issued a gazette notification on 13 November declaring the group an unlawful association with immediate effect, under Sections 3(1) and 3(3) of the Unlawful Activities (Prevention) Act, 1967.",
+    "The notification is the government's own statement of its case and has not been tested by a court in this renewal. It says the foundation and its members promote enmity and hatred between religious communities. It claims Naik's speeches are subversive, and that he has used satellite television, the internet and print and social media to deliver radical statements worldwide that inspire young people in India and abroad to commit terrorist acts.",
+    "Officials argue that without a ban the foundation could regroup its activists, damage secularism, spread anti-national sentiment and encourage secessionism.",
+    "The group was first outlawed in November 2016, and the ban was renewed in November 2021. A tribunal upheld the original notification in May 2017 and the renewal in March 2022. The most recent five-year period was due to end on 14 November 2026. The new ban runs for five years from its publication in the gazette and remains subject to review by a tribunal under Section 4 of the Act.",
+    "This report from NDTV does not carry a response from the foundation or from Naik."
+   ],
+   "url": "https://www.ndtv.com/india-news/centre-extends-ban-on-zakir-naiks-islamic-foundation-for-5-more-years-12324433",
+   "section": "world",
+   "scope": "india",
+   "source": "NDTV",
+   "sourceGroup": "ndtv",
+   "publishedAt": "2026-11-13T20:37:32+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/centre-extends-ban-on-zakir-naiks-islamic-foundation-for-5-more-years-12324433"
+    }
+   ]
+  },
+  {
+   "id": "f0762e07ecf940c0f4cb",
+   "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+   "deck": "The FAA halted departures nationwide for about four hours on Friday after communications problems at air traffic control centres; officials say there is no sign of a cyberattack.",
+   "summary": [
+    "The Federal Aviation Administration stopped all departures from US airports on Friday afternoon, saying the move followed communication issues affecting several air route traffic control centres. The ground stop began around 4pm Eastern time, and the FAA lifted it at 8.15pm. Inbound international flights were handled case by case.",
+    "Officials gave an early explanation but not a final one. Transportation Secretary Sean Duffy and Homeland Security Secretary Markwayne Mullin said old analog telecom switches and routers were overloaded when new equipment was introduced, producing inconsistent data. Both said there was no sign of a cyberattack. President Trump told Fox News it looked like broken, old infrastructure. The Wall Street Journal, citing unnamed sources, reported that the fault was on a telecom network overseen by L3Harris that carries radio frequencies for controllers. An AI company, ASI, said its new traffic management tool was not responsible.",
+    "The disruption was large. FlightAware counted 10,343 delays and 1,479 cancellations, and at least 600 flights were diverted. Problems reportedly started at the Chicago control centre before reaching Boston, Washington, New York and Minneapolis. Duffy said it would take time to unwind, and blamed Congress for not funding a new air traffic control system.",
+    "Democrats on the House Homeland Security Committee criticised the administration's transparency, while Senate Commerce Committee Republicans noted no new control centres have been built in decades. The cause rests on officials' statements and anonymous sourcing, and a full account has not been published."
+   ],
+   "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-13T21:44:38+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/"
+    },
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
+    }
+   ]
+  },
+  {
+   "id": "3d37ca85a4010b01520b",
+   "title": "The surprising convergence behind F1's increasingly competitive 2026 season",
+   "deck": "Mercedes won both 2026 titles, but the gap to Red Bull, Ferrari and McLaren has closed fast in the second half of the season.",
+   "summary": [
+    "Formula One's 2026 season started like a Mercedes walkover. George Russell took pole in Australia by eight tenths of a second. Autosport reports that the second half has been far tighter, even though Mercedes secured both world titles with three rounds still to run.",
+    "After the summer break the constructors' standings showed Mercedes on 227 points, Red Bull on 226, Ferrari on 172 and McLaren on 133. Lando Norris won in Hungary and the Netherlands and starred in the wet in Sao Paulo. Lewis Hamilton and Charles Leclerc won for Ferrari, and Max Verstappen took three wins in five races as Red Bull recovered. In Austin, Kimi Antonelli, Verstappen and Leclerc qualified within 0.230 seconds, and in Madrid the top five spanned four teams in 0.195 seconds.",
+    "Team bosses offered their own explanations. McLaren's Andrea Stella said the budget cap has brought the top four teams level in people, ideas and methods. Ferrari's Fred Vasseur noted that aerodynamic development is fastest in the first year of new rules, so performance moves around. Red Bull's Laurent Mekies said the convergence arrived earlier than expected and called it a great sporting situation.",
+    "Mercedes team principal Toto Wolff said defending the titles next year will be very difficult and that the 2027 season has effectively begun early. He added that professional teams make runaway seasons unlikely to repeat. These are views from people with a stake in the outcome."
+   ],
+   "url": "https://www.autosport.com/f1/news/the-surprising-convergence-behind-f1s-increasingly-competitive-2026-season/10874375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-11-13T17:14:52+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/the-surprising-convergence-behind-f1s-increasingly-competitive-2026-season/10874375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    }
+   ]
+  },
+  {
+   "id": "1c400ae818936c2a1148",
+   "title": "The Antonelli you don't know: Inside the Mercedes garage with F1's new world champion",
+   "deck": "Mercedes mechanics describe the 20-year-old champion as relaxed, playful and quick to apologise.",
+   "summary": [
+    "Kimi Antonelli, the 20-year-old Italian who has won the Formula One world championship with Mercedes, is relaxed and playful away from the track, according to mechanics who work with him. Autosport spent the Mexico weekend in the Mercedes garage and gathered stories from five crew members.",
+    "Power unit team member Nathan Tupper said Antonelli causes chaos in the garage and recalled the emotion of his first win in China. Second senior mechanic Ash Jones pointed to Monza, where Antonelli won from 19th on the grid, as the moment he believed he could take the title. Jones also described a rapid repair in Melbourne after a crash in final practice, which still allowed Antonelli to qualify second.",
+    "Number one mechanic Tom Mason said Antonelli is calm before qualifying and learned everyone's name within two days in 2025. Front-end mechanic Callum Wooldridge chose Austin, where Antonelli converted pole into a win, as his turning point. Wooldridge also explained a birthday tradition of putting whipped cream on colleagues' faces, which began because crew members miss home during race weekends.",
+    "Franck Bougeard, who met a 17-year-old Antonelli at a test in 2024, remembered chassis-damaging crashes in Abu Dhabi and Monza. Antonelli apologised profusely, Bougeard said, and had been given a half-hour lecture by his father Marco. These are affectionate recollections from colleagues, not a neutral assessment, but they show how a young champion fits into a team that has just won both titles."
+   ],
+   "url": "https://www.autosport.com/f1/news/the-antonelli-you-dont-know-inside-the-mercedes-garage-with-f1s-new-world-champion/10874265/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-11-13T10:04:48+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/the-antonelli-you-dont-know-inside-the-mercedes-garage-with-f1s-new-world-champion/10874265/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    }
+   ]
+  },
+  {
+   "id": "2ceb0c891631f74fa257",
+   "title": "Manchester United announce Mauricio Pochettino as new manager",
+   "deck": "Manchester United have named the Argentine as head coach, but he will first finish his USA national team duties.",
+   "summary": [
+    "Manchester United have appointed Mauricio Pochettino as their new head coach. The club announced the news on Friday, a day after Michael Carrick left the role.",
+    "Pochettino is currently in charge of the United States men's national team. Three months ago he agreed a contract that ran through the 2030 World Cup. United say they reached an agreement with the US Soccer Federation to release him and his staff once their national team commitments are over. That means he will lead the US in two CONCACAF Nations League quarter-final matches against Haiti, on Saturday and Tuesday, before moving to Old Trafford next week.",
+    "The club's statement described him as renowned for a high-intensity, attacking style, for building strong, cohesive teams and for developing individual players. His earlier jobs include Southampton, Tottenham, Chelsea, Espanyol and Paris Saint-Germain, where he won the French title in 2022. At Tottenham he turned the team into title contenders and reached the 2019 Champions League final, but he has not won a major trophy in England and lost the 2024 League Cup final with Chelsea.",
+    "The task is urgent. United are in a relegation place in the Premier League and face Liverpool on 22 November. Many managers have failed to rebuild the club since Sir Alex Ferguson left in 2013, after 13 league titles and two Champions League wins. Pochettino will have little time to prepare."
+   ],
+   "url": "https://indianexpress.com/article/sports/football/manchester-united-announce-mauricio-pochettino-new-manager-10961954/",
+   "section": "sport",
+   "scope": "sport",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-13T12:46:56+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/sports/football/manchester-united-announce-mauricio-pochettino-new-manager-10961954/"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "name": "Indian Express",
+   "section": "world",
+   "status": "ok",
+   "count": 55
+  },
+  {
+   "name": "NDTV",
+   "section": "world",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "The Hindu",
+   "section": "world",
+   "status": "ok",
+   "count": 60
+  },
+  {
+   "name": "Times of India",
+   "section": "world",
+   "status": "ok",
+   "count": 19
+  },
+  {
+   "name": "BBC News",
+   "section": "world",
+   "status": "ok",
+   "count": 25
+  },
+  {
+   "name": "The Guardian",
+   "section": "world",
+   "status": "ok",
+   "count": 31
+  },
+  {
+   "name": "TechCrunch",
+   "section": "technology",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "The Verge",
+   "section": "technology",
+   "status": "ok",
+   "count": 10
+  },
+  {
+   "name": "BBC News",
+   "section": "technology",
+   "status": "ok",
+   "count": 11
+  },
+  {
+   "name": "Indian Express",
+   "section": "business",
+   "status": "ok",
+   "count": 11
+  },
+  {
+   "name": "BBC News",
+   "section": "business",
+   "status": "ok",
+   "count": 22
+  },
+  {
+   "name": "Economic Times",
+   "section": "business",
+   "status": "ok",
+   "count": 39
+  },
+  {
+   "name": "BBC Sport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 5
+  },
+  {
+   "name": "Autosport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 5
+  },
+  {
+   "name": "BBC Sport",
+   "section": "sport",
+   "status": "ok",
+   "count": 42
+  },
+  {
+   "name": "Indian Express",
+   "section": "sport",
+   "status": "ok",
+   "count": 46
+  },
+  {
+   "name": "Gadgets 360",
+   "section": "deals",
+   "status": "ok",
+   "count": 5
+  },
+  {
+   "name": "Indian Express",
+   "section": "local",
+   "status": "ok",
+   "count": 0
+  }
+ ]
+}
