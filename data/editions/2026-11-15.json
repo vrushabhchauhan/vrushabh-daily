@@ -1,0 +1,762 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-11-15",
+ "generatedAt": "2026-11-15T02:14:52.253330+00:00",
+ "timezone": "Asia/Kolkata",
+ "windowHours": 48,
+ "primaryWindowHours": 24,
+ "summaryMode": "original-articles",
+ "localLimit": 1,
+ "stories": [
+  {
+   "id": "b10be80ef7c5f45b1545",
+   "title": "SpaceX catches Starship's upper stage for the first time",
+   "deck": "A Texas launch tower pulled the returning spacecraft out of the air after a 22-hour orbital flight, though the booster was lost.",
+   "summary": [
+    "SpaceX has, for the first time, brought the upper stage of its Starship rocket back to its launch tower and caught it. The 52-metre, bullet-shaped spacecraft descended on Saturday into the mechanical arms of the Texas tower, ending a mission in which it circled Earth 14 times over about 22 hours. It was the fifteenth Starship test flight, and the company is treating the catch as a major step towards making the vehicle reusable.",
+    "The day was not a clean sweep. SpaceX had hoped for a double catch, with both the spacecraft and its Super Heavy booster returning to the pad intact. That did not happen. The booster diverted a few minutes after liftoff and was lost in the Gulf of Mexico. SpaceX spokesperson Dan Huot said the vehicle's guidance, navigation and control system called off the catch because the booster was not where it needed to be, and that it had done what it was designed to do. The catch of the upper stage went ahead, and The Verge described it as the first time the tower's arms had successfully taken the Starship vehicle itself.",
+    "Catching a booster with the tower is something SpaceX has done before. Catching the upper stage is harder, because the spacecraft returns from orbit at far greater energy. Reusing both halves is central to Elon Musk's plan to make Starship fly and land somewhat like an airliner, and to cut the cost of reaching space.",
+    "The timing matters beyond SpaceX. NASA is working towards putting people back on the Moon, with a 2028 target, and has contracted both SpaceX and Blue Origin for the job. Musk has also said he wants to send crews to Mars. On a recent earnings call he claimed the company would raise its Starship flight rate to weekly and then twice weekly. That is an ambition, not a schedule, and the lost booster is a reminder that the programme is still in testing."
+   ],
+   "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-11-14T22:35:06+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch"
+    },
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/?p=10339302"
+    }
+   ]
+  },
+  {
+   "id": "fc1d70bba296bc73c153",
+   "title": "Musk and other tech leaders back petition to reinstate Jensen Huang at Nvidia",
+   "deck": "More than 115,000 people had signed by Saturday afternoon, but the petition's claims about due process are the signers' own.",
+   "summary": [
+    "A petition urging Nvidia's board to bring back Jensen Huang had gathered more than 115,000 signatures by Saturday afternoon, TechCrunch reported. Elon Musk is among the technology figures who signed, along with Epic Games chief Tim Sweeney, Replit's Amjad Masad and investor Garry Tan.",
+    "According to the petition website, the signers include 5,965 current Nvidia employees, 1,108 former employees and 63,063 people who describe themselves as shareholders. Those counts come from the site itself and have not been independently verified. The petition says its signers are concerned that Huang was removed without meaningful due process, and asks the board to bring him back while an independent investigation establishes the facts. Its line that he deserves due process, not mob justice, is the campaign's own position.",
+    "The background is serious. Huang resigned on Thursday, four days after confessing to an affair with an executive at a chip company that US intelligence is reported to suspect of being linked to Chinese espionage. News reports have suggested he had more than one extramarital relationship. Chief financial officer Colette Kress is serving as interim chief executive while the board searches for a permanent replacement. Nvidia's share price fell sharply through the week, and Huang has agreed to testify before Congress.",
+    "What it shows is how divided opinion in the technology industry is. Some of Huang's supporters see an unfair rush to judgment; critics point to the national-security questions raised by the relationship."
+   ],
+   "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-14T21:41:22+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+    }
+   ]
+  },
+  {
+   "id": "8497ca9e9c4633582825",
+   "title": "Tesla opens Cybercab pre-orders for personal use at $29,990 plus $299 a month",
+   "deck": "Select customers can reserve the driverless Cybercab for December delivery, but geofencing limits where it can run.",
+   "summary": [
+    "Tesla said on Friday evening that select customers can now pre-order its Cybercab \"for personal use\". The company lists the autonomous car at $29,990, with a separate operating fee of $299 a month, and gives an estimated delivery date of December 2026, TechCrunch reported.",
+    "The fine print is where the story gets complicated. Technology reviewer Marques Brownlee, writing about the offer, said buyers must accept delivery in one of a handful of Texas cities and that the car will only drive itself within certain geofenced areas. Tesla's own AI chief, Ashok Elluswamy, said the Cybercab will operate unsupervised in the same locations as the company's existing robotaxi service, simply serving its owner's needs.",
+    "Even Elon Musk questioned the price. Responding to criticism of the monthly fee, he said it is too high and should match what Tesla charges for Full Self-Driving and connectivity on other models, which he put at roughly $115 a month. He also said the Cybercab will be available nationwide as Tesla receives regulatory approval.",
+    "The announcement came alongside news that Tesla will stop making the Cybertruck next year after sales fell far short of projections. The company plans to use the freed factory capacity to build more Cybercabs. Taken together, the two decisions show Tesla shifting its bet from the Cybertruck pickup to its driverless Cybercab. Regulatory approval will decide how far the car can really go."
+   ],
+   "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-14T20:04:44+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/"
+    }
+   ]
+  },
+  {
+   "id": "bbae376a6d8b2ff6bc92",
+   "title": "Uber says thousands of drivers' licence details were stolen in a vendor breach",
+   "deck": "The data was held by AI cloud company Fireworks AI, which has blamed a financially motivated criminal group.",
+   "summary": [
+    "Uber is telling thousands of drivers that their driver's licence information was stolen after hackers broke into a technology supplier, TechCrunch reported. Notices filed with several US state attorneys general say Uber was alerted on 9 October that the provider had been breached and internal credentials taken.",
+    "TechCrunch learned that the supplier is Fireworks AI, a company that runs artificial intelligence models for customers. An Uber spokesperson confirmed that the notices relate to a security incident at a third-party vendor that had access to some Uber data. A Fireworks spokesperson confirmed that the company found unauthorised access to some of its systems, which affected customer data.",
+    "State filings give a partial picture of the scale. They list the licences of 2,567 people in Massachusetts, 3,430 in South Carolina and 1,873 in Rhode Island, with a number for Illinois still to come. Uber has not said how many drivers it is notifying overall, and the total is expected to rise. Notion, the workplace software company, has also confirmed that its data was taken in the Fireworks breach.",
+    "Fireworks has attributed the attack to a financially motivated group that wanted to sell stolen tokens used to reach large language models. No known criminal group has claimed credit for the theft.",
+    "It is Uber's second known data breach this year, after a security incident at its Uber Freight unit that was reported earlier."
+   ],
+   "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-13T14:57:55+00:00",
+   "timestampType": "published",
+   "older": true,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
+    }
+   ]
+  },
+  {
+   "id": "a2e4f8948c514022303d",
+   "title": "Italy fines Meta €805 million over Facebook access to users' photos",
+   "deck": "The data regulator says about 20 million smartphone users were not properly told what a Facebook feature could see; Meta will appeal.",
+   "summary": [
+    "Italy's data protection authority has fined Meta €805 million (about $887 million) for failing to tell users clearly that a Facebook feature could reach their photos and videos, the BBC reported. The regulator says about 20 million smartphone users in the country were affected.",
+    "The case centres on a feature in the Facebook app on Android phones that can look at pictures stored in a user's gallery and use them to generate suggestions. It said it took into account the large number of people involved, its finding that the problem is still ongoing for people who have not updated the app or who had already given consent, and what it called Meta's lack of co-operation.",
+    "Meta has been given 60 days to respond. A spokesperson told the BBC the company will appeal, saying it strongly disagrees with the regulator's assessment of the facts, its use of the law and the size of the fine. Meta described the feature as straightforward and designed to help people post photos and videos, said users must grant permission on their phone before it can work, and added that they can change that permission in their settings at any time.",
+    "The fine is one of several large penalties facing the company. The BBC noted a separate $25 billion order made by a US judge in New Mexico last month. The Italian ruling is the regulator's finding, and the appeal has yet to be heard."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
+   "section": "technology",
+   "scope": "technology",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-14T18:28:06+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o"
+    }
+   ]
+  },
+  {
+   "id": "8c29e328f3a9e582b458",
+   "title": "US flight stoppage traced to telecoms upgrade at a remote FAA site",
+   "deck": "Transport officials blame a contractor's copper-to-fibre switch for Friday's four-hour nationwide ground stop and say they have no sign of a cyber-attack.",
+   "summary": [
+    "Thousands of US flights were still being delayed or cancelled on Saturday, a day after the Federal Aviation Administration halted departures nationwide for about four hours. Transportation Secretary Sean Duffy told reporters the trouble began when a contractor doing routine maintenance at a remote FAA facility switched telecommunications lines from copper wire to fibre-optic cable. The Guardian and the BBC both carried his account.",
+    "Duffy said officials are still working out whether it was incompetence or an installer or equipment fault, asking at one point whether someone installed a faulty router. He said the agency does not believe a cyber-attack or hostile foreign state was behind the outage, and that systems came back once the work at the remote site was isolated. FAA head Bryan Bedford said he sees zero evidence of anything nefarious or AI-related, and expects airlines to reach full schedule integrity by the close of business on Sunday.",
+    "FlightAware figures cited by the Guardian showed more than 8,000 cancellations on Friday and over 4,000 more by 11am Eastern on Saturday.",
+    "Duffy called the air traffic system decades old and said its telecommunications are incredibly outdated, while administration officials urged Congress to fund a full replacement. The Guardian said Friday's stop was only the third nationwide ground stop this century, after the attacks of 11 September 2001 and a stop in January 2023. These accounts are official statements; the investigation is not finished."
+   ],
+   "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-11-14T17:11:18+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos"
+    },
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno"
+    }
+   ]
+  },
+  {
+   "id": "8a9e35783946ea6e2d39",
+   "title": "India opens applications for 'consent managers' under its data protection law",
+   "deck": "Registered firms will let people see and withdraw the permissions they have given to businesses, from one app or website.",
+   "summary": [
+    "India has started accepting applications from companies that want to act as \"consent managers\" under the Digital Personal Data Protection Act. The registration rules took effect on 13 November, and Electronics and IT Secretary S Krishnan launched the application portal, the Times of India reported.",
+    "A consent manager is an intermediary. Once registered, a firm can offer a website or app where people review the permissions they have given to participating businesses, and grant or withdraw consent. The paper said that, in practice, a user could look at a data request from one company and cancel an earlier permission given to another, as long as both are on the same platform.",
+    "The requirements for applicants are specific. A company must be incorporated in India and have a net worth of at least Rs 2 crore. Firms must also keep a record of each person's consent history for at least seven years. The Data Protection Board of India will assess applicants and publish a list of registered consent managers.",
+    "The law is being rolled out in phases. The central provisions, which cover people's rights, the obligations of companies and the board's powers, take effect on 13 May 2027. That gives businesses six months to prepare, and gives would-be consent managers time to register before people begin to rely on them."
+   ],
+   "url": "https://timesofindia.indiatimes.com/india/govt-opens-applications-for-companies-to-be-consent-managers-under-data-law/articleshow/135844355.cms",
+   "section": "technology",
+   "scope": "technology",
+   "source": "Times of India",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-14T22:54:35+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/govt-opens-applications-for-companies-to-be-consent-managers-under-data-law/articleshow/135844355.cms"
+    }
+   ]
+  },
+  {
+   "id": "593f53f87b9b6fbefa58",
+   "title": "India's October goods exports hit a record $50 billion as the trade gap widens",
+   "deck": "Shipments rose 45 per cent from a year earlier, but imports also jumped and oil prices shaped much of the picture.",
+   "summary": [
+    "India's goods exports reached an all-time monthly high of about $50 billion in October, the Indian Express reported from trade ministry figures. Exports were $49.47 billion, up 45 per cent from $34.11 billion a year earlier. Commerce Secretary Rajesh Agrawal called it the highest monthly merchandise value on record and the strongest monthly growth in five years.",
+    "Imports also climbed, rising 16 per cent to $89.35 billion, a five-year high. The trade deficit came to $39.88 billion, the largest this calendar year, although it was below the $42.58 billion gap of October 2025. Petroleum played a large role on both sides: purchases of oil and related goods rose 54 per cent to $22.81 billion, while exports of petroleum products surged 140 per cent to $8.89 billion. The paper noted that high oil prices linked to the Iran war dominated trade, and that Brent crude has eased to about $92 a barrel from around $115 in October.",
+    "Outside oil, gems and jewellery, exports rose nearly 32 per cent to $37.38 billion. Exports to the United States grew about 39 per cent to $8.72 billion. Gold imports fell sharply to $5.51 billion from $14.71 billion.",
+    "Agrawal said the growth was not confined to one sector or market. Exporters' bodies welcomed the numbers and pointed to trade agreements as a driver; those are the industry's views. Including services, the ministry estimated total exports at $89.99 billion, also a record."
+   ],
+   "url": "https://indianexpress.com/article/business/india-october-2026-trade-data-record-exports-50-billion-10962151/",
+   "section": "business",
+   "scope": "business",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-13T14:54:58+00:00",
+   "timestampType": "published",
+   "older": true,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/business/india-october-2026-trade-data-record-exports-50-billion-10962151/"
+    }
+   ]
+  },
+  {
+   "id": "e49b69757b4d62dc0bd7",
+   "title": "Noel Tata warns that listing Tata Sons could change 'the Tata way of working'",
+   "deck": "The Tata Trusts chairman, who opposes a listing, says profit could come to outweigh philanthropy; other directors back the plan.",
+   "summary": [
+    "Noel Tata, chairman of Tata Trusts, has warned that listing Tata Sons on the stock market could alter how the group works. Speaking at a business summit, he said a day may come when the company has 30,000 to 40,000 shareholders and profits become more important than philanthropy, which he said would fundamentally change the Tata way, the Indian Express reported.",
+    "The remarks come amid a visible split. Tata Trusts holds about 66 per cent of Tata Sons, and the Shapoorji Pallonji Group holds 18.37 per cent. At a 17 September board meeting, Tata Sons chairman N Chandrasekaran and directors Harish Manwani, Anita George, Saurabh Agrawal and Venu Srinivasan backed a plan to list, while Noel Tata opposed it. The Reserve Bank of India has rejected Tata Sons' application to give up its registration as a core investment company, and Tata Sons refused his request for the audio-video recording of that meeting.",
+    "On Friday, Srinivasan and fellow Tata Trusts vice-chairman Vijay Singh defended a listing and flagged seven months of leadership uncertainty.",
+    "The next Tata Sons board meeting is on 26 November. Noel Tata wants two items placed on the agenda: the Shapoorji Pallonji Group's demand for Rs 25,000 crore as part of its exit, and a proposal to merge two unlisted group companies into Tata Sons. These are one side's arguments in an unresolved governance dispute, and no decision on a listing has been taken."
+   ],
+   "url": "https://indianexpress.com/article/business/noel-tata-warns-tata-sons-listing-could-alter-tata-way-of-working-philanthropy-10963180/",
+   "section": "business",
+   "scope": "business",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-14T13:09:51+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/business/noel-tata-warns-tata-sons-listing-could-alter-tata-way-of-working-philanthropy-10963180/"
+    },
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/business/tata-sons-listing-tata-trusts-governance-dispute-10962068/"
+    }
+   ]
+  },
+  {
+   "id": "ebb94b6cb2e7e0e473e9",
+   "title": "Jaishankar says most issues in the India-US trade deal are settled",
+   "deck": "The foreign minister says talks are on the last stretch, and describes the China border as 'more alive' than before.",
+   "summary": [
+    "External Affairs Minister S Jaishankar said on Saturday that India and the United States have resolved most of the issues in a proposed trade deal, and that the two sides are in the final stretch. Asked about the timing, he said it is India's hope, and in many ways its anticipation, that talks are at the last stretch. The Indian Express and the Times of India carried his remarks, made at a business summit.",
+    "He said India wants a deal that is balanced and gives it a comparative advantage over groups of comparable economies. He argued that the process took time because jobs and livelihoods are at stake. India went through the issues tariff line by tariff line, he said, and added that not everyone had the patience to bear with it. These are statements by an Indian minister, and Washington has not confirmed the timeline.",
+    "On China, Jaishankar said the border has become more alive, needing far more troops on a sustained basis and better infrastructure.",
+    "The Indian Express reported that Prime Minister Narendra Modi is expected to meet US President Donald Trump on the sidelines of the Asean and East Asia summits in Manila on 16 and 17 November, and to travel to the United States for the G20 leaders' summit on 14 and 15 December."
+   ],
+   "url": "https://indianexpress.com/article/india/india-us-trade-deal-issues-sorted-jaishankar-donald-trump-tariff-china-10963432/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-14T21:42:50+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/india-us-trade-deal-issues-sorted-jaishankar-donald-trump-tariff-china-10963432/"
+    },
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/js-china-border-now-more-alive-has-got-infra-military-boost/articleshow/135842496.cms"
+    }
+   ]
+  },
+  {
+   "id": "3415e0d74ec2afb58574",
+   "title": "Kaziranga bus crash: police say speed limiter was removed to allow more trips",
+   "deck": "Assam police allege the minibus owner and driver tampered with the device; 26 people died in the collision with a container truck.",
+   "summary": [
+    "Police in Assam say the minibus involved in Friday's deadly collision near Kaziranga had its speed-limiting device removed on purpose so it could make more trips. Golaghat Senior Superintendent of Police Swapnaneel Deka told the Indian Express that all commercial vehicles in the state are required to have such a device, and that the investigation found the driver and the owner took it out for financial gain. That is the police's allegation, and no court has tested it.",
+    "The crash happened at about 2:30pm in the Rangajan area of Golaghat district, when a minibus and a container truck collided head-on. The toll stands at 26, of whom two have not been identified. The minibus driver died at the scene, and at least 15 others are being treated at Jorhat Medical College and Hospital. Preliminary findings suggest the minibus was speeding.",
+    "Chief Minister Himanta Biswa Sarma visited the site on Saturday and announced Rs 5 lakh from the Chief Minister's Relief Fund and Rs 2 lakh from the State Disaster Management Authority for the family of each victim. Prime Minister Narendra Modi had announced Rs 2 lakh for each family on Friday. Sarma said strict measures will be enforced so such tragedies are not repeated.",
+    "The case raises a wider question for transport authorities, which is how often mandatory speed limiters are being switched off, and whether routine checks are catching it."
+   ],
+   "url": "https://indianexpress.com/article/india/kaziranga-crash-assam-police-speed-limiter-removed-10963430/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-15T01:00:08+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/kaziranga-crash-assam-police-speed-limiter-removed-10963430/"
+    }
+   ]
+  },
+  {
+   "id": "55dc7be3e45c5c690825",
+   "title": "Slain Kishtwar police officer had raised concerns about his deployment, villagers say",
+   "deck": "Locals told police the two special police officers feared being posted with an army base, and a politician questioned the operation.",
+   "summary": [
+    "Two special police officers, Bobby Chand and his nephew Rachpal Kumar, were shot dead in Jammu and Kashmir's Kishtwar district, and villagers now say the older man had doubts about the job he was sent to do. The Indian Express reported that family members and locals told police Chand was uneasy about being deployed weekly at a Rashtriya Rifles temporary operational base in Dharna village, and had raised concerns about working outside his home area. These are claims from relatives and villagers, not findings.",
+    "The men went missing and their bodies were found in Marwah tehsil on Thursday, less than 24 hours later. They were cremated at Kiyar village on Friday. Locals say a weekly roster sent two officers at a time with army personnel. They also say the pair were walking ahead of civilians carrying rations when they came under fire, and that the pony handlers with them ran away while the armed officers disappeared.",
+    "Politicians have questioned the response. Local MLA Shagun Parihar said a senior police officer arrived three days after the killings and only on the instructions of the Lieutenant Governor, and said villagers had to bring the bodies in a dumper.",
+    "Officials have not yet explained why the officers were assigned to the base, which has its own Special Operations Group unit. Those answers are what families and opposition leaders are asking for."
+   ],
+   "url": "https://indianexpress.com/article/india/kishtwar-killings-spo-killed-jammu-concerns-over-deployment-10963429/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-15T01:15:58+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/kishtwar-killings-spo-killed-jammu-concerns-over-deployment-10963429/"
+    }
+   ]
+  },
+  {
+   "id": "7a02e4dd8a8a6abde035",
+   "title": "Pakistan names minister for Delhi's SCO civilisational forum",
+   "deck": "Islamabad confirms Musadik Malik will attend the 20–22 November meeting, after months of strained relations.",
+   "summary": [
+    "Pakistan will send a federal minister to the Shanghai Cooperation Organisation's Civilisational Dialogue Forum in New Delhi, its foreign ministry announced on Saturday. It named Musadik Masood Malik, the minister for climate change and environmental coordination, to represent the country at the 20 to 22 November event, the Indian Express reported. The Times of India separately described the minister as an experienced hand.",
+    "The announcement answers a question that had hung over the forum. Union Culture Minister Gajendra Singh Shekhawat said on Friday that he remained hopeful Pakistan would confirm its participation in the coming days. China, Kazakhstan, Iran, Tajikistan, Uzbekistan, Belarus, Azerbaijan, Armenia, Bahrain, Nepal, Saudi Arabia, Turkey and Sri Lanka have also confirmed, according to the report.",
+    "Pakistan's foreign ministry said the forum will bring together SCO member states to exchange views on civilisational dialogue and cultural understanding, and that Pakistan is committed to promoting dialogue among civilisations and people-to-people contact within the SCO in a spirit of mutual respect. Shekhawat has said India wants the organisation to be more than a geopolitical and economic platform, and to serve as a forum for shared heritage and human values.",
+    "The visit stands out because relations between the two countries have been strained since hostilities in May 2025 after Operation Sindoor."
+   ],
+   "url": "https://indianexpress.com/article/india/pakistan-minister-attend-delhi-sco-meet-islamabad-announces-10963150/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-14T12:30:53+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/pakistan-minister-attend-delhi-sco-meet-islamabad-announces-10963150/"
+    },
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/pak-sending-experienced-minister-for-delhi-event/articleshow/135844386.cms"
+    }
+   ]
+  },
+  {
+   "id": "f00b4f00f0f27f54bbf5",
+   "title": "Rahul Gandhi claims his phone is being tapped and dares the PM to a debate",
+   "deck": "The Leader of the Opposition made the allegation in an Instagram chat; the report describes no evidence being presented.",
+   "summary": [
+    "Rahul Gandhi, the Leader of the Opposition in the Lok Sabha, said during an Instagram question-and-answer session on Friday that Prime Minister Narendra Modi is tapping his phone. The report does not describe any evidence being presented in the chat. The Indian Express reported that Gandhi said evidence for all his allegations is on his phone, and that a one-on-one debate would show who is acting on behalf of foreign forces. This is an unproven allegation by an opposition leader.",
+    "He listed topics he said he had not been allowed to raise in Parliament, including the farm bills, what he calls vote theft, the electoral roll revision, China, a book by General Naravane, and Epstein. He suggested businessman Gautam Adani or RSS chief Mohan Bhagwat as possible judges, and claimed that the Prime Minister would not remain in office after such a debate.",
+    "BJP leaders have brushed off the dare and accused Gandhi of running away from debates in Parliament. Finance Minister Nirmala Sitharaman said a venue for debate already exists in Parliament and urged him to show seriousness and responsibility as Leader of the Opposition. The Times of India reported that Congress leader Sam Pitroda dismissed the idea that the Prime Minister is tapping Gandhi's phone.",
+    "No government agency has confirmed or denied the claim in the sources reviewed, and no technical evidence has been published."
+   ],
+   "url": "https://indianexpress.com/article/india/my-phone-is-being-tapped-by-pm-modi-alleges-rahul-gandhi-during-instagram-chat-10961445/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-13T08:10:59+00:00",
+   "timestampType": "published",
+   "older": true,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/my-phone-is-being-tapped-by-pm-modi-alleges-rahul-gandhi-during-instagram-chat-10961445/"
+    },
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/pitroda-dismisses-rahuls-claim-pm-tapping-his-phone/articleshow/135842333.cms"
+    }
+   ]
+  },
+  {
+   "id": "d81fb8b6bf17c8786e08",
+   "title": "South Gujarat University offers a 'second chance' to improve marks",
+   "deck": "VNSGU students in every semester can re-sit external exams, and the better of the two results will count.",
+   "summary": [
+    "Veer Narmad South Gujarat University (VNSGU) in Surat has extended a marks-improvement scheme to all semesters, letting students re-sit exams to raise their results, the Indian Express reported. The university's Board of Management passed the ordinance on 6 November. The scheme first appeared in 2013-14 and covers undergraduate, postgraduate, diploma, postgraduate diploma and certificate courses at its 283 affiliated colleges.",
+    "Students who have passed an exam can surrender their marksheets and take the external examinations again, and the better of the two results will stand. The fee is Rs 300, plus an affidavit on stamp paper that also costs Rs 300. Students in the final semester must apply within 30 days of the result being declared. Anyone who uses the scheme loses the chance of a gold medal or prize.",
+    "Vice-Chancellor Dr K N Chavda described it as one beautiful option for students who want good grades on their final marksheet. He said the scheme is flexible: if the marks on an old marksheet turn out to be higher than the new ones, the old marks will be final.",
+    "Sunil Patel, a second-year MA student in Gujarati, told the paper that he did well in his first two semesters but his marks dropped in the third because of health and family problems. He said he hopes to recover first-class standing by re-sitting, and that the scheme will help thousands of students like him."
+   ],
+   "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-vnsgu-marks-improvement-scheme-all-semesters-10963208/",
+   "section": "local",
+   "scope": "local",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-14T13:48:22+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-vnsgu-marks-improvement-scheme-all-semesters-10963208/"
+    }
+   ]
+  },
+  {
+   "id": "70275d0e699d06687aef",
+   "title": "White House says Trump, Putin and Xi will hold a joint meeting in China next week",
+   "deck": "The trilateral would follow the APEC summit in Shenzhen; the White House says nuclear arms reduction is on the agenda, while a US official reportedly expects no agreement.",
+   "summary": [
+    "The White House says Donald Trump, Vladimir Putin and Xi Jinping plan to meet together in China next week, the BBC reported. Spokeswoman Olivia Wales said Trump will conclude his visit to China with a trilateral meeting of the presidents of the United States, China and Russia. The meeting would take place on the sidelines of the Asia-Pacific Economic Cooperation summit in Shenzhen. Only the US side has publicly confirmed the trilateral so far.",
+    "Wales said Trump will discuss, among other topics, a reduction in nuclear weapons, whose spread he believes is very dangerous. According to AP and Reuters, cited by the BBC, an unnamed senior US official said no agreement is expected from the talks. Kremlin spokesman Dmitry Peskov said earlier this month that there were signals confirming readiness for such a meeting.",
+    "Chinese state media said on Friday that Xi would hold bilateral talks on the summit's sidelines, citing a foreign ministry spokesman, but did not mention a three-way session. He will hold bilateral talks with Xi on Thursday, their fourth meeting since he returned to office in 2025, after attending an Asean summit in the Philippines on Tuesday.",
+    "Former senior US officials and analysts told the BBC that seeking Beijing's and Moscow's co-operation on arms control could create major hurdles and take years. Whether Putin and Xi agree to the format will be clear only when the leaders meet."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-14T15:53:55+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do"
+    }
+   ]
+  },
+  {
+   "id": "898e12ad324137b4c0fa",
+   "title": "Democrat Jonathan Kreiss-Tomkins wins Alaska's governor race",
+   "deck": "The 37-year-old former legislator becomes the state's first Democratic governor since 1998, taking Democrats to 30 governorships nationally.",
+   "summary": [
+    "Democrat Jonathan Kreiss-Tomkins has won the race for governor of Alaska, the first time in nearly 30 years that the party has taken the office. The Guardian reported that the result was called on Friday, 10 days after polls closed in the 3 November midterm elections. Kreiss-Tomkins, a 37-year-old former state legislator, defeated three Republican opponents, including a candidate backed by Donald Trump. He is the first Democrat elected governor of Alaska since 1998.",
+    "His win lifts the number of Democratic governors to 30. The Guardian said it was another major victory for the party in a midterm cycle that has shifted political power across the country. Elsewhere, Democrat Cindy Holscher beat Republican Ty Masterson in Kansas, and Gina Hinojosa became the first Democrat elected governor of Texas in 35 years and the state's first Hispanic governor.",
+    "Kreiss-Tomkins argued during the campaign that Alaska had become broken during the eight years of outgoing Republican governor Mike Dunleavy, pointing to the decline of the state's ferry system.",
+    "The Guardian's own analysis is that Trump's unpopularity was a major factor in the Republican defeats, citing voter opposition to his immigration crackdown, tariffs, the war with Iran and his signature domestic policy bill. That is the newspaper's reading; election results themselves do not record why people voted as they did."
+   ],
+   "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+   "section": "world",
+   "scope": "world",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-11-14T16:58:33+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins"
+    }
+   ]
+  },
+  {
+   "id": "fdb68417927b50a65652",
+   "title": "'Miracle on the Mississippi': all aboard rescued after New Orleans cruise ship collision",
+   "deck": "The paddlewheeler American Heritage tipped onto its side after hitting a cargo ship; 32 people were hurt and nobody is missing.",
+   "summary": [
+    "Everyone aboard the cruise ship American Heritage has been accounted for after it collided with the cargo vessel Atlantic Asphalt on the Mississippi River at New Orleans on Friday, the BBC reported. About 129 passengers plus crew were on board. Thirty-two people were taken to hospital with non-critical injuries, and by Saturday nine remained there, according to Mayor Helena Moreno.",
+    "Calls about the collision began at around 1:30pm local time, port chief Melanie Montroll said, as bystanders tried to help passengers escape while the ship took on water. The paddlewheeler, operated by American Cruise Lines, had been finishing an eight-day trip through Louisiana and Mississippi. Moreno said passengers began leaving as it listed before tipping onto its side. She also said the captain, who was hurt, refused treatment until he knew everyone had been accounted for.",
+    "US Coast Guard Captain Melanie Burnham said there seemed to be some type of loss of steering, an early assessment and not a finding. Moreno gave the credit to first responders who jumped right in, and said zero people unaccounted for is truly a miracle on the Mississippi. Louisiana governor Jeff Landry used the same phrase and promised an investigation.",
+    "Passenger Joe Knab said he spent about 20 minutes in the water and that the ship sank fast. The cause of the collision has not been established, and authorities have said an investigation will follow."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-14T20:23:06+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo"
+    }
+   ]
+  },
+  {
+   "id": "e47fe20adcdf59ed1fe8",
+   "title": "McLaren plans more MCL40 upgrades for Las Vegas, its least happy hunting ground",
+   "deck": "Team principal Andrea Stella says the new front wing concept points to the 2027 car and gives him cautious optimism.",
+   "summary": [
+    "McLaren will bring further upgrades to its MCL40 for the Las Vegas Grand Prix, a track where the team has struggled, Autosport reported. The team launched a front wing concept in Brazil that it says is aimed at the 2027 season. Team principal Andrea Stella described it as an improvement in driveability and predictability.",
+    "Brazil showed what the package can do. Lando Norris took pole position and then won in mixed conditions, ending a five-round streak without a podium, which was the squad's worst run since the first half of 2023. Stella said the upgrades introduced in Hungary had put McLaren in a position to win, and that the team should have won in Madrid but for the timing of a Virtual Safety Car. After that, he said, rivals brought their own upgrades, and McLaren paid for not qualifying well.",
+    "Las Vegas has been a poor venue for the team. In 2023 both cars were out in Q1. In 2024 they qualified sixth and eighth and finished 27 seconds behind the leaders.",
+    "Stella said the layout, with its long straights, does not suit McLaren's shorter gear ratios, but that the car is faster now and information from Brazil can be used. He said more parts will arrive in Vegas and will form the foundation of next year's car. His wish is to get a good result and finally be at peace with this venue."
+   ],
+   "url": "https://www.autosport.com/f1/news/mclaren-to-upgrade-mcl40-f1-car-at-its-bogey-track-las-vegas/10874450/",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-11-15T02:01:31+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/mclaren-to-upgrade-mcl40-f1-car-at-its-bogey-track-las-vegas/10874450/"
+    }
+   ]
+  },
+  {
+   "id": "2a0c00fa2fcecce007f6",
+   "title": "India beat Pakistan by one wicket off the last ball to win the Under-19 Asia Cup",
+   "deck": "A 339-run chase ended in a thriller in Oman; the President and Prime Minister praised the young side.",
+   "summary": [
+    "India's Under-19 men's team won the Asia Cup final against Pakistan by one wicket off the last ball in Oman on Saturday, the Times of India reported. Pakistan batted first and made 337 for 9 in their 50 overs. India chased down a target of 338 and finished on 339 for 9, with the final delivery deciding the match.",
+    "Pakistan's innings was built on three strong scores. Usman Khan hit 107, Abdul Qadir made 80 and captain Farhan Yousaf added 63. India's chase leaned heavily on the tail. Number ten Mohit Ulva finished unbeaten on 49 from only 26 balls, supplying the late hitting that carried India over the line.",
+    "President Droupadi Murmu congratulated the team on X, saying it had shown exceptional skill, determination and composure in a closely contested match, and wished the young champions continued success. Prime Minister Narendra Modi called it an outstanding day for Indian cricket. He said he was immensely proud of the young cricketers and that their success would inspire several youngsters.",
+    "The final was a high-scoring contest, with 676 runs scored in the match, and it went down to the last ball."
+   ],
+   "url": "https://timesofindia.indiatimes.com/india/outstanding-day-for-indian-cricket-president-murmu-pm-modi-hail-u-19-asia-cup-champions/articleshow/135837860.cms",
+   "section": "sport",
+   "scope": "sport",
+   "source": "Times of India",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-14T16:46:15+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/outstanding-day-for-indian-cricket-president-murmu-pm-modi-hail-u-19-asia-cup-champions/articleshow/135837860.cms"
+    }
+   ]
+  },
+  {
+   "id": "4da3bf835ab4f54e01b2",
+   "title": "Wales stun New Zealand for first win over the All Blacks in 73 years",
+   "deck": "A 35-28 victory in Cardiff, built on heroic defence, is being hailed as one of the greatest Welsh results.",
+   "summary": [
+    "Wales beat New Zealand 35-28 at the Principality Stadium in Cardiff on Saturday, their first win over the All Blacks since 1953. The BBC reported the result as ending a 73-year wait. Wales had gone into the match with bookmakers offering odds of 30-1, ranked 12th in the world and coming off a record losing run for a top-tier nation of 34 matches.",
+    "Former Wales captain Sam Warburton, who faced New Zealand five times as a player, called it one of the greatest Wales wins of all time. He said no one had given the team a chance and described the defensive display as one of the most heroic he had seen. Dan Biggar said the day was for celebrating being Welsh and compared the shock to Japan's win over South Africa at the 2015 World Cup.",
+    "The numbers back up the praise for the defence. Lock Dafydd Jenkins made 38 tackles, equalling the world record for a Test match. New Zealand had made changes to their side, and Warburton accepted that but said it did not take away from the performance.",
+    "Commentator Huw Llywelyn Davies, who was eight when Wales last beat the All Blacks in 1953, said he never thought he would see it happen again unless he lived to 100. The win is a lift for Welsh rugby after a difficult spell."
+   ],
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o",
+   "section": "sport",
+   "scope": "sport",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-14T19:33:46+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "section": "technology",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "Indian Express",
+   "section": "world",
+   "status": "ok",
+   "count": 50
+  },
+  {
+   "name": "BBC News",
+   "section": "world",
+   "status": "ok",
+   "count": 15
+  },
+  {
+   "name": "The Guardian",
+   "section": "world",
+   "status": "ok",
+   "count": 15
+  },
+  {
+   "name": "The Verge",
+   "section": "technology",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC News",
+   "section": "technology",
+   "status": "ok",
+   "count": 15
+  },
+  {
+   "name": "Indian Express",
+   "section": "business",
+   "status": "ok",
+   "count": 7
+  },
+  {
+   "name": "Economic Times",
+   "section": "business",
+   "status": "ok",
+   "count": 40
+  },
+  {
+   "name": "BBC News",
+   "section": "business",
+   "status": "ok",
+   "count": 15
+  },
+  {
+   "name": "BBC Sport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "Autosport",
+   "section": "formula-one",
+   "status": "ok",
+   "count": 40
+  },
+  {
+   "name": "BBC Sport",
+   "section": "sport",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "Indian Express",
+   "section": "sport",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Times of India",
+   "section": "world",
+   "status": "ok",
+   "count": 20
+  },
+  {
+   "name": "Gadgets 360",
+   "section": "deals",
+   "status": "ok",
+   "count": 2
+  },
+  {
+   "name": "Indian Express",
+   "section": "local",
+   "status": "ok",
+   "count": 1
+  },
+  {
+   "name": "NDTV",
+   "section": "world",
+   "status": "unavailable",
+   "count": 0
+  },
+  {
+   "name": "The Hindu",
+   "section": "world",
+   "status": "unavailable",
+   "count": 0
+  }
+ ]
+}
