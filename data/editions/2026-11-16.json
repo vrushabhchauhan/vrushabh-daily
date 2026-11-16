@@ -1,0 +1,837 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-11-16",
+ "generatedAt": "2026-11-16T02:13:02.000768+00:00",
+ "timezone": "Asia/Kolkata",
+ "windowHours": 48,
+ "primaryWindowHours": 24,
+ "summaryMode": "original-articles",
+ "localLimit": 1,
+ "stories": [
+  {
+   "id": "9e09af32ba885800c8f4",
+   "title": "Vulcan rocket fails mid-flight, taking 40 Amazon Leo satellites with it",
+   "deck": "United Launch Alliance's Vulcan suffered an anomaly about ten minutes after liftoff on Sunday, and the cause is not yet known.",
+   "summary": [
+    "United Launch Alliance (ULA) lost a Vulcan rocket and all 40 Amazon Leo internet satellites aboard it on Sunday. Spaceflight Now describes it as the first outright failure for the company, a Boeing and Lockheed Martin venture formed in 2006.",
+    "The rocket left Cape Canaveral at 12:40 p.m. EST after a countdown hold at 20 seconds. In a statement, ULA said the vehicle \"suffered an anomaly 10 minutes into the flight and failed to deliver the Amazon mission to orbit.\" The company has not said what went wrong and promised \"full transparency\" with customers during its investigation.",
+    "Spaceflight Now reported that the solid boosters appeared normal, but the first stage seemed to burn longer than ULA's pre-launch timeline called for. It also reported late stage separation and unusual orientation changes from the upper stage. That outlet stressed that none of this is a confirmed cause, and it is not known whether the countdown hold played any part.",
+    "The flight was the first of 38 Vulcan launches Amazon has bought. Amazon needs more than 3,300 Leo satellites to finish its network, a rival to Starlink, and Sunday's launch would have brought the number launched to 436. Amazon said on X that \"there is risk with any launch\" and that it believes ULA will learn from the mission. NASA's administrator, Jared Isaacman, offered help with the investigation, according to Spaceflight Now."
+   ],
+   "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-11-15T21:05:02+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
+    },
+    {
+     "source": "Spaceflight Now",
+     "group": "spaceflightnow",
+     "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/"
+    }
+   ]
+  },
+  {
+   "id": "e8223816b55a4d77318a",
+   "title": "Update: Megaspeed says suspected spy left in 2025 as Congress eyes tighter chip export rules",
+   "deck": "The Singapore firm at the centre of the Nvidia scandal denies wrongdoing, while US lawmakers push to restrict AI chip sales to China.",
+   "summary": [
+    "Megaspeed International, the Singapore cloud company at the heart of the Nvidia scandal, said on Sunday that it is a \"legitimate and lawful business\". It said Alice Huang, who has been accused by US officials of possibly acting as a Chinese intelligence asset, left on 30 August 2025 and has no role now. Megaspeed said it has hired outside lawyers for an internal investigation and called recent reports unsupported by \"verifiable evidence\".",
+    "The claims about Alice Huang remain allegations. The US attorney general said last week that the Justice Department has not decided whether she is a spy, and Beijing has rejected the accusation. According to the BBC, a security research group, C4ADS, argued she stayed \"practically in control\" of the firm after handing over her role. Singapore says it barred her from re-entering the country after a 2025 inquiry, and Malaysia is investigating a Megaspeed subsidiary over possible chip diversion. Megaspeed has said there is no evidence of illegal chip transfers.",
+    "In Washington, The Verge reports that Democrats and Republicans have backed measures to tighten AI chip exports to China, with House Speaker Mike Johnson citing a \"growing consensus\". Representative John Moolenaar said Jensen Huang, who resigned as Nvidia chief, has agreed to testify to House committees in closed session. Commerce Secretary Howard Lutnick is due before the Senate Banking Committee next month.",
+    "This follows an earlier edition's report on the petition to reinstate Huang."
+   ],
+   "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-11-16T01:17:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": true,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang"
+    },
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo"
+    },
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+    }
+   ]
+  },
+  {
+   "id": "c57d5fdb338c13ebb499",
+   "title": "Apple opens health AI study with OpenEvidence, seeking up to 200,000 volunteers",
+   "deck": "A new iPhone app lets US participants ask medical questions and grade the answers they get.",
+   "summary": [
+    "Apple has launched the Apple Health AI Usage Study, a research project on how people use AI tools for health questions and how helpful the answers are. It is working with OpenEvidence, a clinical AI platform used by healthcare professionals. The study app is available to download now.",
+    "Apple is seeking up to 200,000 participants, who must be at least 21 and based in the US. The Verge says the app needs an iPhone 15 Pro running iOS 26 or later, while TechCrunch lists iPhone 15 or later with Apple Intelligence enabled, so check the app listing before signing up. TechCrunch says the study is planned to run more than 12 months, with monthly surveys.",
+    "Volunteers type health questions and receive plain-language answers linking to peer-reviewed sources. TechCrunch lists the New England Journal of Medicine, JAMA and Nature among them. Participants then rate each answer on accuracy, detail and relevance. They can also share HealthKit data, such as sleep, activity or lab results, for more personal responses.",
+    "Apple says data is anonymised before going to a secure third-party cloud provider and will not be used to train AI models, and that OpenEvidence deletes queries and responses after 24 hours. Sumbul Desai, Apple's vice president of Health and Fitness, said a dedicated study is the most thoughtful way to understand how people use health AI. TechCrunch notes it is unclear whether Apple plans AI answers inside Health or Siri."
+   ],
+   "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+   "section": "technology",
+   "scope": "technology",
+   "source": "The Verge",
+   "sourceGroup": "the-verge",
+   "publishedAt": "2026-11-16T01:26:56+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Verge",
+     "group": "the-verge",
+     "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+    },
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+    }
+   ]
+  },
+  {
+   "id": "04196bef9b67627d8cc9",
+   "title": "Indian chip startup Bharat Semi raises $24 million to build AI image sensors",
+   "deck": "The pre-revenue New Delhi company says its sensors will reach commercial production in 2027.",
+   "summary": [
+    "Bharat Semi, a New Delhi-based semiconductor startup, has raised $24 million in seed funding to develop AI-enabled image sensors, TechCrunch reports. The all-equity round was led by Info Edge Group, South Park Commons and Indus Bridge Ventures, with Valour Capital, Micromax, Gaingels and individual investors also taking part.",
+    "The company is nearly five years old and has no revenue yet. It says it has won design commitments from US defence technology firm General Atomics and India's Kaynes Semicon. Its sensors are still in development, with first commercial production targeted for 2027.",
+    "Co-founder Vrinda Kapoor said the chips combine image capture, processing and AI on one piece of silicon, which she claims could cut system costs by at least 70 percent compared with setups using separate parts. Target uses include smart homes, industrial automation, surveillance and aerospace. First-generation sensors are in prototyping, and second-generation versions are due as prototypes by mid-2027.",
+    "Bharat Semi has about 75 staff across India and the US and plans to raise its US headcount to around 20 by mid-2027. It will spend the money on engineering, finishing development and going to market. The company remains fabless, outsourcing manufacturing. A separate fabrication project announced in 2024, involving a partnership with the US Space Force, is still in development and will not be paid for with this round, Kapoor said."
+   ],
+   "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "section": "technology",
+   "scope": "technology",
+   "source": "TechCrunch",
+   "sourceGroup": "techcrunch",
+   "publishedAt": "2026-11-15T23:30:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "TechCrunch",
+     "group": "techcrunch",
+     "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+    }
+   ]
+  },
+  {
+   "id": "1264164d0573e38e3ba7",
+   "title": "Coles investigates cyber security incident, says it has found no data loss",
+   "deck": "Australia's second-largest retailer says stores and online shopping are running normally while it probes the attack.",
+   "summary": [
+    "Coles Group, Australia's second-largest retailer, said on Monday morning that it is investigating a cyber security incident. In a statement to the stock exchange, it said it is working with the Australian Cyber Security Centre and global security experts. The Guardian, which carried the report from Australian Associated Press, describes it as a cyber-attack and says it is too early to know whether any data was stolen or compromised.",
+    "Coles said it has \"not identified any evidence that customer, team or supplier data has been compromised or removed\" from its systems. That is the company's current position rather than a final finding, and the investigation is continuing. The retailer said operations continue and customers can shop as normal in stores and online.",
+    "The company apologised for any concern the incident causes, noting it comes at \"a time of increasing cyber incidents in Australia and around the world\". It said it has security measures in place to protect customer and supplier accounts and is closely monitoring its systems.",
+    "As a precaution, Coles recommended that customers update their passwords with a strong, unique one and avoid reusing it across services. It also warned people to be careful with unexpected emails or text messages that claim to come from the retailer, and not to click any links in them. The Guardian said more details were to follow, and the report had not named the attackers or described how the incident happened."
+   ],
+   "url": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
+   "section": "business",
+   "scope": "business",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-11-16T00:25:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data"
+    }
+   ]
+  },
+  {
+   "id": "16ad73b1cbf6533ee210",
+   "title": "Employees' union asks RBI to withhold approval for Fairfax's IDBI Bank takeover",
+   "deck": "The United Forum of IDBI Officers and Employees questions the price, the funding and the buyer, though none of its claims is a finding.",
+   "summary": [
+    "The United Forum of IDBI Officers and Employees (UFIOE), a union body, has asked the Reserve Bank of India to hold back approval for the proposed sale of IDBI Bank to Fairfax Financial Holdings. In a representation to the RBI Governor on 15 November, it urged an independent examination and asked the regulator to advise the government and LIC to abandon the disinvestment. These are the union's positions.",
+    "On price, the union compared the deal, valued at Rs 52,878 crore, with Emirates NBD's purchase of 60 percent of RBL Bank. It claimed that 60 percent of IDBI should be worth Rs 1,07,102 crore and alleged a mismatch of Rs 54,224 crore. It also questioned the cut in the government's reserve price from Rs 94.42 to Rs 75.99 a share after the top bid reportedly came in at Rs 75.",
+    "The union also questioned Fairfax's record, saying its banking exposure is largely through CSB Bank, where it holds 40 percent, and alleging the buyer might raise funds by selling other group holdings to IDBI. It warned of branch closures, higher charges and risks to jobs, and cited a 2003 parliamentary assurance that government ownership would not fall below 51 percent.",
+    "The union said the deal \"risks socialising the cost of revival while privatising the future gains\". The report carried no response from Fairfax, the RBI, the government or LIC."
+   ],
+   "url": "https://indianexpress.com/article/business/banking-and-finance/idbi-bank-fairfax-takeover-union-rbi-intervention-10964168/",
+   "section": "business",
+   "scope": "business",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-15T06:24:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/business/banking-and-finance/idbi-bank-fairfax-takeover-union-rbi-intervention-10964168/"
+    }
+   ]
+  },
+  {
+   "id": "24d8771e3d75e7b5f9d1",
+   "title": "Households pay less of India's health bill, but total spending still lags",
+   "deck": "The latest National Health Accounts show government health spending more than tripled in a decade and the household share fall to 42.7%, yet overall spending remains a small slice of GDP.",
+   "summary": [
+    "The Union Health Ministry has released National Health Accounts estimates for 2023-24 that show a clear shift in who pays for medical care in India. Government health expenditure rose from Rs 1.30 lakh crore in 2013-14 to about Rs 4.14 lakh crore, according to the Hindu's report of the ministry release. Over the decade, the household share of costs fell from 64.2% to 42.7%.",
+    "The Times of India puts total health expenditure at Rs 9.52 lakh crore, or 3.29% of GDP, which works out to Rs 6,801 per person. Government spending alone was 1.43% of GDP, with states supplying about 68% of it. Families still paid about Rs 4 lakh crore from their own pockets. Private health insurance reached 10.2% of spending, while social security schemes such as Ayushman Bharat rose from 6% to 11%.",
+    "The ministry called the trend progress towards a more accessible, affordable and financially protective system. It credited free drugs and diagnostics and Ayushman Arogya Mandirs, and said primary care received about Rs 1.53 lakh crore.",
+    "The Indian Express offers a more cautious reading. It notes that the National Health Policy 2017 aimed for public health spending of 2.5% of GDP by 2025, a target the figures show was missed, and that total health spending stayed at 3.3% of GDP in 2023-24, below the 3.8% of the pandemic year 2021-22. Private hospitals took about 32% of current spending, roughly twice the public share."
+   ],
+   "url": "https://www.thehindu.com/news/national/indias-health-spending-triples-to-414-lakh-crore-but-out-of-pocket-share-drops-to-427-nha/article71705136.ece",
+   "section": "world",
+   "scope": "india",
+   "source": "The Hindu",
+   "sourceGroup": "the-hindu",
+   "publishedAt": "2026-11-15T17:23:54+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/national/indias-health-spending-triples-to-414-lakh-crore-but-out-of-pocket-share-drops-to-427-nha/article71705136.ece"
+    },
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/report-increase-in-government-health-spending-as-out-of-pocket-expenditure-declines-10964481/"
+    },
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/govt-healthcare-spend-up-3x-since-2013-14-to-4-1l-cr/articleshow/135865380.cms"
+    }
+   ]
+  },
+  {
+   "id": "ca7c049c3a05766f3bbf",
+   "title": "Modi leaves for Manila with maritime security and trade on the agenda",
+   "deck": "The prime minister will attend the India-ASEAN and East Asia summits, with a Quad leaders' meeting possible on the sidelines but not confirmed by New Delhi.",
+   "summary": [
+    "Prime Minister Narendra Modi leaves on Monday for a two-day visit to Manila, where the Philippines, this year's chair of ASEAN, is hosting the India-ASEAN summit and the East Asia Summit. According to the Ministry of External Affairs, he will attend a dinner hosted by President Ferdinand Marcos Jr on 16 November and the summits on 17 November, along with bilateral meetings.",
+    "Officials say maritime security, economic cooperation and development partnership are the main themes. Rudrendra Tandon, the ministry's Secretary (East), said a strong relationship with ASEAN members would make India more resilient to rapid geopolitical change. The Times of India adds that trade with the bloc is about 122 billion dollars and India wants the review of its goods trade agreement concluded early.",
+    "A possible Quad leaders' summit with the United States, Japan and Australia is the other talking point. The Indian Express quotes a US State Department official as saying Washington is working to formalise a Quad leaders' summit at ASEAN, and it names Donald Trump, Sanae Takaichi and Anthony Albanese as expected participants. The Times of India, however, says the ministry has no confirmed information on that meeting or on any Modi-Trump interaction.",
+    "On the South China Sea, India says any ASEAN-China code of conduct must follow international law."
+   ],
+   "url": "https://indianexpress.com/article/india/narendra-modi-asean-manila-visit-quad-summit-10964513/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-15T18:49:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/narendra-modi-asean-manila-visit-quad-summit-10964513/"
+    },
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/pm-modi-to-attend-asean-east-asia-summits-in-manila-whats-on-agenda/articleshow/135869305.cms"
+    }
+   ]
+  },
+  {
+   "id": "8c5cb57dc2afaa53d2e5",
+   "title": "Bengal police say man who shot constable died in gunfight, fifth such case since May",
+   "deck": "A history-sheeter accused of wounding a constable near Santiniketan was killed on Sunday, and the chief minister defended the police response.",
+   "summary": [
+    "A man accused of shooting a police constable in West Bengal's Birbhum district was killed in what police describe as a gunfight on Sunday. A senior officer said Ratan Sheikh opened fire at a police team while trying to evade arrest at a brick kiln in Nanoor. This was the fifth police encounter death in the state since the BJP came to power in May, according to reports by PTI and the Times of India.",
+    "Police say Sheikh, a history-sheeter who had been absconding, shot constable Biswajit Das in the leg during an arrest attempt at Laik Bazar in the Santiniketan police station area on 13 November. The Times of India reports that he then fled to Burdwan. These accounts come from police; the reports carried no independent version of events at the brick kiln.",
+    "Chief Minister Suvendu Adhikari defended the outcome. He asked reporters whether police should offer sweets to someone who fires at them, and said criminals have no place in the state. The Times of India quotes him saying Sheikh faced 36 pending cases and police have a free hand.",
+    "None of the three reports included comment from rights groups, the opposition or the dead man's family, so questions about how such shootings are investigated are not addressed here."
+   ],
+   "url": "https://www.thehindu.com/news/national/west-bengal/man-accused-of-opening-fire-at-cop-in-bengals-santiniketan-killed-in-police-encounter/article71705045.ece",
+   "section": "world",
+   "scope": "india",
+   "source": "The Hindu",
+   "sourceGroup": "the-hindu",
+   "publishedAt": "2026-11-15T21:13:28+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/national/west-bengal/man-accused-of-opening-fire-at-cop-in-bengals-santiniketan-killed-in-police-encounter/article71705045.ece"
+    },
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/man-accused-of-shooting-cop-killed-in-bengal-5th-encounter-in-6-months-12331041"
+    },
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/criminal-killed-in-5th-encounter-in-west-bengal-since-may/articleshow/135865864.cms"
+    }
+   ]
+  },
+  {
+   "id": "4b93c05e60c705d97d60",
+   "title": "Punjab BJP names panels for 2027 polls, with former AAP leaders in several seats",
+   "deck": "The state unit has set up a manifesto committee and a 'chargesheet' committee, and says more panels will follow.",
+   "summary": [
+    "Punjab BJP president Kewal Singh Dhillon on Sunday formed two committees for the 2027 assembly elections, according to a party statement quoted by PTI. Veteran leader Avinash Rai Khanna will chair the manifesto committee, while former state chief Sunil Jakhar will head a committee tasked with preparing a \"chargesheet\". NDTV says the second panel will build the party's case against the AAP government.",
+    "The manifesto panel includes Manpreet Singh Badal, Raghav Chadha, former cricketer Harbhajan Singh, Rajinder Gupta and H.S. Phoolka among its members. The chargesheet panel includes Ravneet Singh Bittu, Preneet Kaur, Sushil Rinku, Sandeep Pathak, Ashok Mittal and Vikramjit Singh Sahney. NDTV reports that several came over from AAP, including Chadha, who led Rajya Sabha members into the BJP in April.",
+    "The BJP says the manifesto committee brings together experience and representation from various fields, and that senior leaders on the other panel have been given a distinct responsibility. NDTV says Dhillon indicated that further committees would be announced in the coming days.",
+    "NDTV also reports, citing what it calls its own information, that the BJP is in talks with the Shiromani Akali Dal about reviving their alliance, with the BJP seeking more seats while staying the junior partner. It adds that AAP continues to challenge the defectors' merger. Neither party was quoted confirming these points."
+   ],
+   "url": "https://www.thehindu.com/news/national/punjab/punjab-bjp-forms-manifesto-chargesheet-committees/article71706608.ece",
+   "section": "world",
+   "scope": "india",
+   "source": "The Hindu",
+   "sourceGroup": "the-hindu",
+   "publishedAt": "2026-11-15T21:25:21+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/national/punjab/punjab-bjp-forms-manifesto-chargesheet-committees/article71706608.ece"
+    },
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/raghav-chadha-5-others-who-came-from-aap-get-key-roles-as-punjab-bjp-panels-for-polls-12330553"
+    },
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/punjab-bjp-forms-manifesto-chargesheet-committees-raghav-chadha-harbhajan-singh-among-members/articleshow/135862050.cms"
+    }
+   ]
+  },
+  {
+   "id": "33e12048ad335c297b82",
+   "title": "Lalit Modi says he is now a British citizen, complicating India's extradition effort",
+   "deck": "The former IPL chief announced the news at the Oxford Union; Indian officials quoted in reports say the case against him continues.",
+   "summary": [
+    "Lalit Modi, the Indian Premier League's founder, announced on X on Saturday that he has become a British citizen. He wrote that he celebrated his citizenship at a ceremony on 15 September. \"The United Kingdom has been my home for many years,\" he wrote. The Hindu notes that Indian citizenship is lost automatically when another is taken.",
+    "Modi left India in 2010. The Enforcement Directorate alleges he manipulated the 2009 sale of IPL broadcast rights in return for a kickback of over Rs 125 crore, and a special court issued a non-bailable warrant in 2015. These are allegations and he has not been convicted. The Hindu reports that he argues he is not a fugitive for that reason. It adds that a tribunal set aside an earlier foreign-exchange penalty in July 2026. The Times of India says Modi claims a political witch-hunt and threats, which are his own assertions.",
+    "Unnamed sources told the Indian Express and the Times of India that citizenship does not formally block extradition under the India-UK treaty but makes it harder in practice. They said Modi now has full legal protections, that deportation is no longer an option, and that New Delhi would need a stronger case. The Times of India says efforts to bring him back will continue.",
+    "The Indian Express said the Ministry of External Affairs had not reacted immediately."
+   ],
+   "url": "https://indianexpress.com/article/india/lalit-modi-british-citizenship-india-extradition-10964507/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-15T17:40:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/lalit-modi-british-citizenship-india-extradition-10964507/"
+    },
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/international/ipl-founder-lalit-modi-acquires-british-citizenship-calls-it-home-for-many-years/article71704504.ece"
+    },
+    {
+     "source": "Times of India",
+     "group": "times-group",
+     "url": "https://timesofindia.indiatimes.com/india/lalit-gets-british-citizenship-extradition-prospects-take-a-hit/articleshow/135866282.cms"
+    }
+   ]
+  },
+  {
+   "id": "90448d85c3baaa2d34c9",
+   "title": "Rajasthan police allege Pakistani spy agency was behind Sri Ganganagar rail blast",
+   "deck": "Two people from Gurdaspur have been arrested, and police claim a Pakistan-based handler directed them; the accused's side is not reported.",
+   "summary": [
+    "Rajasthan Police say a railway track blast in Sri Ganganagar district on 3 November was carried out on behalf of Pakistan's Inter-Services Intelligence. Its Anti-Terrorism Squad arrested two people in Gurdaspur, Punjab, on Saturday. Police named them as Mahakdeep Kaur, 21, described as the main accused, and Davinder Singh, 23, described as her accomplice. Everything below is a police allegation, untested in court.",
+    "Additional Director General of Police Dinesh MN said it was essentially an ISI operation. Police allege that Kaur took instructions from a Pakistan-based handler called Shah, known as Chacha, and that two earlier attempts on 6 October and 12-13 October failed, one for want of a bomb and one because of a technical fault. Police say they recovered two pistols, 46 cartridges and Rs 30,000 allegedly paid for the blast.",
+    "NDTV, also citing police and investigators, reports that Kaur's former husband and other relatives are suspected of links to cross-border smuggling, and that the pair may have been promised Rs 1 lakh. Each person's exact role is still under investigation. Relatives of both accused gave their own accounts to reporters.",
+    "Police say they are probing other people, the source of the explosives and the money trail. An official described a new trend of luring single women with feigned romance and money."
+   ],
+   "url": "https://indianexpress.com/article/india/isi-backed-sri-ganganagar-railway-blast-rajasthan-ats-arrests-punjab-woman-gurdaspur-10964357/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-15T09:19:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/isi-backed-sri-ganganagar-railway-blast-rajasthan-ats-arrests-punjab-woman-gurdaspur-10964357/"
+    },
+    {
+     "source": "NDTV",
+     "group": "ndtv",
+     "url": "https://www.ndtv.com/india-news/love-drugs-pak-link-how-punjab-woman-got-involved-in-rajasthan-blast-plot-12330755"
+    }
+   ]
+  },
+  {
+   "id": "a51d582fd7e48b5c5403",
+   "title": "Bay of Bengal depression expected to become Cyclone Akvan, heading for Andhra coast",
+   "deck": "The India Meteorological Department expects the system to intensify into a severe cyclonic storm by 17 November, with rain forecast across several states.",
+   "summary": [
+    "A depression over the southeast and adjoining southwest Bay of Bengal is likely to strengthen into a severe cyclonic storm by 17 November, the India Meteorological Department said on Sunday. The Hindu, which calls the system Cyclone Akvan, reports that it is expected to move towards the Andhra Pradesh coast around 19 November.",
+    "The department's latest bulletin says the depression is very likely to move northwestward and intensify into a cyclonic storm on 16 November before reaching severe status a day later. On Sunday morning it lay near 9.3 degrees north, moving north at about 10 kmph.",
+    "Tamil Nadu is the first state expected to feel its effects. The weather office forecast rain over the northern coastal districts, Puducherry and Karaikal, with a nowcast for light to moderate rain in districts such as Cuddalore and Thanjavur. Moderate rain is also likely over the Western Ghats and southern districts from Monday.",
+    "For West Bengal, the department warned of heavy rain in South 24 Parganas and Purba Medinipur from 19 to 21 November, and in Howrah, Paschim Medinipur and Jhargram on 20 and 21 November. Thunderstorms with winds up to 40 kmph are likely in Kolkata and most districts of Gangetic West Bengal.",
+    "The report is based on forecasts, which can change as the system develops."
+   ],
+   "url": "https://www.thehindu.com/news/national/depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704137.ece",
+   "section": "world",
+   "scope": "india",
+   "source": "The Hindu",
+   "sourceGroup": "the-hindu",
+   "publishedAt": "2026-11-15T17:29:51+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Hindu",
+     "group": "the-hindu",
+     "url": "https://www.thehindu.com/news/national/depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704137.ece"
+    }
+   ]
+  },
+  {
+   "id": "fca971b253c07d0a0519",
+   "title": "Estonia to shut all Russian border crossings from 1 December after drone-maker plot",
+   "deck": "Tallinn says Russia's military intelligence ordered a failed attack on a defence firm, a charge Moscow's side has not answered directly.",
+   "summary": [
+    "Estonia will close every border crossing with Russia from 1 December, after an attempted sabotage attack on a company that builds long-range attack and reconnaissance drones. Authorities have not said how long the closure will last.",
+    "On Saturday morning, eight people were detained during the attempted attack on Threod Systems. The firm's security team responded, and no injuries or damage were reported. Estonia's internal security service, Kapo, said the aim was to cause an explosion and set the building on fire. Prosecutors have asked a court to keep five of the detainees in custody, according to public broadcaster ERR. Estonian authorities say Russia's GRU military intelligence service ordered the attack.",
+    "Prime Minister Kristen Michal said the closure would lower the risk of further attacks and show that strikes on Estonia's defence industry are unacceptable. He argued that Russia wants to frighten Estonia and weaken its support for Ukraine. Foreign minister Margus Tsahkna warned that hostile actions would bring consequences. The three crossings affected are Narva in the north and Koidula and Luhamaa in the south.",
+    "This is the second such incident Estonia has pinned on Russia. In August an arson attack hit Milrem Robotics, which Kapo also linked to Russian special services; the Kremlin called that accusation baseless. This time, Russian foreign ministry spokesperson Maria Zakharova told the Tass agency that if the closures are really planned, they fit a new round of \"Russophobia\"."
+   ],
+   "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
+   "section": "world",
+   "scope": "world",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-11-15T22:17:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+    }
+   ]
+  },
+  {
+   "id": "1b8ebbd43f78db22fb85",
+   "title": "Pope Leo presses for justice over murdered Amazon defenders",
+   "deck": "On the Peru leg of his South American tour, the pontiff backed Indigenous communities against illegal mining and logging.",
+   "summary": [
+    "Pope Leo XIV used a speech in the Peruvian Amazon to demand justice for environmental defenders who have been killed while protecting the rainforest. Speaking in Pucallpa, on the Ucayali River, he told Indigenous representatives and missionaries that \"the cry of the Earth and the cry of the poor are inseparable\".",
+    "He referred to what environmental groups estimate were 57 murders of defenders between 2010 and 2024, saying their blood \"cries out to God and demands justice\". The Guardian notes that most such killings in Peru go unpunished. The latest conviction concerned Kichwa leader Quinto Inuma Alvarado, ambushed by hitmen in 2023. The pope also condemned \"impunity\" and \"corruption\" around sexual violence against Awajun and Wampis schoolgirls; a women's council has recorded 370 cases in Condorcanqui province between January and July.",
+    "At a mass, Leo called for a model of development that respects the Earth and the Indigenous peoples who care for it, rather than irresponsible exploitation by outsiders. He said very little has been done, and slowly, as the means to pollute have sped up. Illegal gold mining, coca growing and logging are all driving forest loss.",
+    "The visit capped a demanding day. Leo, 71, began in Cusco, more than 3,400 metres above sea level, while still recovering from lung cancer surgery last month. He sat during part of the popemobile ride, though it was unclear why. The trip is the longest of his pontificate."
+   ],
+   "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+   "section": "world",
+   "scope": "world",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-11-16T01:13:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment"
+    }
+   ]
+  },
+  {
+   "id": "985f21bc1fc22e48da60",
+   "title": "Iran launches second drone attack on US base in Bahrain in three days",
+   "deck": "A second drone attack in three days deepens the stand-off over the Strait of Hormuz, with each side's account unverified.",
+   "summary": [
+    "Iran launched a drone attack on a US military facility in Bahrain on Sunday, its second attempt against the country in three days. Iran's Revolutionary Guard Corps said it used six drones against a US air defence radar facility at al-Riffa air base.",
+    "Bahrain's military said its air defences intercepted and destroyed the drones \"before they could achieve their objectives\". Sirens sounded across the kingdom and the interior ministry told citizens to go to the nearest safe place. Bahrain's foreign ministry condemned the attacks and held Iran fully responsible. The Guard said the Strait of Hormuz is closed and that any American aggression would meet a harsher response.",
+    "The earlier attack came on Friday, the first on Gulf states since September. The Guard claimed it hit a US early warning radar, but the US military denied this, saying two one-way attack drones were shot down and nobody was hurt.",
+    "The strikes come amid a stand-off over the strait, through which about a fifth of the world's oil and gas normally passes. Iran says it should control the waterway and is attacking what it calls unauthorised traffic, while the US escorts tankers. A preliminary deal in June collapsed within weeks. Iranian negotiators have discussed a reopening plan with mediators, but Donald Trump said this week the US is no longer interested in a deal."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-15T13:42:58+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo"
+    }
+   ]
+  },
+  {
+   "id": "bc033adbd8215c3fdcbc",
+   "title": "Huge Prague crowd protests plan to scrap Czech licence fee",
+   "deck": "Organisers claim up to 400,000 joined the rally, while the government insists public broadcasters will stay editorially independent.",
+   "summary": [
+    "Crowds filled Prague's Letna Plain on Sunday to oppose a government plan to abolish the licence fee that funds Czech public television and radio and pay for them from the state budget. Organisers, the Million Moments for Democracy group, gave figures between 350,000 and about 400,000, which would make it one of the largest rallies in the country's history. Those numbers are the organisers' own estimates.",
+    "Protesters argue the change would give ministers leverage over newsrooms, and critics compare it with Hungary under Viktor Orban and with Slovakia. Czech households now pay 205 crowns a month, and Reuters says the plan amounts to a 15% funding cut. Press-freedom bodies including the European Broadcasting Union and Reporters Without Borders have also criticised it. Many demonstrators wore paper hats imitating Vecernicek, a children's bedtime-story character.",
+    "Prime Minister Andrej Babis rejects the criticism. He said no one wants to control or nationalise public media, called the system outdated and noted that countries such as France and Norway have dropped the licence fee. In a newspaper article he accused opponents of spreading \"lies\" and said the government would not interfere in editorial work.",
+    "Parliament passed a first reading late last month, and protests and a staff strike at Czech TV and Czech Radio have followed. Lead organiser Mikulas Minar called the turnout \"just a beginning\"."
+   ],
+   "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+   "section": "world",
+   "scope": "world",
+   "source": "The Guardian",
+   "sourceGroup": "guardian",
+   "publishedAt": "2026-11-15T18:20:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "The Guardian",
+     "group": "guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
+    },
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o"
+    }
+   ]
+  },
+  {
+   "id": "a242169afebd032538f5",
+   "title": "Zelensky presses US and Musk to ease Starshield speed limits",
+   "deck": "Ukraine's president says slowed satellite internet is hampering interceptor drones as winter nears; the BBC has sought comment from the White House and Starlink.",
+   "summary": [
+    "President Volodymyr Zelensky has appealed to the United States and Elon Musk's company to lift restrictions on a satellite internet service that Ukraine uses to defend against Russian air attacks. \"The protection of lives and Ukraine's energy infrastructure ahead of winter directly depends on this,\" he said, adding that it is important to be \"on the right side of history\". The BBC has asked the White House and Starlink for comment.",
+    "The service is Starshield, a military-grade version of Starlink supplied to Ukraine by the US government. According to the BBC, Ukraine uses ordinary Starlink for battlefield communications and Starshield for intercepting missiles and drones. Zelensky claims speed limits remain in place along the front line and in occupied territory, so interceptor drones lose contact with operators at about 161 km/h (100 mph) and cannot catch Russian jet-powered Shahed drones. On Friday he said the limits applied only in Russian-occupied areas, which he argued carries political implications.",
+    "The issue first surfaced in October and produced conflicting accounts. Musk said the US government controlled Starshield, while Donald Trump denied responsibility and said he told Musk to \"put it back\".",
+    "Russia struck energy and rail sites across several Ukrainian regions overnight, and Ukraine reported two deaths in Chernihiv region. Ukraine said it hit a petrochemical plant and a refinery in Nizhnekamsk, Tatarstan."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
+   "section": "world",
+   "scope": "world",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-15T19:32:39+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o"
+    }
+   ]
+  },
+  {
+   "id": "a7ab49741593c4f3b9ae",
+   "title": "Hamilton: F1 has opened the door on diversity but cannot yet count who walks through",
+   "deck": "The seven-time champion uses his Mission 44 charity's five-year report to call for better data, protected funding and published paid places.",
+   "summary": [
+    "Lewis Hamilton has said there is \"much still to do\" to make Formula 1 more diverse, using a report marking five years of his Mission 44 charity to set out three demands for the sport.",
+    "The report says every part of the industry has taken steps, but that F1 lacks the data to show whether those efforts have \"changed who enters, progresses and stays in motorsport\". It notes that figures are self-reported, do not record who took part in programmes, and that teams define underrepresented groups differently. Five years after the Hamilton Commission asked how many Black people work in motorsport, the report says the sport cannot say how that number has changed.",
+    "Its recommendations are to measure who joins, is promoted and stays; to take investment in people out of the F1 cost cap; and to publish the paid places offered each year. It also proposes at least £50m of new money over five years from F1, the FIA, teams and sponsors.",
+    "Hamilton said he now sees more women and more Black and Brown faces in the paddock than at any point since he started, but argued the sport has opened the door without learning to count who comes through it. F1 said it is proud of its programmes, pointing to a 2024 diversity charter and a 2025 data exercise that found over 500,000 young people engaged in its education programmes."
+   ],
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/c52e8kpnje42o",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-16T00:04:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/c52e8kpnje42o"
+    }
+   ]
+  },
+  {
+   "id": "8ed3d022f69910da425c",
+   "title": "India seal 3-1 ODI series in New Zealand after a nervy 22-run win at Tauranga",
+   "deck": "Seamers rescued India after another top-order collapse, giving them a first ODI series victory in New Zealand in seven years.",
+   "summary": [
+    "India beat New Zealand by 22 runs at the Bay Oval in Tauranga on Sunday to win the ODI series 3-1, their first series victory in the country in seven years. The result made Friday's 244-run defeat an aberration rather than a turning point.",
+    "It was far from comfortable. India's batting collapsed in the Powerplay for the second straight game, with Rohit Sharma out for seven and Virat Kohli for five. Rohit finished the series with 30 runs at an average of 7.5, while Kohli averaged 21.5. India still reached 209, with Axar Patel contributing a useful 46 at number five.",
+    "The bowlers then pulled the game back. Mohammed Siraj, playing his first match of the series, took two wickets for 50, and Arshdeep Singh returned 3 for 30 from ten overs. Auqib Nabi and debutant Yash Thakur backed them up, and the four seamers reduced the Black Caps to 119 for five. Stand-in captain Shreyas Iyer leaned on them and did not turn to spin until after the 35th over.",
+    "Naman Dhir removed New Zealand captain Mitchell Santner, and Axar took two wickets, including the last, Blair Tickner, to end the chase.",
+    "India next play a home ODI series against Sri Lanka from December 13. Before that, the Test side faces two matches against New Zealand, starting at the Basin Reserve on November 19."
+   ],
+   "url": "https://indianexpress.com/article/sports/cricket/india-clinch-odi-series-win-new-zealand-defend-209-runs-tauranga-10964007/",
+   "section": "sport",
+   "scope": "sport",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-15T04:21:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/sports/cricket/india-clinch-odi-series-win-new-zealand-defend-209-runs-tauranga-10964007/"
+    }
+   ]
+  },
+  {
+   "id": "c205c4ca4caca511a4bb",
+   "title": "England hold off ten-man Spain in Madrid thriller to top Nations League group",
+   "deck": "A 3-0 lead became 3-2 after a red card, but Tuchel's side, helped by James Trafford's saves, held on against the world champions.",
+   "summary": [
+    "England beat Spain 3-2 in Madrid on Sunday in the Nations League, finishing top of their group and ending the world champions' 43-match unbeaten run.",
+    "Goals from Harry Kane (a penalty), Ezri Konsa and Ben White put England 3-0 up early in the second half. Elliot Anderson was then sent off for fouling Lamine Yamal in the area after 65 minutes, and Mikel Oyarzabal scored the penalty. Nico Williams made it 3-2 with 15 minutes left, but Spain could not find an equaliser.",
+    "The match drew comparisons with England's World Cup semi-final loss to Argentina, when they sat back after taking a lead. BBC Sport's analysis pointed to differences. Thomas Tuchel waited until the 78th minute for his first substitution, and one of the next two changes was a striker, Dominic Calvert-Lewin, rather than another defender. England also faced more pressure than against Argentina, with 19 shots in the last half hour.",
+    "Keeper James Trafford made six saves, four of them in the final 12 minutes, including a double save from Fermin Lopez and Yamal in stoppage time. Former defender Matt Upson praised the players' huddle after Spain's first goal.",
+    "Chief football writer Phil McNulty called it the best win of Tuchel's reign. Tuchel said the first 65 minutes were the statement, and that without the red card England \"were clear winners\"."
+   ],
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo",
+   "section": "sport",
+   "scope": "sport",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-16T00:02:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo"
+    },
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o"
+    }
+   ]
+  },
+  {
+   "id": "3c2b50c57159c7eb9baa",
+   "title": "McIlroy edges Chacarra to win eighth Race to Dubai, dedicates title to ailing father",
+   "deck": "The Northern Irishman matched Colin Montgomerie's record after a final-hole battle in Dubai, where Tyrrell Hatton won the tournament.",
+   "summary": [
+    "Rory McIlroy won his eighth Race to Dubai title on Sunday, matching Colin Montgomerie's record, and wiped away tears as he dedicated it to his father, Gerry.",
+    "McIlroy said Gerry has spent two months in hospital after a double lung transplant at the end of September, and is \"recovering well\". Before travelling to the Middle East he visited him in Cleveland, where his father told him: \"Go win The Race to Dubai.\" \"This one's for him,\" McIlroy said.",
+    "The title was decided in the final round of the DP World Tour Championship at the Earth Course. England's Tyrrell Hatton, who could not win the overall race, took the tournament by five shots on 15 under after a closing 66. McIlroy shot a bogey-free 67 to finish second on 10 under, and that was enough to pass Spain's Eugenio Chacarra in the standings. At one stage only a tenth of a point separated them. Chacarra tied for third and takes a PGA Tour card for next season.",
+    "It is McIlroy's fifth title in a row. Asked about a target, he said he would love to pass Montgomerie next year.",
+    "BBC Sport's Paul Higham wrote that 2027 will be harder, with players such as Jon Rahm and Hatton, who are suspended from the PGA Tour, set to play a full European season after LIV Golf's collapse."
+   ],
+   "url": "https://www.bbc.co.uk/sport/golf/articles/c6kg7rwmz1g8o",
+   "section": "sport",
+   "scope": "sport",
+   "source": "BBC Sport",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-15T12:14:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC Sport",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/sport/golf/articles/c6kg7rwmz1g8o"
+    }
+   ]
+  },
+  {
+   "id": "970a4be63711901dc364",
+   "title": "Leopard drowns in Navsari village well after chasing wild boar",
+   "deck": "A late-evening hunt in Gujarat's Vansda forest range ended in a 20-foot well, where the boar survived and the leopard did not.",
+   "summary": [
+    "A leopard chasing a wild boar through the Vansda forest range in Navsari district, South Gujarat, died on Friday evening after both animals ended up in a village well. The boar survived.",
+    "According to the Indian Express, the leopard spotted the boar deep in the jungle and gave chase until they reached the outskirts of Chikhatiya village. There the boar jumped into a well about 20 feet deep. A passer-by heard noises from the well early on Saturday and saw the boar struggling. He alerted sarpanch Kiran Chaudhary, who reached the spot. Villagers tried to rescue the animal but could not, so the forest department was called. Vansda Range Forest Officer Amit Tandel said his team used expert techniques to lift the boar out. It had been clinging to the wall.",
+    "Staff later found the leopard's carcass in the water and pulled it out. A postmortem at the veterinary hospital in Vansda concluded that it drowned. Tandel said leopards find it hard to swim or survive in water, while boars can manage. The leopard was a four-year-old male and the boar about two and a half years old.",
+    "Chaudhary said the village will now raise the well's wall. The well, about 13 feet across, supplies water for farming and drinking, and has no cover, only a three-foot compound wall."
+   ],
+   "url": "https://indianexpress.com/article/cities/ahmedabad/navsari-jungle-chase-village-well-leopard-drowns-wild-boar-survives-10963580/",
+   "section": "local",
+   "scope": "local",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-14T22:33:00+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/cities/ahmedabad/navsari-jungle-chase-village-well-leopard-drowns-wild-boar-survives-10963580/"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "name": "TechCrunch",
+   "section": "all",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Indian Express",
+   "section": "all",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC News",
+   "section": "all",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "The Guardian",
+   "section": "all",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "The Verge",
+   "section": "all",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Economic Times",
+   "section": "all",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "BBC Sport",
+   "section": "all",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Autosport",
+   "section": "all",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Gadgets 360",
+   "section": "all",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "NDTV",
+   "section": "all",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "The Hindu",
+   "section": "all",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "Times of India",
+   "section": "all",
+   "status": "ok",
+   "count": 0
+  }
+ ]
+}
