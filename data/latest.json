@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "date": "2026-11-20",
- "generatedAt": "2026-11-20T02:17:17.380954+00:00",
+ "date": "2026-11-21",
+ "generatedAt": "2026-11-21T02:13:01.027029+00:00",
  "timezone": "Asia/Kolkata",
  "windowHours": 48,
  "primaryWindowHours": 24,
@@ -9,22 +9,22 @@
  "localLimit": 1,
  "stories": [
   {
-   "id": "dbe111187a465a8a1fe0",
-   "title": "Apple may be developing its own AI agent that runs your Mac",
-   "deck": "Apple is reportedly recruiting a manager to build an AI agent that can operate a computer, though the project is said to be at an early stage.",
+   "id": "930b7109b7008a342ec4",
+   "title": "An Anthropic mathematician says Claude helped prove the Riemann hypothesis, and mathematicians are still checking",
+   "deck": "Levent Alpöge says an unreleased version of Claude helped him produce a machine-checkable proof of mathematics' most famous open problem, but verification will take time.",
    "summary": [
-    "Apple appears to be building an artificial intelligence agent that can carry out computer work on a user's behalf, according to a job listing first picked up by Bloomberg and relayed by TechCrunch and The Verge. The listing seeks a senior engineering manager to lead the effort.",
-    "The posting describes an agent that behaves like a capable person at a keyboard. In its words, it would browse the web, work across apps, run commands, write and debug code and call online services, choosing the right tool at each step. It adds that this should happen privately and with the polish people expect from Apple. Another passage says the agents would plan and complete multi-step tasks across apps, browsers, command lines, code and programming interfaces, and could coordinate specialised sub-agents. The Verge reports that the role involves working with Apple's Siri, UI Frameworks and Foundation Models teams.",
-    "TechCrunch said it asked Apple for comment and received no reply. Bloomberg, as quoted by TechCrunch, reports that Apple has considered launching the service as early as the end of next year, but that progress on the in-house agent remains in the early stages. Those timing details come from Bloomberg's reporting and are not confirmed by Apple.",
-    "The move would put Apple alongside rivals. The Verge lists Meta's Muse, OpenAI's Dots, Anthropic's Duet and Google's Tasks, and notes that Gemini has just started controlling Mac computers too. Apple began rolling out an upgraded Siri in September that can answer questions about what is on screen and act across apps, and The Verge says a developer preview of iOS 27.3 is opening Siri to more third-party apps.",
-    "Bloomberg also reports that Apple is making it harder for outside agents to take full control of its computers. The upcoming macOS 27.3 will show warnings discouraging users from granting that access, and Apple told developers in October it would require very explicit user action for such extraordinary access."
+    "Levent Alpöge, a mathematician who works at Anthropic, said on Friday that he used an unreleased version of the company's Claude AI model over roughly six weeks to build a proof of the Riemann hypothesis. The problem, posed by Bernhard Riemann in 1859, concerns how prime numbers are spread along the number line and is often called the most famous unsolved question in mathematics. This is a claim by the author and his employer, not an established result.",
+    "According to the BBC, the proof runs to more than 250,000 lines written in Lean, a programming language that lets a computer check each logical step of a proof. TechCrunch adds that colleagues, including MIT's Andrew Sutherland, have confirmed that the Lean code compiles. That is significant, because it means the formal argument holds together inside the checker. It does not yet mean that people understand why it works, and Alpöge reportedly had no human-readable explanation to hand at first.",
+    "Alpöge acknowledged the awkward timing, coming a day after Anthropic's stock market debut. He told the BBC that he messaged chief executive Dario Amodei on Sunday to ask about announcing the result, called the timing \"horrible\", and said he took responsibility for not being able to wait. He denied any cynical intent.",
+    "Specialists are cautious. Terence Tao said on Friday that digesting the work will take time, though a living author can answer questions. TechCrunch reports a separate, human-only proof of the generalised Riemann hypothesis, shared by Stanford's Ravi Vakil and credited to postdoctoral researcher Alessandro Masullo after about twelve years of work. That draft has not been written in Lean, so its validity is also unconfirmed.",
+    "The announcement follows other AI-lab claims in mathematics, including an OpenAI Navier-Stokes claim that remains unconfirmed. A group of mathematicians has warned that using headline problems to market products harms the discipline. Expect months of scrutiny before anyone can call this settled."
    ],
-   "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+   "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
    "section": "technology",
    "scope": "technology",
-   "source": "TechCrunch",
-   "sourceGroup": "techcrunch",
-   "publishedAt": "2026-11-20T00:56:01+00:00",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-21T00:06:11+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -32,34 +32,67 @@
    "summaryType": "ai-article",
    "coverage": [
     {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o"
+    },
+    {
      "source": "TechCrunch",
      "group": "techcrunch",
-     "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+     "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+    }
+   ]
+  },
+  {
+   "id": "c098c8dea679626b6c1d",
+   "title": "GTA VI makes $3.79 billion on its first day, Rockstar says, far above early analyst estimates",
+   "deck": "Rockstar's long-awaited game went on sale worldwide on Thursday; the company's own figure tops outside estimates of about $2.4 billion.",
+   "summary": [
+    "Grand Theft Auto VI went on sale worldwide on Thursday 19 November after a wait of about thirteen years since its predecessor, and Rockstar Games now says it earned $3.79 billion in its first day, which it calls a new record for entertainment in any medium. The Verge reports that the company, in an announcement through parent Take-Two, also said it sold 32.5 million pre-order copies. Those are company figures and have not been independently audited.",
+    "The BBC's account, written before Rockstar's number emerged, shows how far outside estimates fell short. Sensor Tower, which draws on email receipts and public gaming profiles, put first-day sales and pre-orders at more than 24.5 million copies, worth about $2.36 billion, with roughly three quarters on PlayStation 5 and the rest on Xbox. Niko Partners projected worldwide sales above $3 billion this year. The game is believed to have cost more than $1 billion to make.",
+    "Network data told the same story. Cloudflare said PlayStation 5 downloads in the UK ran at 8.6 times normal, and that overall online traffic peaked at 11.2 times normal in Australia, 9.3 times on the US East Coast and seven times in Britain. Virgin Media O2 said the game's 212GB install file broke its evening traffic record. Some players apparently switched console regions to start early.",
+    "There are limits. The game has been censored in Japan over graphic content and has not been approved for sale in mainland China. Rockstar has not given a PC release date or a timetable for multiplayer expansion. Critics have been warm, and IGN called it an \"uncompromisingly engineered\" masterpiece. Whether the pace holds beyond the launch rush is the next question."
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+   "section": "technology",
+   "scope": "technology",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-20T23:08:57+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o"
     },
     {
      "source": "The Verge",
      "group": "the-verge",
-     "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+     "url": "https://www.theverge.com/?p=1036279"
     }
    ]
   },
   {
-   "id": "f4f25b9cbfc8af881a3a",
-   "title": "Dutch watchdog tells people not to buy AI smart glasses",
-   "deck": "The Dutch data protection authority has advised consumers against buying AI smart glasses after tests found unreliable and risky behaviour.",
+   "id": "bb98b992ff44e74ba9b8",
+   "title": "Tech sell-off pushes the S&P 500 and Dow into correction as Anthropic gives back half its debut gain",
+   "deck": "A rout in AI-linked shares sent the Nasdaq down 5.3% on Friday, and Anthropic closed near its $83 offer price.",
    "summary": [
-    "The Dutch privacy regulator, the Autoriteit Persoonsgegevens (AP), has told people not to buy AI-powered smart glasses, saying its tests showed the devices can get important things badly wrong. The BBC reported the advice on 19 November. The AP did not call for a ban on sales.",
-    "The regulator examined six pairs sold in the Netherlands, with prices from under 100 euros to more than 500 euros and origins on different continents. It has not named the products, and it is unclear whether Meta's glasses were among them.",
-    "According to the AP, one pair told a tester in a simulated emergency that an ambulance was on its way when no call had been made. Another gave dating advice to an adult who had expressed romantic interest in a minor. Glasses also misread instructions inside medicine packaging and misinterpreted severe weather warnings.",
-    "The watchdog also raised privacy and security concerns. It said the lights meant to show a device is recording could be covered with tape on some models while the camera kept working. On some glasses, it said, a nearby person could connect without permission, view recordings or operate the camera remotely. It added that recorded data is often sent outside the EU.",
-    "The BBC said it has asked Meta, TCL and HTC for comment. The AP acknowledged the glasses can help people who need support understanding their surroundings, but argued that reliability matters most for those users."
+    "US stocks fell sharply on Friday as a sell-off in technology shares spread across global markets. The BBC reports that the Nasdaq dropped 5.3%, the S&P 500 lost 3.7% and the Dow fell 1.9%. The S&P 500 and the Dow are now more than 10% below their recent highs, the usual definition of a correction, though all three indexes are still up on the year. Markets in Europe and Asia also fell, and Taiwan had its worst weekly decline since 1990.",
+    "Anthropic, which listed on the Nasdaq on Thursday, gave back about half of its first-day gain. After opening at $111.50 and closing Thursday at $97.17, up 17%, the shares fell 8.5% on Friday to close near $85, only slightly above the $83 offer price. Analysts had warned that early swings were likely because Anthropic is the first frontier AI company to list, so there are no direct comparisons to anchor its valuation.",
+    "The BBC links the broader fall to worries about the scale and speed of AI spending, which has topped $1 trillion over the past year, and to political uncertainty after Democratic gains in the early-November midterms raised doubts about future support for the industry. Company-specific news added to the pressure. Nvidia fell 13.7% on unconfirmed Reuters reports of an SEC inquiry into its accounting. Tesla and SpaceX each lost more than 7.6%, Meta fell over 4% and Amazon over 5%.",
+    "AlphaSense strategist Ed Moya said the IPO had failed to restore broad confidence in AI and that investors are asking what growth costs, with Wall Street shifting toward demanding profit and cash flow. That is one analyst's reading rather than a settled explanation, and one-day moves of this size can reverse quickly."
    ],
-   "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o",
-   "section": "technology",
-   "scope": "technology",
+   "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
+   "section": "business",
+   "scope": "business",
    "source": "BBC News",
    "sourceGroup": "bbc",
-   "publishedAt": "2026-11-19T16:33:17+00:00",
+   "publishedAt": "2026-11-20T22:53:24+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -69,26 +102,55 @@
     {
      "source": "BBC News",
      "group": "bbc",
-     "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o"
+     "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo"
     }
    ]
   },
   {
-   "id": "47396adf5e31273b1343",
-   "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-   "deck": "Reuters reports that Meta staff say the company's Muse assistant has surfaced other people's messages and financial details, while Meta says testers use special builds.",
+   "id": "1d859d9b959d0882c238",
+   "title": "Trump threatens a 'tremendous tax' or ban on US firms building AI data centres overseas",
+   "deck": "The president floated the idea after returning from Asia, but said his own team was hearing it for the first time, so its status as policy is unclear.",
    "summary": [
-    "Employees at Meta have warned internally that the company's AI agent, Muse, sometimes blends together conversations from different accounts and may reveal private information, according to a Reuters report based on internal company posts. TechCrunch summarised the findings on Thursday.",
-    "The staff posts describe odd, unrequested output. Muse reportedly brought up childcare requests, career advice and product orders that the employees never made, as well as bank balances that were not theirs. In one case, a chat about weather and tides was interrupted by an unprompted note listing two account balances. Another employee, using the tool on a personal phone, was reminded to answer her sister on the Signal messaging app. She wrote that this looked like a severe privacy violation and said she had not knowingly granted access to other apps.",
-    "Meta's response, given to TechCrunch by a spokesperson, is that testing by employees is central to development and exists to gather feedback so safety and privacy protections can be built. The spokesperson added that staff use different versions of Muse from the public, so they often see features and behaviour that are not available elsewhere.",
-    "The report does not say whether the same problems have affected members of the public. Muse launched in September and, according to TechCrunch, has passed 10 million downloads, making it one of the fastest-growing apps on record. That scale is why the reported lapses are drawing attention."
+    "President Donald Trump said on Friday that he intends to stop American technology companies from building artificial intelligence data centres abroad, warning of a heavy financial penalty for any that do. Speaking to reporters after his return from Asia, he said cabinet members were learning of the plan at the same moment as everyone else. The BBC notes that he gave little detail, so it is not clear whether this will become formal policy or how it would be enforced.",
+    "Trump argued that keeping the buildings in the United States is needed to stop China from capturing the benefits of what he called super intelligence. Data centres house the servers and chips that run services such as ChatGPT and Claude, and they have become a political issue at home. The BBC cites Pew Research Center figures of about 3,000 US facilities as of April, with another 1,500 in approval or construction.",
+    "Local objections to electricity use and noise helped Democratic candidates who favour tighter rules win elections on 3 November, according to the report. Trump, for his part, urged communities to treat the sites as assets rather than block them.",
+    "He pointed to Google's €13 billion plan, announced in September, for three AI data centres in Finland. Construction of two was paused last month after objections to forest clearance, and Trump said his administration would stop the project. Canada has been pitching itself as a friendlier host with less local resistance. Google was contacted for comment. Until a proposal, legal basis or tax rate is published, the threat remains a statement of intent."
    ],
-   "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-   "section": "technology",
-   "scope": "technology",
+   "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
+   "section": "business",
+   "scope": "business",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-20T22:42:47+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko"
+    }
+   ]
+  },
+  {
+   "id": "e3e5304b33344b3f52b1",
+   "title": "Bending Spoons buys Mailchimp from Intuit for $3.68 billion, less than a third of the 2021 price",
+   "deck": "The Italian app group is paying about $3.68 billion for the email marketing platform that Intuit bought for roughly $12 billion five years ago.",
+   "summary": [
+    "Italian software company Bending Spoons has agreed to buy the email marketing platform Mailchimp from Intuit for $3.68 billion, TechCrunch reports. Intuit paid around $12 billion for the business in 2021, so the sale price is well under a third of that. The deal fits Bending Spoons' pattern of buying established, late-stage internet products and running them itself.",
+    "Intuit's shares have fallen sharply over the past year as investors worry about competition in business software and from artificial intelligence. The company told Reuters that selling Mailchimp lets it concentrate on AI tools for small businesses, and that the proceeds will go toward share buybacks.",
+    "There is a detail that complicates the headline. Bending Spoons described the purchase as all-cash, but TechCrunch notes that Intuit is at the same time buying $368 million of newly issued Bending Spoons shares. That makes the net deal roughly 90% cash and 10% stock.",
+    "Bending Spoons co-founder and chief product officer Matteo Danieli told TechCrunch in a July interview that the company sees itself as an operator that improves well-known brands. Mailchimp's history may follow it into the new ownership: its 2021 sale caused controversy because employees reportedly received no equity or sale proceeds, after the founders had allegedly promised they would never sell. No integration plans, job cuts or pricing changes were reported in the coverage."
+   ],
+   "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+   "section": "business",
+   "scope": "business",
    "source": "TechCrunch",
    "sourceGroup": "techcrunch",
-   "publishedAt": "2026-11-19T17:38:40+00:00",
+   "publishedAt": "2026-11-20T16:16:06+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -98,27 +160,26 @@
     {
      "source": "TechCrunch",
      "group": "techcrunch",
-     "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+     "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/"
     }
    ]
   },
   {
-   "id": "87b2502506d7cb89efaf",
-   "title": "These tech outages are giving Y2K, AI agent style",
-   "deck": "Security experts tie a run of US outages to hurried patching and the clash of old and new systems, though investigations continue.",
+   "id": "4e46532b436dcbac74f8",
+   "title": "California's attorney general subpoenas Nvidia over its former chief's ties to China",
+   "deck": "Rob Bonta says Nvidia and Jensen Huang's conduct raises red flags about possible investor deception and access to restricted chips.",
    "summary": [
-    "A string of technical failures has hit major US services over the past two weeks, according to TechCrunch. Apple Pay went down, a NASA internal communications network failed, and Microsoft's Outlook, Teams and Copilot were unavailable for nearly two days. The Federal Aviation Administration also grounded all flights for several hours.",
-    "Officials and companies say the incidents were not attacks. The director of National Intelligence said they did not appear tied to state-sponsored activity, President Trump called them \"individual events,\" and several affected companies have said the causes were technical rather than cyber or AI-driven attacks.",
-    "Even so, the timing has prompted speculation. Security investor Dave DeWalt, a former McAfee chief executive, told TechCrunch he sees the outages as \"growing pains\" of stronger security: AI tools are exposing vulnerabilities faster than before, he said, and the rush to patch them is causing short-term disruption.",
-    "Anusha Iyer, founder of the security firm Corsha, offered a different emphasis. She said the problem is less AI adoption itself than a hasty mixing of legacy industrial systems with modern ones. Preliminary findings, she said, suggest the FAA outage came when a telecom upgrade overwhelmed older hardware. Senator Mark Warner called the disruptions a wake-up call while noting that investigations are still under way.",
-    "Both experts urged more careful testing, tighter segmentation and access controls, and clearer priorities for fixes. DeWalt argued that finding flaws this way beats having hostile actors exploit them."
+    "California Attorney General Rob Bonta has issued an investigative subpoena to Nvidia, TechCrunch reports, adding a state inquiry to the growing scrutiny of the chip maker after Jensen Huang's resignation. The state wants to know whether Nvidia or Huang helped China obtain restricted high-performance graphics chips or sensitive information, and whether shareholders and the public were misled about those exposures.",
+    "Bonta said the conduct of Nvidia and its former chief executive raises \"bright red flags\", including about the ways in which the company may have misled investors. The subpoena is an information request, not a finding of wrongdoing.",
+    "The background, as TechCrunch tells it, is that Huang stepped down last week after disclosures about a relationship with Alice Huang, whom US officials suspect of working as a Chinese spy, and about other relationships with staff. Nvidia, Huang and the other people named have not confirmed the reporting on internal relationships, and the extent of Alice Huang's alleged government links is still being examined by US authorities.",
+    "Other pressure is building. Congressional committees are pursuing a subpoena for Huang, who has agreed to testify before Congress before Thanksgiving on 26 November. The SEC is reported to be conducting a civil inquiry into public disclosures, and Democratic lawmakers have started their own review of how the previous administration handled chip sales to China. Nvidia's board chair has said the company has no plans to bring Huang back, despite calls from Elon Musk and others for his return."
    ],
-   "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+   "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
    "section": "technology",
    "scope": "technology",
    "source": "TechCrunch",
    "sourceGroup": "techcrunch",
-   "publishedAt": "2026-11-19T21:42:31+00:00",
+   "publishedAt": "2026-11-20T13:21:11+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -128,26 +189,26 @@
     {
      "source": "TechCrunch",
      "group": "techcrunch",
-     "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
+     "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/"
     }
    ]
   },
   {
-   "id": "c363e4ee1aa6f6ac6b57",
-   "title": "Google is putting AI chats right on the homepage",
-   "deck": "Google is adding a collapsible sidebar to its desktop homepage so people can find and continue their recent AI searches.",
+   "id": "7f4bf20916a725c74176",
+   "title": "Tens of thousands of UK fridges were quietly secured from hackers in a secret nationwide operation",
+   "deck": "After a flaw was found in widely used refrigeration controllers, officials and engineers raced to take devices off the internet before attackers could exploit them.",
    "summary": [
-    "Google is changing its desktop homepage so that conversations held in its AI Mode are easy to find again. Robby Stein, the company's vice president of product, announced the change in a post on X on 19 November, as reported by The Verge.",
-    "According to a GIF Stein shared, users click a grey bar on the left edge of the screen to open a sidebar. It lists their earlier AI Mode searches and lets them start a new thread, search through old threads, or attach a Gemini Notebook. The Verge says it is describing this from the GIF, not from hands-on use.",
-    "Stein explained the thinking in his post. He said people increasingly come to Search with questions that are not answered in a single exchange, and that in testing the sidebar helped them make progress and keep exploring the web. Those claims come from Google and have not been independently checked.",
-    "The Verge frames this as the latest in a run of changes to a page that long offered just one search bar. Google added an AI Mode button to the bar last year, and in May it widened the box for longer queries and introduced AI-powered autocomplete. The new sidebar is rolling out worldwide, on desktop only."
+    "A hidden effort across Britain has protected tens of thousands of commercial fridges and freezers from hackers, the BBC's Joe Tidy reports. In late October, refrigeration consultants at Omega Solutions found a serious weakness in popular controllers made by the British company Resource Data Management, known as RDM. The controllers let operators manage dozens of cooling units remotely and are used by supermarkets, warehouses, restaurants, petrol stations and stadiums.",
+    "Security firm Pen Test Partners confirmed and extended the finding. Its Ken Munro said the controllers had a weak-password problem like that seen in attacks elsewhere in Europe, and that criminals or state-backed hackers were probably days from working it out. The National Cyber Security Centre, the environment department and the Food Standards Agency organised industry calls. Thousands of devices were taken off the open internet, either remotely or in person.",
+    "The urgency came from recent history. The BBC lists three waves of fridge-hacking this year: in August against US military bases, on 11 and 12 October against hundreds of sites in France using Danfoss systems, and on 1 and 2 November against dozens of supermarkets in seven European countries. France blamed Iran's Revolutionary Guard Corps for the October attacks, and Iran called that baseless. Two Russian hacktivist groups have made unverified claims that the BBC says should be treated with caution.",
+    "RDM disputes how serious the flaws were. Chief executive Ged Evans said exploiting them required physical hardware and a test environment, that comparisons with the European attacks are unfair, and that there was no sign of malicious activity on its controllers. The company says it moved quickly to issue patches and contact customers."
    ],
-   "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+   "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
    "section": "technology",
    "scope": "technology",
-   "source": "The Verge",
-   "sourceGroup": "the-verge",
-   "publishedAt": "2026-11-19T20:05:06+00:00",
+   "source": "BBC News",
+   "sourceGroup": "bbc",
+   "publishedAt": "2026-11-20T07:32:19+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -155,28 +216,57 @@
    "summaryType": "ai-article",
    "coverage": [
     {
-     "source": "The Verge",
-     "group": "the-verge",
-     "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
+     "source": "BBC News",
+     "group": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o"
     }
    ]
   },
   {
-   "id": "b26a6fe34e92bdbd68d6",
-   "title": "Anthropic blows past $2 trillion in Nasdaq debut, tops SpaceX’s June listing",
-   "deck": "Anthropic's shares jumped on their first day of trading, pushing its market value past $2 trillion, according to Reuters.",
+   "id": "9dc10cf4bff481f6951d",
+   "title": "India's festive-season smartphone sales fall 22% as memory costs push prices up",
+   "deck": "Counterpoint Research says shallow discounts and dearer handsets left buyers relying on easy credit, and Apple saw a double-digit dip.",
    "summary": [
-    "Anthropic made a strong debut on the Nasdaq on Thursday, with its market value reaching as high as $2.1 trillion, according to a Reuters report carried by the Indian Express. The report says this surpassed the debut of SpaceX's listing in June and makes Anthropic the first publicly traded frontier AI company.",
-    "The stock opened at $111.50, 34 percent above the $83 offer price, and was changing hands at $105.11 at the time of writing. Anthropic sold 980 million shares, pricing above its initial range of $70 to $78. Proceeds stand at more than $107 billion, including $26 billion from a private placement involving AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC.",
-    "Reuters calculated that chief executive Dario Amodei and his six co-founders, who together own about 10 percent, held stakes worth nearly $150 billion at the offer price. Amodei told CNBC the company hopes to become investment grade at some point and may use debt markets.",
-    "Analysts quoted by Reuters were mixed. Lukas Muehlbauer of IPOX said some demand may reflect fear of missing out despite uncertain profitability, while Bill Gunderson of GCG Advisory Partners called Anthropic a one-trick pony that must reach profitability soon. Those are opinions, not findings. OpenAI is reportedly eyeing a 2027 listing."
+    "Smartphone sales in India fell 22% year on year during the festive season from 8 October to 10 November, according to Counterpoint Research figures reported by the Economic Times. The research firm blames weaker consumer demand and higher device prices, driven by rising costs of DRAM and NAND memory chips.",
+    "Samsung stayed on top with a 21% share despite an 8% sales decline, followed by Vivo with 18% and Oppo with 12%. Apple's sales dropped by double digits even with the launch of the iPhone 18 series. Separate data from CyberMedia for the third quarter showed shipments down 20% overall, with Xiaomi down 28%, Vivo and Oppo down 25% and Apple down 16%. Note that the CyberMedia numbers cover a different period from the festive window.",
+    "Higher component costs left brands little room to discount. Festive price cuts were 10% to 25%, compared with 35% to 40% last year, so entry-level phones stayed expensive. Brands leaned on no-cost EMIs, bank offers and trade-ins, and 48% of sales were finance-led. Brands in the sub-Rs 20,000 segment fell by nearly 50%, while newer names such as Ai+ grew online, selling more than a million units. Online visits did not turn into purchases, and stores saw slow footfall.",
+    "Counterpoint analyst Shubham Singh said price increases stopped promotions from driving big volumes, and that buyers purchased out of need, often on EMIs, or kept their current phones. The figures are preliminary post-festival checks, and a separate Counterpoint forecast cited by the paper expects flagship prices to rise more than 30% by year-end."
    ],
-   "url": "https://indianexpress.com/article/business/world-market/anthropic-nasdaq-debut-valuation-ai-ipo-10970472/",
+   "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/indias-smartphone-sales-during-festive-season-drop-by-22-apple-faces-a-double-digit-dip/articleshow/136032180.cms",
+   "section": "business",
+   "scope": "business",
+   "source": "Economic Times",
+   "sourceGroup": "times-group",
+   "publishedAt": "2026-11-20T15:37:15+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Economic Times",
+     "group": "times-group",
+     "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/indias-smartphone-sales-during-festive-season-drop-by-22-apple-faces-a-double-digit-dip/articleshow/136032180.cms"
+    }
+   ]
+  },
+  {
+   "id": "ba8986db8bc57cdc7a15",
+   "title": "SpiceJet gets a DGCA show-cause notice as its fleet shrinks below ten aircraft",
+   "deck": "The aviation regulator cites mass cancellations, unpaid dues and the lack of a credible plan to return grounded aircraft to service.",
+   "summary": [
+    "India's aviation regulator, the Directorate General of Civil Aviation, has issued a show-cause notice to SpiceJet over widespread flight cancellations and delays, unpaid liabilities and what it sees as a failure to present a workable plan to bring grounded aircraft back, the Indian Express reports. The notice is dated 17 November, and the airline was given seven days to reply or face orders without a hearing.",
+    "The numbers are stark. Civil aviation ministry data from 19 November put SpiceJet's on-time performance at 25%, and tracking data showed that more than half of its recent flights were cancelled. The report says the operating fleet has fallen below ten aircraft because lessors cannot be paid, and that domestic market share dropped to 0.6% in October, from about 4% in January and roughly 15% in 2019.",
+    "Debts have pushed vendors, airports and oil companies to put the airline on daily cash-and-carry terms. Foreign authorities have also warned the DGCA about disruption on international routes from late payments. In one example, Dubai Airports halted check-in services over unpaid dues. The regulator is also concerned about insurance renewals, and about whether SpiceJet meets the rule that airlines flying international routes must deploy at least 20 aircraft or 20% of capacity domestically.",
+    "SpiceJet's board has approved raising up to Rs 5,500 crore to repair its finances, but the Indian Express says the timing of that fundraising is unclear. The details come from ministry data, airport and tracking sources and people familiar with the matter. SpiceJet's own response to the notice was not part of the report."
+   ],
+   "url": "https://indianexpress.com/article/business/aviation/spicejet-dgca-notice-flight-disruptions-regulatory-lapses-10971353/",
    "section": "business",
    "scope": "business",
    "source": "Indian Express",
    "sourceGroup": "indian-express",
-   "publishedAt": "2026-11-19T17:37:36+00:00",
+   "publishedAt": "2026-11-20T13:09:52+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -186,115 +276,31 @@
     {
      "source": "Indian Express",
      "group": "indian-express",
-     "url": "https://indianexpress.com/article/business/world-market/anthropic-nasdaq-debut-valuation-ai-ipo-10970472/"
-    }
-   ]
-  },
-  {
-   "id": "9ac528875d86477d3b50",
-   "title": "Blackstone-backed Aster DM in talks to acquire rival hospitals in deeper India push",
-   "deck": "Blackstone-backed Aster DM is reportedly negotiating to buy hospitals in northern India from Narayana Hrudayalaya for as much as $150 million.",
-   "summary": [
-    "Aster DM Quality Care, a hospital group backed by Blackstone, is in talks to buy hospitals in northern India from rival Narayana Hrudayalaya, according to a Bloomberg report carried by the Economic Times on 19 November. The report relies on unnamed people familiar with the matter.",
-    "Those sources said Aster could pay up to $150 million for the assets. They stressed that negotiations are continuing, that the terms could change and that the talks could collapse.",
-    "Aster DM and Blackstone declined to comment. Narayana's vice chair, Viren Shetty, declined to comment by email on what he called market speculation or rumours.",
-    "The report noted that Shetty said on a May 2026 earnings call that northern India had been \"extremely challenging\" for Narayana. He described the company as a late entrant in a very competitive market where rivals ramp up more aggressively.",
-    "Bloomberg placed the talks within a wider wave of investor interest in Indian hospital consolidation. It said private equity firms including Blackstone, KKR, TPG, Advent, General Atlantic and Temasek have put more than $10 billion into Indian hospitals over five years. Aster, which says acquisitions are part of its growth strategy, had earlier discussed investing in Yatharth Hospital before Advent bought a 25% stake in September. Blackstone owns roughly 30% of Aster."
-   ],
-   "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/blackstone-backed-aster-dm-in-talks-to-acquire-rival-hospitals-in-deeper-india-push/articleshow/135980019.cms",
-   "section": "business",
-   "scope": "business",
-   "source": "Economic Times",
-   "sourceGroup": "times-group",
-   "publishedAt": "2026-11-19T06:34:47+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
+     "url": "https://indianexpress.com/article/business/aviation/spicejet-dgca-notice-flight-disruptions-regulatory-lapses-10971353/"
+    },
     {
      "source": "Economic Times",
      "group": "times-group",
-     "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/blackstone-backed-aster-dm-in-talks-to-acquire-rival-hospitals-in-deeper-india-push/articleshow/135980019.cms"
+     "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/dgca-issues-show-cause-notice-to-spicejet-on-flight-cancellations-various-violations/articleshow/136019869.cms"
     }
    ]
   },
   {
-   "id": "2760cff0f9934376f0bc",
-   "title": "Mideast crisis 'largest threat' to energy security ever: IEA",
-   "deck": "The International Energy Agency says the Strait of Hormuz disruption is the biggest energy-security threat on record, with consumers increasingly absorbing the cost.",
+   "id": "8a87ce9461bd0cd67781",
+   "title": "Nikhil Gupta gets more than 19 years in US prison over plot to kill Sikh separatist Gurpatwant Singh Pannun",
+   "deck": "A New York judge sentenced the Indian national to 235 months; India denies any role and calls Pannun a terrorist.",
    "summary": [
-    "The International Energy Agency (IEA) said on Thursday that the Middle East crisis has created the largest threat to energy security in history. The warning appears in its annual World Energy Outlook, as reported by AFP.",
-    "The crisis began in February with US and Israeli strikes on Iran. Since then, Gulf producers have struggled to export oil because Iran has blockaded the Strait of Hormuz and targeted tankers. The waterway carried roughly a fifth of the world's oil shipments before the crisis, and supply lines stay badly disrupted despite US efforts to escort ships through.",
-    "IEA Executive Director Fatih Birol wrote in the report's foreword that the situation dwarfs the 1970s oil shocks. He said governments have tried to shelter households but consumers have still faced higher prices and, in some places, shortages. The report adds that other buffers are running down, leaving consumers and high prices to take the strain. Birol also said he sees no credible route for the energy world to go back to how it was before. That is a gloomier tone than in July, when he pointed to several cushioning factors.",
-    "The outlook keeps its three usual scenarios, covering current policies, announced policies and net zero by 2050, and adds two built around a prolonged crisis. Under the middle scenario, oil demand peaks around 2030 and gas demand keeps rising until about 2035. The report landed as COP31 climate talks opened in Turkey."
+    "A US federal judge in Manhattan has sentenced Indian national Nikhil Gupta to 235 months, a little over 19 years, in prison for his part in a failed plan to assassinate Gurpatwant Singh Pannun, the BBC reports. Gupta pleaded guilty in February to murder-for-hire, conspiracy to commit murder-for-hire and conspiracy to commit money laundering. The judge indicated he will probably be deported after serving his term.",
+    "US prosecutors say that Gupta was recruited in May 2023 by an Indian intelligence officer named Vikash Yadav, who allegedly supplied Pannun's New York address and daily routine. Pannun is a US citizen and a spokesman for Sikhs for Justice, a group that campaigns for a Sikh homeland called Khalistan. Gupta unknowingly approached a US government informant, who introduced him to an undercover Drug Enforcement Administration agent posing as a hitman. He was arrested at Prague airport in June 2023 and extradited. Prosecutors also say he told the undercover agent that Hardeep Singh Nijjar was another target, and that there were \"so many targets\".",
+    "The Indian government denies involvement and describes Pannun as a terrorist, a label he rejects. Pannun told the BBC the guilty plea confirms that the Modi government planned an assassination on American soil. These are his claims and those of US prosecutors, and India disputes them. Former US attorney Jay Clayton said Gupta believed he could target someone over free speech without consequences.",
+    "The case is linked to the 2023 killing of Nijjar outside a temple in British Columbia. Then Canadian prime minister Justin Trudeau said in September 2023 that there were credible allegations tying India to it, which India also denies. Sikh community figures in Canada told the BBC that the sentence was the first sign of justice for Sikhs."
    ],
-   "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/mideast-crisis-largest-threat-to-energy-security-ever-iea/articleshow/135978442.cms",
-   "section": "business",
-   "scope": "business",
-   "source": "Economic Times",
-   "sourceGroup": "times-group",
-   "publishedAt": "2026-11-19T05:42:07+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "Economic Times",
-     "group": "times-group",
-     "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/mideast-crisis-largest-threat-to-energy-security-ever-iea/articleshow/135978442.cms"
-    }
-   ]
-  },
-  {
-   "id": "7a4c56c199a55067e917",
-   "title": "White House cyber director ousted after US hit by wave of tech outages",
-   "deck": "Sean Cairncross was removed as White House national cyber director after a week of outages, according to a source speaking to Reuters.",
-   "summary": [
-    "White House national cyber director Sean Cairncross has been ousted, a person close to the White House told Reuters on Thursday. The departure comes days after technology outages affected US air travel, banking and national security systems. Cairncross declined to comment, and the White House has not been quoted on the record in the report.",
-    "Cairncross oversaw cybersecurity policy and strategy across the federal government. The source said Kirsten Davies, the Defense Department's chief information officer, will take the role temporarily. The source, who was granted anonymity, said the president \"fully supported\" the firing.",
-    "The reasons are reported rather than officially stated. Axios, citing anonymous officials, said chief of staff Stephen Miller pushed for the change because Cairncross allegedly lacked strong cyber credentials. Those claims have not been confirmed on the record, and the link to the outages is the reporting's framing, not an announced explanation.",
-    "The outages included a nationwide halt to air travel, a Microsoft disruption that hit email services, and a temporary problem on a National Security Agency network. The administration has faced criticism over its response. On Wednesday the top US intelligence official said the disruptions were separate service outages tied to maintenance and technical changes, not a coordinated or state-sponsored attack.",
-    "Before taking the post, Cairncross was an executive at the Republican National Committee. A permanent successor would need Senate confirmation, and Democrats will control the chamber from January."
-   ],
-   "url": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted",
+   "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo",
    "section": "world",
-   "scope": "world",
-   "source": "The Guardian",
-   "sourceGroup": "guardian",
-   "publishedAt": "2026-11-20T01:25:05+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "The Guardian",
-     "group": "guardian",
-     "url": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted"
-    }
-   ]
-  },
-  {
-   "id": "3ccb78afd018868336df",
-   "title": "Why Canada is embracing AI data centres while the US pushes back",
-   "deck": "Canadian leaders are courting AI data centre investment as US voters push back, though local resistance is starting to appear in Canada too.",
-   "summary": [
-    "Canada is being pitched as an alternative home for the huge data centres that many Americans increasingly oppose, the BBC reports. After US voters approved 40 of 41 local ballot measures limiting such projects in this month's midterms, Build Canada chief executive Lucy Hargreaves said some investment money could now flow north.",
-    "Alberta is the centre of the push, with 90% of proposed Canadian sites. Businessman Kevin O'Leary plans two projects called Wonder Valley, one there and one in Utah. The Alberta site, 7.5 gigawatts and billed as off-grid on its own gas power, has strong provincial and local backing and was exempted from an environmental assessment. The Utah plan faces organised opposition and has been ordered shrunk by 75% by a state senator.",
-    "Canada's picture is shifting, though. The BBC notes angry town halls, a lawsuit by Sturgeon Lake Cree Nation over the assessment exemption, a new Alberta bill limiting where centres can go, and a protest in Nova Scotia against a site for Anthropic.",
-    "Analysts quoted offer a caution. Sean Mullin of the University of Toronto said backlash has been milder partly because fewer projects exist, and warned Canada could see similar anger without care. Alberta resident Bek MacIntosh said no party is ready for a voter reaction."
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo",
-   "section": "world",
-   "scope": "world",
+   "scope": "india",
    "source": "BBC News",
    "sourceGroup": "bbc",
-   "publishedAt": "2026-11-20T00:13:24+00:00",
+   "publishedAt": "2026-11-20T20:54:12+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -304,26 +310,26 @@
     {
      "source": "BBC News",
      "group": "bbc",
-     "url": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo"
+     "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo"
     }
    ]
   },
   {
-   "id": "f31cf54bc3ea1533b08a",
-   "title": "\"I Gave Tax Cuts, Have You Hiked Salaries, Created Jobs?\" PM Modi Asks India Inc",
-   "deck": "Prime Minister Narendra Modi told business leaders that tax relief has not been matched by hiring or pay rises, according to NDTV.",
+   "id": "ea79865113e0f0252c90",
+   "title": "Congress sweeps Rajasthan's rural polls and says the BJP government's end has begun",
+   "deck": "Counting for district and block councils gave Congress boards in most of the councils declared, including a string of defeats for BJP-linked families.",
    "summary": [
-    "Prime Minister Narendra Modi criticised Indian companies on Thursday for failing to pass on the benefits of tax cuts to workers, NDTV reported. He was speaking at the annual gathering of the Federation of Indian Chambers of Commerce and Industry in New Delhi.",
-    "Modi said his government had cut the basic corporate tax rate from 30 percent to 22 percent and exempted annual salaries of up to Rs 12 lakh from income tax. He then asked whether firms had raised headcount or wages in response, and answered that they had not. These are his own claims; the report cites no data on them. He said the income tax relief had increased people's spending power and should lead to more demand and business expansion.",
-    "He said companies should not expect only the government to drive growth, and added that a country cannot advance by abusing its farmers, wealth creators, small industries and taxpayers. According to NDTV, he also urged industry leaders to stop treating the domestic market as a guaranteed source of sales, to use it as a base for competing globally, and to improve product quality.",
-    "Modi also pressed the business group on trade deals India has signed with several countries. He asked whether FICCI members had made any plan to exploit the market access those agreements open up, or whether he would have to address that as well."
+    "Congress has won a decisive victory over the ruling BJP in Rajasthan's village-level elections, according to results reported by the Indian Express. Of 37 Zila Parishads, the district-level councils, whose results were declared, Congress formed boards in 25 and the BJP in nine, with one going to others and two hung. In the 419 Panchayat Samitis, the block-level bodies, Congress formed boards in 269 of the 418 declared, the BJP in 73 and others in 63.",
+    "In Jaipur's Zila Parishad, Congress took 41 of 57 wards, the BJP 12 and the Rashtriya Loktantrik Party two. Zila Pramukh Rama Chopra and deputy Mohan Dagar both lost. The paper's list of upsets includes the wife and both sons of minister Jhabar Singh Kharra, who lost in Sikar by 51 votes, as well as relatives of a Congress MLA, a police official and BJP leaders. Some relatives of prominent figures did win, including the son and daughter-in-law of BJP leader Rajendra Rathore.",
+    "Rajasthan Congress chief Govind Singh Dotasra said on X that the landslide shows the BJP government has lost public trust after three years, calling it a rebuke from villagers, farmers, youth and workers. He said the countdown to the end of the government has begun. That is a party leader's political reading. Local council elections are often driven by local candidates and caste arithmetic, and they do not map neatly onto state or national results.",
+    "The tallies come from figures on the Election Commission site for declared results. A few councils had no clear majority or were won by smaller parties, including the RLP. The BJP had not issued a detailed response in the coverage reviewed."
    ],
-   "url": "https://www.ndtv.com/india-news/pm-modi-at-ficci-i-gave-tax-cuts-have-you-hiked-salaries-created-jobs-pm-narendra-modi-asks-india-inc-12351154",
+   "url": "https://indianexpress.com/article/india/rajasthan-panchayat-election-results-congress-jaipur-bjp-setback-10971641/",
    "section": "world",
    "scope": "india",
-   "source": "NDTV",
-   "sourceGroup": "ndtv",
-   "publishedAt": "2026-11-19T17:09:54+00:00",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-20T12:34:53+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -331,88 +337,120 @@
    "summaryType": "ai-article",
    "coverage": [
     {
-     "source": "NDTV",
-     "group": "ndtv",
-     "url": "https://www.ndtv.com/india-news/pm-modi-at-ficci-i-gave-tax-cuts-have-you-hiked-salaries-created-jobs-pm-narendra-modi-asks-india-inc-12351154"
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/rajasthan-panchayat-election-results-congress-jaipur-bjp-setback-10971641/"
     }
    ]
   },
   {
-   "id": "fdc31ff16380dd5e2efc",
-   "title": "BJP cites Moily remark to claim Congress tried to 'frame' PM Modi",
-   "deck": "The BJP says a Congress veteran's comments about a stalled UPA-era probe show Congress tried to frame Narendra Modi, a charge Congress has yet to answer in the reports seen.",
+   "id": "56069df220119908c8a3",
+   "title": "Eleven die and about 180 are hospitalised after toxic liquor in Manipur's Chandel district",
+   "deck": "Authorities are testing to confirm the cause as the toll rises over three days; police say the drink came from Kakching district.",
    "summary": [
-    "The Bharatiya Janata Party has claimed that remarks by senior Congress leader M Veerappa Moily show his party tried to frame Prime Minister Narendra Modi and Home Minister Amit Shah while the UPA was in power. This is the BJP's interpretation, not an established fact.",
-    "According to the Times of India, Moily spoke at the Bengaluru launch of Sonia Gandhi's memoir. He said Shah had gone to jail and was externed from Gujarat, and added: \"The next would have been Modi to go inside.\" He said the investigation into Modi was stalled by \"our own govt, not because of Manmohan Singh but some other leaders\", and that Congress is \"suffering because of that today\". The report gave no details of the case Moily meant.",
-    "BJP spokesman Sudhanshu Trivedi said \"the mask has completely fallen off\". He argued that investigative agencies and the courts were sidelined under Congress, that the allegations against Modi and Shah were \"manufactured\" and politically motivated, and that someone other than Manmohan Singh was \"calling the shots\". He demanded a response from Congress.",
-    "Shah was arrested in the Sohrabuddin Sheikh fake encounter case and later discharged, the Times of India noted. Deccan Herald and The Hindu also reported Moily's remarks and the BJP's reaction. The Times of India article carried no Congress reply, so the party's own position is not set out in it."
+    "At least 11 people have died in three days after drinking suspected spurious liquor in Manipur's Chandel district, and roughly 200 others needed hospital treatment, the Indian Express reports. The first two deaths were reported on 18 November, and the toll had reached 11 by Friday as more people fell ill. Patients are being treated at hospitals in Imphal. NDTV puts those hospitalised at 181.",
+    "Chief Minister Yumnam Khemchand Singh visited a hospital on Friday to review the situation. The Chandel Superintendent of Police said the drink was bought at Sugnu in neighbouring Kakching district rather than made in Chandel. He stressed that traditional wine is not brewed in Chandel and warned against linking the deaths to local production.",
+    "The Deputy Commissioner said medical and scientific tests are under way to determine the cause, and issued an advisory while health and police teams carry out investigation and prevention work. The cause of death has not been officially confirmed, though district officials have connected the deaths to drinking alcohol. The Hindu reports that the district administration has also warned residents.",
+    "Toxic liquor deaths in India are usually blamed on methanol, an industrial alcohol that is sometimes added to illicit drinks, but no such finding has been announced here. Until laboratory results are out, the numbers and the source of the drink should be treated as provisional."
    ],
-   "url": "https://timesofindia.indiatimes.com/india/bjp-cites-moily-remark-to-claim-congress-tried-to-frame-pm-modi/articleshow/136009726.cms",
+   "url": "https://indianexpress.com/article/india/11-die-in-three-days-after-drinking-hooch-in-manipur-10972102/",
    "section": "world",
    "scope": "india",
-   "source": "Times of India",
-   "sourceGroup": "times-group",
-   "publishedAt": "2026-11-20T01:43:04+00:00",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-21T00:37:49+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
    "kind": "news",
    "summaryType": "ai-article",
    "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/11-die-in-three-days-after-drinking-hooch-in-manipur-10972102/"
+    }
+   ]
+  },
+  {
+   "id": "a33778cd51f1f026ac5f",
+   "title": "Cyclone Akvan makes landfall near Gopalpur with no deaths reported, after 3.72 lakh evacuated",
+   "deck": "Heavy rain flooded streets in Ganjam district, and 41 trains were cancelled, but officials reported no casualties or damage to public infrastructure.",
+   "summary": [
+    "Cyclonic Storm Akvan crossed the coast near Gopalpur in Odisha on Friday morning, bringing heavy rain to southern Odisha and northern Andhra Pradesh, the Indian Express reports. Winds were sustained at 70 to 80 km/h with gusts up to 90 km/h. Ganjam district received nearly 200 mm of rain in 24 hours, and streets flooded in towns including Berhampur and Digapahandi. The Hindu later reported that the system weakened into a depression with no major damage or flood threat.",
+    "Odisha Chief Secretary Anu Garg said there were no deaths and no damage to public infrastructure. Municipal teams were pumping out standing water. Authorities had moved more than 3.72 lakh people out of vulnerable areas before landfall, and 4,470 pregnant women were shifted to health facilities, where more than 1,400 deliveries have taken place. The Rushikulya and Bahuda river basins were being closely watched, and no problems were reported.",
+    "Schools, beaches and tourist sites were closed as a precaution. The railways cancelled at least 41 trains, including a Vande Bharat service, and rescheduled several others. Forecasters said the system would move north-north-east and fade into a deep depression while spreading rain to other districts, and the Hindu says monsoon-type rain will resume over Tamil Nadu.",
+    "The all-clear is limited. Officials flagged localised urban flooding and said rivers remain under watch. The no-casualty statement is the state's own account at the time of reporting, and damage assessments for farms and housing usually take days."
+   ],
+   "url": "https://indianexpress.com/article/india/cyclone-akvan-odisha-gopalpur-landfall-casualties-evacuation-10971128/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-20T07:13:06+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/cyclone-akvan-odisha-gopalpur-landfall-casualties-evacuation-10971128/"
+    }
+   ]
+  },
+  {
+   "id": "efd82800da9886f3695e",
+   "title": "Nepal's prime minister Balen Shah arrives in Delhi for his first bilateral visit abroad",
+   "deck": "The two-day trip, with talks with Narendra Modi on 23 November, follows early friction between Kathmandu and New Delhi.",
+   "summary": [
+    "Nepal's Prime Minister Balendra Shah arrives in India on Saturday for a two-day visit that marks his first bilateral trip abroad since taking office in March, the Indian Express reports. The agenda covers trade, development partnerships, energy, water, physical and digital connectivity, technology, innovation and sports. The Times of India notes that a rail link tying the birthplaces associated with Ram and Sita is among the connectivity themes.",
+    "India's Ministry of External Affairs said Prime Minister Narendra Modi will hold talks with Shah on 23 November to review the full range of ties and exchange views on regional and international issues. The ministry described the visit as a sign of continuing high-level contact and of India's \"Neighbourhood First\" policy. Nepal's Foreign Ministry called it an opportunity to examine the partnership \"through a forward-looking lens\".",
+    "The paper adds some background. Shah took power on 27 March after student-led protests forced out KP Sharma Oli's government. Relations were strained afterwards because Shah said he would not travel abroad for a year and would meet only heads of state or government, which led to the cancellation of a visit by Indian Foreign Secretary Vikram Misri and blocked attempts by the US ambassador.",
+    "The ice has since thawed. Nepal's finance minister visited India in September, ruling-party figure Rabi Lamichhane went to New Delhi in June, and Shah thanked India for flood relief in early September. The outcome of the talks is not yet known, and the BBC has run a separate analysis calling the trip a test of the relationship."
+   ],
+   "url": "https://indianexpress.com/article/india/nepal-pm-balen-shah-india-visit-modi-trade-energy-tech-talks-10972063/",
+   "section": "world",
+   "scope": "india",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-20T23:00:13+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/nepal-pm-balen-shah-india-visit-modi-trade-energy-tech-talks-10972063/"
+    },
     {
      "source": "Times of India",
      "group": "times-group",
-     "url": "https://timesofindia.indiatimes.com/india/bjp-cites-moily-remark-to-claim-congress-tried-to-frame-pm-modi/articleshow/136009726.cms"
+     "url": "https://timesofindia.indiatimes.com/india/pm-modi-nepals-balen-to-review-full-range-of-bilateral-ties/articleshow/136042077.cms"
     }
    ]
   },
   {
-   "id": "acc49eb0def27c369f28",
-   "title": "Cyclone 'Akvan' LIVE: Landfall process begins; coastal Odisha districts receive heavy rain",
-   "deck": "Update: Cyclone Akvan has begun interacting with land on the Andhra Pradesh-Odisha coast, with a long landfall expected and heavy rain already falling in coastal Odisha.",
+   "id": "312bd5c0c3f4c343d63c",
+   "title": "Britain and the EU agree a deal on food exports, carbon markets and youth mobility",
+   "deck": "Prime Minister Andy Burnham says the UK will explore even closer ties, while the Conservatives and Reform call the agreement a bad bargain.",
    "summary": [
-    "This is an update to our earlier coverage of Cyclone Akvan, based on The Hindu's live blog from early Friday, November 20.",
-    "The India Meteorological Department (IMD) said the landfall process has started. Its latest satellite imagery shows the sheared cloud mass linked to the cyclonic storm moving onto the north Andhra Pradesh and south Odisha coasts. Manorama Mohanty, who directs the Bhubaneswar Meteorological Centre, said the process will be a long one, possibly lasting seven to eight hours. Coastal Odisha districts have begun to get heavy rain as the system approaches.",
-    "Officials said the severe cyclonic storm is expected to make landfall between Puri and Gopalpur on Friday afternoon. They reported that more than 300,000 people have been moved out of vulnerable areas and that 423 rescue teams are deployed across Odisha.",
-    "Odisha Chief Minister Mohan Charan Majhi chaired an emergency review at the Special Relief Commissioner's office in Bhubaneswar. According to ANI, he stressed the state's goal of zero casualties and said evacuations were moving quickly across 20 districts.",
-    "The live blog also carried a photo of high waves hitting R.K. Beach in Visakhapatnam. The Hindu separately noted that Andhra Pradesh is facing its third cyclone in a month. The blog gave no damage or casualty figures at the time of reading."
+    "Prime Minister Andy Burnham struck a deal with the European Union in Brussels on Friday covering food exports, emissions trading and youth mobility, and said the UK will explore even closer ties. Legislation is expected in Parliament next week. The BBC reports that most checks on British food exports to the EU would end by 2028, in return for the UK following certain EU rules, and that the two sides will link their emissions trading systems by 2028.",
+    "A youth experience scheme would let up to 100,000 people aged 18 to 31 from each side travel, work and study for up to three years, starting by January 2030. Talks on tuition fees stay open for six months. Police forces will share more data to counter people smuggling and trafficking.",
+    "Burnham called it a good day and cited Treasury projections of a £17 billion boost to GDP, up to 0.5%. He said the government will publish a ten-year plan next month, and that its manifesto limits rule out rejoining the single market or customs union or accepting free movement. European Council President António Costa said the EU remains open to the closest possible relationship. Commission President Ursula von der Leyen called the summit a turning point.",
+    "The opposition is sharply critical. Conservative leader Kemi Badenoch said the deal is unfair, that farmers will follow foreign rules and that arriving young people will compete with domestic job-seekers, and she disputed the £17 billion figure, saying existing modelling shows 0.0%. Reform's Nigel Farage called it a betrayal. Liberal Democrat leader Ed Davey said it amounts to tweaks. The BBC's Faisal Islam separately cautions that the deal does not guarantee lower prices."
    ],
-   "url": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
-   "section": "world",
-   "scope": "india",
-   "source": "The Hindu",
-   "sourceGroup": "the-hindu",
-   "publishedAt": "2026-11-20T01:55:25+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": true,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "The Hindu",
-     "group": "the-hindu",
-     "url": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece"
-    }
-   ]
-  },
-  {
-   "id": "5d000ade1e6277a2581a",
-   "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-   "deck": "The International Court of Justice found Myanmar responsible for genocide against the Rohingya, the first such state-level ruling by an international court.",
-   "summary": [
-    "The International Court of Justice ruled on Thursday that Myanmar committed genocide against its Rohingya minority, in a case brought by The Gambia. The BBC reports it is the first time an international court has found a state responsible for genocide. The vote among judges was nine to six.",
-    "Court president Yuji Iwasawa said Myanmar had the \"intention to destroy\" a substantial part of the Rohingya and destroyed evidence to hide its crimes. The ruling concerns a 2017 military campaign in Rakhine State that followed attacks by Rohingya militants on police posts. The court found about 10,000 Rohingya were violently killed and that more than 700,000 are thought to have fled to Bangladesh. It also cited widespread sexual violence and the burning of homes, and said Myanmar must pay reparations, with the amount set later.",
-    "Myanmar has long denied the allegations, saying it was countering insurgents.",
-    "Reaction was strong. Human Rights Watch welcomed the ruling, and UN rights chief Volker Turk said it must lead to real action. Lawyer Philippe Sands, who helped bring the case, called it historic. The court cannot jail officials and relies on political pressure for enforcement.",
-    "The UK said it would expel Myanmar's defence attache. The US State Department said it was studying the decision. Sands noted implications for other pending genocide cases, including South Africa's against Israel, which Israel says is unfounded."
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
+   "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
    "section": "world",
    "scope": "world",
    "source": "BBC News",
    "sourceGroup": "bbc",
-   "publishedAt": "2026-11-19T20:07:02+00:00",
+   "publishedAt": "2026-11-20T17:49:48+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -422,26 +460,26 @@
     {
      "source": "BBC News",
      "group": "bbc",
-     "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo"
+     "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o"
     }
    ]
   },
   {
-   "id": "5282d21d8c780042e746",
-   "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-   "deck": "The leaders of the US, Russia and China issued a joint peace declaration after a first three-way meeting in Shenzhen, though it did not address the Ukraine war.",
+   "id": "dd678c417ecd29bb77ed",
+   "title": "A Russian missile and drone land in Poland during a Western military exercise, and Warsaw calls it a provocation",
+   "deck": "Nobody was hurt, but Poland's prime minister says the incursion was deliberate, and NATO's chief is due in Warsaw on Saturday.",
    "summary": [
-    "Donald Trump, Vladimir Putin and Xi Jinping met for about 90 minutes in Shenzhen on 19 November, on the edges of the APEC summit, and released a joint declaration. The BBC says it was their first trilateral meeting, and Reuters reports that Putin proposed it.",
-    "What the text says, as reported: the three stated that nuclear war cannot be won and must never be fought, and Reuters adds they pledged a dialogue on reducing nuclear risks with no timetable. The BBC reports they also plan to raise petroleum output and supply, commit to reforming the UN, and say the International Criminal Court must not abuse its jurisdiction. Reuters notes it does not mention Ukraine or Iran, and that no arms control talks were announced.",
-    "Official remarks followed. Trump called the trip \"great and highly consequential\". Putin called the meeting an important chapter in diplomacy and, per Reuters, admitted the declaration set no ambitious goals. China's state broadcaster quoted Xi calling the talks \"positive, constructive, and highly productive\".",
-    "Reaction and analysis differ. Reuters describes the declaration as symbolic, and a BBC analysis calls the summit high on spectacle and short on substance. Republican Senator John Curtis welcomed the nuclear language but said Putin and Xi are not friends of the US; Democrat Jeanne Shaheen called Putin a war criminal. Kyiv was hit by Russian drones during the talks, the BBC says."
+    "Poland said on Friday that three objects entered its airspace during a large Russian aerial attack on Ukraine: a Kh-101 cruise missile, a second suspected missile and a jet-powered drone. The BBC reports that the Kh-101 landed in a rural area at Nowy Lipowiec, about 50 km from the Ukrainian border, at around 06:30 local time. The other missile came down near Rudnik nad Sanem, and the drone crashed near Mołodycz. There were no injuries or damage.",
+    "Prime Minister Donald Tusk said the incursion was deliberate because it happened during Western military exercises in the region. The UK- and France-led \"Koalicja 2026\" drill in south-eastern Poland involves 11 nations of the Coalition of the Willing, and the objects fell near the Nowa Dęba training area. Defence Minister Władysław Kosiniak-Kamysz called it a Russian provocation and said Poland would seek more NATO help. NATO Secretary General Mark Rutte condemned the violations, said NATO jets were scrambled and planned to visit Warsaw on Saturday.",
+    "UK Defence Secretary Wes Streeting called it a provocation meant to divide Europe and weaken support for Ukraine, and British Prime Minister Andy Burnham called it unacceptable. Russia has made no public comment. Intent is Warsaw's assessment. Previous spillovers have occurred, including a 2022 incident in which two Polish farmers died.",
+    "The strike came the same day as Russian attacks that killed at least eight people across Kyiv's Dnipro bridges and a Lviv station, after Vladimir Putin's threats over the Kerch Strait bridge. Moldova also reported a brief drone violation on Friday."
    ],
-   "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
+   "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
    "section": "world",
    "scope": "world",
    "source": "BBC News",
    "sourceGroup": "bbc",
-   "publishedAt": "2026-11-19T17:38:22+00:00",
+   "publishedAt": "2026-11-20T16:54:29+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -451,114 +489,26 @@
     {
      "source": "BBC News",
      "group": "bbc",
-     "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o"
+     "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro"
     }
    ]
   },
   {
-   "id": "08dcbed660fe71825dfc",
-   "title": "Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska – live",
-   "deck": "The Trump administration has asked a federal appeals court to drop its lawsuit over Alaska's Senate election after Democrat Mary Peltola won, the Guardian reports.",
+   "id": "33f055ff4d2293d02308",
+   "title": "Formula 1 bosses agree to bring back V8 engines from 2030",
+   "deck": "A 2.1-litre turbo hybrid with a smaller electric element would replace the current V6 units, aimed at lower cost and better racing.",
    "summary": [
-    "The Trump administration on Thursday asked a federal appeals court to dismiss a lawsuit it filed before the midterms that sought to block certification of Alaska's US Senate race if Democrat Mary Peltola won, according to the Guardian's live coverage. The administration asked the court to declare the case moot two days after the race was decided.",
-    "The Guardian reports that Peltola won with 50.13 percent of the vote, more than all other candidates combined, including Republican incumbent Dan Sullivan and a second candidate named Daniel Sullivan. The paper says the second Sullivan was reportedly recruited by Democrats to draw votes from the incumbent. The Guardian adds that the suit was filed at Donald Trump's direction even though Alaska's supreme court had already ruled that the second Sullivan's candidacy was legal.",
-    "The Guardian notes that the New York Times reported that Peltola's staff were involved in a scheme to recruit the so-called decoy candidate. Peltola denied any involvement. That remains a disputed claim and the live blog does not report any finding either way.",
-    "In Alaska's House race, ranked-choice counting finished a day earlier, and Republican Nick Begich narrowly beat independent Bill Hill. The Guardian says Eric Hafner, a federal prisoner who ran as a Democrat despite state party objections, took 22,715 votes, enough to have swung the race to Hill had all gone to him."
+    "Formula 1 leaders have agreed to introduce V8 turbo hybrid engines in 2030, replacing the current, widely criticised power units, the BBC reports. The sport's governing statement on Friday said manufacturers had backed the plan, which keeps advanced sustainable fuels but aims for engines that are lighter, simpler and cheaper. The new units will be 2.1-litre turbocharged V8s, two cylinders more than the current 1.6-litre V6 layout.",
+    "The electrical side shrinks to a maximum of 200 kW, split evenly between always-available power and an overtake mode. That addresses driver complaints that today's cars run short of battery energy and race in an artificial way. Total output is expected to reach roughly 1,050 bhp in overtake mode and more than 900 bhp otherwise. Other targets include a 150 kg power-unit weight limit, an annual engine budget cap of $190 million and a car weighing under 700 kg without fuel.",
+    "General Motors will delay its own Cadillac engine until 2030, give up its current voting rights and use Ferrari customer engines through 2029. FIA president Mohammed Ben Sulayem called the deal a major milestone. McLaren's Zak Brown said everyone is excited. Cadillac chief Dan Towriss noted the team already has a V6 base to develop a V8 from.",
+    "Fans should not expect the thunder of the 2006 to 2013 V8 era, which the BBC says will not return because of commercial risks for city-centre races such as Miami and Las Vegas. Some details remain unresolved, and Fernando Alonso has already said he will not stay for the V8 era."
    ],
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "section": "world",
-   "scope": "world",
-   "source": "The Guardian",
-   "sourceGroup": "guardian",
-   "publishedAt": "2026-11-20T01:44:00+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "The Guardian",
-     "group": "guardian",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates"
-    }
-   ]
-  },
-  {
-   "id": "fdbe3669d59a4bc11355",
-   "title": "Nike joins F1 as apparel partner",
-   "deck": "Nike will take over from Puma as Formula 1's official apparel partner from the start of the 2027 season.",
-   "summary": [
-    "Nike has been named Formula 1's official apparel partner and uniform supplier, replacing Puma from the beginning of 2027, Autosport reported on 19 November. The move had been widely rumoured.",
-    "From next season Nike will supply clothing and footwear to F1 personnel. The deal also covers F1 Academy, which, like F1, wore Puma gear through this year.",
-    "Nike will also create F1-themed retail collections. The first, a limited Las Vegas Grand Prix capsule collection, goes on sale on 20 November at the F1 Hub and Nike's Las Vegas stores, according to the announcement.",
-    "In the announcement, Nike said it would bring \"new energy\" to the sport through capsule collections covering footwear, apparel and accessories, plus performance innovations and race-weekend experiences. Nike chief executive Elliott Hill said F1 is driven by competition, speed and constant innovation, which he called an athlete mindset that Nike shares.",
-    "The reports do not give financial terms or the length of the agreement. The announcement came during Las Vegas Grand Prix weekend, when the first Nike-branded merchandise reaches fans, so supporters will see the new partnership in shops well before the 2027 season begins."
-   ],
-   "url": "https://www.autosport.com/f1/news/nike-joins-f1-as-apparel-partner/10875757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "section": "formula-one",
-   "scope": "formula-one",
-   "source": "Autosport",
-   "sourceGroup": "motorsport-network",
-   "publishedAt": "2026-11-20T00:24:50+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "Autosport",
-     "group": "motorsport-network",
-     "url": "https://www.autosport.com/f1/news/nike-joins-f1-as-apparel-partner/10875757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    }
-   ]
-  },
-  {
-   "id": "af8371e29cd0a788b008",
-   "title": "F1 Las Vegas GP: Rain drowns out FP1",
-   "deck": "Steady rain in Las Vegas left first practice for the Grand Prix with no lap times and almost no useful running.",
-   "summary": [
-    "Rain washed out the first free practice session at the Las Vegas Grand Prix on Thursday, Autosport reports, with no lap times recorded. Steady rainfall had made the street circuit extremely slippery, and drivers likened it to an ice rink.",
-    "Concerns about wet running had been building. Racing Bulls driver Liam Lawson said after trying this year's rain tyres in Brazil that a wet Vegas would spell trouble, because the Pirelli tyres struggle to reach temperature on a cold, low-speed track. Little rain is forecast for the rest of the weekend, according to the report.",
-    "A handful of drivers did venture out. Cadillac's Sergio Perez was first on full wet tyres, followed by Haas's Rafael Camara and Ryo Hirakawa, who took a rookie outing in place of Oliver Bearman. Cadillac's Valtteri Bottas, whose 2027 seat was confirmed this week, had a big slide. Rookies needed to leave the garage for their mandatory sessions to count, so Ferrari's Dino Beganovic, Aston Martin's Jak Crawford and Hirakawa all drove.",
-    "Several drivers reported close calls. Kimi Antonelli felt aquaplaning, Alex Albon ran straight on at Turn 11, and Nico Hulkenberg locked up. Max Verstappen called the surface almost like an ice rink. McLaren, Racing Bulls and Lance Stroll stayed in the garage, while Pierre Gasly, Franco Colapinto and Camara each went out twice."
-   ],
-   "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-fp1-report/10875770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "section": "formula-one",
-   "scope": "formula-one",
-   "source": "Autosport",
-   "sourceGroup": "motorsport-network",
-   "publishedAt": "2026-11-20T01:43:05+00:00",
-   "timestampType": "published",
-   "older": false,
-   "updated": false,
-   "kind": "news",
-   "summaryType": "ai-article",
-   "coverage": [
-    {
-     "source": "Autosport",
-     "group": "motorsport-network",
-     "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-fp1-report/10875770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    }
-   ]
-  },
-  {
-   "id": "813d849aca0ea37cc327",
-   "title": "F1 to introduce full-time race stewards from 2027",
-   "deck": "The FIA will start recruiting full-time stewards for Formula 1, with a phased rollout during 2027.",
-   "summary": [
-    "Formula 1's governing body, the FIA, will bring in permanent race stewards from the 2027 season, BBC Sport reports. The change follows repeated complaints from drivers that penalty decisions for on-track incidents have been inconsistent.",
-    "In a statement, the FIA said it will start recruiting and plans a phased introduction during 2027, with a small number of full-time stewards hired that year and the group expanded from 2028. It said full-time officials would bring continuity and expertise and allow greater consistency in decision-making. Former drivers will keep serving as stewards, and existing stewards will remain part of a mixed roster of full-time and part-time officials for the foreseeable future.",
-    "BBC correspondent Andrew Benson notes the practical change is modest, since each grand prix already has a panel of four stewards, one an ex-driver, drawn from a small rotating pool. Drivers have said they raised concerns about uneven rulings in briefings with FIA officials. Last year Williams driver Carlos Sainz, a director of the drivers' association, said at least two of three stewards should be permanent, with one rotating.",
-    "The move follows the opening of an FIA race operations centre at F1's Biggin Hill headquarters. FIA president Mohammed Ben Sulayem called the hiring a significant investment in the sport's future and in fairness and integrity."
-   ],
-   "url": "https://www.bbc.co.uk/sport/formula1/articles/cv62pxxkz8wxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/cvj6l7nk611jo",
    "section": "formula-one",
    "scope": "formula-one",
    "source": "BBC Sport",
    "sourceGroup": "bbc",
-   "publishedAt": "2026-11-19T21:39:22+00:00",
+   "publishedAt": "2026-11-20T19:17:40+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -568,26 +518,60 @@
     {
      "source": "BBC Sport",
      "group": "bbc",
-     "url": "https://www.bbc.co.uk/sport/formula1/articles/cv62pxxkz8wxo?at_medium=RSS&at_campaign=rss"
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/cvj6l7nk611jo"
+    },
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/f1-set-for-v8-return-from-2030/10875119/"
     }
    ]
   },
   {
-   "id": "1f511ab921459de14fdd",
-   "title": "‘Ideally, you want him bowling all 90 overs’: Dinesh Karthik lauds Jasprit Bumrah",
-   "deck": "India's Dinesh Karthik praised Jasprit Bumrah's comeback on day one against New Zealand while saying the attack leans on him too heavily.",
+   "id": "ff13132cdee3d1476c34",
+   "title": "Russell fastest in Las Vegas final practice after a clash with Verstappen at Turn 14",
+   "deck": "The Mercedes driver topped the only dry session by 0.9 seconds, while stewards are due to review his contact with the Red Bull.",
    "summary": [
-    "Jasprit Bumrah came back into India's Test side against New Zealand on Thursday, having sat out the Sri Lanka series. The Indian Express reports he took 3 for 52 from 17 overs on the first day, removing Tom Latham, Daryl Mitchell and Tom Blundell.",
-    "Former India wicketkeeper Dinesh Karthik, speaking on Cricbuzz, said Bumrah stood well above the other Indian bowlers. The paper says the conditions suited bowlers, and that New Zealand seemed set for a hard day until the change bowlers failed to keep up the pressure.",
-    "Karthik said the performance again showed how dependent the attack is on Bumrah, adding that he had expected the others to contribute far more. He described Bumrah's return as a very encouraging sight for Indian fans and said the bowler would relish the swinging and seaming conditions, having often said how much he loves Test cricket.",
-    "On workload, Karthik argued Bumrah is best used in short, sharp spells of two or three overs. \"Ideally, you want him bowling all 90 overs,\" he said, but that is not realistic, especially for someone coming back from injury who needs careful handling. He called 17 overs a heavy first-day load, though one that India would expect from him."
+    "George Russell led the final practice session for the Las Vegas Grand Prix on Friday, Autosport reports, after both Thursday sessions were wrecked by rain. It was the only dry running of the weekend, but the 6.2 km street circuit was cold at about 14°C and grip was poor. Many drivers chose soft tyres to build heat and slid into escape roads.",
+    "Russell's best lap was 1m34.041s. Kimi Antonelli was second, 0.911s back, followed by Lando Norris, Charles Leclerc and Franco Colapinto. Max Verstappen was sixth, 1.309s off, after a sideways moment and steering rack trouble. Liam Lawson, Lewis Hamilton, Pierre Gasly and Arvid Lindblad completed the top ten. Autosport also notes that Russell chose not to take a Mercedes turbo upgrade, to avoid grid penalties.",
+    "The session ended in drama. Russell passed Verstappen at Turn 14 and the two made side-on contact that forced the Red Bull off the track. Russell said \"fun and games\" on team radio, and the incident is set to be looked at by the stewards. Earlier, Norris cheered over radio when Verstappen locked up, saying \"instant karma\", after being annoyed at being forced past by the Dutchman.",
+    "Isack Hadjar asked for a penalty for Williams' Alex Albon over a near miss. Because the other sessions were wet, practice running was not representative, so qualifying could still reshuffle the order."
    ],
-   "url": "https://indianexpress.com/article/sports/cricket/ideally-you-want-him-bowling-all-90-overs-dinesh-karthik-lauds-jasprit-bumrah-10969613/",
+   "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-russell-fastest-in-final-practice-after-verstappen-collision/10876189/",
+   "section": "formula-one",
+   "scope": "formula-one",
+   "source": "Autosport",
+   "sourceGroup": "motorsport-network",
+   "publishedAt": "2026-11-21T02:01:14+00:00",
+   "timestampType": "published",
+   "older": false,
+   "updated": false,
+   "kind": "news",
+   "summaryType": "ai-article",
+   "coverage": [
+    {
+     "source": "Autosport",
+     "group": "motorsport-network",
+     "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-russell-fastest-in-final-practice-after-verstappen-collision/10876189/"
+    }
+   ]
+  },
+  {
+   "id": "ffa1b2d64cdc7108b843",
+   "title": "KL Rahul becomes the first Indian opener to score Test hundreds in all four SENA countries",
+   "deck": "His unbeaten 100 in Wellington completes centuries in South Africa, England, Australia and New Zealand.",
+   "summary": [
+    "KL Rahul scored an unbeaten century on day three of the first Test against New Zealand in Wellington, making him the first Indian opener, and only the second Asian opener after Pakistan's Saeed Anwar, to score Test hundreds in all four SENA countries: South Africa, England, Australia and New Zealand. The Indian Express says he reached the mark off 207 balls after lunch at the Basin Reserve.",
+    "He shared the opening stand with Yashasvi Jaiswal, who made 85 off 89 balls. It was Rahul's twelfth Test hundred as an opener, which equals Murali Vijay and puts him behind only Sunil Gavaskar with 33 and Virender Sehwag with 22. He is the fourth Indian opener to score a Test hundred in New Zealand, after Gavaskar, Gautam Gambhir and Shikhar Dhawan.",
+    "At 34, Rahul has four hundreds in 21 innings in the current World Test Championship cycle and has gone past captain Shubman Gill as India's leading run-scorer. His earlier SENA hundreds were 110 in Australia in 2014, four in England (149, 129, 137 and 100), and 123 in South Africa in 2023.",
+    "The report, from the paper's sports desk, includes no direct quotes. Selection remains a talking point, though: former players criticised India's decision to leave Mohammed Siraj out of the Wellington Test."
+   ],
+   "url": "https://indianexpress.com/article/sports/cricket/kl-rahul-first-indian-opener-hundreds-all-sena-countries-ind-vs-new-zealand-1st-test-10972163/",
    "section": "sport",
    "scope": "sport",
    "source": "Indian Express",
    "sourceGroup": "indian-express",
-   "publishedAt": "2026-11-19T08:23:01+00:00",
+   "publishedAt": "2026-11-21T00:54:41+00:00",
    "timestampType": "published",
    "older": false,
    "updated": false,
@@ -597,36 +581,36 @@
     {
      "source": "Indian Express",
      "group": "indian-express",
-     "url": "https://indianexpress.com/article/sports/cricket/ideally-you-want-him-bowling-all-90-overs-dinesh-karthik-lauds-jasprit-bumrah-10969613/"
+     "url": "https://indianexpress.com/article/sports/cricket/kl-rahul-first-indian-opener-hundreds-all-sena-countries-ind-vs-new-zealand-1st-test-10972163/"
     }
    ]
   },
   {
-   "id": "7b38f9d43f291907098a",
-   "title": "Eight-year ban for player who threw rock that hit assistant referee",
-   "deck": "Ecuador's football federation has banned a player for eight years after he hit an assistant referee in the face with a rock.",
+   "id": "560fdd4562a7251e3f9c",
+   "title": "Surat–Bilimora stretch of the Mumbai–Ahmedabad bullet train line to be energised, with a first service targeted for 15 August 2027",
+   "deck": "Railways say the 50 km elevated section gets live overhead power on 20 November; the India-built B28 train is meant to run at 250 km/h at first.",
    "summary": [
-    "An Ecuadorian footballer, Jhon Perlaza, has been banned from football for eight years for throwing a rock at an assistant referee, BBC Sport reports. The ban runs until 19 October 2034.",
-    "The incident happened in October during a third-tier match between Club Ciudad de Yantzaza, Perlaza's team at the time, and Club Rio Aguarico. According to the BBC, assistant referee Lenin Giovanni Ojeda Nunez was hit in the face in the 96th minute and the game was abandoned. Video on social media shows Perlaza standing up in the dugout to throw the stone, and the official dropping immediately and clutching his face.",
-    "The Ecuadorian Football Federation said the official suffered serious injuries that needed surgery and a 60-day recovery. It said its disciplinary committee found Perlaza responsible for physical aggression against a match official and suspended him from all football-related activity. The federation also said it will ask Fifa to extend the sanction worldwide. It fined Yantzaza $2,000 and ordered the club to pay the referee's medical costs of $4,369.",
-    "Yantzaza said in a statement on 20 October, three days after the match, that it apologised to the refereeing team and fans and had sacked Perlaza. The club said it firmly rejects all verbal or physical aggression and believes football should be a space of respect and fair play."
+    "The Ministry of Railways and the National High Speed Rail Corporation are preparing to switch on power for the Surat to Bilimora section of the Mumbai-Ahmedabad bullet train corridor on 20 November, the Indian Express reports. The 50-km elevated stretch has both up and down lines and uses a 2 x 25 kV overhead traction system. The railways aim to open the first section and start the corridor within ten months, with a target date of 15 August 2027 for India's first bullet train service.",
+    "The train itself, called the B28, is being built in India at BEML's Aditya plant in Bengaluru. The report says this route was chosen because of difficulties in getting rolling stock from Japan. The B28 is designed for 280 km/h but is expected to run at 250 km/h in the beginning. The full 508-km corridor will be powered from fourteen traction substations connected to the grid and run from a central control centre.",
+    "For residents of Bilimora and nearby towns, the practical point is safety. The high-speed rail corporation has warned residents, commuters and construction workers not to approach, touch or do any unauthorised work near the electrical installations, because the overhead wires will stay live all the time once energised.",
+    "The 15 August date is a target and the paper does not say how it will be met. Earlier timelines for the project have slipped, and the energisation of one section does not mean trains are ready to run."
    ],
-   "url": "https://www.bbc.co.uk/sport/football/articles/cqlyk9yzkz2no?at_medium=RSS&at_campaign=rss",
-   "section": "sport",
-   "scope": "sport",
-   "source": "BBC Sport",
-   "sourceGroup": "bbc",
-   "publishedAt": "2026-11-19T10:20:58+00:00",
+   "url": "https://indianexpress.com/article/india/mumbai-ahmedabad-bullet-train-surat-bilimora-power-supply-b28-launch-10969527/",
+   "section": "local",
+   "scope": "local",
+   "source": "Indian Express",
+   "sourceGroup": "indian-express",
+   "publishedAt": "2026-11-19T07:42:33+00:00",
    "timestampType": "published",
-   "older": false,
+   "older": true,
    "updated": false,
    "kind": "news",
    "summaryType": "ai-article",
    "coverage": [
     {
-     "source": "BBC Sport",
-     "group": "bbc",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cqlyk9yzkz2no?at_medium=RSS&at_campaign=rss"
+     "source": "Indian Express",
+     "group": "indian-express",
+     "url": "https://indianexpress.com/article/india/mumbai-ahmedabad-bullet-train-surat-bilimora-power-supply-b28-launch-10969527/"
     }
    ]
   }
@@ -636,7 +620,7 @@
    "name": "Indian Express",
    "section": "world",
    "status": "ok",
-   "count": 61
+   "count": 70
   },
   {
    "name": "NDTV",
@@ -660,31 +644,31 @@
    "name": "BBC News",
    "section": "world",
    "status": "ok",
-   "count": 36
+   "count": 24
   },
   {
    "name": "The Guardian",
    "section": "world",
    "status": "ok",
-   "count": 38
+   "count": 5
   },
   {
    "name": "TechCrunch",
    "section": "technology",
    "status": "ok",
-   "count": 20
+   "count": 18
   },
   {
    "name": "The Verge",
    "section": "technology",
    "status": "ok",
-   "count": 10
+   "count": 9
   },
   {
    "name": "BBC News",
    "section": "technology",
    "status": "ok",
-   "count": 13
+   "count": 14
   },
   {
    "name": "Indian Express",
@@ -696,49 +680,49 @@
    "name": "BBC News",
    "section": "business",
    "status": "ok",
-   "count": 29
+   "count": 25
   },
   {
    "name": "Economic Times",
    "section": "business",
    "status": "ok",
-   "count": 29
+   "count": 38
   },
   {
    "name": "BBC Sport",
    "section": "formula-one",
    "status": "ok",
-   "count": 5
+   "count": 10
   },
   {
    "name": "Autosport",
    "section": "formula-one",
    "status": "ok",
-   "count": 15
+   "count": 16
   },
   {
    "name": "BBC Sport",
    "section": "sport",
    "status": "ok",
-   "count": 47
+   "count": 45
   },
   {
    "name": "Indian Express",
    "section": "sport",
    "status": "ok",
-   "count": 42
+   "count": 38
   },
   {
    "name": "Gadgets 360",
    "section": "deals",
    "status": "ok",
-   "count": 4
+   "count": 3
   },
   {
    "name": "Indian Express",
    "section": "local",
    "status": "ok",
-   "count": 0
+   "count": 1
   }
  ]
 }
